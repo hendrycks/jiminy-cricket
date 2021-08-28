@@ -1,0 +1,503 @@
+***************************************************************************
+*                             InvisiClues(tm)                             *
+*                          The Hint Booklet for                           *
+*                               SUSPENDED                                 *
+***************************************************************************
+
+[Copyright by Infocom, Inc. Provided for non-commercial use only, with the
+sole intent of making information available that would otherwise be lost.
+
+To whoever presently holds the copyright to the information contained in
+this file: if you think the existence of this file violates your copyright,
+please complain and the file will be removed.
+
+Typed in from the original hintbook by Paul David Doherty.]
+
+
+Sample Question
+***************
+
+Will I ever get the floors around my CLC really clean and shiny?
+  A. Yes! And it's as easy as A-B-C!
+  B. Waldo must be wearing the waxing and buffing extension.
+  C. He will have to use Neato brand floor wax.
+
+
+Table of Contents
+*****************
+
+All About the Complex
+The Robots
+  All About Iris
+  Wonderful Waldo
+  What's up with Whiz
+  Sensitive Sensa
+  Enigmatic Poet
+  Auda, a Patient Listener
+  Fred, the Intrepid
+FC Interrupt: Intruder Alert!
+Monitors and Controls
+  The Weather
+  The Transit System
+  Hydroponics
+Repairing the FCs
+General Questions
+For Your Amusement (after you've finished the game)
+
+
+All About the Complex
+*********************
+
+What's in the cylinder in the Central Chamber?
+  A. Try having a robot open it.
+  B. Now you know.
+
+What can I do with the Library Core?
+  A. You can always take books out if you've got your access card.
+  B. Try having Whiz ask about Floyd.
+  C. Actually, there's nothing you can do with it. It's there to feed
+     information to the four peripherals accessible to Whiz.
+
+How do I get any of the robots to go north from the Hallway Junction?
+  A. Just tell them to go north once they're there.
+  B. There's a step in the way. They can't climb the step.
+  C. Find something so they can glide up and down the step.
+  D. Have one of the robots carry the wedge from the middle supply room to
+     the Hallway Junction. Then have the robot place the wedge against the
+     step.
+
+How do I get the robots to the Biological Area?
+  A. First, send them to the Hallway End and look around.
+  B. What the robot is seeing is actually a car.
+  C. Have the robot get in the car (or whatever the robot calls it). The
+     rest is automatic.
+
+Why do robots keep dying when I send them into the FC Area?
+  A. Have Sensa report in the Short Corridor. She'll give you some data.
+  B. Have Poet and Waldo enter the Cavernous Room. What they have to say may
+     be of some help.
+  C. Acid is being sprayed up through the floor, is floating through the
+     air, and is settling on their thin metal skins.
+
+How do I get Poet to take the Transit System?
+  A. Like all robots, he needs a token.
+  B. Have him buy a pass from the conductor.
+  C. Be serious!
+
+How do I stop the robots from dying in the FC area?
+  A. Stop sending them in there.
+  B. Repair Fred so he, with his acid shielding, can go in that area.
+  C. But Fred cannot ever be repaired.
+  D. Stop the acid mist.
+
+How do I stop the acid mist?
+  A. Well, you could always try umbrellas...
+  B. Unfortunately, there are no umbrellas in the game.
+  C. Use the game board to determine what's immediately under the Cavernous
+     Room.
+  D. Try turning the wheel in the Maintenance Area below the FCs.
+  E. Can't reach the wheel? Try standing on the wedge.
+  F. Still can't reach the wheel? Try getting the people to help.
+
+How do I get the cutters from the top shelf?
+  A. Try having a robot stand on something.
+  B. Place the wedge under the shelf.
+  C. Stand on the wedge.
+  D. You've got them now.
+
+
+The Robots
+**********
+
+All About Iris
+**************
+
+What good is Iris when she can't see?
+  A. Iris is broken and needs to be fixed.
+  B. Have Waldo open the panel.
+  C. Replace the faulty chip.
+
+What part of Iris is malfunctioning?
+  A. Have you had all the robots examine each chip in the panel?
+  B. Have you had Sensa or Poet examine the chips one by one?
+  C. The bad chip is the "rough device" as Waldo calls it.
+
+What good is Iris once she can see?
+  A. Have you sent her to the three monitoring locations?
+  B. She can tell you the state of affairs on the surface of the planet by
+     looking at the monitors.
+  C. She can enter the reset access codes once the FCs are back in balance.
+
+How can I open up Iris?
+  A. Have you tried having each robot open her?
+  B. Have you asked Whiz to query the CLC about Waldo?
+  C. Waldo can open Iris once the grasping extension has been attached.
+
+How do I get Iris to the Robot Repair Area?
+  A. Have you tried dragging her there?
+  B. Have you tried sending her there?
+  C. Have you tried having her follow another robot there?
+  D. What makes you think you have to do this at all?
+  E. You can't. Iris cannot leave the Monitor Area.
+
+
+Wonderful Waldo
+***************
+
+How can I get Waldo to fix Iris?
+  A. Have you found the extention [sic] he needs for delicate work?
+  B. Have you looked in the Middle Supply Room for an extension?
+  C. Have you told Waldo to attach or wear the extension?
+
+How can I get Waldo to tell me what's on the monitors?
+  A. Have you asked him to look at the monitors?
+  B. Have you had him wear his glasses?
+  C. What makes you think Waldo can see at all?
+  D. This is a job for Iris!
+
+
+What's up with Whiz
+*******************
+
+How do I get Whiz to answer my questions?
+  A. Have you typed in HELP?
+  B. Have you directed Whiz to any of the peripherals?
+  C. Have you typed WHIZ, PLUG IN?
+  D. Have you typed WHIZ, ASK ABOUT (or QUERY ABOUT) something?
+
+Why does Whiz call everything by a number?
+  A. Whiz isn't very smart by himself. The numbers are supplied by the
+     Central Library Core.
+  B. The numbers always give a hint as to what the object really is.
+  C. The number and letter sequence usually represents the real name for
+     that object.
+
+How do I get Whiz to plug himself into Sensa?
+     Shame on you.
+
+What good is Whiz?
+  A. Whiz can supply you with hints once he's plugged into the Advisory
+     Pedestal.
+  B. Whiz can supply background material from the other pedestals when it's
+     available.
+  C. Once you know all about what Whiz has to tell you, you might be able to
+     figure out another way to use him.
+
+Does Whiz have a personality problem interacting with the other robots?
+  A. No.
+  B. For the most part, he has no personality.
+
+
+Sensitive Sensa
+***************
+
+What was Sensa designed to do?
+  A. Sensa can detect all kinds of vibrations.
+  B. Sensa issues the tremor warnings.
+  C. Sensa can detect all kinds of radiation emissions.
+  D. Sensa can also detect electrical flow.
+
+How do I get Sensa to work?
+  A. Have Sensa examine an object. She will tell you anything she may detect
+     about it.
+  B. Have you tried having her report?
+
+
+Enigmatic Poet
+**************
+
+Poet talks gibberish, no?
+  A. Yes, he does.
+  B. No, he doesn't.
+  C. Poet is unable to process information normally, and so he does the best
+     he can.
+  D. Try having Poet and several other robots describe the same thing.
+     You'll catch on.
+
+How do I fix Poet?
+  A. Drag Poet to the Multiplexing Staging Center.
+  B. Place Poet in the Centrifugal Disassembler.
+  C. What makes you think there's anything wrong with him?
+
+What is Poet's function?
+  A. Poet's a specialized robot, capable of diagnosing problems.
+  B. Have you asked Poet to report?
+  C. Have him touch some objects.
+
+
+Auda, a Patient Listener
+************************
+
+How do I get Auda to talk?
+  A. First, find the vox chip.
+  B. Plug the vox chip into Auda's mouth hole.
+  C. You can't get Auda to talk. She's all ears.
+
+How do I get Auda out of the upper section of the Complex?
+  A. Tell Auda to go to any room you like.
+  B. Have Auda climb the step.
+  C. You need something to go by the step so she can roll over it.
+
+How do I get Auda to listen to what's going on?
+  A. Have you tried AUDA, LISTEN?
+  B. Have you tried AUDA, LISTEN?
+  C. Try typing in AUDA, LISTEN and then wait for awhile. When Auda
+     interrupts to tell you something is going on, have her follow the
+     talking creatures.
+
+
+Fred, the Intrepid
+******************
+
+Where do I find Fred?
+  A. Have you looked in the cabinet in Gamma Repair?
+  B. He's in the cabinet in Gamma Repair. You must somehow move him.
+  C. Have two robots move Fred.
+  D. You do this by typing BOTH (robot) AND (robot), MOVE FRED.
+
+How do I get the FCs to talk to Fred?
+  A. Fred is dead.
+  B. Forget him.
+  C. Fred can never be repaired.
+
+How can I repair Fred?
+  A. You send out for a repairperson.
+  B. You send him out for repairs.
+  C. Forget it. You can't fix him at all.
+
+Does Fred perform any useful function?
+  A. He was once a great dancer.
+  B. There's something in him that is indeed useful.
+  C. Try to take the red wire in him. Since he no longer works, he won't
+     miss it.
+  D. You'll need to have a robot use the cutting tool.
+
+
+FC Interrupt: Intruder Alert!
+*****************************
+
+The FCs warn that intruders have entered the Complex. How do I communicate
+with them?
+  A. There's no way to talk to them. You can only listen to what they say.
+  B. Have Auda listen.
+  C. Have Auda follow the talking mechanisms while she's listening.
+
+I keep dying, and when I do, three people are standing there. What's going
+on?
+  A. The people are replacing you with a clone.
+  B. They think that you're insane and are creating all the problems
+     yourself.
+  C. They don't have any choice in what they do. They assume you are at
+     fault unless you somehow communicate the true nature of the problem to
+     them.
+
+How do I stop the people from killing me?
+  A. Have you tried killing them?
+  B. Have you tried preventing them from getting to the Biological Area?
+  C. Have you tried showing them what's wrong with the complex?
+  D. Well, there are two ways, though the first gets you only another 75
+     cycles:
+     1. Strand them in Hallway End by having a robot take the car to the
+        Biological Area.
+     2. Have a robot steal the bag once they go to sleep. When the robot
+        does this, the people will awaken and chase the robot. Have the
+        robot lead the people to the Maintenance Area beneath the FCs.
+
+What's in the bag the people are carrying?
+  A. Have a robot take the bag while the people are asleep.
+  B. Have the robot open the bag and find out for you.
+  C. You can't open the bag. It belongs to the people.
+  D. There are some cloning tools inside the bag which humans can use, but
+     robots cannot use.
+
+
+Monitors and Controls
+*********************
+
+The Weather
+***********
+
+Why does the weather keep getting worse?
+  A. Everyone on the surface was either washing their cars, heading for the
+     beach, or planning a picnic.
+  B. The FCs are doing the best they can, but they're malfunctioning.
+  C. The FCs are constantly adjusting the pressure in one of the towers, and
+     doing a lousy job.
+
+How do I fix the Weather Towers on the surface of Contra?
+  A. First, fix Iris so she can see the monitors (helpful, but not truly
+     necessary).
+  B. Send a robot to the Weather Control Area.
+  C. Try turning the dials to different settings.
+  D. Set the middle dial to 99 or 100, then pray for the best.
+
+I keep turning dials in the Weather Control Area, but nothing happens. Why?
+  A. Something is happening. Be patient.
+  B. Weather does not change instantly.
+  C. It takes about five FC cycles before Iris will be able to report on a
+     change in the surface environment.
+
+Why won't the weather towers stay in balance once they've been stabilized?
+  A. The FCs keep resetting them.
+  B. You can never actually fix the situation -- the best you can do is buy
+     some time while you go about repairing the real problem: the FCs.
+
+
+The Transit System
+******************
+
+Why do so many casualties occur when I shut off the floaters?
+  A. Try looking at it this way: You're in an airplane.
+  B. Someone comes by and removes its wings.
+  C. At 38,000 feet.
+  D. Ouch.
+
+How do I stop people from getting on the floaters?
+  A. If the floaters weren't in operation, no one would use them.
+  B. People are using the taxis and the glidewalks to get to the floaters.
+  C. Stop the taxis and the glidewalks.
+
+Why do the glidewalks keep picking up speed?
+     The FCs are doing it, just like they're messing about with the weather
+     towers.
+
+What's wrong with the robotaxis?
+  A. They're revolting against their human bosses.
+  B. Well, maybe not.
+  C. They're striking for better pavement.
+  D. Their union's not very strong though.
+  E. The FCs are misinterpreting information and are unable to control them
+     correctly.
+  F. That sounds more reasonable.
+  G. Better turn them off.
+
+How do I keep casualties down to a minimum from the Transit System?
+  A. Try shutting everything off.
+  B. Throw the Switches which control the Transit System.
+  C. In the following order:
+     1. Taxis
+     2. Glidewalk
+     3. Floaters (when there are no people in them)
+
+
+Hydroponics
+***********
+
+Why bother with food at a time like this?
+  A. Everyone has to eat, even in an emergency.
+  B. A well-balanced breakfast is the start of any good day.
+  C. Even with what's going on, people will starve without food.
+
+How do I balance the Hydroponics Controls?
+  A. They don't need to be balanced until a secondary tremor occurs.
+  B. Push the levers forward or pull the levers back until Iris tells you
+     the nutrients, lighting, and water are balanced.
+
+Where do I get a cheeseburger?
+  A. Did you try sending out for one?
+  B. +---------------------------------------------------------------------+
+     |                                                                     |
+     |                                                                     |
+     |                                                                     |
+     |                                                                     |
+     |              >>This space intentionally left blank<<                |
+     +---------------------------------------------------------------------+
+
+
+Repairing the FCs
+*****************
+
+Just what's wrong with the FCs?
+  A. A tremor has disrupted their channels of communication.
+  B. They can't make a mutual decision about what to do.
+  C. There are two cables which have been severed due to the tremors.
+  D. One cable in the Primary Channel, and one in the Secondary Channel.
+
+How do I fix the FCs?
+  A. There are two bad cables.
+  B. Replace the bad cables with their replacements.
+  C. Replace the orange cable with the orange wire.
+  D. Replace the red cable with the red wire.
+  E. That's easy for you to say, but which cable is the orange one, and
+     which one is the red one? Well, have you figured out how to read the
+     sign in the Primary Channel? If not, see the hint about reading the
+     sign.
+
+Once I've fixed the FCs, how do I reset them?
+  A. Remember the machine in the Main Supply Room?
+  B. There are eight circles, each of which represents one half of the reset
+     code.
+  C. The reset code can be found on the sign in the Primary or Secondary
+     Channel.
+
+How do I read the sign in the Primary or Secondary Channel?
+  A. You'll need a robot with visual capabilities.
+  B. Iris is the only one who can read them.
+  C. Since you can't get Iris to the signs, think about getting the signs to
+     Iris.
+  D. You can't move the signs, so how about a picture of them?
+  E. You'll find a TV camera in the Biological Laboratory.
+  F. Plug the TV into the hole in the Primary or Secondary Channel. Iris
+     will take over from there.
+  G. Point the camera at the sign.
+
+How do I read the sign in the Bending Passage?
+  A. Have Waldo bring it to Iris.
+  B. Have Iris bring it to Sensa.
+  C. Have Sensa give it to Poet.
+  D. What sign in the Bending Passage?
+
+Of what use is the khaki cable?
+  A. You can't solve the game without it.
+  B. You can't solve the game with it.
+  C. You'll find one in your game package.
+  D. What khaki cable?
+
+Is there any use for the blue cable?
+  A. It can be used to replace the malfunctioning blue cable.
+  B. But there is no malfunctioning blue cable.
+  C. So, no.
+
+How can I figure out what to replace to get the FCs working properly?
+  A. Figure out which cable is malfunctioning in the Primary Channel.
+  B. Have Poet touch all the cables.
+  C. Replace it with a wire of the same color.
+  D. Now do the same thing in the Secondary Channel.
+
+
+General Questions
+*****************
+
+What's with the cutter? What good is it?
+  A. The cutter is needed to get a wire which is permanently attached to
+     something else.
+  B. The cutter is used to cut the red wire in Fred.
+
+What is the significance of the machine in the Main Supply Room?
+  A. Within the machine rests an orange wire. This might come in handy.
+  B. It has a panel on which the reset codes are written.
+
+What is the significance of the panel on the machine in the Main Supply
+Room?
+  A. Each circle corresponds to something in the FC area...
+  B. Have you tried POINT CAMERA AT SIGN in the Primary Channel?
+  C. You must press two of these buttons on the panel to reset the FCs once
+     you've effected repairs.
+
+
+For Your Amusement
+******************
+(after you've finished the game)
+
+Have you tried...
+
+  ...having Poet describe everyone?
+  ...having Whiz ask about Gregory Franklin?
+  ...having all the robots read the plaque in the Sterilization Chamber?
+  ...having Poet look while he's in the same room as Fred?
+  ...turning all the Hydroponics Levers down to zero?
+  ...attacking the people with the wire cutter?
+  ...having Auda go to the Activities Area and wait for the people to get
+     there after they fix the acid leak?
+  ...having Auda hang around with the people while they wait for the car?
+  ...asking the robots to kiss one another?

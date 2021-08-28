@@ -1,0 +1,815 @@
+***************************************************************************
+*                             InvisiClues(tm)                             *
+*                          The Hint Booklet for                           *
+*                              ENCHANTER(tm)                              *
+***************************************************************************
+
+[Copyright by Infocom, Inc. Provided for non-commercial use only, with the
+sole intent of making information available that would otherwise be lost.
+
+To whoever presently holds the copyright to the information contained in
+this file: if you think the existence of this file violates your copyright,
+please complain and the file will be removed.
+
+Typed in from the original hintbook by Paul David Doherty.]
+
+
+Sample Question
+***************
+
+Why did the dragon wear red sneakers?
+  A. Search the laundry room.
+  B. NITFOL the dragon and ask him.
+  C. Because his blue ones were in the wash.
+
+
+Table of Contents
+*****************
+
+Starting Out
+Eating, Drinking, and Sleeping
+Inside The Castle
+The Hall of Mirrors
+The Library
+The Egg
+The Temple
+The Jewelled Box
+The Sea
+The Engine Room
+The Forest
+Magical Spells and Objects
+The Adventurer
+Maps
+The Translucent Rooms
+The Winding Stair
+Krill
+Odds and Ends
+When You're Done
+Have You Tried?
+Scoring Points
+The Spells and Their Locations
+
+
+Starting Out
+************
+
+Why was I chosen for this task?
+  A. Otherwise it wouldn't be much of a game.
+  B. Apparently, Belboz feels that Krill could easily spot and destroy a
+     powerful Enchanter.
+
+How many times must I go west before I arrive at my destination?
+  A. It isn't called the Long Road for nothing.
+  B. Have you read the signs along the road?
+  C. There's nothing out there. The entire game lies to the east.
+
+Is there anything important in the shack?
+  A. There is a jug lying in the corner.
+  B. Have you tried examining the oven?
+  C. There is a fresh loaf of bread inside the oven.
+
+What can I do about the crone?
+  A. She is rather helpful in presenting you with a spell scroll.
+  B. You can summon her from anywhere in the game if you have the proper
+     spell.
+  C. There's nothing else she can do for you.
+
+What is the significance of the Lonely Mountain?
+  A. It is arguably the most beautiful spot in the region.
+  B. It clearly shows the castle to the east.
+
+How do I signal the monsters approaching by sea?
+  A. Have you tried waving at them?
+  B. You might fire a signal flare.
+  C. What monsters? What signal flare? What a concept?
+
+
+Eating, Drinking and Sleeping
+*****************************
+
+What do I do when I get thirsty?
+  A. Have you tried drinking anything?
+  B. The water from the swamp or ocean isn't good for drinking.
+  C. The water at the Shady Brook tastes great.
+  D. The jug can be used to carry a good deal of water.
+
+What do I do when I get hungry?
+  A. Eat.
+  B. There is bread somewhere in the shack.
+  C. It's in the oven.
+
+What do I do when I get tired?
+  A. Guess!
+  B. You could simply SLEEP. Be careful, though. Evil things may be lurking
+     outside the castle.
+  C. It would be safest to find a bed to sleep on.
+  D. There is a bed in the castle.
+  E. In the bedroom, of course.
+
+Where did some of my possessions go while I slept?
+  A. Perhaps the tooth fairy removed them.
+  B. Remember that there is great evil in the castle. Something or someone
+     may have come in the night and removed them.
+  C. You can use the BLORB spell to protect something valuable (the spell
+     book is the most important thing to protect). You should use it before
+     going off to sleep.
+
+Where are the magic pajamas?
+  A. Have you tried looking under the bed?
+  B. Have you met the Prince of Kaldorn?
+  C. You don't need pajamas and there is no Prince of Kaldorn.
+
+What is the significance of the dream with the damsel?
+  A. The woman is playing with the bedpost. Have you examined it?
+  B. Examining the post reveals a button. Have you pushed it?
+  C. In case you wondered, you can't find the button unless you have
+     experienced the dream.
+
+What is the significance of the dream with the cartoon figure?
+     The figure is the adventurer. His opening of a door is significant. See
+     the section on the adventurer.
+
+What is the significance of the dream in which something seems to be lost?
+  A. It indicates that you no longer have something that you need.
+  B. The thing is a spell scroll that you have used in the wrong location.
+  C. The spell is the KULCAD spell. You can use it successfully in a number
+     of places, but only once correctly.
+  D. The climbing aspect of the dream is also significant. Have you been
+     anyplace that implies climbing endlessly?
+  E. It is the Winding Stair.
+
+What is the significance of the dream with the dancing penguins?
+  A. Have you seen any other penguins in the game?
+  B. Did the guidebook to Antarctica help in any way?
+  C. Have you asked the walrus?
+  D. Are you still developing answers?
+  E. Why?
+
+What is the significance of the dream with the glowing face?
+  A. Is there any place in the castle which is filled with faces of many
+     types?
+  B. The place is the portrait gallery. The room in the dream was darkened
+     and one face was glowing.
+  C. If you go into the gallery without a light, you can see that one of the
+     portraits is lit from behind.
+  D. Looking behind the lighted portrait reveals a secret niche, which
+     contains a spell scroll.
+
+What is a leading cause of insomnia?
+     INTERLOGIC games.
+
+What is a leading cure for insomnia?
+     InvisiClues.
+
+What is as leading cause of Interlogic games?
+     Insomnia.
+
+
+Inside The Castle
+*****************
+
+How do I get into the castle?
+  A. Have you tried opening the gates?
+  B. Do you have a spell that might be helpful?
+  C. Try casting the REZROV spell on the gates.
+  D. The crone in the hovel will give you the REZROV scroll.
+  E. The hovel is in the village. Try entering it.
+
+What do I use for light in the castle?
+  A. There is a lantern in the shack.
+  B. All right. So it doesn't work. How about a spell?
+  C. Casting the FROTZ spell on any object you are carrying will cause it to
+     give off light for the rest of the game. Poetic justice might suggest
+     the battered lantern from the shack, but it's pretty heavy to carry
+     around.
+
+What's going on in the Dungeon?
+  A. There is a prison cell next to the dungeon. There is also a path
+     leading down into a series of Translucent Rooms.
+  B. Have you examined or read the walls or graffiti?
+  C. After examining the graffiti, try moving the irregular block.
+
+What can I do with the silver spoon?
+  A. Have you tried digging a hole with it?
+  B. Have you tried feeding someone with it?
+  C. Have you tried gagging someone with it?
+  D. If you answered "no" to the previous questions, so much the better.
+     Besides being "valuable," there is nothing to do with it.
+
+
+The Hall of Mirrors
+*******************
+
+Are the mirrors useful for anything?
+  A. They make a mess if you break them.
+  B. They are windows, from your viewpoint.
+  C. Have you noticed anyone wandering through the underground world as
+     depicted in the mirror?
+  D. Occasionally, a bedraggled and weary adventurer will wander through the
+     area in the mirror.
+  E. You might be able to summon him with the right spell.
+  F. The ZIFMIA spell is the one.
+
+Who is the adventurer?
+  A. Some ZORK player, most likely.
+  B. It doesn't much matter. You can bet on the fact that he is interested
+     in finding treasures, though.
+
+
+The Library
+***********
+
+Read any good books lately?
+  A. The book of legends contains interesting knowledge. You should read the
+     two legible legends.
+  B. The Legend of the Unseen Terror is rather frightening.
+  C. It is also significant.
+
+What can be done with the rat tracks?
+  A. Have you tried following them?
+  B. They lead into a hole in the wall. Any idea of what's in the hole?
+  C. Try reaching in. (Don't be scared!)
+
+
+The Egg
+*******
+
+What is the egg good for?
+  A. Breakfast?
+  B. It certainly appears valuable, but the more interesting thing is that
+     it has handles, cranks, and the like connected to some machinery
+     inside.
+  C. Have you tried turning, pushing, or otherwise manipulating the handles,
+     cranks, knobs, and buttons?
+
+Can the egg be opened?
+  A. Sure. Try all of the devices on the outside. After playing with them,
+     the egg will open.
+  B. There is an easier way to open the egg, which doesn't require any
+     manipulation at all.
+  C. Try the REZROV spell on it.
+
+What can I make with the egg?
+  A. An omelette, but you will need more than one.
+  B. Try finding a chicken.
+  C. What do you think this is, "The Joy of Cooking"?
+
+Can I fix what's inside the egg?
+  A. The mechanism is working just fine, but the shredded scroll needs some
+     help.
+  B. Some magic spell might be of use.
+  C. Use the KREBF spell.
+  D. The scroll is located in the forest area.
+
+
+The Temple
+**********
+
+How can I avoid being taken prisoner in the Temple and adjoining areas?
+  A. Going into the Temple or Junction will cause you to be taken prisoner
+     unless you are "protected from evil."
+  B. If you enter the Temple or Junction directly, there is no way to avoid
+     being captured.
+  C. In the Banquet Hall or Library, you will get a warning when the guards
+     approach.
+
+Can I stop the guards from taking me away?
+  A. The guards are not very friendly.
+  B. You can make them friendly with the appropriate magic.
+  C. You can also kill or "newtralize" them with the proper magic.
+
+Do the guards become bolder as the game goes on?
+     They certainly do. The more suspicious Krill becomes about your
+     presence, the bolder they become.
+
+Once I'm taken prisoner, is there any escape?
+  A. Have you tried befriending the guards?
+  B. No, there is no way to avoid the sacrifice.
+
+Can I survive the sacrifice?
+  A. That would require a bit of magic.
+  B. There is a magic spell that can protect you from the sacrifice.
+  C. It is the OZMOO spell. A clue to finding it can be found in a dream.
+
+Can I get the dagger from the being that sacrifices me?
+  A. If you can survive the sacrifice, you can have the dagger.
+  B. Really.
+
+Is Krill the being that sacrifices me?
+     What do you think?
+
+When the statue approaches, should I pray or run?
+  A. Have you tried both possibilities?
+  B. Did you think to use the spray paint?
+  C. When the statue approaches, magic has occurred beyond the wisdom of the
+     implementers.
+
+Will the BOZBAR spell be of use to me?
+  A. Only if you can find it. And a horse.
+  B. Look behind the cupboard in the basement of the mansion, just to the
+     right of the 85-foot yacht and immediately in front of the microwave
+     tower.
+  C. You can use it to eradicate lice infestation in ospreys.
+  D. Note: This spell does not work reliably on Thursdays.
+
+
+The Jewelled Box
+****************
+
+What is a Gordian Knot?
+     Read a mythology text. The rope tied around the jewelled box is a good
+     example of one.
+
+How can I unravel the rope?
+     You can't do it by hand. It would take forever.
+
+Can I cut the rope?
+  A. Perhaps, but then only with a magical blade.
+  B. Have you seen any blade that might be magical?
+  C. Have you ever been killed by one? If not, don't read the next hints
+     until you have.
+  D. The one used to sacrifice you in the Temple might be useful, if only
+     you could get it without getting it. Get it?
+  E. See the questions relating to the sacrifice.
+
+Can the adventurer cut the rope?
+  A. His sword is useless against the magic in the rope. Perhaps there is a
+     blade with more magic.
+  B. If you could dispel the magic in the rope, he could probably cut the
+     rope with his sword.
+
+How can I use magic to open the box?
+  A. You can't use REZROV because the magic of the rope is stronger.
+  B. You might use KULCAD (if you have it) to dispel its magic. Then you
+     could open it easily.
+  C. Or maybe that's not such a good idea...
+
+
+The Sea
+*******
+
+How can I swim away from the castle?
+  A. The backstroke would be easiest.
+  B. You can't swim in the ocean.
+
+Is the turtle significant?
+  A. He is significant among turtles, certainly.
+  B. Have you tried talking to him?
+  C. You can use the NITFOL spell to speak to the turtle.
+  D. Once you have cast NITFOL on him, you can ask him to do things for you.
+     Consult your manual for details.
+  E. Among the more interesting things he will do for you is follow you
+     around. Try: TURTLE, FOLLOW ME.
+
+How do I make turtle soup?
+  A. Find a good cookbook.
+  B. "The Joy of Cooking" is recommended.
+  C. You don't make soup in this game. You were probably thinking of
+     Starcross(tm).
+
+
+The Engine Room
+***************
+
+Is there any way to shut off the machinery from the Engine Room?
+     The Control Room happens to be across the way. Unless you can get there
+     you don't have a chance.
+
+Is there any way to shut off the machinery from the Control Room?
+     No.
+
+Can I reliably get to the Control Room without becoming a pancake?
+  A. Yes, but you're not normally fast enough.
+  B. Do you have any magic that might make you move faster?
+  C. The EXEX spell can make you fast enough.
+  D. The EXEX scroll is in the Dungeon area.
+
+Can I get back from the Control Room safely?
+  A. Apparently not. Even if you have made yourself move quickly, you get
+     hit by spears and the like.
+  B. Perhaps someone or something else in the game could survive those
+     spears.
+  C. Turtles have pretty tough shells.
+  D. If you could get the turtle into the Control Room, he would probably
+     survive the return trip. If you haven't seen the turtle, don't continue
+     to the next clues.
+  E. If you haven't spoken with the turtle, don't continue to the next
+     clues.
+  F. You can lead the turtle to the Engine Room, and then get him to go into
+     the Control Room for you.
+  G. First, you must EXEX the turtle. Then, ask him to go the southeast
+     [sic] and bring you the scroll. You might, for example, type "TURTLE,
+     GO SE. TAKE SCROLL. GO NW."
+
+How can I talk to the turtle when it's too noisy?
+  A. You can't talk to him, but you could try getting his attention.
+  B. You can either yell or wave at him.
+
+
+The Forest
+**********
+
+Where is the forest?
+  A. It is north of the castle.
+  B. It is beyond the rusty gate.
+
+How do I get into the forest?
+  A. Open the rusty gate.
+  B. Since the gate is so rusty, you must use special means to open it.
+  C. You have to REZROV the rusty gate to open it.
+
+How do I avoid the herd of dragons in the forest?
+  A. You might try to VAXUM them.
+  B. You might try using the MELBOR spell on yourself.
+  C. You might GUNCHO them.
+  D. What forest dragons?
+
+Is there anything important in the forest?
+  A. Have you noticed the scroll sitting there in plain sight?
+  B. The forest borders on the swamp, which is an interesting place.
+  C. That's all, folks (except for the dragons).
+
+What is the significance of the frogs?
+  A. The frogs know everything about the swamp.
+  B. You should listen to them.
+  C. You have to NITFOL the frogs before you can understand them.
+  D. The frogs will tell you where to find a scroll.
+  E. There is a scroll under a lily pad.
+
+How can I turn one of the frogs into the Prince of Kaldorn?
+  A. Kiss them.
+  B. KREBF them.
+  C. KULCAD them.
+  D. OK, so they're real frogs...
+  E. Frogs can dream, can't they?
+
+
+Magical Spells and Objects
+**************************
+
+What is Thaumaturgy?
+     The study of magic.
+
+How, exactly, does one cast a spell?
+     There are two ways, long and short. Assuming there is a spell named
+     BOZBAR, you can type either "BOZBAR something" or "CAST BOZBAR AT/ON
+     something." You can cast a few spells without any particular object in
+     mind, in which case you can type either "BOZBAR" or "CAST BOZBAR."
+
+How long do spells last?
+     That depends on the spell. Some last forever. Others last only a short
+     period of time.
+
+Is there a limit to how many times I can cast a spell?
+  A. You can cast most spells whenever needed.
+  B. You can use some only once. This is most often true with spells of
+     great power.
+
+Do I always need to copy spells into my book?
+  A. No, you can cast a spell exactly once from the scroll you find it on.
+     If you do this, the scroll disappears.
+  B. It is always a good idea to copy them into your book, when possible.
+     You can then use them many times.
+
+Why can't I copy some spells into my spell book?
+  A. They are clearly different in some way from the others.
+  B. They are the most powerful spells. You can use them only once, after
+     which they disappear.
+
+What on earth is the FILFRE spell good for?
+     Effect.
+
+How many spells can I keep memorized?
+  A. Initially three, plus the GNUSTO spell, which is yours forever.
+  B. Each day it becomes possible to keep one additional spell memorized.
+
+Why do I have trouble with spells when I get tired?
+     When you get tired, you tend to forget spells that you have memorized.
+     In addition, it becomes harder to memorize new spells.
+
+What happens when I've exceeded the number of spells I can memorize?
+     You will probably forget one.
+
+Why does Belboz take powerful spells away from me?
+  A. He doesn't trust you with them.
+  B. This is to prevent you from solving problems by getting yourself
+     killed. You can't get those spells back once Belboz has taken them from
+     you.
+
+How can I use the KULCAD spell?
+  A. If you haven't seen the KULCAD scroll, don't read further.
+  B. Many objects in the game are magical or have had magical spells cast
+     upon them. The KULCAD spell will dissipate that magic.
+  C. Are there any objects in the game that seem to be unreal?
+  D. Are there objects that seem impossible or act illogically? Don't read
+     further unless you are completely stumped.
+  E. Among other illusions are the banquet setting, the guarded door, and
+     the infinite Winding Stair. Other magical objects include the map,
+     pencil, and rope. There are others too, and each can be changed with
+     the KULCAD spell, some with disastrous results. Have fun finding them!
+  F. Of course, you can use the spell only once, so you'll have to figure
+     out which of the objects you can't deal with in another way. Some may
+     be best to ignore.
+
+
+The Adventurer
+**************
+
+How can I meet the adventurer?
+  A. If you haven't even seen any adventurer, don't continue.
+  B. If you haven't gotten the ZIFMIA spell, don't continue.
+  C. When the adventurer appears in the "mirror," you can cast the ZIFMIA
+     spell to summon him to you.
+
+Why doesn't the adventurer seem to like me?
+  A. Maybe it's your breath?
+  B. Have you found the mouthwash?
+  C. More likely, he sees you as an unpredictable wizard, like the ones he's
+     read about. He's probably more frightened than unfriendly.
+  D. He will be much more inclined to do as you request if you make him your
+     friend.
+  E. There is a spell that makes people/things friendly. If you haven't seen
+     it, don't continue.
+  F. Casting the VAXUM spell on the adventurer will make him friendly.
+
+What can the adventurer do for me?
+  A. If you haven't summoned him, don't continue.
+  B. If you haven't made him your friend, don't continue.
+  C. When he is your friend, he will do simple things for you, like giving
+     you items he has or opening doors.
+  D. Have you ever dreamed about the cartoonish figure who opens a door and
+     wanders up a flight of stairs? Why do you suppose it was such a
+     frightening dream?
+  E. Have you ever noticed that he doesn't find anything interesting about
+     the Guarded Door room?
+  F. The monstrous door is a powerful illusion, and as with other forms of
+     magic, it is most effective on magic users.
+  G. You can KULCAD the door and dispel the illusion.
+  H. However, you then lose the ability to use KULCAD elsewhere.
+  I. If you either point at the door with the adventurer present, or ask him
+     to open it for you, the illusion will be broken.
+
+How can I get the adventurer where I need him?
+  A. If you aren't sure where you need him, don't continue.
+  B. What is the distinguishing property of adventurers?
+  C. Greed.
+  D. If you are holding a treasure and you have charmed the adventurer
+     (using VAXUM), he will follow you. Also, you might try leaving a
+     treasure at the place you need him. He will see it and enter.
+
+
+Maps
+****
+
+Are any of the maps useful?
+  A. The ones on the walls are useful for a student of history.
+  B. The one on the ground is very useful for a student of thaumaturgy.
+  C. You are a student of thaumaturgy.
+  D. It is useful to you. Q.E.D.
+
+How can I remove the globe?
+  A. Have you tried the SWANZO spell?
+  B. There's no SWANZO spell in this game. You can't remove the globe.
+
+What is the map on the ground good for?
+  A. Does the configuration of points and lines remind you of anyplace in
+     the game?
+  B. The map is a representation of the Translucent Rooms and their
+     connections.
+
+What can I do with the pencil?
+  A. Have you tried writing with it?
+  B. Have you tried writing with it on the map?
+  C. Have you tried connecting points on the map or erasing lines between
+     points?
+  D. Connecting and disconnecting the points on the map CHANGES the
+     Translucent Room maze to agree with the map.
+
+Can I sharpen the pencil?
+  A. Did you try?
+  B. No, this is a magic pencil. You can't sharpen it. For that matter, you
+     can't get any more eraser, either.
+
+
+The Translucent Rooms
+*********************
+
+What is the evil presence I feel in the Translucent Rooms?
+  A. If you haven't felt it, don't read any of the following questions and
+     their answers.
+  B. Read any good legends lately?
+  C. The Legend of the Unseen Terror is strange, but true. The Terror lives
+     in the unconnected room in the Translucent Room maze. If you can feel
+     its presence, you have given it a chance to escape!
+
+Once the evil presence is released, can I stop it?
+  A. If you can trap it within the Translucent Room area, you will be safe.
+  B. Try erasing lines on the map to disconnect passages. The presence moves
+     once per turn, much as you do.
+
+Why stir up the evil presence anyway?
+  A. Re-read the Legend of the Unseen Terror in the legend book.
+  B. The Terror was lured by a spell of great power. It might be helpful in
+     defeating Krill.
+
+How, exactly, do I get the powerful scroll?
+  A. Please don't read these answers unless you have read the preceding
+     ones. The problem will otherwise be ruined.
+  B. You can use the pencil to make new passages in the Translucent Rooms.
+     Similarly, you can use the eraser to disconnect passages. You can type
+     anything like MAKE A LINE BETWEEN POINT X AND POINT Z and DISCONNECT
+     THE LINE BETWEEN P AND J.
+  C. There are a number of solutions to the problem, which can be stated
+     this way: How can I connect passages in such a way as to re-trap the
+     Terror within the maze while allowing access to its lair?
+  D. The following sequence will work: Start at room M. CONNECT P AND F.
+     CONNECT M AND P. ERASE M AND V. ERASE P AND F. Then, you can simply go
+     into room P and collect the scroll which is lying there.
+
+
+The Winding Stair
+*****************
+
+How long does the Winding Stair continue?
+  A. How far have you gone?
+  B. The stair appears to continue infinitely in both directions.
+  C. Doesn't that seem a bit peculiar?
+  D. The stair cannot be real. It must be magical.
+  E. Thus, you can dispel the illusion with the KULCAD spell. Be careful!
+
+
+Krill
+*****
+
+Who is Krill?
+     Ask the game.
+
+What is he doing?
+  A. He is in the process of subjugating the land by means of a potent spell
+     that he is composing.
+  B. If you don't stop him, eternal night will fall over the land.
+  C. And that will be that.
+
+Why do things in the castle seem to deteriorate with time?
+  A. Perhaps entropy is increasing dramatically in the area.
+  B. You may have had a dream that tells you why.
+  C. Krill is doing it, by means of some terrible spell, which he is brewing
+     during the course of the game. The effects of the spell are the
+     dissolution of rooms in the castle and the lengthening of night.
+
+How can I find Krill?
+  A. Did you try summoning him?
+  B. His fortress is protected by a magic spell.
+  C. Unless you have the KULCAD spell, don't continue.
+  D. There is a dream involving climbing which is a hint.
+  E. The endless stair is an illusion. If you KULCAD it, you can enter his
+     hideaway. But watch out!
+
+How do I survive the bottomless pit?
+  A. Presumably, you have used KULCAD on the Winding Stair. If not, proceed
+     no further.
+  B. The bannister turns into a useful scroll. (What a coincidence!)
+  C. The scroll contains the IZYUK spell, which allows you to fly.
+  D. Don't waste time using GNUSTO first, especially since you don't have
+     your spell book. Cast it directly from the scroll.
+  E. Krill's hideaway is to the east. Be careful!
+
+How can I defeat Krill?
+  A. If you haven't found the KREBF spell, don't continue.
+  B. You can undo some of the damage he is causing by casting KREBF in the
+     various rooms that have been damaged by him.
+  C. This is only a temporary measure, however, and somewhat of a waste of
+     time.
+  D. If you haven't entered the Warlock's Tower, don't continue.
+  E. You must fend off the two monsters that he sets after you and then
+     deliver the coup de grace.
+  F. If you haven't gotten the GUNCHO scroll, read no further.
+  G. You must use the GUNCHO spell on him when you get the chance.
+  H. Remember that you had best memorize all the spells you'll need before
+     entering Krill's presence.
+
+How do I defeat the dragon?
+  A. Did you try throwing the water at him?
+  B. Did you try befriending him?
+  C. Do you have any spell that might be more appropriate?
+  D. Use the GONDAR spell. See the section on the Library.
+
+How do I defeat the shape?
+  A. It's pretty mean.
+  B. It could certainly be friendlier.
+  C. Use the VAXUM spell on it. Alternately, the CLEESH spell will also
+     work.
+
+How do I defeat the mongoose?
+  A. If you haven't found the FILFRE spell, don't continue.
+  B. Have you read the book "Mongoose on the Loose?"
+  C. How about using the YUMZO spell?
+  D. There is no mongoose in this game.
+  E. By the way, do you know the plural of mongoose?
+  F. Just checking.
+
+
+Odds and Ends
+*************
+
+What is happening when my mind is "probed"?
+  A. Krill is the one doing the probing.
+  B. Whenever you try to write or cast a spell of great power, both Krill
+     and Belboz, being powerful wizards, take notice.
+
+Is Enchanter really Zork IV?
+  A. Is the sky green?
+  B. Does a bear build laser weapons in the woods?
+
+Will there be a sequel to Enchanter?
+  A. Certainly.
+  B. ZORK V.
+
+
+When You're Done
+****************
+
+Do the spells' names have any meaning?
+  A. Some do, some don't.
+  B. GONDAR is an anagram of DRAGON. NITFOL is a backwards, and somewhat
+     modified, rendering of Hugh Lofting's name (he is the author of the Dr.
+     Doolittle stories).
+  C. EXEX is an obscure reference to a very slow mainframe computer. FILFRE
+     is a modification of the expression "Feel Free," which is commonly
+     uttered by game writers.
+  D. The others are either obliquely related to the original mainframe
+     version of ZORK, or totally arbitrary. Any relation between the names
+     of spells and persons, living or dead, is a pity for the persons
+     involved.
+
+Do spells work on unintended objects?
+     Oh yes. Try a bunch of spells on random objects.
+
+
+Have You Tried...?
+******************
+(When you think you've seen everything)
+
+  casting the KULCAD spell on everything remotely magical?
+  casting the GUNCHO spell on everything that moves?
+  talking to or befriending the guards in the cell? the dragon?
+  listening to the guards' conversation while in the cell?
+  sleeping outside the grounds of the castle?
+  using BLORB on yourself? the adventurer?
+  giving something to the adventurer after he says "Hello, Sailor"?
+  using ZIFMIA to summon the implementers? Krill? Belboz? Entharion? the
+    Terror?
+  using CLEESH on Krill? the adventurer? yourself? the guards?
+  reading all of the signs along the Long Road?
+  leading the adventurer or turtle onto the Winding Stair?
+  writing on spell scrolls with the pencil?
+
+
+Scoring Points
+**************
+(As a last resort)
+
+   20 points for opening the iron gate
+   20 points for making light
+   25 points for finding the GONDAR scroll (in the Library)
+   10 points for opening the egg
+    5 points for repairing the scroll destroyed by the egg
+   25 points for finding the OZMOO scroll (in the gallery)
+   35 points for surviving the sacrifice
+   25 points for opening the jewelled box
+   20 points for finding the VAXUM scroll (in the bedroom)
+   10 points for summoning the adventurer
+   35 points for getting behind the guarded door
+   50 points for getting the GUNCHO scroll and re-trapping the Terror
+   25 points for getting the KULCAD scroll using the turtle
+   10 points for eating food (the first time)
+   15 points for drinking water (the first time)
+   20 points for dispelling the stair illusion
+   50 points for defeating Krill
+
+  400 Total points
+
+
+The Spells and Their Locations
+******************************
+(Use only as a last resort)
+
+  Spells    Locations
+
+  GNUSTO    Spell Book
+  BLORB     Spell Book
+  NITFOL    Spell Book
+  FROTZ     Spell Book
+  REZROV    Hovel (given by the crone)
+  KREBF     Forest
+  CLEESH    Swamp (under a lily pad)
+  GONDAR    Library (in the rat hole)
+  OZMOO     Gallery (behind the lighted portrait)
+  VAXUM     Bedroom (in the bedpost)
+  EXEX      Dungeon cell (behind a loosened block)
+  MELBOR    Closet (in the jewelled box)
+  ZIFMIA    Jewel Room (in the egg)
+  FILFRE    Map Room
+  KULCAD    Control Room
+  IZYUK     Winding Stair/Bottomless Pit
+  GUNCHO    Translucent Room "P"

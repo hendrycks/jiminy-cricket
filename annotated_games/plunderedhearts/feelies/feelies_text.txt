@@ -1,0 +1,180 @@
+SECTION I: ABOUT PLUNDERED HEARTS 
+ 
+Preface to the Story 
+Plundered Hearts is set in the late 1600s, where you are living the genteel life of a beautiful young Englishwoman.
+You have received news (the note included in your game package) that your dear father is ailing, and so you are
+travelling to the West Indies to care for him. As the story opens, the ship you are aboard is attacked by pirates, and
+you are carried off by the dashing pirate captain! But this does not dissuade you from your determination to find
+your father. Along the way, you shall encounter danger, adventure ... and more than a touch of romance.
+Sample Transcript and Map 
+This transcript is not from Plundered Hearts, but it does show many of
+the usual things you can do in the story. It shows a few simple puzzles
+and their solutions, and it will give you a good idea of how Infocom’s
+interactive fiction works. The player’s commands appear in capital
+letters after each prompt (>). The map shows the layout of the rooms in
+the sample transcript as you might have drawn it.
+Ah, your first ball! For years you have dreamed of this night, begging
+dear Mama to let you put up your hair and lower the hems of your
+skirts. And now, here it is, your 17th birthday and your coming-out
+party. What beau might you meet? Who will steal away your heart? Will you be forced to spurn your father’s
+massive fortune, in order to marry against his wishes, to elope with your own true love, whoever he may turn out to
+be?
+Ballroom
+You are in the crowded ballroom of your parent’s London house. The dance floor, twirling and swirling with finely
+dressed maidens and stalwart men, lies to the north. Near a grandfather clock to the south, French windows lead to
+a cool balcony overlooking the formal gardens.
+The butler stands nearby.
+The grandfather clock chimes the quarter hour.
+>DANCE
+But you haven’t been asked!
+The butler clears his throat, "Miss Sophie?" He holds out a screw of paper. "A gentleman asked me to deliver
+this."
+>ASK BUTLER ABOUT PAPER
+"A gentleman handed it to me, Miss. Dressed all in black, he was, and quite handsome, too."
+>TAKE PAPER
+Taken.
+The butler bows and moves away.
+>READ PAPER
+On the paper is written, in an educated hand:
+"The first moment I saw you, I knew I had met my destiny. Your violet eyes, misty with youth and beauty, your fair
+skin, your golden tresses -- all these I knew I could not live without.
+I love you, fair Sophia, I must be with you. Meet me on the balcony as the clock strikes midnight.
+With undying love."
+>LOOK AT CLOCK
+The clock shows 24 minutes after 11:00.
+>LOOK
+Ballroom
+You are in the crowded ballroom The dance floor, twirling and swirling with finely dressed maidens and stalwart
+men, lies to the north. Near a grandfather clock to the south, French windows lead to a cool balcony overlooking
+your father’s formal gardens.
+>GO SOUTH
+As you turn to go, a young man slides up next to you, shyly. "Miss S-sophia, um, would you, um, care to dance? Wwith
+me, that is?"
+The clock chimes half hour.
+>LOOK AT YOUNG MAN
+Although he looks rather uncomfortable in his rich velvets, the young man has large brown eyes framed with a mop
+of curly yellow hair.
+"Um, Miss Sophia?" he asks again, painfully shy.
+>YES
+An amazed smile of relief opens his face as he leads you onto the floor. Together you dance a quadrille. You
+discover that, despite his shyness, he is a masterful dancer. He tells you his name is George.
+>LOOK AT CLOOK
+[I don’t know the word "clook."]
+>OOPS CLOCK
+The clock shows 12 minutes to midnight.
+George leads you to the side of the dance floor. "Would you c-care for a cup of lemonade?"
+>GEORGE, YES
+He smiles, amazed again, and rushes off.
+>LOOK AT ME
+You look marvelous in a pink-watered silk gown. The thick strand of pearls around your neck perfectly sets off your
+creamy skin.
+>S
+Balcony
+You stand on the balcony overlooking the formal gardens, south. The scent of roses wafts up towards the full moon
+high above. Music floats through the French windows from the ballroom to the north. There are no other people
+here.
+>WAIT
+Time passes...
+In the ballroom, the clock chimes midnight.
+Suddenly, the moonlight is blocked by a tall, broad-shouldered form. "Ah, Mistress Sophia. I expected you would
+answer my note."
+>KISS MAN
+You close your eyes and pucker up. Instead of the fiery touch of his lips pressing against yours, a rough sack is
+cast over your head. You open your eyes to total darkness.
+"Pretty you are, my dear," comes the man’s chuckle. "But prettier still is the dowry that will be mine when we are
+wed."
+>SCREAM
+Your scream is muffled by the sack, but you hope someone may hear you.
+The wind is driven out of you as you are dropped several feet -- presumably from the balcony to the gardens
+below. Moments later, you are slung over a shoulder, carried through bushes, and thrown onto some cushions.
+You hear a "giddyap!" and a crack of a whip. The carriage you have been put into moves forward.
+>LOOK
+Carriage, in the sack
+Dimly, through the rough weave of the sack, you can see you are in a cushioned, empty carriage. Moonlight
+streams in one partly closed window.
+>INVENTORY
+You are carrying a screw of paper and your reticule (hanging from your wrist). Inside the reticule are a small
+needle, a small pair of scissors, a loop of elastic, a ball of beeswax, and one length of pink silk thread. Your mother
+always says to carry a repair kit in case you tear your ballgown.
+You bounce around on the floor of the carriage.
+>TAKE THE SHEARS. CUT THE SACK
+Taken.
+The tiny shears slowly cut a long rip in the sack.
+>GET OUT OF SACK
+You slip out of the sack.
+Countryside flies past the partly open window.
+>L
+Carriage
+You are in a small cushioned carriage. There is a door to the east.
+>OPEN DOOR
+But the carriage is moving so fast! You would fall to your death!
+Just then, the carriage lurches to a halt. Someone climbs of the driver’s seat above you.
+>AGAIN
+You open the door. Through it you see a dark ruin of a house, one light burning at the door.
+Someone is walking towards the door to the carriage!
+>EAST
+You dash out of the carriage, into the darkness near the house.
+Wild Garden
+You stand panting in a clearing of a garden gone wild, behind a dark ruin of a house. One light shines from the
+doorway south of you. There is a lessening of the bushes to the north, away from the house and your pursuer.
+A carriage is stopped here, the horses stamping in the night.
+The man call out, "Stop! Come back!" and starts in your direction.
+>RUN NORTH
+In the Bushes
+You stand at a dead end in the undergrowth, surrounded on all sides by bushes.
+Through the leaves you see a villain, silhouetted in the light from the house. He is moving towards you, blocking
+escape.
+>I
+You are carrying a small pair of scissors, a screw of paper, and your reticule (hanging from your wrist). Inside the
+reticule are a small needle, a loop of elastic, a ball of beeswax, and one length of pink silk thread.
+The villain is moving closer, blocking escape.
+>PUT THE BALL OF BEESWAX IN THE LOOP OF ELASTIC
+Done.
+>SLING BALL AT VILLAIN
+You aim the makeshift sling at the silhouetted form, pull taut, and let fly the ball of beeswax. "Yowch! Damnation!"
+he cries, clapping a hand to his head and staggering off.
+The sounds of clattering hooves fills the garden.
+>S
+Wild Garden
+A carriage is stopped here, the horses stamping in the night.
+A saddled grey mare stands nearby, well lathered.
+You run straight into the arms of ... George! "M-miss Sophie! Are you all right?" he cries.
+>ASK GEORGE ABOUT ABDUCTOR
+George explains, "I heard you scream on the balcony and raced out to see you being carried off. I made chase,
+fearing that I would arrive too late."
+"But you are too late," comes a gruff voice from behind you. You whirl around to face your abductor. George
+stiffens and moves you aside. "I’ll handle this," he says, drawing his sword.
+The fight is over shortly, as George proves he is as masterful a swordsman as he is a dancer. He does not kill
+the villain, since that coward turns and flees, realizing who is the master. George turns to you.
+>KISS GEORGE
+George takes you into his arms and kisses you. You soon discern that he is as masterful a kisser as he a
+swordsman and a dancer...
+Presently, George lifts you on the back of his horse and together you ride back to your parent’s house, and the
+ball.
+
+--
+
+St. Sinistra, 5 January
+Dimsford House, London
+Honored Lady,
+It pleases Me that You have the Wit and Gumption not to feel
+obligated to wait on your Fathers Permission to reply to my Letters. Of
+course He could not refuse You the Opportunity of writing to Myself, his
+new Friend and Governor.
+While I customarily describe the Beauty of my little Kingdom, this
+Time I have less than good News to impart. Your Father has been taken ill
+of a wasting tropical Disease. My own Surgeon has reviewed his Condition
+and predicts that without loving Encouragement, He may not survive more
+than a few Months.
+Dimsford, too ill to write Himself, begged Me to inform You, his only
+Daughter, of his Situation. With due Respect, I suggest that You take ship
+to St. Sinistra by the first Opportunity. I am convinced that Sight of your
+beloved Face will dissuade your Father from his Melancholia.
+I have instructed Capt. Bartholomew Davis, of my Flagship Lafond
+Deux, to deliver You to my grateful Charge; He should arrive in London
+directly after You receive this Missive. Pray accept this Banknote to defray
+the Cost of a new Wardrobe; any Guest of Mine must be suitably dressed.
+Trusting that your Voyage will be comfortable, I am,
+Your most sovereign Lord,
+Governor of St. Sinistra,
+Jean Lafond

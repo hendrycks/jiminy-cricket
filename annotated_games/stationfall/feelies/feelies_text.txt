@@ -1,0 +1,1515 @@
+
+                Floyd is back in the boffoid sequel to Planetfall.
+
+
+                                   Stationfall
+
+                                       by
+                                 Steve Meretzky
+
+
+                            Interactive Fiction Plus
+                                 Science Fiction
+                                 Advanced Level
+
+
+                         Instruction Manual & "Feelies"
+
+
+
+[The front cover shows a space-suited member of the Stellar Patrol stepping
+through a triangular window cut into the box. A backdrop of outer space can be
+seen through the window, while the Space Station you are about to visit floats
+above and to the right of the Stellar Patrol recruit. The recruit is humanoid,
+but all other features are hidden by the helmet's visor, jumpsuit, backpack,
+gloves and sneaker-like boots. The recruit carries a clipboard in hand, but
+some of the pages held by the clipboard are starting to slip away, floating
+around him/her.]
+
+
+
+---------
+
+Assigned to each STATIONFALL package: your STATIONFALL disk, a set of
+blueprints for a Gamma-Delta-Gamma Class deep space station; three highly
+bureaucratic forms; and your Stellar Patrol patch.
+
+[The game components are shown sitting on a stack of square cardboard boxes,
+each one stamped with "Request for Stellar Patrol Issue Regulation Black Form
+Binders Request Form Forms". A clipboard with an Inventory sheet rests near
+them. The patch shown in the picture is different than what actually came in
+the package. Instead of a round fabric patch, patch that's shown appears to be
+more like a stick-on decal, cut to follow the shape of the "triangle and halo"
+design of the Stellar Patrol logo.]
+
+
+What a trotting krip! Since your incredible heroics in "Planetfall", where you
+risked life and limb to save the planet Resida, things have hardly changed at
+all. Sure, you were promoted to Lieutenant First Class, but this only meant
+that your dull life of cleaning grotch cages was replaced by an equally dull
+life of paperwork. Now you've got another assignment tailor-made for a
+grotchbrain: pilot a spacetruck to a nearby station to pick up a load of
+trivial forms. Trot and double trot!
+
+But all is not lost. By a happy twist of fate, your companion for the journey
+is your old pal Floyd! That's right, it's the same mischievous little robot,
+crayons and paddleball at the ready, who was your helpful buddy in "Planetfall".
+
+Getting to the space station is easy. But once there, you find it strangely
+deserted. Even the seedy space village surrounding the station is missing its
+ragtag tenants. A spooky alien ship carrying only an empty pedestal rests in a
+docking bay. An ostrich and an Arcturian balloon creature are found, abandoned
+but in perfect health. The commander's log describes the mysterious breakdown
+of machinery, demonstrated by a roving hull-welder who seems bent on your
+destruction. And finally even Floyd begins acting oddly...
+
+Steve Meretzky, whose interactive fiction successes include The "Hitchhiker's
+Guide to the Galaxy" (TM) and "Leather Goddesses of Phobos" (TM), won a Best
+Computer Software Designer award for "Planetfall". Infocom fans, consistently
+rating "Planetfall" among their favorite computer games, have been begging for
+a sequel. Even if you've never played "Planetfall", you will enjoy Stationfall:
+the puzzles will challenge your intellect, the humor will keep you laughing,
+and Floyd will win your heart.
+
+GET INSIDE A STORY. GET ONE FROM INFOCOM!
+It's like waking up inside a story! Infocom's interactive fiction takes you to
+the center of a world jam-packed with surprising twists, unique characters, and
+ingenious puzzles.
+
+For the first time, you're more than a passive reader. You talk to the story,
+typing in full English sentences. And the story talks right back, communicating
+entirely in vividly descriptive prose. What's more, you can actually shape the
+story's course of events through your choice of actions. With hundreds of
+alternatives at every step, your adventure can last for weeks and even months.
+
+Find out what it's like to get inside a story. Get one from Infocom. Because
+with Infocom's interactive fiction, there's room for you on every disk.
+
+
+INFOCOM
+125 CambridgePark Drive., Cambridge, MA 02140
+
+Interactive Fiction Plus is available for most personal computers. Call us at
+617-576-3190 for availability information.
+Manufactured and printed in U.S.A.
+(C)1987 Infocom, Inc.Warranty information
+enclosed.
+
+STATIONFALL, PLANETFALL, and LEATHER GODDESSES OF PHOBOS are trademarks of
+Infocom, Inc. THE HITCHHIKER'S GUIDE TO THE GALAXY is a trademark of Douglas
+Adams.
+
+
+
+---------
+
+The Stellar Patrol patch:
+
+[This is a round fabric patch, about 2 inches in diameter, with a border of
+gold thread. The logo of the Stellar Patrol printed on it: "Boldly Going Where
+Angels Fear to Tread" printed on a red triangle with a picture of a few planets
+in the center. The triangle shows a "halo" in front and behind it, which is
+actually the orbital path of a spaceship. Just below the triangle is your rank:
+Lieutenant First Class.]
+
+
+
+---------
+
+The Official Blueprints:
+
+[The blueprints are of the Deep Space Station that you will be visiting. For
+simplicity's sake, only the major areas and significant items are listed on
+each sheet. They are issued by the Stellar Patrol Corps of Engineers, with most
+of the work being done by Lt. Cmdr. Milo Sputter, though Cmdr. Trip Flagstone
+worked on about three of them.]
+
+* * * * * *
+
+Blueprint envelope:
+
+Stellar Patrol of the Third Galactic Union
+
+OFFICIAL BLUEPRINTS
+
+[Stellar Patrol logo]
+
+The blueprints herein are printed and disbursed solely for the uses and
+purposes of the Stellar Patrol of the Third Galactic Union as outlined in the
+Stellar Patrol Blueprint Rules and Regulations Handbook or as determined by an
+authorized disburser of these blueprints or by any commanding officer provided
+that such uses or purposes are in a manner consistent with the rules and
+regulations of the Stellar Patrol. Failure to comply with said rules and
+regulations with regard to the confidentiality of Stellar Patrol blueprints
+will be treated as an act of treason and punishment determined accordingly. All
+local restrictions apply.
+
+* * * * * *
+
+First blueprint: KEY
+
+[This blueprint provides the legend for the rest of the blueprints. In addition
+to items like sinks and chairs, it shows the following items of note: Elevator,
+Utility shaft and air duct, open doorways, Auto-doors, Security Auto-doors,
+horizontal air vents and access hatches.
+
+* * * * * *
+
+Blueprint 1 of 9:
+
+[This is a horizontal cross-section of the station, showing that at the
+Galactic North, East and South points, Sub-Modules can be attached. On the
+blueprint, Scientific, Military and Diplomatic Sub-Modules are connected to the
+main Command Module at the North, East and South points, respectively.]
+
+NOTE (I): Only connecting tubes to official Stellar Patrol Deep Space Station
+Sub-Modules may be attached to the Command Module at these places.
+
+Command Module
+Diameter = 36 meters
+Volume = 24,429 cubic meters
+Usable floor area = 6,823 square meters
+
+Normal complement
+Station Commander = 1
+Officers = 6
+Crew = 36
+Total Personnel = 43
+
+* * * * * *
+
+Blueprint 2 of 9:
+
+[This blueprint identifies the functions of each level of the Command Module.
+These will be listed on the individual blueprints that follow. Outside on the
+bottom of the Command Module are the Cooling Fins.]
+
+* * * * * *
+
+Blueprint 3 of 9:
+
+LEVEL ONE: Garden and Observatory Dome.
+
+LEVEL TWO: Mess Hall with Food Preparation Units and Food Dispensing Units,
+Library, Meeting Rooms, Main Storage.
+
+* * * * * *
+
+Blueprint 4 of 9:
+
+LEVEL THREE: Gym, Theatre with Stage and Projection Booth, Chapel, Library.
+(Theatre capacity: 61)
+
+* * * * * *
+
+Blueprint 5 of 9:
+
+LEVEL FOUR: Male Barracks, Female Barracks, SanFac, access to Bay #3.
+
+* * * * * *
+
+Blueprint 6 of 9:
+
+LEVEL FIVE: Command Center (Station Monitor & Control, Deep-Space
+Communications Center, and the Station Commander's Office, Briefing Room and
+Quarters), Sick Bay, PX, Brig, Robot Shop, File Room, Workshop, Storage, access
+to Docking Bay #2, three Sub-Module Connections.
+
+* * * * * *
+
+Blueprint 7 of 9:
+
+LEVEL SIX: Officers' Quarters and SanFac, Auxiliary Barracks and SanFac, access
+to Docking Bays #1 and #4, Armory, Shipping Room.
+
+* * * * * *
+
+Blueprint 8 of 9:
+
+LEVEL SEVEN: Printing Plant, Paper Recycling Plant.
+
+* * * * * *
+
+Blueprint 9 of 9:
+
+LEVEL EIGHT: Power Plant, Oxygen Generation, Water Purification, Arti-Grav.
+
+LEVEL NINE: Main Computer, Computer Control, Water Tanks (for storage and
+cooling).
+
+
+
+---------
+
+The Official Documents:
+
+[The three forms are printed on green paper similar to that used on 20th-
+century tractor-fed dot matrix printers. Overall dimensions are just under 7"
+by 11". Each of the forms has the following two sections in common:]
+
+[Distribution list at the top:]
+GREEN:  Issuee
+BLUE:   Issuer
+WHITE:  Issuee's Cmdr.
+CANARY: Issuer's Cmdr.
+PINK:   Files
+BUFF:   Backup files
+GRAY:   Dbl Bckp Files
+COFFEE: Tpl Bckp Files
+CREAM:  Records Officer
+IVORY:  Asst. Rec. Ofcr.
+EGG:    Jr. Rec. Ofcr.
+MAUVE:  Form Ombudsman
+
+* * * * * *
+
+[Fine Print/"legalese" at the bottom:]
+
+This form is printed and disbursed entirely for the uses and purposes of the
+Stellar Patrol of the Third Galactic Union and may only be used for those
+express uses and purposes or for any other use and purpose with which the user
+may be instructed to comply by an authorized disburser of this form or by any
+commanding officer, provided that such use is in a manner complying with the
+rules and regulations of the Stellar Patrol and the laws of the Third Galactic
+Union, unless superseded by any local laws and customs where such local laws
+and customs apply under the Supremacy Conventions of the Patrol, the Union, or
+such other parties as the uses of this form may dictate. In addition and
+furthermore, the use of this form in no way expresses any license bestowed upon
+the printer, the disburser, the user, or on anyone or any party to accept or
+use this form or any of its parts. This form is regulated by all pertaining
+regulations as codified in Stellar Patrol Omnibus Form and Paperwork Policy
+Book, as published on 5/15/11339 and amended on four hundred and thirty-seven
+subsequent occasions, and is considered a legally-binding document in a court
+of law or in a court of basketball or any other court you can think of. This
+form was designed and printed under the auspices of the Stellar Patrol Forest
+Planet Management and Printing Offices, or maybe it was the Printing Planet and
+Forest Management Offices, or perhaps the Florist Plants and Painted Manacled
+Officers! Does anyone really give a hoot? Does anyone who isn't really insane
+read this far into the fine print? I mean, you have to be really off your
+rocker batty nutso to get even halfway through the second line! Imagine what
+it's like for a poor Ensign Fourth Class, having to write ream after ream of
+this trot day after day, month after month, year after kripping year! It's
+enough to turn your brain to guacamole! No, wait! It's worse than that! It's
+enough to turn your brain to quivering Gishenite jello-puddles!!!
+Aaarrrrgghh!!!!
+
+* * * * * *
+
+Form #1:  Assignment Completion Form QX-17-T
+
+Issued:  Date: 4.12.11349,  Time: 4254
+Issue's rank:  Lt. First Class
+Issue's Patrol ID number:  1451-352-716
+
+Description of Assignment:
+Take a spacetruck from the Deck Five cargo bay. Proceed to Space Station Gamma
+Delta Gamma 777-G 59/59 Sector Alpha-Mu 79. Pick up 24 pallets of Request for
+Stellar Patrol Issue Regulation Black Form Binders Request Form Forms. This is
+a Top-PRIORITY assignment!
+
+[Large rectangular box with the caption "Validation Box (do not write in this
+space)".]
+
+Additional Data:
+Astrogator's navigational data (time:course)
+4300 - 4349:  632
+4350 - 4399:  609
+4400 - 4449:  587
+4450 - 4499:  565
+4500 - 4549:  544
+4550 - 4599:  523
+4600 - 4649:  503
+4650 - 4699:  483
+4700 - 4749:  464
+4750 - 4799:  445
+4800 - 4849:  427
+4850 - 4899:  409
+4900 - 4949:  392
+4950 - 4999:  375
+
+5000 - 5049:  359
+5050 - 5099:  343
+5100 - 5149:  328
+5150 - 5199:  313
+5200 - 5249:  299
+5250 - 5299:  285
+5300 - 5349:  272
+5350 - 5399:  259
+5400 - 5449:  247
+5450 - 5499:  235
+
+5500 - 5549:  224
+5550 - 5599:  213
+5600 - 5649:  203
+5650 - 5699:  193
+5700 - 5749:  184
+5750 - 5799:  175
+5800 - 5849:  167
+5850 - 5899:  159
+5900 - 5949:  152
+5950 - 5999:  145
+
+6000 - 6049:  139
+6050 - 6099:  133
+6100 - 6149:  128
+6150 - 6199:  123
+6200 - 6249:  119
+6250 - 6299:  115
+6300 - 6349:  112
+6350 - 6399:  109
+6400 - 6449:  107
+6450 - 6499:  105
+
+6500 - 6549:  104
+6550 - 6599:  103
+6600 - 6649:  103
+6650 - 6699:  103
+6700 - 6749:  104
+6750 - 6799:  105
+6800 - 6849:  107
+6850 - 6899:  109
+6900 - 6949:  112
+6950 - 6999:  115
+
+7000 - 7049:  119
+7050 - 7099:  123
+7100 - 7149:  128
+7150 - 7150:  133
+7200 - 7249:  139
+7250 - 7250:  145
+7300 - 7349:  152
+7350 - 7350:  159
+7400 - 7449:  167
+7450 - 7450:  175
+
+7500 - 7549:  184
+7550 - 7550:  193
+7600 - 7649:  203
+7650 - 7650:  213
+7700 - 7749:  224
+7750 - 7750:  235
+7800 - 7849:  247
+7850 - 7850:  259
+7900 - 7949:  272
+
+7950 - 7950:  285
+8000 - 8049:  299
+8050 - 8050:  313
+8100 - 8149:  328
+8150 - 8150:  343
+8200 - 8249:  359
+8250 - 8250:  375
+8300 - 8349:  392
+8350 - 8350:  409
+8400 - 8449:  427
+8450 - 8450:  445
+
+8500 - 8549:  464
+8550 - 8599:  483
+8600 - 8649:  503
+8650 - 8699:  523
+8700 - 8749:  544
+8750 - 8799:  565
+8800 - 8849:  587
+8850 - 8899:  609
+8900 - 8949:  632
+8950 - 8999:  655
+
+9000 - 9049:  679
+9050 - 9099:  703
+9100 - 9149:  728
+9150 - 9199:  753
+9200 - 9249:  779
+9250 - 9299:  805
+9300 - 9349:  832
+9350 - 9399:  859
+9400 - 9449:  887
+9450 - 9499:  915
+9500 - 9549:  944
+9550 - 9599:  973
+
+* * * * * *
+
+Form #2:  Robot Use Authorization Form JZ-59-G
+
+Issued:  Date: 4.12.11349,  Time: 4257
+Issue's rank:  Lt. First Class
+Issue's Patrol ID number:  1451-352-716
+Applicable robot pool:  Deck Five
+
+Instructions to issuee: This form should be presented at the robot pool
+indicated above. If no such pool exists, return this form to its issuer
+along with eight completed copies of Missing or Non-Existent Robot Pool
+Report Form GY-98-M. At the indicated robot pool, this form should be given
+to any party or parties thereabouts responsible for the discharge of robots,
+or, if the indicated pool is automated, to the appropriate automated system or
+systems.Instructions to robot pool: One robot may be discharged into the care
+of the issuee of this form for such purposes as are specified under the Stellar
+Patrol Omnibus Robot Use Policies and Procedures Book. Copies of this form
+should be sent to the issuee's immediate superior, the ship's Records Officers,
+Archives One, Two and Three, the issuee's permanent record file, and the files
+of the indicated robot pool.
+
+Instructions to robot: [underlined bar code in three rows]
+
+* * * * * *
+
+Form #3:  Class Three Spacecraft Activation Form HB-56-V
+
+Issued:  Date: 4.12.11349,  Time: 4257
+Issue's rank:  Lt. First Class
+Issue's Patrol ID number:  1451-352-716
+
+This form is applicable to the following Class Three vehicles:
+
+TRANS-SPACEDOCK TUGBOAT
+FORMS TRANSPORT SPACETRUCK, SIX-METER
+FORMS TRANSPORT SPACETRUCK, NINE-METER
+FORMS TRANSPORT SPACETRUCK, TWELVE-METER
+TITANIUM-HULL SWAMP WALKERD
+EEP-SPACE TRANS-ION PARTICLE PLUCKER
+AMBASSADORIAL SHUTTLE, ONE-PERSON
+AMBASSADORIAL SHUTTLE, TWO-PERSON
+AMBASSADORIAL SHUTTLE, MORE-THAN-TWO-PERSON-OR-ONE-PERSON-PLUS-ANY-NUMBER-OF-
+  NON-HUMANS
+SCOOTER, INTRA-SYSTEM, CAPTAIN ZOWIE MODEL
+ZERO-ENERGY PUDDLE-SITTER, SITTING DUCK BRAND
+SEMI-OOFING GIGBUNG-POWERED DOUBLE-FOOZ
+
+
+
+---------
+
+Stationfall Official Technical Manual (Instruction Manual):
+
+Page 1
+
+If you've never played Infocom's interactive fiction before, you should read
+this entire instruction manual. If you're an experienced Infocom player, just
+read Section I: About Stationfall.
+
+
+
+---------
+
+Page 2
+
+Table of Contents
+
+Section I: About Stationfall
+
+Preface to the Story -- Page 3
+
+Sample Transcript and Map -- 4
+
+About the Author -- 5
+
+
+Section II: About Infocom's Interactive Fiction
+
+An Overview: What is interactive fiction? -- 6
+
+Starting and Stopping -- 7
+* "Booting up"
+* Saving and restoring
+* Quitting and restarting
+
+Communicating with Infocom's interactive fiction -- 8
+* Basic sentences
+* Complex sentences
+* Talking to characters in the story
+
+Special Commands -- 9
+
+Tips for Novices -- 10
+Eleven useful pointers about interactive fiction
+
+Common Complaints -- 11
+
+We're Never Satisfied -- 12
+
+If You Have Technical Problems -- 12
+
+Quick Reference Guide -- 13
+This briefly describes the mostimportant things to know about interactive
+fiction.
+
+Copyright and Warranty Information -- 14
+
+
+
+---------
+
+Page 3
+
+SECTION I: ABOUT STATIONFALL
+
+Preface to the Story
+
+After the fall of the Second Galactic Union in 1716 GY, a ten-thousand-year
+dark age settled upon the galaxy. Interstellar travel was non-existent, and
+many star systems descended into a near-barbaric state, burning fossil fuels
+for energy and growing food directly from exposed topsoil.
+
+In 11,203 GY, a treaty between the growing empires of Tremain and Gallium
+formed the Third Galactic Union. A pseudo-military branch of the Union
+government on Tremain was created. Called the Stellar Patrol, its ships began
+exploring the galaxy, searching for the human civilizations that are the
+remnants of the Second Union.
+
+You are a native of Gallium, one of the most politically powerful but
+culturally barren worlds of the Union. Your great-great-grandfather was a
+founding officer of the Stellar Patrol, and for five generations, your family
+has served in the Patrol. It was always taken for granted that you would sign
+up as soon as you came of age.
+
+Once you joined the Patrol, you discovered that the exciting career promised in
+all the Patrol recruitment brochures was nonsense. Your life was drudgery and
+demerits. The only time you got to see an exotic planet was right after a big
+parade, when they needed a detail to sweep up all the confetti.
+
+Then came your big moment: shipwrecked on a seemingly deserted world, you met
+an exuberant robotic companion named Floyd. Together, the two of you discovered
+the secret of that mysterious planet, Resida, and saved it from near
+destruction. The story of that heroic deed was told in "Planetfall".
+
+As a result of your heroics, you were offered, and quickly accepted, a juicy
+promotion. Goodbye Ensign Seventh Class -- now you were a Lieutenant First
+Class! No more scrubwork! No more bathroom details! No more cleaning of the
+grotch cages! Finally, your life in the Stellar Patrol would be as exciting as
+those brochures had promised!
+
+Oh, how naive you'd been. Your daily routine simply replaced tedious scrubwork
+with tedious paperwork. Since your planetfall on Resida, five long years have
+dragged by, without a single solitary event worthy of note. Why, just look at
+today's "thrilling" assignment: scooting over to Space Station Gamma Delta
+Gamma 777-G 59/59 Sector Alpha-Mu-79 to pick up a supply of Request for Stellar
+Patrol Issue Regulation Black Form Binders Request Form Forms...
+
+
+
+---------
+
+Page 4
+
+Sample Transcript and Map
+
+This transcript is not from Stationfall, but will give you a good general idea
+of how Infocom's interactive fiction works. It contains some simple puzzles and
+their solutions. The player's commands appear in capital letters after each
+prompt (>). The map represents the terrain in the sample transcript as you
+might have drawn it.
+
+[Sample map not included.]
+
+>WAIT
+Time passes...
+
+The scooter glides into the station's docking port. The retro-thrusters bring
+the scooter to a halt. As the docking port fills with air the scooter's hatch
+opens.
+
+>LOOK
+Scooter, in the pilot's couch
+
+You are in the cramped one-man space scooter. Through the viewport, you see the
+docking port of Space Station BG-12. The scooter's hatch is open.You can see a
+toolbox here.
+
+>OPEN THE TOOLBOX
+You can't reach it from the pilot's couch.
+
+>STAND UP
+You are standing again.
+
+>OPEN THE TOOLBOX
+It's locked.
+
+>LEAVE THE SCOOTER
+Docking Port
+This is the huge docking port of the space station. Only one ship is here at
+the moment, a one-man scooter, so the docking port seems unusually empty. A
+tube leads down toward the heart of the station.
+
+>DOWN
+Main Hallway, Sector M
+This is the station's main corridor, which continues to port and starboard. A
+tube leads up toward the docking port.
+
+>STARBOARD
+Main Hallway, Sector N
+This is the station's main corridor, which continues to port and starboard. A
+room lies to fore, and a tube leads down to the next level of the station.
+Lying at the base of the wall is a key.
+
+>TAKE THE KEY
+Taken.
+
+>EXAMINE IT
+The key looks like one of those new all-purpose keys that molds itself to any
+lock. A typical example of Garfoogian ingenuity.
+
+>FORE
+Sick Bay
+Like the rest of the station, the medical facility is deserted. This is odd,
+for regulations require that the sick bay be staffed around the clock, ten
+chrons a day! The only exit is aft.
+At the far end of the room, inside a steel cage, is a Thoosian Fussbudget,
+apparently asleep.
+
+>WAKE THE FUSSBUDGET
+It jumps to its feet, all twelve of them. "Hey, what's going on? Who are you?
+Lemme outta here!"
+
+>OPEN THE CAGE
+The cage is locked.
+"Open the cage!" begs the Fussbudget, clawing at the bars. "I'm claustrophobic!
+I'll starve to death! I wanna go jogging!"
+
+>UNLOCK THE CAGE WITH THE KEY
+This seems to be one of those new sophisticated all-purpose-key-proof locks.
+"Break the bars! Get an acetylene torch! Find a teleporter! I've got an
+appointment with my lawyer in five minutes! I'm allergic to cages!" The
+Fussbudget begins sneezing wildly.
+
+>AFT.PORT.UP.ENTER THE SCOOTER.UNLOCK THE TOOLBOX WITH THE KEY
+Main Hallway, Sector N
+
+Main Hallway, Sector M
+
+Docking Port
+You are beginning to get hungry.
+
+Scooter
+You can see a toolbox here.
+
+The toolbox is now unlocked.
+
+>OPEN THE TOOLBOX
+Opening the toolbox reveals an identity bracelet, a hacksaw, and a tube of
+nutrient paste.
+
+>TAKE ALL FROM THE TOLBOX
+[I don't know the word "tolbox."]
+
+>OOPS TOOLBOX
+identity bracelet: Taken.
+hacksaw: Taken.
+tube of nutrient paste: You're carrying too much weight already.
+
+>INVENTORY
+You are carrying a hacksaw, an identity bracelet, a key, and a box of
+radioactive isotopes. You are wearing a Patrol uniform.
+
+>DROP ALL BUT THE HACKSAW AND THE BRACELET THEN TAKE THE TUBE
+key: Dropped.
+box of radioactive isotopes: Dropped.
+Patrol uniform: You'll have to remove it first.
+Taken.
+You are now quite hungry.
+
+>EAT THE PASTE
+Mmmm...one of your favorites...anchovies and peanut butter. You empty the
+entire tube, and your hunger dissipates.
+
+>OUT.DOWN.STARBOARD.FORE
+Docking Port
+
+Main Hallway, Sector M
+
+Main Hallway, Sector N
+
+Sick Bay
+"It's about time you got back. You think it's fun being locked in a cage?
+What if there was a fire?"
+
+>CUT THE BARS WITH THE HACKSAW
+You cut through one of the bars. The Fussbudget sticks its head through the
+gap. "Come one, cut some more! I'm almost out...do you think these edges where
+you cut the bars are sharp?"
+
+>AGAIN
+You cut a second bar. The Fussbudget squeezes through and leaps to the floor.
+"Thanks, bud. By the way, I'm a Fussbudget." It hops across the room and pokes
+four or five eye stalks cautiously through the doorway. "Where is everyone?
+Hey, that looks like a tube of nutrient paste you've got there."
+
+>GIVE THE TUBE TO THE FUSSBUDGET
+The Fussbudget grabs the tube, wildly squeezes it with all six hands, and then
+throws it to the deck. "Empty! If I don't eat something soon I'll get sick."
+
+>AFT
+Main Hallway, Sector N
+The Fussbudget gangles after you.
+
+>PORT
+Main Hallway, Sector M
+The Fussbudget gangles after you.
+
+>PORT
+Main Hallway, Sector L
+This is the station's main corridor, which continues to port and starboard.
+Rooms lie fore and aft.
+
+The Fussbudget gangles after you. It suddenly notices your identity bracelet.
+"Hey, a bracelet. If you gimme it, I can get us lotsa food, whaddya say, huh?"
+
+>GIVE BRACELET TO FUSSBUDGET
+The Fussbudget grabs the bracelet and dashes forward.
+
+>FORE
+You bounce off the invisible security barrier.
+Within the room, you can see the Fussbudget, wearing the bracelet, greedily
+devouring a whole crate of Mondoweed fruits.
+
+>FUSSBUDGET, GIVE ME THE BRACELET
+Without looking up or pausing for a second, the Fussbudget tosses you the
+bracelet.
+
+>PUT ON THE BRACELET
+You are now wearing the bracelet.
+
+>FORE
+Store Room
+This is a small storage room of some sort. A hallway lies aft.
+
+You can see an adapter plug here.The Fussbudget is just shoving the last few
+fruits into its huge mouth. "All the food is gone," it says with its mouth
+full. "Where am I gonna sleep tonight?"
+
+>AFT.AFT
+Main Hallway, Sector L
+The Fussbudget gangles after you.
+
+Director's Office
+This is the office of the station manager. It is simply furnished, with a file
+cabinet and a desk. There's an electrical outlet on one wall.Sitting on the
+desk is a portable computer and a slip of paper.
+
+The Fussbudget gangles after you.
+
+>READ
+[What do you want to read?]
+
+>SLIP OF PAPER
+[taking the slip of paper first]
+"Buy milk. Dentist at 3300. New password is 133."
+
+>TURN ON THE PORTABLE COMPUTER
+Nothing happens.
+The Fussbudget shivers. "Does it seem chilly in here? I hate drafty places." A
+look of concern crosses its face. "Do you think the heating units have failed?"
+
+>EXAMINE THE COMPUTER
+The portable computer has a screen, a keyboard, and a power cord. The screen is
+blank.
+
+The Fussbudget says, "See ya later, bub. I'm gonna go catch some winks." It
+gangles out.
+
+>PLUG THE POWER CORD INTO THE ELECTRICAL OUTLET
+The cord ends in a nine-prong plug, but the outlet will only accept five-prong
+plugs.
+
+>FORE.FORE
+Main Hallway, Sector L
+
+Store Room
+The Fussbudget is snoring loudly in the corner.
+You can see an adapter plug here.
+
+>TAKE
+[the adapter plug]
+Taken.
+
+>EXAMINE IT
+The adapter seems designed to fit nine-prong plugs into five-prong outlets.
+
+>AFT.AFT.PLUG THE ADAPTER INTO THE SOCKET. PLUG THE CORD INTO THE ADAPTER.
+Main Hallway, Sector L
+
+Director's Office
+
+Sitting on the desk is a portable computer.
+
+Done.
+
+Done.
+
+>TURN ON THE COMPUTER
+The computer beeps and the screen lights up, saying, "Please type password."
+
+>TYPE "133"
+The screen says "Password accepted. Type 7 for memo file. Type 11 for
+correspondence file."
+
+>TYPE 7
+The last page of the memo pad appears on the screen:
+"22-Bozbar. All personnel have teleported down to the planet. I will be joining
+them in a chron or so, but I wanted to say goodbye to this old station; it's
+too bad we couldn't stop that reactor build-up. By the way, the latest reading
+for Critical is 6900."
+
+>TIME
+Adjusted Galactic Standard Time is exactly 6897.
+
+>FORE
+Main Hallway, Sector L
+Suddenly, a giant fireball engulfs the entire station.
+
+**** You have died *****
+
+Your score is 9 points out of a total of 80, in 92 moves. This gives you the
+rank of pot scrubber.
+
+
+
+---------
+
+Page 5
+
+About the Author
+
+Steve Meretzky (1957-   ) was born and raised in Yonkers, NY, where his early
+hobbies included rooting for the New York Mets and against Richard Nixon.
+
+Historians of interactive fiction point to Meretzky's first job, packing nuts
+and bolts for his father's hardware business, as the formative moment of his
+writing career. Most others think that there's absolutely no connection, and
+that all historians of interactive fiction are fruitcakes.
+
+Meretzky arrived at the Massachusetts Institute of Technology in September of
+1975 to pursue a career in architecture. MIT's Department of Architecture
+convinced Meretzky that he should pursue a career in Construction Management.
+Following his unexpected graduation, several construction firms convinced
+Meretzky that he should pursue a career as a game tester for Infocom. Finally,
+by 1982, Marc Blank had convinced Meretzky that he should pursue a career as an
+author of interactive fiction ("implementor" in Infocom lingo).
+
+While at Infocom, a heart-warming interoffice romance blossomed between Steve
+and the Sales Department's Elizabeth Rock. Married since September of 1985,
+Steve and Betty have no children, but they do have a garage door opener that
+they're very proud of.
+
+Other works of interactive fiction by Steve Meretzky:
+Planetfall (1983)
+Sorcerer (1984)
+The Hitchhiker's Guide to the Galaxy (1984) (with Douglas Adams)
+A Mind Forever Voyaging (1985)
+Leather Goddesses of Phobos (1986)
+
+
+
+---------
+
+Page 6
+
+SECTION II: ABOUT INFOCOM'S INTERACTIVE FICTION
+
+
+An Overview: What is interactive fiction?
+
+Interactive fiction is a story in which you are the main character. Each
+interactive story, such as Stationfall, presents you with a series of
+locations, items, characters, and events. You can affect the direction of the
+story by moving from place to place, using the objects you find, and
+interacting with the other characters.
+
+An important element of interactive fiction is puzzle-solving. Think of a
+locked door or a ferocious beast not as a permanent obstacle, but merely as a
+puzzle to be tackled. (Find the key that unlocks the door, or figure out what
+tune will charm and tame that beast.)
+
+In Stationfall, time passes only in response to your input. Nothing happens
+until you type a sentence and press the RETURN (or ENTER) key, so you can plan
+your turns as slowly and carefully as you want.
+
+In the story, time is kept in millichrons, the galactic standard. A thousand
+millichrons make up on chron, and ten chrons make up one day. In addition to
+keeping track of the time, Stationfall measures your progress by giving you a
+score. You'll get points for solving puzzles and for reaching certain new
+locations. A perfect score of 80 is your goal; making sure you have fun getting
+there is ours.
+
+
+
+---------
+
+Page 7
+
+Starting and Stopping
+
+Starting the story: To load Stationfall, follow the instructions on the
+Reference Card in your package.
+
+On your screen, you will see a description of the opening location of the
+story, Deck Five, followed by the prompt (>), indicating that Stationfall is
+waiting for your first input.
+
+Here are a few inputs for you to try at the first several prompts. After typing
+each input, don't forget to hit the RETURN (or ENTER) key.
+
+>INVENTORY
+>EXAMINE THE PATROL UNIFORM
+>WALK STARBOARD
+>DROP THE CHRONOMETER
+
+You should now have a feel for interacting with the story. You decide what to
+do next.
+
+
+Saving and restoring: It will probably take you several days to complete
+Stationfall. Using the SAVE feature, you can continue the story at a later time
+without having to start over from the beginning, just as you can place a
+bookmark in a book you are reading. Even if you aren't about to stop playing,
+it's useful to SAVE before (or after) trying something dangerous or tricky.
+That way, even if you get lost or "killed" in the story, you can return to your
+saved position.
+
+To save your place, type SAVE at the prompt (>), and then press RETURN (or
+ENTER). Then follow the instructions for saving and restoring on your Reference
+Card. Some computers require a blank SAVE disk, initialized and formatted.
+Using a disk with data on it (other than Stationfall saves) may result in the
+loss of that data, depending on your computer. You can save your position as
+often as you like by using additional blank disks.
+
+Any time you want to return to a saved position, just typed RESTORE at the
+prompt (>), and hit RETURN (or ENTER). Then follow the instructions on your
+Reference Card. You can then continue the story from your SAVE. You can type
+LOOK for a description of where you are.
+
+
+Quitting and restarting: If you want to start over from the beginning, type
+RESTART and press the RETURN (or ENTER) key. (This is usually faster than
+re-booting.) Stationfall will ask you to confirm this command.
+
+If you want to stop entirely, type QUIT and press RETURN (or ENTER). Once
+again, Stationfall will ask to make sure this is really what you want to do.
+
+Remember, when you RESTART or QUIT, you must first SAVE if you ever want to
+return easily to your current point in the story.
+
+
+
+---------
+
+Page 8
+
+Communicating with Infocom's Interactive Fiction
+
+In Stationfall, you type your commands in plain English each time you see the
+prompt (>). Most of the sentences that Stationfall will understand are
+imperative sentences. See the examples below.
+
+When you have finished typing your input, press the RETURN (or ENTER) key.
+Stationfall will then respond, telling you whether your request is possible at
+this point in the story, and what happened as a result.
+
+Stationfall recognizes your words by their first six letters, and all
+subsequent letters are ignored. For example, Stationfall would not be able to
+distinguish among SPACEShip, SPACEStorm, and SPACESickness.
+
+To move around, just type the direction you want to go. Directions can be
+abbreviated: NORTH to N, SOUTH to S, EAST to E, WEST to W, NORTHEAST to NE,
+NORTHWEST to NW, SOUTHEAST to SE, SOUTHWEST to SW, UP to U, and DOWN to D. IN
+and OUT will also work in certain places.
+
+Stationfall understands many different kinds of sentences. Here are examples,
+using objects and characters that don't actually appear in Stationfall:
+
+>WALK TO THE NORTH
+>WEST
+>NE
+>DOWN
+>TAKE THE METEORITE
+>OPEN THE HATCH
+>READ THROUGH THE MANUAL
+>LIE DOWN ON THE ACCELERATION COUCH
+>EXAMINE THE SHINY LASER RIFLE
+>PUT THE POWER PACK IN THE RIFLE
+>SHOW MY ANTENNAE TO THE ALIEN AMBASSADOR
+>SHOOT THE MENACING ALIEN WITH THE SHINY LASER RIFLE
+>ASK THE SENTIENT CRAB ABOUT THE ELECTRON MICROSCOPE
+
+You can use multiple objects with certain verbs if you separate them by the
+word AND or by a comma. Some examples:
+
+>TAKE THE MEGAFUSE AND THE TANGERINE
+>DROP THE BOTTLE OF ARGON, THE SPOON, AND THE LEMMING FOOD
+>PUT THE MATTER AND THE ANTI-MATTER IN THE BOX
+
+You can include several commands on one line if you separate them by the word
+THEN or by a period. Each command will be handled in order, as though you had
+typed them individually at separate prompts. For example, you could type all of
+the following at once, before pressing the RETURN (or ENTER) key:
+
+>PUSH THE BUTTON. ENTER THE SPACE SCOOTER THEN SHUT THE HATCH
+
+If Stationfall doesn't understand one of the sentences on your input line, or
+if an unusual event occurs, it will ignore the rest of your input line.
+
+The words IT and ALL can be very useful. For example:
+
+>LOOK AT THE OXYGEN TANK. TAKE IT. PUT IT ON.
+>TURN ON THE HYPERSPATIAL COMPUTER. PROGRAM IT. TURN IT OFF.
+>PICK UP THE ENERGY TABLET. SMELL IT. SWALLOW IT.
+>TAKE ALL
+>TAKE ALL THE TOOLS
+>DROP ALL THE TOOLS EXCEPT THE WRENCH AND THE PHOTON SPANNER
+>TAKE ALL FROM THE CARTON
+>PUT ALL IN THE POCKET OF THE JUMPSUIT
+>GIVE ALL BUT THE BATTERY TO THE BROKEN CYBORG
+
+The word ALL refers to every visible object except those inside something else.
+If there were an apple on the ground and an orange inside a cabinet, TAKE ALL
+would take the apple but not the orange.
+
+There are only three kinds of questions that Stationfall understands: WHO IS
+(someone), WHERE IS (something), and WHAT IS (something). Here are some examples
+you can try in Stationfall:
+
+>WHO IS PLATO?
+>WHAT IS A GRUE?
+>WHERE IS EVERYBODY?
+
+When you meet intelligent creatures in Stationfall, you can talk to them by
+typing their name, then a comma, then whatever you want to say to them. Here
+are some examples:
+
+>ZEKE, HELLO
+>CAPTAIN MEASEL, TELL ME ABOUT THE ASTEROID
+>UNCLE OTTO, GIVE ME YOUR WALLET
+>BOY, RUN HOME THEN CALL THE POLICE
+>GALACTIC OVERLORD, PICK UP THAT PLANETOID. EAT IT
+
+Notice that in the last two examples, you are giving the character more than
+one command on the same input line. But remember, many creatures in the story
+don't care for idle chatter.
+
+You can use quotes to answer a question, type something on a keyboard, or say
+something "out loud." Examples:
+
+>SAY "HELLO"
+>ANSWER "YES"
+>TYPE "520"
+
+Stationfall tries to guess your intention when you give incomplete information.
+When it does so, it will tell you. For example:
+
+>UNLOCK THE CONTROL PANEL
+[with the key]
+The panel is now unlocked.
+
+or
+
+>SHOOT THE SEVEN-HEADED PURPLE ALIEN
+[with the seven-headed purple alien gun]
+A bolt of energy vaporizes one of the alien's heads. Unfortunately, it
+continues to advance, and there isn't a six-headed purple alien gun in sight.
+If your command is ambiguous, Stationfall will ask you to clarify. You can
+answer these questions simply by supplying the missing information at the very
+next prompt. For example:
+
+>SHOW THE HOLOGRAM
+Whom do you want to show the hologram to?
+
+>THE BUG-EYED MONSTER
+The monster takes one look at the hologram of the slime pits of its homeworld,
+has an acute attack of homesickness, and runs off in search of a travel agent.
+
+or
+
+>GIVE THE MELON TO THE ALIEN
+Which melon do you mean, the honeydew melon or the moldy Venusian melon?
+
+>MOLDY
+The alien, grateful for such a delicious homeworld delicacy, gives you its time
+travel belt.
+
+
+
+---------
+
+Page 9
+
+Special Commands
+
+Below are explanations for a number of useful one-word commands. In many cases,
+these will not count as a turn. Type the command after the prompt (>) and press
+the RETURN (or ENTER) key.
+
+AGAIN -- This will repeat your previous input. For instance, typing SHOOT THE
+LASER AT THE RADIUM-POWERED ROBOT then typing AGAIN would be like trying to kill
+the robot twice in a row. You can abbreviate AGAIN to G.
+
+BRIEF -- This command tells Stationfall to fully describe a location only the
+first time you enter it. On subsequent visits, Stationfall will tell you only
+the name of the location and any objects present. Stationfall will begin in
+BRIEF mode, and remain in BRIEF mode unless you use the VERBOSE or SUPERBRIEF
+commands. SUPERBRIEF tells Stationfall to display only the name of a place you
+have entered, even if you have never been there before. In this mode,
+Stationfall will not even mention which objects are present. Of course, you can
+always get a full description of your location and the items there by typing
+LOOK. In SUPERBRIEF mode, the blank line between turns will be eliminated. This
+mode is meant for players who are already familiar with the geography. The
+VERBOSE command tells Stationfall that you want a complete description of each
+location, and the objects in it, every time you enter a location, even if
+you've been there before.
+
+DIAGNOSE -- Stationfall will give you a report of your physical condition.
+
+FOOTNOTE -- Occasionally, the text in Stationfall will mention the existence of
+a footnote. To read the footnote, simply type FOOTNOTE followed by the
+appropriate footnote number (for example, FOOTNOTE 7). This will not count as a
+turn.
+
+INVENTORY -- Stationfall will list what you are carrying and wearing. You can
+abbreviate INVENTORY to I.
+
+LOOK -- This will give you a full description of your location. You can
+abbreviate LOOK to L.
+
+OOPS -- If you mistype a word, such that Stationfall doesn't understand it, you
+can correct yourself at the next prompt by typing OOPS and the correct word.
+For example, if you typed HAND THE CHAIN SAW TO GARNDMA and were told "[I don't
+know the word 'garndma']" you could type OOPS GRANDMA rather than retyping the
+entire sentence.
+
+QUIT -- This lets you stop. If you want to save your position before quitting,
+follow the instructions in the "Starting and Stopping" section on page 7. You
+can abbreviate QUIT to Q.
+
+RESTART -- This stops the story and starts it over from the beginning.
+
+RESTORE -- This restores a previously saved position. See "Starting and
+Stopping" on page 7 for more details.
+
+SAVE -- This puts a "snapshot" of your current position on your storage disk.
+You can return to a saved position in the future using the RESTORE command. See
+"Starting and Stopping" on page 7 for more details.
+
+SCRIPT -- This command tells your printer to begin making a transcript of the
+story. A transcript may aid your memory, but is not necessary, and will only
+work on certain computers. Read your Reference Card for details.
+
+STATUS -- This command gives you the following information: your current mode
+of descriptiveness, your score, a ranking based on that score, and the current
+time in the story. Note that your score and the time can also be found on your
+status line at the top of the screen.
+
+SUPERBRIEF -- This command tells Stationfall to give you the sparest level of
+description. See BRIEF above.
+
+TIME -- This will give you the current time in the story.
+
+UNSCRIPT -- This tells your printer to stop making a transcript.
+
+VERBOSE -- This command tells Stationfall to give you the wordiest level of
+description. See BRIEF above.
+
+VERSION -- Stationfall responds by showing you the release number and the
+serial number of your copy of the story. Please include this information if you
+ever report a "bug" in the story.
+
+WAIT -- This causes time in the story to pass. Since nothing happens until you
+type a sentence and press RETURN (or ENTER), you could leave your computer,
+take a trip to Rigel Seven, then return to the story to find that nothing has
+changed. You can use WAIT to make time pass in the story without doing
+anything. For example, if you met an alien robot, you might WAIT to see if it
+will say anything; if you were aboard a moving space scooter, you might WAIT to
+see where it goes. You can abbreviate WAIT to Z.
+
+
+
+---------
+
+Page 10
+
+Tips for Novices
+
+1. Draw a map. It should include each location and the connections to
+adjoining locations. When you find yourself in a new place, make note of any
+interesting objects there. (See the small sample map that goes along with the
+sample transcript on page 4.) Remember, there are 10 possible directions
+(NORTH, SOUTH, EAST, WEST, NORTHEAST, NORTHWEST, SOUTHEAST, SOUTHWEST, UP, and
+DOWN) plus IN and OUT.
+
+2. EXAMINE all objects you come across in the story.
+
+3. TAKE and carry as much as you can carry. Most objects that you find are
+important for solving one or more of the puzzles you'll run into.
+
+4. SAVE your place often, so that if you mess up or get "killed," you won't
+have to start over from the beginning. See page 7 for more instructions.
+
+5. Read the story carefully! There are often clues in the descriptions of
+locations and objects.
+
+6. Try everything you can think of - even strange or dangerous actions are fun
+and may provide clues; you can always save your position first. Here's a silly
+example:
+
+>GIVE THE BASKETBALL TO THE LION
+The lion takes an experimental bite out of the basketball but spits it out. It
+continues to gnaw on your leg.
+
+Thus, you discover that giving something more edible to the lion (that slab of
+raw meat?) might save your leg.
+
+7. There are many possible routes to the end of Stationfall. If you get stuck
+on one puzzle, move on to another. Some puzzles have more than one solution;
+other puzzles don't need to be solved at all. Sometimes you will have to solve
+one puzzle in order to obtain the item(s) or information you need to solve
+another puzzle.
+
+8. Play Stationfall with a friend! As the dual-brained worm beasts of Nebulon
+are fond of saying, "Two heads are better than one."
+
+9. If you get completely stumped, you can order a hint booklet and map using
+the order form in your package. You don't need this booklet to enjoy the story,
+but it will help you solve the puzzles.
+
+10. Read the sample transcript on page 4 to get a feel for how interactive
+fiction works.
+
+11. You can word a command in many different ways. For example, if you wanted
+to make a wish, you could type in any of the following:
+
+>DROP THE COIN DOWN THE WISHING WELL
+>TOSS THE COIN INTO THE WELL
+>PUT COIN IN WELL
+
+If you type a sentence that Stationfall doesn't understand, try rephrasing it
+or using synonyms. If Stationfall still doesn't understand, you're probably
+trying something that isn't important for completing the story.
+
+
+
+---------
+
+Page 11
+
+
+Common Complaints
+
+Stationfall will complain if your input confuses it completely. Stationfall
+would then ignore any further sentences on your input line. (Certain events,
+such as being attacked, will also cause Stationfall to ignore any additional
+sentences on your input line, since the event may have changed your situation
+drastically.) Some of Stationfall's complaints:
+
+I don't know the word "_______".
+That word is not in the story's vocabulary. Sometimes using a synonym or
+rephrasing will help; more likely, you're just barking up the wrong tree.
+Stationfall recognizes over 800 words, all that you need to use and most that
+you're likely to use. However, Stationfall uses many words in its descriptions
+that it will not recognize in your inputs. Thus, you might read, "The moon
+casts violet shadows across the crater." but discover that Stationfall doesn't
+understand the words MOON or SHADOW or CRATER in your input. When this happens,
+you can assume that you don't need to refer to those things to complete the
+story; they are only there to create a more vivid image of your location.
+
+You used the word "_______" in a way that I don't understand.
+Stationfall knows the word but couldn't use it in that sense. Usually this is
+because Stationfall knows it as a different part of speech. For example, if you
+typed GO TO THE LOWER LEVEL, you are using LOWER as an adjective, but
+Stationfall might know LOWER only as a verb, as in LOWER THE ROPE.
+
+There was no verb in that sentence!
+Unless you are answering a question, each sentence must have a verb (or one of
+the special commands). Among the most important verbs that Stationfall
+understands are TAKE, DROP, PUT, GIVE, LOOK, READ, EXAMINE, OPEN, CLOSE, ENTER,
+EXIT, EAT and WEAR. There are many more. Remember, you can use a variety of
+prepositions with your verbs. (For example, LOOK can become LOOK AT, LOOK
+INSIDE, LOOK BEHIND, LOOK UNDER, LOOK THROUGH, and so on.)
+
+There seems to be a noun missing in that sentence.
+This usually means your sentence was incomplete, such as EAT THE BLUE or PUT
+THE BOOK IN THE.
+
+There were too many nouns in that sentence.
+An example is CARVE MY INITIALS ON THE TREE WITH THE KNIFE, which has three
+noun "phrases," one more than Stationfall can digest in a single action.
+
+I beg your pardon?
+You pressed the RETURN (or ENTER) key without typing anything.
+
+You can't see any ______ here!
+The object you referred to was not visible. It may be somewhere else, or it may
+be present but in a closed container.
+
+The other object[s] that you mentioned isn't [aren't] here.
+You referred to several objects in the same sentence, and at least one wasn't
+visible.
+
+You can't use multiple [in]direct objects with "_______".
+You can use multiple objects (that is, nouns or noun phrases separated by AND
+or a comma) or the word ALL only with certain verbs, such as TAKE, DROP, and
+PUT. For example, EXAMINE will not work with multiple objects; you couldn't say
+EXAMINE ALL or EXAMINE THE BOWL AND THE SWORD.
+
+That sentence isn't one I recognize.
+Usually, this means that the syntax (sentence structure) you used is not among
+the 300 or so syntaxes that Stationfall understands. For example, SIT UNDER THE
+TREE and SKIP AROUND THE MAYPOLE are syntaxes that wouldn't be recognized by
+Stationfall. There's a limited amount of space in the program, so syntaxes that
+are less common or not useful aren't included. Try rephrasing the sentence.
+
+
+
+---------
+
+Page 12
+
+We're Never Satisfied
+
+Here at Infocom, we're constantly trying to "push back the envelope" and
+explore the possibilities of this fledgling medium. Your input is important. If
+you like or disliked the story, or some section of it, or if you found a bug,
+or if you think a certain puzzle was too hard or too easy, or if you have some
+other suggestion, drop us a note! We love every excuse to stop working, and a
+letter from you is just such an excuse! Write to:
+
+Infocom
+125 CambridgePark Drive
+Cambridge, MA  02140
+Attn: FLOYD
+
+
+
+
+If You Have Technical Problems
+
+You can call the Infocom Technical Support Team to report "bugs" and technical
+problems but not for hints to solve puzzles, at (617) 576-3190. If your disk
+develops a problem within ninety (90) days after purchase, we will replace it
+at no charge. Otherwise, there is a replacement fee of $5 (U.S. funds). If you
+call to report a bug, please provide your release number, which you can find by
+typing VERSION. Please return your registration card if you'd like to be on our
+mailing list and receive our newsletter, The Status Line.
+
+
+
+---------
+
+Page 13
+
+Quick Reference Guide
+
+1. To start the story ("boot up"), see the separate Reference Card in your
+Stationfall package.
+
+2. When you see the prompt (>) on your screen, Stationfall is waiting for your
+input. There are four kinds of sentences or commands that Stationfall
+understands:
+
+A. Directions: To move from place to place, just type the direction you want to
+go: NORTH, SOUTH, EAST, WEST, NORTHEAST, NORTHWEST, SOUTHEAST, SOUTHWEST, UP,
+DOWN, IN, or OUT.
+
+B. Actions: Just type what you want to do. Some examples: READ THE BOOK or OPEN
+THE DOOR or LOOK THROUGH THE WINDOW or GIVE THE BALL TO THE CAT. More complex
+sentences are described in "Communicating with Infocom's Interactive Fiction"
+on page 8.
+
+C. Commands to other characters: Talk to characters in the story by typing
+their name, then a comma, then what you want to say to them. For example: FRED,
+HI or OLD MAN, GIVE ME THE TROMBONE.
+
+D. Special commands: These give you information, such as INVENTORY, or affect
+the state of the program, such as VERBOSE. A list of these appears in the
+"Special Commands" section on page 9.
+
+3. After typing your input, you must press the RETURN (or ENTER) key before
+Stationfall will respond.
+
+4. Your screen will display a special line called the status line. It tells you
+your current location, your score, and the current time (if known).
+
+5. You can pick up and carry many of the items you'll find in the story. For
+example, if you type TAKE THE TUBE OF JELLY, you will then be carrying it.
+Type INVENTORY to see what items you have.
+
+6. When you want to stop, save your place in the story, or start over, read
+"Starting and Stopping" on page 7.
+
+7. If you have trouble, refer to the specific section of the manual for more
+detailed instructions.
+
+
+
+---------
+
+Page 14
+
+Copyright and Warranty Information
+
+
+Limited Warranty
+This software product and the attached instructional materials are sold "AS
+IS," without warranty as to their performance. The entire risk as to the
+quality and performance of the computer software program is assumed by the
+user.
+
+However, to the original purchaser of a disk prepared by Infocom and carrying
+the Infocom label on the disk jacket, Infocom, Inc. warrants the medium on
+which the program is recorded to be free from defects in materials and faulty
+workmanship under normal use and service for a period of ninety (90) days from
+the date of purchase. If during this period a defect on the medium should
+occur, the medium may be returned to Infocom, Inc. or to an authorized Infocom
+Inc. dealer, and Infocom, Inc. will replace the medium without charge to you.
+Your sole and exclusive remedy in the event of a defect is expressly limited to
+replacement of the medium as provided above. This warranty gives you specific
+legal rights and you may also have other rights which vary from state to state.
+
+THE ABOVE WARRANTIES FOR GOODS ARE IN LIEU OF ALL WARRANTIES, EXPRESS, IMPLIED,
+OR STATUTORY, INCLUDING, BUT NOT LIMITED TO, ANY IMPLIED WARRANTIES OF
+MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE AND OF ANY OTHER WARRANTY
+OBLIGATION ON THE PART OF INFOCOM, INC. SOME STATES DO NOT ALLOW LIMITATIONS
+ON HOW LONG AN IMPLIED WARRANTY LASTS, SO THE ABOVE LIMITATION MAY NOT APPLY TO
+YOU. IN NO EVENT SHALL INFOCOM, INC. OR ANYONE ELSE WHO HAS BEEN INVOLVED IN
+THE CREATION AND PRODUCTION OF THIS COMPUTER SOFTWARE PROGRAM BE LIABLE FOR
+INDIRECT, SPECIAL, OR CONSEQUENTIAL DAMAGES, SUCH AS, BUT NOT LIMITED TO, LOSS
+OF ANTICIPATED PROFITS OR BENEFITS RESULTING FROM THE USE OF THIS PROGRAM, OR
+ARISING OUT OF ANY BREACH OF THIS WARRANTY. SOME STATES DO NOT ALLOW THE
+EXCLUSION OR LIMITATION OF INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE ABOVE
+LIMITATION MAY NOT APPLY TO YOU.
+
+N.B. After the warranty period, a defective Infocom disk may be returned to
+Infocom, Inc. with a check or money order for $5.00 U.S. funds for replacement.
+
+
+Copyright
+
+The enclosed software product is copyrighted and all rights are reserved by
+Infocom, Inc.  It is published exclusively by Infocom, Inc.  The distribution
+and sale of this product are intended for the use of the original purchaser
+only and for use only on the computer system specified.  Lawful users of this
+program are hereby licensed only to read the program from its medium into
+memory of a computer solely for the purpose of executing the program.  Copying
+(except for one backup copy on those systems which provide for it -- see
+Reference Card), duplicating, selling, or otherwise distributing this product
+is a violation of the law.
+
+The manual and all other documentation contained herein arecopyrighted and all
+rights reserved by Infocom, Inc.  These documents may not, in whole or part, be
+copied, photocopied, reproduced, translated, or reduced to any electronic
+medium or machine-readable form without prior consent, in writing, from
+Infocom, Inc.
+
+Willful violations of the Copyright Law of the United States can result in
+civil damages of up to $50,000 in addition to actual damages, plus criminal
+penalties of up to one year imprisonment and/or $10,000 fine.
+
+Stationfall, Leather Goddesses of Phobos and A Mind Forever Voyaging are
+trademarks of Infocom, Inc. Planetfall and Sorcerer are registered trademarks
+of Infocom, Inc. The Hitchhiker's Guide to the Galaxy is a trademark of Douglas
+Adams.
+
+(C) 1987 Infocom, Inc. All rights reserved.
+Printed in U.S.A.
+
+(C) 2000 Activision, Inc. Reproduced with permission. All right reserved.
+
+
+

@@ -1,0 +1,1027 @@
+***************************************************************************
+*                             InvisiClues(tm)                             *
+*                          The Hint Booklet for                           *
+*                               TRINITY(tm)                               *
+***************************************************************************
+
+[Copyright by Infocom, Inc. Provided for non-commercial use only, with the
+sole intent of making information available that would otherwise be lost.
+
+To whoever presently holds the copyright to the information contained in
+this file: if you think the existence of this file violates your copyright,
+please complain and the file will be removed.
+
+Typed in from the original hintbook by Peter Doherty.]
+
+[Thanks to Jay Goemmer and Dave Robeson for filling in the missing answers
+to "How do I get a rodent?" on page 19 and to "How can I see the wires in
+the access panel? It's dark in there." and "Which is the correct wire?" on
+page 27.]
+
+
+Sample Question
+***************
+
+How do I fold a piece of paper to make it look like a bird?
+  A. Follow the instructions in your _Trinity_ package.
+  B. Find better instructions somewhere else.
+  C. Don't bother; buy another Infocom game instead.
+
+
+Table of Contents
+*****************
+
+The Kensington Gardens
+Beyond the White Door
+The Toadstools
+  The Mercury Door
+  The Pluto Door
+  The Neptune Door
+  The Libra Door
+  The Mars Door
+  The Alpha Door
+Epilogue
+The Quotations
+How Points Are Scrored
+For Your Amusement
+  Things You Can Ask the Bird Woman About
+  Have You Tried...?
+
+
+The Kensington Gardens
+**********************
+
+Who is the bird woman?
+  A. She sells bags of crumbs to tourists.
+  B. She's also a ripe source of information. You can ASK HER ABOUT many
+     things.
+  C. Ask her about Trinity, especially.
+
+What's a "p"?
+  A. It's British slang for pence.
+
+How do I buy a bag of crumbs?
+  A. INVENTORY.
+  B. TAKE THE CREDIT CARD THEN GIVE IT TO THE BIRD WOMAN.
+  C. If that doesn't work, try the seven-sided coin.
+
+Should I feed the pigeons?
+  A. Feel free.
+
+A roadrunner just took off with my ruby! How do I get it back?
+  A. Don't just stand there. CHASE THE ROADRUNNER.
+  B. Too late, eh? Maybe you should ASK THE BIRD WOMAN ABOUT THE ROADRUNNER.
+  C. Or ASK HER ABOUT THE RUBY.
+  D. Don't worry about the ruby right now. You'll have a chance to get it
+     back.
+
+What should I do with the paper bird?
+  A. It's floating just within reach.
+  B. TAKE THE PAPER BIRD.
+  C. EXAMINE THE PAPER BIRD.
+  D. UNFOLD THE PAPER BIRD.
+  E. READ THE PAPER BIRD.
+
+How do I get the bubble-making equipment from the boy?
+  A. You can't.
+
+How do I stop the boy from leaving?
+  A. If you leave the boy alone, he won't leave.
+
+Who is the woman with the umbrella?
+  A. EXAMINE HER. You might learn something.
+
+Why won't the sign painter let me use the stepladder?
+  A. Wait until he climbs down.
+  B. When he climbs down, show him the gallon of purple paint.
+  C. Sign painter? Stepladder? Purple paint?
+  D. Remember the warning in the introductions: Don't let the presence or
+     absence of questions, or the length of the answers, influence the way
+     you play.
+
+How do I stop the perambulator from sliding out from under me?
+  A. Don't stand in it.
+
+How do I get the parasol?
+  A. Maybe you can dislodge it from the branch.
+  B. Throw something at it.
+  C. THROW THE SOCCER BALL AT THE PARASOL.
+  D. Once you've got the parasol, forget the ball. You won't need it later.
+
+What is a "Wabe"?
+  A. EXAMINE THE SUNDIAL.
+
+Is there anything useful in the Wabe?
+  A. EXAMINE THE SUNDIAL. Now you know what a Wabe is.
+  B. EXAMINE THE GNOMON.
+  C. It's possible to remove the gnomon.
+  D. UNSCREW THE GNOMON THEN GET IT.
+
+What do the symbols on the sundial mean?
+  A. They represent various planets, constellations and characters from the
+     Greek alphabet.
+  B. They are, clockwise from seven o'clock:
+    1. Omega (last letter of the Greek alphabet)
+    2. Mercury (swift messenger of the Roman gods)
+    3. Pluto (Greek god of the underworld)
+    4. Neptune (Roman god of the sea)
+    5. Libra (the Scales; seventh constellation of the Zodiac)
+    6. Mars (Roman god of war)
+    7. Alpha (first letter of the Greek alphabet)
+
+How can I survive the hydrogen bomb attack?
+  A. You have to get out of the Kensington Gardens.
+  B. The exits are hopelessly blocked by nannies and tourists.
+  C. There's an event you want to witness at the right time and place.
+  D. Try reading the message on the paper bird.
+
+Is there a way to cross the grass?
+  A. Walking on the grass is not the answer.
+  B. Did you notice the bicyclists?
+  C. The grass didn't bother the bicyclists. If only you could find a
+     bicycle.
+  D. Or some other wheeled vehicle.
+  E. A perambulator, perhaps?
+  F. You need to get in the perambulator and find a means of propulsion.
+  G. Nobody will give you a push. But there's a strong wind.
+  H. Use the umbrella as a sail to move you while you're in the pram.
+  I. GET IN PRAM. OPEN UMBRELLA.
+
+The wind is blowing the wrong way! What do I do?
+  A. You need to do what the bird woman is telling you to do.
+  B. BUY A BAG OF CRUMBS. GET BAG. FEED THE BIRDS.
+  C. The wind direction mysteriously changes when the roadrunner steals the
+     ruby. Eerie, isn't it?
+
+What do I do at the Long Water?
+  A. Examine your surroundings carefully.
+  B. Get everything you can.
+  C. Don't take too long. Time is slowed, but not stopped.
+  D. GO EAST THEN ENTER THE WHITE DOOR to leave the Kensington Gardens.
+
+
+Beyond the White Door
+*********************
+
+Where am I?
+  A. Wherever you go, there you are.
+
+How can I get the ichor in the flytrap?
+  A. You can't.
+  B. It's a lure to trap people and insects.
+  C. Good thing you got away in time.
+
+Who is the boy?
+  A. He blows bubbles.
+  B. BIG bubbles. After all, he's a BIG boy (physically, not emotionally).
+  C. Don't annoy him too much. He's bigger than you now.
+
+How can I get the bubble-blowing equipment from the boy?
+  A. You can't.
+
+What's a pergola?
+  A. It's a framework for supporting climbing plants.
+  B. You can climb it, too.
+  C. Watch out, it twists and turns in more ways than you might expect.
+
+Who is Felix Klein?
+  A. He was a German mathematician who described a solid with only one
+     surface, essentially a three-dimensional version of the Mobius strip.
+     This construct is commonly referred to as a Klein bottle.
+  B. If you don't know what a Mobius strip is, you can look it up in an
+     encyclopedia.
+
+Everything is backwards! What happened?
+  A. If by backwards you mean east is west and left is right then ...
+  B. ... you flipped the universe (changed its handedness) by your actions.
+  C. Specifically, by your movement.
+  D. You moved through the pergola loop, which is really a Klein bottle.
+     (See previous question for details.)
+  E. Every time you completely move around the pergola loop, everything
+     outside changes handedness.
+  F. This is mostly confusing, but it also comes in handy.
+
+Where can I find a light source?
+  A. See anything that glows besides the lump?
+  B. Anything phosphorescent?
+  C. The log glows.
+  D. It also disintegrates into an easily carried splinter.
+
+My candle won't stay lit!
+  A. That's what you get for using cheap candles.
+  B. There are no candles in this story, cheap or otherwise.
+
+How can I get to the mesa?
+  A. The tree nearby would be useful if you could cross the chasm on a
+     branch.
+  B. But you can't climb the tree.
+  C. Maybe you can build a bridge.
+  D. Chop down the tree with the axe.
+  E. Don't forget to push the tree in the direction you want it to fall in.
+  F. CHOP THE OAK TREE WITH THE AXE. PUSH THE TREE NORTH.
+
+I need a cutting tool. Where's the nearest hardware store?
+  A. There are no hardware stores in this story.
+  B. But there are a couple of cutting tools.
+  C. One of them is hidden in a dark place.
+  D. You'll need a light to find it.
+  E. There's a silver axe at the top of the pergola.
+
+Who is "Wabewalker"?
+  A. Keep playing. The answer will dawn on you.
+
+How do I open the crypt?
+  A. You have to move the heavy lid.
+  B. Aristotle said he could lift the world with a long-enough lever.
+  C. Use something that's sturdy enough not to break.
+  D. What you need is inside one of the mushrooms.
+  E. OPEN THE CRYPT WITH THE SPADE.
+
+An iron door is blocking the tunnel! How do I get out of the barrow?
+  A. First you have to get past the barrow wight to the north.
+  B. There's some significance to the hole in the wall.
+  C. It's a keyhole.
+  D. There's a key that opens all kinds of locks.
+  E. A skeleton key.
+  F. See any skeletons around?
+  G. In the Ossuary, perhaps?
+  H. SEARCH THE BONES.
+  I. When you get the key it will fit in the hole; turning it will open a
+     secret way out of the barrow.
+
+How do I stop the barrow wight from killing me?
+  A. Barrow wights don't like light.
+  B. As long as you have a working light source, he'll leave you alone and
+     let you pass him.
+  C. And don't forget that!
+
+How can I carry water?
+  A. Water would be easy to carry if it weren't a liquid that spilled all
+     over the place.
+  B. You can't carry water. Not in its liquid state, anyway.
+
+How can I get the lump of metal?
+  A. You need to cool off the lump first.
+  B. You can't use water, since you have nothing to carry liquids in.
+  C. Use frozen water.
+  D. Use an icicle.
+  E. Great, big icicles are hanging in the Ice Cave behind the waterfall.
+  F. Unfortunately, the melting icicle will slip out of your grasp before
+     you can carry it to the lump...
+  G. ...unless you stop the icicle from melting too quickly.
+  H. Maybe you can refreeze the icicle. There are some places that are cold
+     enough to do this.
+  I. High altitudes are cold.
+  J. You can refreeze the icicle at the Vertex.
+  K. Take the icicle to the Vertex on the way to the lump. From the Ice
+     Cave go E. E. E. U. U. The icicle will refreeze. D. D. NE. E. E. will
+     get you to the crater in time to PUT THE ICICLE ON THE LUMP. (Note: you
+     might have to go W & NW instead of E & NE.)
+
+The icicles are out of reach! How do I get one?
+  A. Try solving this problem the way you solved another problem.
+  B. Throw something at the icicles. One (and only one) will fall for you.
+
+What is the significance of the giant book?
+  A. It's a book of records.
+  B. It records every move you make.
+  C. "Curiouser and curiouser."
+
+What is the liquid in the cauldron?
+  A. It's a boiling potion, magically heated.
+  B. Maybe you can drink the potion.
+  C. You shold finish brewing it first.
+  D. There's a formula around here somewhere.
+
+What is the magpie babbling about?
+  A. Magpies just repeat what they hear.
+  B. When it's not repeating you, it's repeating something else it's heard.
+  C. Maybe what is has to say is important. You should listen to it.
+  D. Hmm. Sounds like a recipe.
+  E. A recipe for a magic spell!
+
+Where can I find some milk?
+  A. There are no animals around to provide milk.
+  B. However, you can get milk from other sources.
+  C. The source of milk is inside one of the mushrooms.
+  D. The coconut on the tropical island is a source of milk.
+
+How do I milk a grue?
+  A. Very carefully.
+  B. There are no grues in this story.
+  C. But there are plenty of grues in _Wishbringer_(R), our best-selling
+     introductory fantasy which _inCider_ magazine called "beautiful and
+     imaginative" and _Compute!'s Gazette_ praised as "a very enjoyable
+     game." Look for it at your favorite Infocom dealer. (_Wishbringer is a
+     registered trademark of Infocom, Inc._)
+
+I still don't have any milk. How do I get some?
+  A. The milk is inside the coconut.
+  B. You have to find a way of opening the coconut.
+  C. Break the coconut with something heavy.
+  D. DROP COCONUT. BREAK COCONUT WITH AXE. GET COCONUT. Then you can either
+     drink the milk or pour the milk into something.
+
+Where can I get some honey?
+  A. Where is honey usually made?
+  B. In a beehive. EXAMINE THE BEEHIVE.
+  C. REACH INTO THE BEEHIVE.
+  D. You'll get a bee the first time.
+  E. If you reach in a second time, you'll get honey.
+  F. Don't be too greedy!
+
+How can I get the honey off my hand?
+  A. You need to dissolve the honey.
+  B. The honey will dissolve in water.
+  C. Stick your hand in some water.
+  D. You should stick your hand in the cauldron so that the honey is added
+     to the recipe. Ouch!
+
+How can I stop the bee from chasing and killing me?
+  A. Keep moving. It can't sting you if you are on the run, nor will it
+     follow you indoors or through toadstools. (This is one of those puzzles
+     that you don't really have to solve. But if you really want to get rid
+     of the bee, then continue.)
+  B. Bees love pollen or other sweet-smelling objects.
+  C. Move near the flytrap. The bee will get distracted by the ichor and get
+     trapped and eaten. But first, make sure the flytrap is open.
+
+Where can I find a lizard?
+  A. Study "The Illustrated Story of the Atom Bomb" carefully.
+  B. It's inside one of the mushrooms.
+  C. It's the skink in the underground area.
+
+Where can I find garlic?
+  A. Garlic is an herb.
+  B. Maybe there's some in the Herb Garden.
+  C. LOOK IN THE PILE OF REFUSE. There's a clove of garlic there.
+
+I've got all the ingredients for the spell, but what do I do with them?
+  A. There's a potion already brewing in the cauldron.
+  B. Why not dump the items into the cauldron?
+  C. "Then stand back! 'Cause it go BOOM!"
+
+How do I survive the explosion?
+  A. Don't be in the room when it occurs.
+
+I have a dead animal in the cage. What happened?
+  A. It's probably incinerated. Don't leave caged animals in the Cottage
+     when you brew the potion.
+
+Why are the shades crossing the river?
+  A. To get to the other side.
+
+How do I cross the river?
+  A. Remember when you died? (If you don't remember, or haven't died yet,
+     try the next clue.)
+  B. Do as the shades do.
+  C. Of course you have to look like a shade first.
+  D. You need the proper attire (not London vacation clothes).
+  E. Since you can't borrow the clothes you need from the shades, maybe you
+     can get them from a dead body.
+  F. Open the crypt and get the burial shroud to wear over your clothes.
+     Then get on the boat and pay the oarsman to cross the river.
+  G. WEAR THE BURIAL SHROUD. BOARD THE DORY THEN GIVE THE COIN TO THE
+     OARSMAN.
+
+The oarsman won't take my 20 p. Where can I find a silver coin like the
+shades have?
+  A. The shades have their coins because they were buried with them.
+  B. Maybe the body on which you found the shroud also has a silver coin.
+  C. Remove the bandage and look in the mouth. The silver coin is hidden
+     there.
+
+
+The Toadstools
+**************
+
+How do I open the doors in the toadstools?
+  A. You don't; something else does.
+  B. Watch a toadstool for a while; just WAIT around.
+  C. The door opens when the shadow is on the door.
+  D. All you have to do is be in the right place at the right time.
+
+I'm inside a toadstool but the door closed on me. How do I get out?
+  A. The shadow that opened the door kept moving.
+  B. The door closed behind you when the shadow moved on.
+  C. Too bad the shadow won't come around again until after the bomb
+     explodes. You need to stop the shadow on the door.
+
+How can I stop the shadow?
+  A. Have you been to the Vertex?
+  B. There's a gnomon missing from the sundial.
+  C. If you screw the gnomon from Kensington Gardens into the hole, a lever
+     will appear. Easier said than done.
+  D. Aristotle said he could lift the world with a long-enough lever. You
+     can stop the world with your lever!
+  E. The shadow stops moving when the lever is lowered. Or is it the sun
+     that stops?
+
+My threads clash. What do I do?
+  A. Get a better tailor.
+  B. Seriously, you need to reverse one set of threads.
+  C. Look around and see if you can make things reverse.
+  D. The writing on the sculpture in the Arboretum will reverse.
+  E. To do this, walk completely through the pergola. N. U. S. D.
+  F. This switches the handedness of everything outside the pergola.
+  G. If you carry the gnomon with you, it won't switch, and the hole at the
+     vertex will, allowing you to screw the gnomon into the hole.
+  H. This will probably mess up your map, but you can fix that by going
+     through the pergola without the gnomon.
+
+How do I get the shadow to stop on the toadstools?
+  A. If you don't know how to stop the shadow, look two questions earlier.
+  B. There is an easy way and a hard way.
+  C. The hard way is to lower the lever as the shadow moves across a symbol.
+  D. The easy way is to use the ring. Lower the lever, stopping the shadow,
+     then turn the ring (and the sun along with it) so that the arrow on it
+     points to where you want the shadow to stop.
+
+
+The Mercury Door
+****************
+
+How do I survive in Earth Orbit?
+  A. You need to bring an air supply along with you.
+  B. If you could only make a "space suit." You need to be entirely
+     enclosed.
+  C. Have you noticed the boy at Promontory?
+  D. Gotten in his soap dish?
+  E. If you get in his soap dish, you'll eventually end up inside a bubble.
+  F. Use the bubble as a space suit, but hurry before it pops.
+
+How do I get to the satellite?
+  A. You need to change your trajectory, but when enclosed inside a soap
+     bubble that's hard to do.
+  B. You can't change your momentum by propulsion because of the bubble.
+  C. Gravity is too weak; try another fundamental force of nature.
+  D. Try magnetism.
+  E. The satellite is metallic, so if you had a strong magnet you might be
+     drawn there. You never know till you try.
+  F. Carry the lump of metal -- it's a magnet -- along with you into space.
+     It will be attracted to the satellite, taking the bubble along with it.
+
+How do I get back to the white door?
+  A. The satellite is heading in the direction you are coming from.
+  B. Getting on the satellite will help you get back to the door.
+  C. You have to enter the white door when it reappears.
+  D. However, the bubble is anchoring you to the satellite.
+  E. Break the bubble with something sharp. The backblast of the expanding
+     air off of the satellite will propel you through the white door.
+
+Big deal! I came, I saw and I left. What's there to do in space?
+  A. Did you examine your surroundings?
+  B. EXAMINE THE MOON.
+  C. It's a crescent moon. Ring a bell? The magpie mentioned a crescent
+     moon.
+  D. You are supposed to kill the skink in the light of a crescent moon.
+  E. Earth Orbit is the perfect location to KILL THE SKINK.
+
+
+The Pluto Door
+**************
+
+How do I catch the skink?
+  A. It avoids light.
+  B. It runs into the crevice to avoid light.
+  C. You have to put some light source in the crevice to drive it out.
+  D. The only light source that fits is the splinter.
+  E. Now it runs away from the crevice because there's still some light from
+     the splinter.
+  F. You need to turn on the lantern to track it down.
+  G. It runs away from the lit lantern, but never runs into the bomb room.
+  H. If you leave the lantern in the middle underground room while lit, the
+     skink will go the room with the crevice. It's a creature of habit.
+  I. Once you've trapped the skink between the two lights it'll be totally
+     flummoxed and you'll be able to get it.
+
+How do I keep the skink once I've caught it?
+  A. The skink will eventually jump out of your hands, so you need to carry
+     it in a container.
+  B. The wicker of the cage is too widely spaced to hold the skink.
+  C. Remember that it likes dark places.
+  D. Your nice dark pocket would be the perfect place to carry a skink.
+
+Where do I kill the skink?
+  A. Where the magpie says.
+  B. Under the light of a crescent moon.
+  C. Finding the moon is your problem. Continue only if you can't find a
+     moon.
+  D. It's through one of the mushroom doors.
+  E. At Earth Orbit, through the mushroom near the waterfall.
+
+How do I fix the talk button on the walkie-talkie?
+  A. By taking apart the walkie-talkie, getting out your soldering iron,
+     using the talkie diagram to figure out the wiring, and rewiring the
+     talkie thereby voiding its warranty.
+  B. You can't.
+
+How do I know what to tune the walkie-talkie to?
+  A. It starts off tuned to the frequency used by the people testing the
+     bomb that's underground.
+  B. You can also use it to listen to radio traffic once you go through the
+     "alpha" mushroom (seventh on the ring).
+
+My light went out. What happened?
+  A. Your battery ran out.
+  B. You should have conserved your light. You'll need it later.
+
+
+The Neptune Door
+****************
+
+How do I get out of the building?
+  A. There's a button somewhere that will open the sliding dors.
+  B. OPEN THE BOX THEN PUSH THE RED BUTTON.
+
+How do I get past the crabs?
+  A. There sure are a lot of them.
+  B. You can't.
+
+How do I get the coconut?
+  A. You need some help to get the coconut.
+  B. There's a friendly dolphin nearby.
+  C. The dolphin can't get the coconut until the coconut starts floating on
+     the water.
+  D. Then DOLPHIN, GET ME THE COCONUT will work.
+
+What are those messages I keep hearing?
+  A. You must have flipped the toggle switch in the box.
+  B. It's the countdown for the bomb that's about to explode on your nice
+     tropical island.
+
+
+The Libra Door
+**************
+
+How do I get a rodent?
+  A. You have to find one that isn't moving.
+  B. Go to the Cliff Edge. It's a distance NE from the Platform.
+  C. LOOK IN THE CREVICE THEN GET THE LEMMING.
+
+How do I keep a lemming?
+  A. The lemming will eventually jump out of your hands, so you need to
+     carry it in a container.
+  B. Lemmings hate being trapped and will escape if they can.
+  C. It'll fit in the cage.
+  D. You'll have to let the magpie go.
+  E. PUT THE LEMMING IN THE CAGE THEN CLOSE THE CAGE.
+
+How do I infiltrate the Russian camp?
+  A. Put on the Russian uniform you got from the guard on the platform.
+  B. Uniform? Guard?
+  C. You can't infiltrate the camp. You probably couldn't speak Russian, and
+     if you could you wouldn't know the password anyway.
+  D. Password?
+
+What are those messages I keep hearing?
+  A. They are in Russian.
+  B. It's the countdown for the bomb that's about to explode in your nice
+     grim permafrost.
+
+
+The Mars Door
+*************
+
+How do I survive falling?
+  A. You need to slow your descent.
+  B. An umbrella will make a great parachute.
+  C. OPEN THE UMBRELLA after entering the white door.
+
+Who is the little girl?
+  A. She's one of the schoolchildren.
+  B. She likes umbrella-twirling and origami.
+
+How do I survive the bomb?
+  A. The bomb shelter isn't good enough.
+  B. You can't survive it.
+  C. You have to get out the way you came in.
+
+How do I get back to the white door?
+  A. You need to fly back up to the door.
+  B. No airplanes available? Try something else.
+  C. Did you notice the origami around the school?
+  D. There are origami birds.
+  E. Birds can fly.
+  F. The children know how to fold origami, unlike you.
+  G. Try giving the small girl the piece of rice paper. It used to be a
+     bird.
+  H. She refolds it, and the bird now twinkles because it's magical.
+  I. The girl won't give you the paper bird unless you give her something
+     she wants in return.
+  J. GIVE THE UMBRELLA TO THE LITTLE GIRL.
+  K. The paper bird she refolds will magically enlarge outside the shelter.
+     The bird will carry you back to the white door if you get on it.
+
+
+The Alpha Door
+**************
+
+How can I get back through the white door? It closed on me.
+  A. Run in circles, scream and shout.
+  B. You can't.
+
+What do the lines on the bookmark mean?
+  A. It's a circuit diagram.
+  B. Hold onto it. You'll need it later.
+
+How do I open the access panel?
+  A. EXAMINE THE ACCESS PANEL.
+  B. Looks like you'll need a screwdriver.
+  C. Go get it then come back and open the panel.
+
+What's all the commotion below the shack?
+  A. The people below are completing some last-minute preparations.
+  B. They are getting away before the bomb in the shack explodes.
+  C. You should get away, too.
+  D. But wait for the others to get away first. If they see you...
+
+How long do I have before the bomb explodes?
+  A. Consult "The Illustrated Story of the Atom Bomb."
+  B. Look at your watch.
+  C. Subtract B from A.
+
+How do I open the wooden box?
+  A. EXAMINE THE WOODEN BOX.
+  B. Looks like you need a key.
+  C. Go get the key then come back.
+
+I don't have time to do everything before the bomb explodes!
+  A. There's a lot of ground to cover in moving around. Optimize your
+     movements.
+  B. If optimizing your movements doesn't help, then continue.
+  C. If you could only move around faster...
+  D. The boots you saw in the crypt can help you move faster.
+  E. Of course, they must be magically energized first.
+  F. Did you notice the color of the boots?
+  G. Other items in the story match the color of the boots.
+  H. The ruby and the emerald. If you don't have the emerald then RESTORE
+     back to the middle section and complete the magpie's magic spell.
+  I. PUT THE EMERALD IN THE GREEN BOOT. PUT THE RUBY IN THE RED BOOT. This
+     will help you move faster when you're wearing the boots.
+
+How can I find the correct frequency to tune my walkie-talkie?
+  A. The correct frequency is that used by the people you heard earlier at
+     the bottom of the tower.
+  B. It's located on another radio.
+  C. That radio is in the jeep, on the Paved Road leading northwest.
+  D. ENTER JEEP. LOOK AT RADIO. LOOK AT OVERSIZED DIAL. Don't forget to turn
+     on the walkie-talkie and raise the antenna or it won't work.
+
+Who are "Able," "Baker" and "Pittsburg"?
+  A. Consult the map in your Trinity package.
+
+What do I do in the shallow crater?
+  A. You can search it if you like.
+  B. But you won't find anything useful.
+  C. The crater is included only for the sake of historical accuracy. It
+     marks the place where the Trinity scientists conducted a test explosion
+     of 100 tons of TNT on May 7, 1945. The test was used to calibrate their
+     instruments and develop safety procedures for the full-scale test on
+     July 16.
+
+Where can I find a screwdriver?
+  A. Consult "The Illustrated Story of the Atom Bomb."
+  B. Maybe there's still one in the ranch house.
+  C. Look around the Assembly Room.
+  D. The screwdriver is under the brown paper in the Assembly Room.
+
+I got bitten by the snake! What do I do now?
+  A. First aid won't work in time.
+  B. RESTORE.
+
+How can I search the Assembly Room wihout getting bitten by the snake?
+  A. Get rid of the snake first. Otherwise you can't.
+  B. It's hungry, and would rather bite food than you.
+  C. Find it something to eat.
+  D. It will eat the lemming. The hard part is feeding the lemming to the
+     snake.
+  E. The lemming won't leave the cage if it can see the snake.
+  F. The lemming won't run towards the snake if it doesn't have to.
+  G. Put yourself in a position where a freed lemming will have to try to
+     escape by running past the snake.
+  H. Did you notice the open closet in the Assembly Room?
+  I. ENTER THE CLOSET. CLOSE THE DOOR. OPEN THE CAGE. OPEN THE CLOSET DOOR.
+
+I fell in the reservoir and lost what I was carrying. Where did it all go?
+  A. You dropped it when you fell.
+  B. It's at the bottom of the dark, murky reservoir.
+  C. You'll need a light to see down there.
+
+How do I get the binoculars?
+  A. GET THE BINOCULARS.
+  B. Oops, you fell into the reservoir. Now the binoculars are at the
+     bottom.
+  C. DIVE.
+  D. You'll need a light to see down here.
+  E. Don't carry the unlit lantern with you when you fall into the
+     reservoir.
+  F. TURN ON THE LANTERN just before you try to GET THE BINOCULARS on the
+     Windmill.
+  G. Or DROP THE LANTERN outside the reservoir, go for the binoculars, then
+     get the lantern and go diving for the binoculars with a lit lantern.
+
+I have a dead animal in the cage. What happened?
+  A. It's probably drowned. Don't take caged animals with you when you get
+     the binoculars or go diving.
+
+What's the purpose of the vessel hanging in the steel frame?
+  A. The mysterious vessel is included for the sake of historical accuracy.
+     "Jumbo," as it was affectionately known, was built to contain the
+     Trinity device and prevent the loss of its precious plutonium in the
+     event of a misfire. In the end, the scientists decided not to use
+     Jumbo, and hung it near the shot tower to see what would happen to it.
+     (The steel framework was utterly demolished, but Jumbo survived more or
+     less intact.)
+  B. Don't worry. You don't need Jumbo to complete the story.
+
+How do I prevent the roadrunner from eating all my crumbs? I need to drop
+the bag of crumbs so it doesn't get ruined by water.
+  A. Don't leave the bag unattended and accessible around the roadrunner.
+  B. Gary drops the bag at the bottom of the tower on his way from the jeep
+     to the ranch, while the roadrunner isn't in sight.
+  C. Suzanne leaves the bag of crumbs on the edge of the reservoir. The
+     roadrunner never goes there.
+  D. Amy hides the bag of crumbs in the closet.
+  E. Liz puts the bag of crumbs in the cage, and closes the cage while she's
+     still in the closet with the lemming.
+  F. Max is cruel. He puts the roadrunner in the cage and leaves the bag
+     outside the cage.
+
+How do I get into the shelter or blockhouse?
+  A. You can't. You'll get caught if you try.
+
+Where do I find the key to the lock?
+  A. The people who locked the box probably have it.
+  B. It is in one of the outposts.
+  C. There's only one place you can see into without being caught.
+  D. You can see into the south shelter, while hiding behind the shed.
+  E. LOOK IN THE SHELTER.
+  F. You're too far away to see anything clearly.
+  G. There is a way to make things look closer.
+  H. Use the binoculars.
+  I. LOOK IN THE SHELTER THROUGH THE BINOCULARS.
+
+How do I get the key?
+  A. You can't enter the shelter to get it without being caught.
+  B. Maybe someone or something will get it for you.
+  C. Surely not one of the GIs.
+  D. Not the thin man in the hat.
+  E. How about your pal, the roadrunner?
+  F. ROADRUNNER, GET ME THE KEY.
+
+Can I do anything with what's inside the box without getting caught?
+  A. Yes.
+  B. You need the walkie-talkie turned on and tuned to the correct frequency
+     when you open the circuit breaker.
+  C. Listen closely to what they say over the walkie-talkie. There are two
+     pieces of information you need to know.
+  D. You need to know the circuit that you've broken. WARNING: the circuit
+     changes each time you open the breaker for the first time in the game.
+     POS=positive, INF=informer, GND=ground, or DET=detonator.
+  E. CLOSE THE BREAKER before they scrub the test and come get you!
+  F. Did you hear what they said about scrubbing the test?
+  G. If the circuit goes dead AFTER the autosequencer starts (at zero minus
+     45 seconds), they will let it go, thinking it's just a damp line.
+
+How do I get back up to the top of the tower without getting arrested?
+  A. You need to not be seen by the people manning the searchlight.
+  B. If you could knock out or divert the searchlight long enough they won't
+     get a confirmed sighting on you.
+  C. It helps a lot to have your walkie-talkie on and tuned while you try to
+     attempt to regain the tower.
+
+How do I prevent the roadrunner from waking up the dog while I'm there?
+  A. You can put the roadrunner in the cage.
+  B. You can also drop the bag of crumbs (with crumbs in it) for the
+     roadrunner to eat. However, this only lasts for a few moves before the
+     roadrunner starts to bother the dog.
+
+How do I get rid of the searchlight?
+  A. You'll get caught if you try to damage the searchlight.
+  B. The searchlight isn't the problem. The people using it are.
+  C. Maybe you can divert them.
+  D. Did you notice that the roadrunner picks a fight with the German
+     shepherd?
+  E. The people in the blockhouse move the searchlight to see what all the
+     commotion is about.
+  F. If you leave right after the roadrunner hops up on the dog you won't
+     get caught, but neither will you make it to the tower before the
+     searchlight is moved back.
+  G. There's a clever way to delay the fight.
+  H. If there are crumbs left in the bag, dropping the bag will keep the
+     roadrunner occupied eating crumbs long enough for you to get back to
+     the tower before the roadrunner picks a fight with the dog. Just in
+     time for you to climb the ladder when the searchlight moves away.
+  I. WAIT at the dog until the roadrunner appears and starts pecking on the
+     dog. DROP THE BAG OF CRUMBS. The roadrunner will start eating the
+     crumbs. NE. NE. NE. NE. U. U. E. You can also drop the bag before the
+     roadrunner shows up. In this case he'll go straight for the bag and
+     leave the dog alone until he's finished the crumbs.
+
+How do I sabotage the bomb?
+  A. You need to open the access panel in the shack and cut a wire without
+     having the test stopped by the people running it. Piece of cake.
+
+How can I see the wires in the access panel? It's dark in there.
+  A. You can turn on your lantern.
+  B. Or you can PULL THE CHAIN to turn on the light bulb in the shack.
+
+Which is the correct wire?
+  A. There are two pieces of information you need.
+  B. You need to read the circuit diagram for the color coding of the
+     wires.
+  C. You need to know which circuit they will ignore being cut. See the
+     question about what's inside the box.
+  D. RD is red, WH is white, ST is striped, and BL is blue.
+  E. Check the circuit diagram to see which circuit is which color and cut
+     that colored wire.
+
+I sabotage the bomb but still lose. Why?
+  A. You may not have known which wire to cut. Did you read the diagram and
+     open the circuit breaker?
+  B. You may have figured out the wire color incorrectly. (Note: the
+     identity of the "correct" wire changes. Be very careful when you
+     RESTORE.)
+  C. You may have cut the wire too soon. You should cut the wire AFTER the
+     autosequencer has taken over the countdown. Listen carefully to the
+     countdown on the walkie-talkie.
+
+
+Epilogue
+********
+
+What's going on?
+  A. Read the Emily Dickinson quote.
+
+What do I do now?
+  A. Feel free to do what you like.
+  B. Read all the text carefully, and don't type new commands until you've
+     read all the text on the screen. Otherwise you may miss the ending.
+
+
+The Quotations
+**************
+
+  1. LOOK AT THE SUNDIAL in the Wabe. The quotation is from Lewis Carroll's
+     _Through the Looking-Glass_.
+  2. LOOK AT THE SYMBOLS on either sundial. The quotation is from "The
+     Gospel of St. Matthew" in The New Testament.
+  3. Watch a bubble pop at Inverness Terrace or the Promontory. The quote is
+     from Alexander Pope's "An Essay on Man."
+  4. Wait for the air raid sirens in the Kensington Gardens. The quote is
+     from Henry David Thoreau's article "A Natural History of
+     Massachusetts."
+  5. LOOK AT THE SUNDIAL on the Vertex. The line from Arthur Rimbaud's poem
+     "Enfance" means "There is a clock that makes no sound."
+  6. LOOK AT THE SCULPTURE in the Arboretum. Clarke's quotation is from his
+     book _Profiles of the Future_. Dave Lebling's version appears in the
+     _InvisiClues_ hint booklet for _Spellbreaker_.
+  7. LOOK AT THE CHILDREN in Nagasaki. The quotation is from Hawthorne's
+     _American Notebooks_.
+  8. LOOK AT THE SPHERE in the Shack. The quotation is from "The Tail"
+     chapter of Herman Melville's _Moby Dick_.
+  9. READ THE POEM on the bookmark. The anonymous ditty is noted in several
+     books about the history of the Trinity Test and Los Alamos.
+ 10. ENTER THE DOOR in the shack. The quotation is from David Byrne's song
+     "Once in a Lifetime," from Talking Heads' album _Remain in Light_.
+ 11. EXAMINE THE THIN MAN. The lines appear in "Song of Myself," from Walt
+     Whitman's _Leaves of Grass_.
+ 12. The epilogue quote is from an untitled Emily Dickinson poem (number 376
+     in Johnson's _Complete Poems_).
+ 13. The quote on the bottom of the sundial in the package is from another
+     untitled Emily Dickinson poem (Johnson 1478).
+ 14. The phrase "All prams lead to the Kensington Gardens" is from J. M.
+     Barrie's _The Little White Bird_.
+
+
+How Points Are Scored
+*********************
+
+  Action                                       Points
+
+  GET THE BALL                                      1
+  GET THE GNOMON                                    5
+  BUY A BAG OF CRUMBS                               1
+  GET THE UMBRELLA                                  5
+  GET THE PAPER BIRD                                3
+
+     Kensington Gardens Total                      15
+
+  GET THE SPLINTER                                  1
+  GET THE AXE                                       1
+  SCREW THE GNOMON INTO THE HOLE                    5
+  GET THE GARLIC                                    1
+  GET THE CAGE                                      1
+  GET THE SPADE                                     1
+  GIVE THE UMBRELLA AND PAPER TO THE GIRL           3
+  PUT THE LEMMING IN THE CAGE                       1
+  PUSH THE TREE NORTH                               3
+  GET THE COCONUT                                   3
+  GET THE SKELETON KEY                              1
+  GET THE LANTERN                                   1
+  GET THE SKINK                                     3
+  GET THE WALKIE-TALKIE                             1
+  TURN THE KEY IN THE HOLE                          1
+  GET THE ICICLE                                    1
+  PUT THE ICICLE ON THE LUMP OF METAL               3
+  GET THE LUMP OF METAL                             1
+  KILL THE SKINK                                    3
+  REACH INTO THE HIVE                               3
+  BREAK THE COCONUT WITH THE AXE                    1
+  POUR THE MILK INTO THE CAULDRON                   1
+  PUT THE DEAD SKINK INTO THE CALDRON [sic]         1
+  PUT GARLIC IN CAULDRON                            1
+  PUT MY HAND IN THE CAULDRON (honey on hand)       1
+  GET THE EMERALD                                   1
+  MOVE THE LID WITH THE SPADE                       3
+  GET THE BURIAL SHROUD                             1
+  GET THE SILVER COIN                               1
+  PUT THE EMERALD IN THE GREEN BOOT                 1
+
+     Wabe Total                                    50
+
+  GET THE CARDBOARD SLIP                            1
+  LOOK AT THE DIAGRAM                               3
+  GET THE RUBY                                      1
+  PUT THE RUBY IN THE RED BOOT                      1
+  LOOK AT THE OVERSIZED DIAL                        3
+  TURN WALKIE-TALKIE TO ??                          3
+  GET THE STEAK KNIFE                               1
+  OPEN THE CLOSET DOOR (snake eats lemming)         3
+  GET THE SCREWDRIVER                               1
+  GET THE BINOCULARS                                1
+  LOOK IN THE SHELTER THROUGH THE BINOCULARS        3
+  BIRD, GET THE KEY                                 3
+  GET THE KEY                                       1
+  OPEN THE BOX WITH KEY                             1
+  CLOSE THE BREAKER                                 1
+  OPEN THE ENCLOSURE WITH THE SCREWDRIVER           3
+  CUT THE ?? WIRE WITH THE STEAK KNIFE              5
+
+     Trinity Site Total                            35
+
+     GRAND TOTAL                                  100
+
+
+For Your Amusement
+******************
+(after you've finished the story)
+
+Things You Can Ask the Bird Woman About
+
+  TRINITY or PLUTONIUM
+  ROADRUNNER (before and after you see it)
+  WATCH
+  RUBY (before and after you see it)
+  LONDON
+  SOCCER BALL
+  ROUND POND
+  LONG WATER
+  STATUE OF QUEEN VICTORIA
+  BAG OF CRUMBS
+  GNOMON
+  PIGEONS
+  CHANGE
+  CREDIT CARD
+  PERAMBULATOR
+  BOY
+  GRASS
+  PAPER BIRD
+  PIECE OF RICE PAPER
+  UMBRELLA
+  ALBERT MEMORIAL
+  HERSELF
+  WABEWALKER
+
+Have You Tried...
+
+  to stand in the perambulator?
+  to give the credit card or small coin to the oarsman or the bird woman?
+  to hit the small boy or the giant boy?
+  to put things in the Klein bottle, then going to the top of the pergola?
+  to read the book in the cottage several times?
+  to look inside the hole in the tunnel wall?
+  to eat the skink?
+  to pet the roadrunner?
+  to ask the roadrunner to look under the brown paper?
+  to look at the boy in the photo in the wallet in the jeep?
+  to sit on the missile at Long Water?
+  to eat a toadstool?
+  to unscrew the underground bomb?
+  to refer to:
+    The river as Styx?
+    The fin as Jaws?
+    The dolphin as Flipper?
+    The rodents as lemmings before you recognize the species?
+    The Japanese city as Nagasaki (or Hiroshima) while falling?
+    The oarsman as Charon?
+    The thin man as Oppenheimer?
+  to die by:
+    Kissing the wight?
+    Jumping in the chasm with an open umbrella or inside a bubble?
+    Chopping at a bomb with the axe?
+    Jumping off the cliff with the lemmings?
+    Going to the Russian buildings in the tundra?
+    Reaching into the beehive a third time?
+

@@ -1,0 +1,3238 @@
+0,"MACROS for TRINITY: (C)1986 Infocom, Inc. All rights reserved."
+7,"VERBS for TRINITY: (C)1986 Infocom, Inc. All Rights Reserved."
+19,"0 = super, 1 = brief, 2 = verbose."
+21,[Brief descriptions.]
+22,[Super-brief descriptions.]
+24,[There are no visible exits.]
+31,"You feel much as you'd expect, considering what you've been through."
+33,Move all worn objects to WEARING for separate sentence.
+46,"not holding anything, "
+55,Are you sure you want to 
+64,[Please type YES or NO.] >
+82,. This gives you the rank of 
+88,"0 = not offered, 1 = on, 2 = off."
+89,[Score notification o
+94,[Your score just went up by 
+99,[NOTE: You can turn score notification on or off at any time with the NOTIFY command.]
+100,There aren't any clocks visible.
+106,s a transcript of interaction with
+110,An Interactive Fantasy
+111,"Copyright (C)1986 Infocom, Inc. All rights reserved."
+114," is a trademark of Infocom, Inc."
+129, is phosphorescent. It couldn't possibly 
+141, could sell you anything.
+152,You must display your 
+156, wouldn't be accepted here.
+160,is looking for a fight
+168,You couldn't possibly open 
+180,"Your mind wanders, and you lose count."
+183,You couldn't possibly cut 
+187,Better not. The axe might 
+192,You couldn't possibly rip 
+203,There's nothing here to drive.
+225,floats quietly on the water.
+228, beneath the dark water.
+252," would agree with me."""
+254,"[Presumably, you mean WEAR "
+256,"[Presumably, you mean LOOK AT "
+257,", not LOOK INSIDE or LOOK ON or LOOK UNDER or LOOK BEHIND "
+280,There's nothing to fill it with.
+287,You'll have to do that 
+288,right here in front of you.
+300,n't visible at the moment
+308,The crumbs are all gone.
+309, shows little interest in your offer.
+311,would accept your offer
+312,is interested in selling anything
+317,", but makes no comment."
+318,How could you turn down such a tempting 
+320,There aren't any good hiding places here.
+338,You couldn't turn that 
+343,That'd be a cute trick.
+344,This is no time for resting.
+361,could help you do that
+373,There's nothing behind 
+403,", but doesn't respond."
+408,illuminate anything with 
+413,"[To do that, just DROP EVERYTHING.]"
+431,There isn't enough room 
+441,They're already in the bag.
+442,[You must specify an object.]
+456,There isn't enough room 
+459,Maybe you should take 
+467," squirms uncomfortably for a moment, then lies still."
+472,That hiding place is too obvious.
+473,put anything under that.
+474,What a wholesome idea.
+477,Toying in this way with
+481,", but experience nothing "
+487,There's nothing written on it.
+490,would appreciate your reading
+491,Maybe you ought to do it.
+495,confined by anything.
+497, doesn't need replacement.
+500,"[If you're really stuck, maps and InvisiClues(TM) Hint Booklets are available at most Infocom dealers, or use the order form included in your "
+507,wants to play piggyback
+526,You're already sitting.
+531,There's barely enough room.
+532,You begin to feel a little dizzy.
+541, doesn't need adjustment.
+546,*** CHARACTER INTERACTION DEFAULTS ***
+554,The Greatest Story Ever Told
+557,You begin to get a sore throat.
+561,There's no need to thank 
+562,That would involve quite a contortion.
+563,You hit your head against 
+564, as you attempt this feat.
+565,Better not. The bread crumbs might fall out.
+573,tie anything with that.
+580,"[Presumably, you mean WALK TO "
+585,You put one boot forward
+588, streaks past in a dizzy rush of color
+605,The desert streaks past
+606,The ground blurs beneath your feet
+607,You streak across the desert
+608,You zoom over the landscape
+612,[Which way do you want to go?]
+616,[That's too long to WAIT.]
+618,You may be waiting quite a while.
+656,You're holding too much already.
+657,So that .L an be analyzed.
+658,Count # objects being carried by THING.
+660,Return total weight of objects in THING.
+664,It's completely dark.
+668,n't do anything useful
+670, have no desirable effect
+671,n't be very productive
+675,What a ridiculous concept
+684,[To what are you referring?]
+685,[You must be more specific.]
+686,There's no point in doing that
+687,That would be pointless
+688,That's a pointless thing to do
+698,You take a deep breath.
+699,You gasp and clutch your throat in the surrounding vacuum.
+700,You'd have to inhale first.
+701,You begin to breathe normally.
+702,Not recommended here.
+703,You're not underwater.
+704,You couldn't possibly 
+714,"[Yes, this story does recognize crudity.]"
+715,"EVENTS for TRINITY: (C)1986 Infocom, Inc. All rights reserved."
+716,Length of an interrupt entry.
+717,Offset of routine name.
+720,This version of QUEUE automatically enables as well.
+722,[Too many interrupts!]
+727,A strong gust of wind snatches the 
+729,"'s hands and sweeps it into the branches of the tree.
+
+The woman circles the tree a few times, gazing helplessly upward. That "
+730," obviously means a lot to her, for a wistful tear is running down her cheek. But nobody except you seems to notice her loss.
+
+After a few moments, the "
+731," dries her eyes, gives the tree a vicious little kick and shuffles away down the "
+733,"Passersby begin to gather, craning to see what everyone else is looking at. You hardly notice them. Even when the sirens begin "
+734, for a few moments. Even as the sirens continue 
+735,"to howl, and the crowd scatters like leaves in the "
+736,", you can't take your eyes off the "
+737," swaying in the branches, back and forth.
+
+A gentle voice whispers in your ear. "
+743, waiting impatiently at your feet
+753,", then hurry off to find a "
+754,. But that slogan keeps echoing over and over in your mind...
+755,You've completed the story of 
+761, catches your eye. The 
+762," blows it closer, and you realize that the white sails are actually wings. It's a folded "
+763,", floating just within reach."
+771," myself,"" she mutters."
+772, tugs your sleeve impatiently. 
+784,Thirty p! Thirty p a bag
+785,Feed the hungry birds
+786,Thirty p for the starving birds
+791,"What to do, what to do"
+798,As you start to move away 
+799,a very large bird races out 
+803,"leaps into the open pram, "
+807,", scoots between your legs"
+808,"""It's time!"" shrieks the "
+809," softens to a whisper and dies away.
+
+Blowing leaves settle to the ground, and the trees are still. Then a fresh gust blows in from the west."
+810,The large bird you saw before is here! You catch a glimpse of the 
+812,zigzags through a group of tourists
+813,races between the wheels of a perambulator
+814,dodges a startled nanny
+825,is eyeing you with interest
+826,struts around the top of the toadstool
+827,cocks its head to watch you
+828,adjusts the ruby in its beak
+829,scampers around your feet
+830,scratches impatiently on the ground
+831,looks up at you inquisitively
+833,watches every move you make
+834,scoots between your legs
+835,is eyeing you with interest
+840,cocks its head intelligently
+842,obviously understands you
+844,decides to ignore you
+845,chooses not to respond
+848, and disappears to the 
+850,Delete when debugged.
+852,". If you didn't know better, you'd swear that bird was a "
+853,gives you a curt nod of acknowledgement. Then it flutters off the 
+854,", prances through the open door and disappears."
+856,"A forgotten woman, too aged to run, is sitting nearby."
+857,A steady drone begins to rise above the 
+858,". As it grows louder and more insistent, you recognize a "
+859, you've heard only in old war movies. Air-raid sirens.
+860,Another siren joins the first
+861,". Tourists search the sky, eyes wide with apprehension"
+862,The boy slowly pulls his 
+863, off and glances furtively around. Then he picks up the dish and races off between the prams.
+864,Sirens are howling all around you
+865,". Children, sensing fear in the air, begin to whimper for their "
+866,Confused shouts can be heard in the distance
+870,Police and fire alarms join in the rising din
+871, as the crowd rushes to escape the open sky of the Gardens
+872,Distant megaphones can be heard barking orders
+876,A round of gunfire drowns out the wailing 
+877,. Tourists cover their heads and trample one another in blind panic
+878, trembles with the roar of jet interceptors
+882," falls silent, and a new star flashes to life over the doomed city."
+885, is still. Everything is very quiet.
+886,"A gleam overhead catches your eye.
+
+Oh, dear. A "
+887, is hanging motionless in the sky.
+888," isn't completely motionless. It's falling very, very slowly towards the "
+889,Your eyes follow the 
+890,"'s trajectory downward, where you notice another peculiar phenomenon. It looks like a "
+891,", suspended just above the "
+893,A flock of ravens glides into view! They circle over the 
+894, and disappear through the open 
+895, continues its slow descent.
+896,Swans and ducks paddle through the open 
+897,", vanishing without a trace"
+898, is only a few dozen yards above the door.
+899,A log is being pushed across the 
+900, by a pair of mallards. Its 
+901," is crowded with squirrels, chipmunks and other inhabitants of the "
+904, as the log sails through the 
+906,'s nose nudges into the 
+907,. Then a searing glare envelops the 
+908,", and you discover what it feels like to be vaporized in extreme slow motion."
+913,You claw your way to the 
+916,"With an involuntary gasp, you begin to breathe normally."
+919,clicks into place at the dial's 
+921,"0 = shadow movement string, 1 = P? of shadow movement, 2 = sun direction, 3 = shadow direction."
+955, rotates with a sudden 
+961,"With a faint creak, the "
+971,swings shut with a faint creak
+972,. You stare in wonder as the door shimmers and fades from view.
+982,Shadows lengthen in the gathering dusk. 
+983,You pause to watch as the sun touches the 
+985," and sinks from view, while its mirror image rises in the "
+986,", painting the clouds with a fiery glow that spreads across the sky.
+
+Wait a minute.
+
+The sky is getting "
+988, You rub your eyes and blink as the 
+990," magically emerge from darkness, suffused in a golden light swelling somewhere behind you...
+
+Another sun is rising! You turn east and west, gaping with astonishment as the twin orbs rise and set in perfect synchronization. For a moment, both are bisected by the "
+992,s that cross the ground in fantastic patterns. Then the 
+994,"ern sun sinks from view, and the "
+995,ern sun rises to command the morning.
+996,"With a leafy whoosh, the "
+997, topples away from the chasm and crashes to the ground.
+999," around you freezes instantly, but remains intact"
+1000, drops away behind you.
+1001,You watch helplessly as the 
+1002," dwindles to a distant speck, vanishing at last between the horns of the rising moon."
+1007, tug in your arms. It's pulling you towards the 
+1009, twists in your arms as the 
+1014," being yanked out of your old trajectory, into what is obviously a collision course"
+1017, bounces against the 
+1018,anchoring the film securely
+1019,Where gnomon has gone before
+1020, begins to drift away.
+1022, fire briefly to compensate for your added momentum.
+1027, reappears far ahead of you.
+1028,"A red flash draws your eyes to the ground below, where the contrail of a "
+1029, is climbing into the stratosphere.
+1030, is heading straight for the 
+1033," fire, turning the nose until it faces the ascending "
+1035, erupts in a savage glare that lights up the ground below
+1036,"beam of violet radiation flashes downward, obliterating the distant "
+1037,". Unfortunately, you have little time to admire this triumph of engineering before the "
+1038,'s blast incinerates you.
+1040," leaps from your grasp and fastens itself to the metal hull, "
+1041,"0 = giant dips stick, 1 = blows bubble, 2 = listens to music."
+1043, appears high overhead. It hovers for a moment before it
+1044,So BOY-BLOWS can set to 2.
+1045,". Trapped in a whirlpool of suds, you cling helplessly to the boy's wand"
+1047," slowly drifting to the ground, enveloped in a "
+1051, in the dish and swishes it around
+1053," out of the dish, puts it to his lips and blows a big "
+1056, bursts with a flabby 
+1058, to the headphone music
+1064,The total lack of air pressure is making you uncomfortable
+1066," isn't looking too happy, either"
+1068,Hmm. It seems that your blood is beginning to boil
+1071,"'s, from the look of it"
+1073,You lose consciousness just as your internal organs begin to rupture.
+1077, shimmers with iridescent color.
+1079, won't hold up much longer.
+1085, slowly melts away. Soon there's nothing left of it.
+1086, slips from your grasp and 
+1092,disappears in the water.
+1093,shatters to bits at your feet.
+1094,The warm air makes the 
+1097, is starting to melt.
+1098,It's getting hard to hold the slippery 
+1100,melting away as you watch.
+1101,almost too slippery to hold.
+1107,squirms violently in 
+1109,"With a desperate lurch, the "
+1110, wiggles from your grasp and 
+1114," cowers in the cage, trembling violently."
+1118, uneasily around the cage.
+1121, out of the cage and 
+1123, and begins to tremble.
+1129,scrambles through the open 
+1130,", straight into the fangs of the "
+1131," twitches for a while as the venom takes effect. Then the snake drags its prize across the floor, shakes its tail once for effect"
+1132, race between your legs
+1133, swarm across the tundra
+1134, scurry over your feet
+1135, show no sign of stopping
+1141,sniffs the air inquisitively
+1142,trembles with agitation
+1144,peers around nervously
+1145,washes its face with its paws
+1147,covers its face with its paws and trembles[ID: events:1623]
+1148,emits a squeak of terror[ID: events:1624]
+1149,shivers with fear[ID: events:1625]
+1152,flings itself joyfully off the 
+1158,scurries through the open 
+1159,You hear a faint creak in the 
+1161," exit. It skids to a stop at the threshold, flips over and "
+1165,"'s edge.
+
+A moment later, you hear a faint splash."
+1168,", where you hear a faint creak"
+1169,scurries out the open 
+1173,"Something touches your sneaker.
+
+You kick it away with a shout. A rodent sails through the air, lands unharmed and scrambles"
+1179,", oblivious to you or anything else in their path."
+1180,A glare lights up the sky! You look up just in time to see a 
+1182, disappears below the 
+1183,"You feel the ground shudder, and hear a roar like thunder"
+1201,"Milk and honey, fresh whole lizard"
+1203,Killed in the light of a crescent moon
+1205,Mix 'em with a pinch o' garlic
+1206,Then stand back! 'Cause it go BOOM
+1209, makes a croaking sound
+1212, ruffles its feathers
+1213, scratches an itchy wing
+1214, eyes you suspiciously
+1225,The bee hovers near the 
+1226," for a moment, drawn by the tantalizing aroma. Finding no means of entry, it shrugs its little shoulders and buzzes back to annoy you."
+1227, hovers uncertainly outside the 
+1228, for a moment. Then it buzzes with exasperation and launches an assault with its three-inch stinger
+1230," evades your flying hands, and plants a second sting right in the middle of your forehead. You scream with blinding agony"
+1232,"One more like that, and you've had it"
+1233,"With a triumphant buzz, the "
+1234," sinks its stinger deep into the back of your neck.
+
+Your muscles convulse for a while as the accumulated venom eats away at your central nervous system."
+1236,The sweet smell of the 
+1237," stops the bee in mid-buzz. Forgetting its anger, the insect hovers above the open jaws, then touches down to sample the glistening ichor.
+
+"
+1240," snaps shut. After a few minutes, the faint buzzing dies away."
+1241,You hear a familiar buzz nearby
+1242,"Buzzing angrily, the giant bee hovers close by"
+1243,The giant bee maintains its orbit around your head
+1244,"With an angry buzz, the giant bee streaks into view"
+1245,The giant bee spit-polishes its stinger
+1246,You hear the bee circling above your head
+1247,"The bee zooms around your head, waiting for a chance to strike"
+1248,The bee's three-inch stinger is poised for a strike
+1249," deftly swerves away, then buzzes back for more"
+1250, avoids your touch with ease
+1251, buzzes safely out of reach
+1252, defies your hopeless attempt
+1254,"With a nimble leap, the "
+1255, scrambles into the dark 
+1256, squints forlornly down the east 
+1258, winces in the stab of the 
+1260, scrambles out of the lighted 
+1261,", slips between your legs and"
+1262, blinks helplessly in the 
+1265,", and scrambles away down the west "
+1266, squirms violently in 
+1268,"With a sudden lurch, the "
+1269, wiggles out of your grasp and 
+1270,squeezes out of the cage and 
+1275, scurries away into the east 
+1276,"moment later it reappears, blinking helplessly from the glow of the "
+1277,"With no place to hide, the flummoxed "
+1278, runs in circles at your feet.
+1279,The skink squirms in your pocket
+1280,The skink in your pocket scratches restlessly
+1281,You can feel the skink moving in your pocket
+1282,Something is scratching around in the darkness
+1283,You can hear something scrambling around your feet
+1284,You hear a scrambling noise underfoot
+1285, scurries blindly around your feet
+1286, blinks its eyes helplessly
+1287, is running about underfoot
+1288,You can hear something moving in the crevice
+1289,Something in the crevice is moving around
+1290,There's something scratching around inside the crevice
+1296, through a crack in the 
+1297,swims out of the dish and 
+1303,Handle mandatory movements.
+1304,Handle move-specific text.
+1305, reappears out of the mist.
+1306, draws closer to the 
+1307,"A puff of wind ripples the water.
+
+Eddies of sand swirl across the "
+1308," and coalesce into ghostly figures of dust and vapor. Before you can think or move, you find "
+1309, amid a gathering of human 
+1310,", pale and gaunt, silent as death."
+1312," begin to converge on the dory. One by one, they step into the vessel, hand the "
+1313," a silver coin, and take a seat."
+1315, seats itself in the crowded dory.
+1316,"With practiced skill, the "
+1325,"glide across the river, vanishing at last into obscurity."
+1326,As you peer across the river you notice a lone vessel gliding out of the fog
+1327,. You can make out a dark 
+1329, guides his dory to a 
+1332, slink out of the vessel and drift across the sand like leaves on a breath of wind
+1333, stretches out his palm with growing impatience.
+1336,swift kick encourages you to visit it quickly.
+1342, snap their claws at you
+1343, glare at you with beady little eyes
+1344, sharpen their claws with anticipation
+1345, are watching every move you make
+1348, gives you a playful splash
+1349," looks at you with bright, intelligent eyes"
+1350, is watching you curiously
+1351, makes an odd whistling sound
+1352," dives underwater, but soon reappears"
+1353, spins in crazy circles
+1355,A gray fin is gliding across the 
+1356, reappears just offshore.
+1357,The gray fin glides closer.
+1358,"With a sudden splash, the gray fin shoots upward! You shriek and cover your face with "
+1359,s as a mouthful of sharp teeth leaps from the 
+1360,"...
+
+A friendly chatter encourages you to open your eyes. It's a bottle-nosed "
+1361,", standing on its tail just offshore."
+1362, glides into view nearby.
+1364,"""Five. Four. Three. Two. One."""
+1365,"Your tropical vacation is cut short by a multimegaton thermonuclear detonation, centered in the nearby "
+1369,Handle tide and coconut.
+1371,A wave washes up underfoot. It looks as if the tide is rising.
+1374, is shrinking in the rising tide.
+1377, draws your eyes to the 
+1379, lying at the water's edge.
+1380,The tide creeps towards the 
+1381, under the distant tree.
+1382, floats away from the distant 
+1386,The tide is making the sand squishy.
+1387, floats further away. It's almost
+1388, is beginning to float away.
+1389, disappears across the 
+1391,Nothing if PA is off.
+1396,"forty-five seconds."""
+1398,"fifteen seconds. Personnel not issued protective goggles should face away from Zero at this time."""
+1400,Gnomon can tether time or tide
+1401,Switch to one zero three
+1403,"Geo, sync at three, two, one, mark"
+1404,Patch to Alpha Echo Three Five
+1405,"Seismographic, confirm"
+1407,Continuity on gamma three
+1408,Roger. Signature established
+1422," below draws closer. You glimpse a river, railroad tracks, streets busy with horses and bicycles, a "
+1426, holding you aloft disappears in a spray of color
+1428,The wind in your ears becomes a roar as you plunge faster towards the city below. You close your eyes for the last few hundred feet.
+1433, is lit by a terrifying flash of light. You dive 
+1434,to cover the screaming 
+1435,", and feel the earth shudder beneath a crushing blast wave.
+
+Your body absorbs much of the deadly radiation that might otherwise have reached the child. Years later, she recalls to her grand"
+1436, the tale of a mysterious stranger who shielded her life at 
+1437,"for cover, but never make it to the ground"
+1440,You've noticed a faint 
+1441, coming from somewhere
+1442, turns to stare at the 
+1444, stop to stare at the sky.
+1445, grows louder. There's no mistaking the drone of 
+1446, looks at you expectantly and 
+1449,tries to pull you towards 
+1452,s as if they're in a power dive.
+1453, covers her ears with her hands and whimpers.
+1454,A little girl races between the 
+1455,", hot on the trail of a dragonfly. She trips and sprawls across the sand, laughing with hysterical glee. Then she sees you."
+1456,"At first, you're sure she's going to scream. Her eyes dart back and forth between you and the "
+1457,; you can see a cry forming on her lips.
+1458,"Suddenly, she remembers the "
+1459," in her hands. Her expression changes from fear to embarrassment. With a red face, she lays the thing at your feet."
+1463, catches her eye. You watch her expression soften from fear to curiosity.
+1466,"Muttering with exasperation, the "
+1468,s and begin to trudge in the 
+1473, appears in the doorway 
+1474, silently follows you out 
+1477,A little girl is crouched in the 
+1479,. She leaps to her feet as you appear.
+1484, and begins to whimper.
+1485,"With a sudden yelp of fright, the girl races"
+1487, gazes lovingly at the umbrella
+1488, twirls the umbrella and giggles
+1489, admires the umbrella from all sides
+1490, turns the umbrella over and over in her hands
+1491, can't keep her eyes off the umbrella
+1492," gazes at the umbrella, then at you"
+1493," looks at you, then at the umbrella"
+1494, eyes the umbrella longingly
+1495,The paper bird glows with an eerie violet radiance
+1496,Ghostly light flickers around the paper bird
+1497,A twinkling aurora engulfs the paper bird
+1499,Something twitches in 
+1502," The wings and tail are unfolding like the petals of a flower, the long neck craning further and further out of the expanding body...
+
+You drop the demonic thing with a yelp of dismay. In moments, it opens up into a monstrous construction of folded paper the size of a foreign car."
+1504,A gust of wind outside blows dust into the 
+1505," looks at you once more with a sad expression. Then, with a stroke of its paper wings, the creature lifts itself into the sky.
+
+When the dust clears, the "
+1506, is nowhere to be seen.
+1507," beats its paper wings a few times, raising a whirlpool of dust"
+1508,it's getting ready to fly!
+1509, beckons to you with a friendly wing.
+1510," turns to look at you. Though the paper face is utterly featureless, you somehow get the feeling that it likes you."
+1512," soars high over the city, banking left and right with effortless grace. You hear the rhythmic pump of its great wings, wind whipping past your ears... and, far overhead, the drone of approaching "
+1513,A speck in the sky grows into the familiar outline of the 
+1514,"bird circles once, slows to a stall and hovers only a few feet from the threshold."
+1515,"Your companion circles back and forth, searching for a door it cannot find. "
+1516," disappears in a burst of light that vaporizes the bird, the city and you."
+1519,", then promptly envelops the bird, the city and you in a flash of nuclear fire."
+1521," becomes a roaring power dive; and a new object appears in the sky, falling towards you at great speed.
+
+The giant bird looks at you again. Its urgency is overpowering!"
+1524,Liquid dribbles out of the 
+1528,"With a deafening blast, the "
+1529, vomits up a volcano of energy that cremates you instantly.
+1532, A powerful concussion sends you sprawling. Your ears ring as you regain your feet.
+1535, grows to a shuddering roar that shakes the 
+1536, with power. It feels as if something's about to explode!
+1537,Your boots are tingling with energy.
+1539, is sagging dangerously. It's not going to last much longer!
+1541, emits a wooden moan of discomfort.
+1542, creaks under your weight. It isn't in very good shape.
+1546,Handle case where MEEP is visible.
+1547,Doesn't like these places.
+1548,"raises its head and sniffs the air. You stifle a sigh of relief as it abandons the dog, trots back to your side and "
+1550,Doesn't like to be held.
+1553,pecks angrily at your fingers with its sharp beak. Ouch!
+1555,struggles out of your grasp and 
+1556,Won't stay on a SURFACE.
+1559,Hates open containers.
+1560,"cowers in a corner of the cage, trembling violently."
+1561,flutters anxiously around the cage.
+1564,trembles at the sight of the 
+1571,MEEP can't follow you under these conditions.
+1575,Continue if still eating.
+1581," and freezes. Tension mounts as snake and bird study one another, their eyes bright with familiar hatred.
+
+Suddenly the "
+1582," explodes into action! It dances around the snake, fluttering off the walls as it tries to grab the hissing reptile in its beak. But the room isn't big enough to support this style of attack; and after a few very close calls, the "
+1584, and retreats with a squall of frustration.
+1588," and perches on its massive head. You stifle a shriek as the silly bird cocks its head this way and that, wondering what to make of the sleeping monster. Then it gives you a sly glance, ruffles its feathers and begins to peck at the sand fleas behind the dog's ears."
+1589,"remembers an especially tasty sand flea, returns to the dog's head and continues pecking where it left off"
+1590,The shepherd lifts an eyelid and peeks up at the bird
+1592,". Its expression hardens from sleepy distraction to annoyance... and then to outrage!
+
+In a single motion, the monster bounds to its feet and snaps at the "
+1593,"bird digs deep and holds on for dear life as the dog whirls in a frenzied circle, trying to throw off the squalling pest.
+
+Then the dog sees you."
+1603,pecks contentedly at 
+1617,leaps out of the jeep.
+1618,narrowly escapes the fangs of the 
+1619,. It races away with a fearful squawk.
+1625,. It gives you a sly glance before it 
+1629,over the side of the 
+1630,You hear a flurry of wings that quickly fades.
+1631,scratches around in the darkness.
+1636,", and blinks at it hungrily."
+1640, lurks just outside the open door
+1641,it's about to strike!
+1643," like lightning, recoils in an instant"
+1644,"Sobbing with pain and shock, you peer at the tender wound. "
+1647, rears its wedge-shaped head
+1648, flicks its tongue in and out
+1652,"The throbbing fire in your ankle overcomes you. Moaning with despair, you sink helplessly to the "
+1659,"For a brief moment, the "
+1661,in a raw white glare.
+1663,"A tinny voice, half-buried in static, says "
+1686, emits a burst of static
+1687, crackles for a moment
+1690, curves in a graceful arc and fades.
+1692,The GIs hurry out of their jeeps and take cover in some 
+1695," arcs across the sky,"
+1696, sputters prematurely and blinks out.
+1700, arcs across the sky and disappears.
+1701,A hinge squeaks on the far side of the 
+1702,". ""It's time, Wolf!"" calls a voice"
+1703,". You stumble down the road, away from the crunch of footsteps."
+1704,A distant glare lights the 
+1705,! You watch as a rocket 
+1708," crackles to life. ""Minus "
+1711,cracks in the north wall are
+1718,s over your eyes in the awful glare; never see the fireball closing in at many times the speed of sound; and never feel the stellar heat that annihilates 
+1719, filled with light of startling intensity
+1720, disappears in a flash of startling brilliance
+1721,Countdown timer for pooch distraction.
+1722,Stay in tower no more than 45 seconds.
+1723,Don't bother dog more than twice.
+1725,Determine status of walkie-talkie.
+1734,Opened more than once.
+1735,"""Looks like a no-go without X"
+1739, sweeps back onto the tower.
+1741,The harsh light illuminating the 
+1742, sweeps away suddenly.
+1743,A distant gunshot rings across the 
+1745,"""Ninety seconds to auto-sequencer. Mark."""
+1755,A siren wails through the 
+1756, emits a short blast of distortion. It sounded like a siren.
+1758,". All personnel whose duties do not specifically require otherwise will now assume a prone position, with face and eyes directed "
+1761,". Personnel, prepare to assume safe positions."""
+1762,"Roger. Displacement, report"
+1764,"Baker, get calibration on the horn"
+1766,"Excess velocity is two baker. Repeat, two baker"
+1767,We got confirmation from Carrizozo
+1768,"The CITs are sittin' pretty, Baker"
+1769,"That's procurement's problem, not mine"
+1770,"""Who's takin' care of the WACS in Fubar, Baker?"" (General laughter.)"
+1771,You wince as the music's pitch wavers uncertainly.
+1772,"The talkie buzzes. ""Baker, can you get medic on a secure line?"""
+1773,"The talkie mutters, ""It'll never work."""
+1774,Faint strains of music swim in and out of static.
+1775,"""Able to Baker. We got a breeze blowin' right in our face! Is TR-4 sleepin' down there?""
+
+""It's worse than that."""
+1776,"""Oscillograph check,"" squeaks the talkie."
+1777,"For a moment, the talkie's music is crystal clear. Then the strings break up into distortion."
+1778,"The talkie hisses; you make out the word ""condenser."""
+1779,"""No luck on that radiosonde.""
+
+The talkie clicks twice. ""Keep on it."""
+1780,Persistent clicks modulate a passage of music.
+1781,"You hear a hearty guffaw on the talkie. ""Never get that one past CIC."""
+1782,"""Baker to Pittsburg. Did four-charlie get that radiosonde up yet?""
+
+""Ah, negative, Baker. Will advise."""
+1783,A distorted waltz competes with the hissing of the talkie.
+1784,The talkie makes a sound like indigestion.
+1785,"""Can't we nix that?"" complains the talkie as romantic strings fade in and out."
+1786,"The phrase ""gas for the generator"" emerges from a background of hiss."
+1787,A lush string ensemble begin to swell above the talkie's hiss.
+1788,Distant announcers rasp beneath a wash of static.
+1789,"one minute. Sequencer will assume control in fifteen seconds."""
+1790,"""Auto-sequencer in sixty.""
+
+""Roger. Six-oh seconds."""
+1791,"""Forty-five seconds to auto-sequencer."""
+1793," distorts badly. ""Thirty seconds to auto-sequencer."""
+1795," to all units. Are we all in on this?"""
+1798,". Us cowboys been waitin' all night.""
+
+""Roger, "
+1800,"""Everything's go at Forbes Field.""
+
+""Roger."" (A pop of static.) ""It's time, gentlemen."""
+1801," emits a burst of interference, followed by faint strains of music. It's ""The Star-Spangled Banner.""
+
+A lone voice speaks, half-buried in the melody. ""It is now zero minus twenty minutes."""
+1825,"""What the... ?"" mutters the "
+1827,".""
+
+""Aw, hell."" You hear a flurry of excited "
+1829," to all units. We have 100% continuity loss towerside. Repeat, "
+1831," continuity.""
+
+A chorus of expletives fills the airwaves. """
+1833,"?""
+
+""Affirmative, "
+1834,". Sequencer's going. Too late to risk it. This is a scrub, everybody. Repeat, scrub it."""
+1835,"Check your idiot bulb, "
+1836,". I replaced two duds last night.""
+
+"""
+1837,", my bulb lights up real pretty. Is this a scrub?""
+
+""I dunno. Ask the kid if he reconnected the "
+1838," line on X after the continuity check.""
+
+A burst of static. ""The kid ain't laughin', "
+1848,"""X-unit just went out"
+1850,","" shouts a voice.
+
+""Which line is it, "
+1851,"?""
+
+""Kid's board says it's the "
+1852,"others look okay. We're lettin' it go, "
+1853,"sequencer's running."""
+1855,".""
+
+A steady hiss fills the silence. ""Damn,"" sobs a bitter voice.
+
+"""
+1856," to all units. This is a scrub, guys. Repeat, scrub it."""
+1858, to all units. We've definitely got something moving on that 
+1859,"!""
+
+""Roger. Attention, all units. Security alert. Scrub the shot and get Anderson out there. This is a scrub. Repeat, scrub."""
+1863,"One of our eyes just caught a movement on the tower. Can you confirm? Over.""
+
+There's a brief pause. The "
+1864," crackles.
+
+""Negative, "
+1865,". What're you guys drinking down there?"""
+1866,"We're still seein' spooks up on that tower.""
+
+""Sure it ain't one your buzzards, "
+1869,", double-check and get back to us on that spook.""
+
+""Roger and out, "
+1871,"More movement towerside.""
+
+""This one better be good, "
+1872,".""
+
+""Checkin' it twice, "
+1877,Whatever we saw up there went home
+1878,Cancel that spook report
+1882,More barking erupts from the 
+1884,"?"" smirks a voice.
+
+""(Sigh.) Checkin' it out, "
+1886,A commotion of noise erupts from the 
+1887,". It sounds like a barking dog.
+
+"""
+1888," to all units."" The voice is urgent.
+
+"""
+1891,". Some kinda trouble outside.""
+
+"""
+1892,", are we holding?""
+
+""Negative, "
+1894,", get a line on that disturbance and report on the double.""
+
+""Will do. "
+1897, continues for a few moments
+1898,. Then you hear a sharp 
+1900, and the barking stops.
+1905,""" An evil chuckle. ""That buzzard ain't botherin' us again."""
+1906," Just some buzzard raisin' hell with the dog. I chased it away.""
+
+A nervous chortle. "
+1909,"""Er, by the way. We got us a "
+1911, with a hamster inside
+1912,". Anybody lose it?""
+
+""Nix the clowning, "
+1914,"forty-five seconds. Commence auto-sequence.""
+
+""We copy, "
+1915,". Sequencer affirmative. Good luck."""
+1916,thirty seconds. All personnel should face 
+1918," from Zero at this time."""
+1919,"fifteen seconds. Fourteen. Thirteen. Twelve. Eleven."""
+1920,"ten seconds. Nine seconds. Eight. Seven. Six. Five seconds. Four. Three. Two.""
+
+You hear a loud "
+1922," at the word ""One."""
+1923,A young couple zooms down the 
+1924, on bicycles. You watch them roll across the grass and disappear into the crowd.
+1925,Something is breathing in the darkness.
+1926,The breathing is getting closer.
+1927,Only a few feet lie between you and the breathing.
+1928,You hear a noise that sounds suspiciously like a 
+1929, being drawn from a hole.
+1930, studies you with its red eye
+1931, licks a stream of drool off its chin
+1932,'s breathing echoes in the tunnel
+1933, sharpens its claws on a rock
+1934, is watching you with interest
+1935," rubs its eye, then turns to squint at you"
+1936, growls in its throat
+1937,"Something sharp closes around your throat. It caresses your chin and the nape of your neck, delighting in the living warmth. Then, with a quick, practiced "
+1939, it breaks your neck at the collarbone.
+1941,"With a rusty creak, the "
+1942, behind you retracts into the 
+1946, with a sinister echo
+1948,flickers and goes out
+1958,You hear boots stomping up the 
+1959,". Before you can move, an MP is shoving a barrel into the small of your back. "
+1960,You hear a motor revving to life below. One of the 
+1961," barks something; there's a squeal of rubber, and "
+1962,the motor fades into the distance
+1963,a jeep appears on the south road. You watch the headlights dwindle into the distance.
+1964,A faint sound drifts 
+1965,in from somewhere outside
+1966,up from somewhere far below
+1967,. It sounded like a man's voice.
+1968,"You hear the voice again, followed by a sharp clatter. There's definitely somebody "
+1971,"Another voice joins the first. You strain to listen.
+
+""Towerside breaker closed. Check.""
+
+"""
+1972,"'s on the line, Lieutenant.""
+
+""Give him to me, Joe."""
+1973,A gust of wind obscures the conversation 
+1976," for a few moments. You can pick out the words ""focus,"" ""groves"" and ""surveillance,"" but little else."
+1978, is filled with light! It seems to be coming from 
+1980,a point on the southwest 
+1981,".
+
+""Lower!"" shouts one of the "
+1982,".
+
+The light brightens to a hard, steady glare."
+1983,"The wind rises again, drowning out the "
+1987,"""Pyat, chetirye, tree, dva, adeen,"" barks the "
+1988,A searing glare engulfs the mountaintops! 
+1989,"You turn, and stare in horror at a seething mass of flame billowing above the tundra.
+
+Seconds later, "
+1990,"For an instant, you see your own "
+1991, cast in stark silhouette across the 
+2010, something incomprehensible. It sounded like 
+2038,a gale of radioactive debris sweeps you 
+2042," steps into view, standing just"
+2045,"With a nervous sigh, the "
+2046, disappears into the 
+2047,"Pushing back his porkpie hat, the "
+2048, peers up at the overcast sky.
+2050, glancing at his watch.
+2051, draws thoughtfully on his pipe.
+2058, pulling towards the 
+2059,"PEOPLE for TRINITY: (C)1986 Infocom, Inc. All rights reserved."
+2060,*** JAPANESE WOMAN ***
+2062,An old woman is standing under the tree.
+2065,You'd never find her in this crowd.
+2068,", but suddenly fall silent"
+2070,", but stop in your tracks"
+2071,"Her face is wrong.
+
+You look a little closer and shudder to "
+2072,"entire left side of her head is scarred with deep red lesions, twisting her oriental features into a hideous mask. She must have been in an accident or something."
+2075,An aged woman is selling crumbs nearby.
+2076,"NODESC = unseen, SEEN = just referenced."
+2079, drowns out your words.
+2082,"""Why not tell me about "
+2085,"""I won't beg from the likes o' you,"" sniffs the "
+2086,She's too frightened to respond.
+2088,"""Bless yer,"" coos the "
+2089,", taking your money with a practiced snatch. ""Twenty p's the change."" She holds out a "
+2092,"""I ain't Harrod's, dearie. Thirty p."""
+2093," shakes her head. ""Keep it, dearie."""
+2094,"You get the feeling that she's been selling crumbs on this same bench, year after year, since well before you were born. Her face is lined with care for her feathered charges, who perch on her round shoulders without fear."
+2095,She's obviously terrified by all the sirens and commotion.
+2096,"""A rare bargain at thirty p."""
+2099,"""I couldn't give you that!"" laughs the "
+2100,A threatening coo from the 
+2101,"""Thirty p, not a farthing less."""
+2109," scowls. ""Pay attention, ducky! I told ye once already."""
+2110,Check list of interesting subjects.
+2114,Default for other items she might know about.
+2116," sniffs. ""Looks cheap."""
+2117," gives you a sad smile. ""Not to worry, dear,"" she sighs. ""Ye'll get it back by and by."""
+2118," peers at you closely. ""'Ave ye seen one?"" she whispers. ""Wouldn't let it out o' my sight if I was you."""
+2119," giggles. ""Fast, ain't he?"""
+2120," gives you a sharp look, but doesn't reply."
+2123,You know as much as I do
+2124,Don't know nothin' you don't
+2128,Default for all other cases.
+2130,"""Don't know what you're talkin' 'bout, ducky"
+2133,Lived 'ere all me life
+2134,Lived 'ere all me life
+2135,"Football! Sorry, hon, I'm too old to play"
+2136,It's just east o' here
+2138,"Princess Louise carved it all herself, she did"
+2139,"Lovely bread crumbs, only thirty p a bag"
+2140,"Lovely bread crumbs, only thirty p a bag"
+2141,"A lovely bit o' metal! And so useful. Hold onto it, ducky"
+2142,"'Ave ye ever seen such beauties? So loyal. And so, so hungry"
+2143,"That's yer change, ducky. Twenty p out of fifty"
+2144,"I ain't Harrod's, dearie. Thirty p"
+2145,"All prams lead to Kensington Gardens, they say"
+2146,"Lots o' boys around here, dearie"
+2147,"Humph!"" she sniffs. ""Never touch the stuff"
+2148,"Tidy bit o' foldin', that"
+2149,Looks a bit ragged to me
+2150,Looks a bit crumpled to me
+2151,Ain't seen one like it in a long while
+2152,"Ghastly, ain't he? Everyone laughs"
+2153,"Me?"" The woman laughs and gestures at the pigeons. ""Here's all there is to know about me"
+2154,"Shh!"" The old woman shudders. ""Ye musn't speak o' such things"
+2159,You awkwardly wrap the 
+2163,You awkwardly force the 
+2166,The solemn dignity of the 
+2167, makes you suspect that the remains may be those of some great missionary or explorer. The shrunken
+2168, body is wrapped in a gray 
+2169,", unclothed body is badly decomposed"
+2173, wrapped around its head
+2175,"pair of boots, one red and one green, completes the ghastly wardrobe"
+2178,wrapped in the shroud
+2179,You've already done that.
+2180,You struggle briefly with 
+2181,", but it's just too awkward."
+2182,. One foot is clad in a 
+2185, is blue and wrinkled
+2186,. Inside it you can see 
+2187,It falls open again horribly.
+2191, is holding it tightly shut.
+2197,"TOUCHED = oarsman seen, CHILLY = referred to by name, NOALL = seen wardrobe."
+2203," you're wearing, but shows no interest."
+2206, and checks it against a list of delinquent accounts
+2207,", rips the card in half and throws the pieces in the river."
+2209,", peers at it carefully and compares it to a "
+2210, given to him by one of the 
+2211,difference is obvious
+2212, and tosses your coin into the river.
+2213,", glances at it briefly and tosses it onto the "
+2214,"'s face and form are concealed under a hooded cloak. His bent posture suggests great age, but he handles his vessel with a firm, confident hand that commands respect."
+2215, doesn't respond to your gesture.
+2217, is probably too far away
+2219,Your hand reaches into a cold vapor.
+2220,. He shakes his head solemnly
+2223, and nods at you solemnly.
+2224," pushes away from the beach.
+
+Planes of mist close in around the dory, drawing it deeper into the gloom. The only sound is the rhythmic slurp of the oar as it plies the dark, oily water."
+2225,"A vague outline emerges beyond the helm. It slowly resolves into a spit of sand, damp and cheerless in the surrounding murk"
+2226, swings the dory around and lands it with barely a jolt. 
+2228,'s gaze compels you to follow them
+2231,"CHILLY = brolly given, SEEN = just referenced, SHADOWY = fear delay, TOUCHED = said origami, NODESC = not seen."
+2248,"'s mouth opens into a little ""o"" at the magnificence of your gift. She humbly "
+2263," with a gracious bow. Her fingers explore the creases in the paper, bending them this way and that. Then, with a few deft maneuvers, she refolds the sheet to its original shape and "
+2264,hands it back to you.
+2265,holds it up for you to see.
+2269,", looks it over briefly and hands it back to you, keeping the "
+2274,", and toys with it absently."
+2276," for a moment, but quickly tires of "
+2279, and hands it back to you
+2281, with undisguised longing.
+2283,", but exhibits only polite interest"
+2286, and looks up at you reproachfully
+2291, with a playful laugh
+2293,", her eyes hardly leaving the "
+2294, is a cute four or five years old
+2299," giggles, then clumsily "
+2301,Imagine doing that to a defenseless little girl!
+2305, begin to flicker faintly.
+2306,'s eyes brighten with surprise when she sees the 
+2310,. She didn't seem to notice the weird twinkling
+2311, is too timid to take 
+2314, isn't as interested in 
+2316, blinks uncomprehendingly
+2317, looks at you blankly
+2318, grins at your funny words
+2319, says something in Japanese
+2322,"SEEN = Pope quote shown, CHILLY = gone."
+2327,"boy sits nearby, listening to a pair of "
+2329,s. There's a dish full of 
+2331,", in which you're now standing"
+2333,The boy is too preoccupied with his music to notice your offer.
+2334,You'd never find him in this crowd.
+2338, does his best to ignore you.
+2339,"The boy is old enough to use deodorant, but obviously doesn't."
+2344,", slides off harmlessly and disappears in the dish."
+2345,"The boy measures approximately forty feet from head to toe, and probably weighs several tons. He's wearing a pair of stereo "
+2346,Forget it. This kid is 
+2350," picks you off his clothes like an insect, and tosses you absently over his shoulder"
+2351,", but pays no attention."
+2352," brushes at you absently, like a mosquito"
+2353,You'd have to get out of the dish to do that.
+2354,You painfully regain your footing.
+2356,"You hear faint, rhythmic music coming from the "
+2357,There's a name for people who do things like that to boys.
+2362,CHILLY = perched on box.
+2367,"cocks its head as if to say, ""After you."""
+2372, while you're holding it.
+2373,You probably ought to take 
+2387, and looks at you expectantly
+2388,hops with excitement.
+2395,hops with excitement at the idea.
+2396,gives you a distasteful look.
+2400,"carefully, then gives you a quizzical look."
+2404, away from you with its beak.
+2405,would find that very appetizing
+2409,", but shows little interest."
+2413, and gives you a hurt look.
+2417, and drops it at your feet.
+2418,"resembles a gray pheasant, lean and streamlined, with bright eyes and a long tail splashed with color"
+2421,. Right now it's pecking crumbs out of the bag with great contentment
+2422,rubs its head against your leg.
+2427,s something in precise Roadrunner.
+2437,gives you a sour look. It obviously couldn't hold 
+2443,"nods brightly.
+
+You hold "
+2444, as a gray torpedo scoots under the jeeps and disappears into the 
+2445,busy technicians fail to notice the fearless creature plucking the key from its 
+2447, prances back to your side and deposits the key at your feet.
+2449,is busy eating right now.
+2456, and drops it at your feet.
+2458,", turns back to you and cocks its head as if to say, ""So?"""
+2461,"A great, big German shepherd is curled up against the blockhouse."
+2462,"SEEN = referenced, TOUCHED = spoken to/heard talkie once, BORING = pecked once, WINDY = bird on head."
+2463,The sleeping animal exhibits no interest.
+2465, under the sleeping dog's nose.
+2469,"the sleeping dog. Luckily, your pitching arm is no better than your sense of diplomacy, and "
+2470, falls short of its target by several feet.
+2471,"You're looking at a hundred and ten pounds of hard, flea-bitten muscle, leashed to the "
+2472, with a chain of the type used to moor ocean liners. Good thing it's sleeping.
+2473,"Boldly, fearlessly, you march up to the dozing shepherd and draw back "
+2475, to deal the sleeping monster a mighty blow
+2476, (or as mighty a blow as you can expect from 
+2478,". But the dog snorts a bit in its sleep, and you bravely scurry backwards several dozen yards."
+2479, slobbers gently in its sleep.
+2480, could use a bath. Any volunteers?
+2483,A second look at the sleeping brute
+2485, curls its lip and rumbles
+2486,But you didn't wake it up... this time.
+2489, lifts a heavy eyelid
+2490,"It peers at you for a moment, yawns and drifts back to sleep.
+
+You wipe the sweat from your brow"
+2492," A set of long, white fangs snaps together, an inch shy of your left leg. Looks as if sleepytime is over."
+2493,"""Nice puppy,"" you mumble.
+
+The 110-pound ""puppy"" strains against its chain, opens its toothy maw and starts"
+2494,You stumble backwards to hide as the 
+2495, sweeps across the road.
+2498,"SEEN = just seen, NODESC = never seen, CHILLY = passed."
+2500,You'd have to get uncomfortably close to the 
+2509, the darkness close at hand
+2511," in one of its long, sharp claws"
+2513," winces with pain, and covers its eye with an open claw."
+2516, with profound disinterest.
+2517, growls and backs away as you approach it with 
+2519, into its mouth and belches.
+2521," in its claws, glares at it briefly and flings it off into the darkness with a snarl."
+2524, and kicks it back to you with a fearful screech.
+2531,'s eyes dangles from its socket on a moist pink nerve. The other glares back at you from the darkness of the 
+2532, responds to your gesture with a contemptuous snarl.
+2533," backs out of your reach, snarling with fear."
+2537,Your gesture brings a tear to the 
+2538,'s eye as it recalls the tender moments of its former human existence. Then it breaks your neck with a practiced swipe of its claw.
+2541, smells as if it's been dead a long time.
+2544,and flings it back at you with a roar. You leap back as it skitters
+2545,*** OPPIE & COMPANY ***
+2548,A thin man is standing just inside the bunker's entrance.
+2549,"NODESC = NOT visible, SEEN = appeared once, CHILLY = used name, BORING = quote seen."
+2550, you saw here before is gone now.
+2554, is drawn and haggard; it looks as if he hasn't slept in days.
+2556,SEEN = spoken to once.
+2559, are obviously under a lot of strain. Their 
+2560,"fingers drum impatiently on their steering wheels, and their "
+2561,eyes dart back and forth between the 
+2563,. One of them is training a 
+2564, on the road leading south.
+2567,"""Who said that?"" he cries.
+
+The "
+2570," snap to alert attention, peering into the gloom. Nobody moves for a long moment. Then, one by one, they begin to relax... all but the closest GI, who stares in the "
+2571, of the shed nervously.
+2573,"""The shed!"" he cries."
+2574, at the sound of your voice. 
+2582,============ THESE ARE USEFUL IN ALMOST EVERY GAME ============
+2583,"============ THESE DON'T NEED FILLING OUT, BUT CAN BE CHANGED ============"
+2584,"TR for TRINITY: (C)1986 Infocom, Inc. All Rights Reserved."
+2595,"PLACES for TRINITY: (C)1986 Infocom, Inc. All rights reserved."
+2601,north along the crowded 
+2603,through the mob around the Gate. 
+2604,ed glades stretch away
+2605,"east, and a hint of color marks the western edge of the "
+2606, makes it difficult to walk straight
+2617,There's no need to trample on the flowers.[ID: places:95]
+2618,There's no need to trample on the flowers.[ID: places:97]
+2619,You're already as close as anyone wants to get to the Albert Memorial.
+2620,There's no need to trample on the flowers.[ID: places:100]
+2623," line the walks bending north and west, filling the air with a gentle fragrance. A little path leads northwest, between the trees."
+2628, hoot with laughter at the dreadful sight; 
+2629, hide their faces and roll quickly away.
+2631, are scattering in every 
+2635," faces east, where the waters of the "
+2636, sparkle in the afternoon sun. Your eyes follow the crowded 
+2637, north and south until its borders are lost amid the 
+2640,". Small paths curve northeast and southeast,"
+2642," fills the air! They circle overhead and congregate around a nearby bench, where an aged woman is selling bags of crumbs.
+
+""Feed the birds! Thirty p!"" Her voice quavers with heartbreak."
+2644,Swimming in the Round Pond is strictly forbidden.
+2646,Ducks and swans bob on the sparkling 
+2648,. They share the water with a
+2652,", directed by the excited shouts of "
+2654, floating within reach
+2655,".
+
+Crowded paths radiate from the Pond in many "
+2660," is only twenty feet across, and perfectly circular. Paths wander off in many "
+2661,s through the surrounding 
+2662,"A noise makes you hesitate.
+
+For a moment, nothing happens. Then the "
+2666, wobbles with a faint scrape.
+2672, rolling south down the 
+2673,. Less crowded paths wind east along an 
+2676,find any good footholds.
+2678,A crooked old tree shades the 
+2682,. Shady paths lead west along an 
+2685," under the tree, struggling to open an "
+2687, isn't making it easy for her.
+2690,You begin to walk past the 
+2697, of a horse and rider dominates this 
+2699,intersection. The Walk continues north and south; lesser paths curve off in many 
+2700,"s.
+
+A broad field of "
+2701,", meticulously manicured, extends"
+2702,. Beyond it you can see the 
+2704,As your feet touch the grass
+2706,NOALL = can't see a bubble.
+2708,Crowded walkways lead east and west along an 
+2709,. Narrow paths wander south into the Gardens.
+2712,You're on a shady path that winds along the western shore of the 
+2713,". Looking south, you can see the graceful arch of a bridge, and beyond it the cool expanse of the river Serpentine."
+2716," into the cool, dark water"
+2717,The spectacle on the 
+2719,"You begin to move away, but stop dead "
+2722,The water isn't deep enough here.
+2724,You're standing knee-deep in the 
+2725,", not far from the western shore"
+2726,". Looking east, you can see a "
+2727, hovering just above the 
+2728, is too far away in that 
+2729,You wade back to the 
+2730,*** FANTASY WORLD ***
+2733,"Naked slopes veer upward on every side, forming a natural "
+2734, that is filled to a depth of several inches with human 
+2737, is flourishing in the rich fertilizer
+2742,The slopes around you are too steep to climb
+2744, suggest that you're not the first to discover this
+2745,You explore the door's edge with a timid foot.
+2748,This crag of rock juts out over the surrounding 
+2749,", ending at an abrupt drop several hundred feet deep. Rugged trails wind south and south"
+2753," of stone, surrounded on every side by a deep "
+2754,fallen oak bridges the gulf
+2756, has somehow taken root in the solid rock
+2763,A sudden cliff blocks your path.
+2765," Narrow trails curve southeast and southwest, away from the edge of the bluff.
+
+To the "
+2767,", nestled in a shady "
+2771,A spectacular crop of 
+2772, extends far and wide across the 
+2777,", brown with the crust of years, squats in the middle"
+2778, stands amid the scorched remains
+2779, of this tiny chamber. 
+2780,"Coils of steam writhe from its depths, filling the air"
+2782, with a greasy stench that makes your nose wrinkle. 
+2785,s are both wide open.
+2787,"Unfortunately, the front and "
+2789, is wide open. Another door leading 
+2794, protects the neat rows of herbs from predators. The only exit is the
+2796,", leading west.
+
+Another giant "
+2797, has taken root in a 
+2798," opens wider at your touch, drawing you over the threshold."
+2802, lie toppled among the 
+2804," and heads scattered like the carnage of a ghastly battle.
+
+A granite "
+2806,. Beyond it rises the mound of an ancient 
+2808," leads north, into the "
+2809,", sealed with an iron door"
+2810,".
+
+Sudden drops fall away on every side but south, where a flight of "
+2821,dim light from outside
+2822, does little to dispel the gloom of this subterranean passage. Craggy walls bend away
+2824,; chill vapors rise from a slope that descends into darkness
+2825,"A clatter breaks the silence! You turn, and watch helplessly as a "
+2826, crashes down across the south exit.
+2827,"Something just moved.
+
+You peer uneasily beyond the pool of light around the "
+2828,". Nothing. Then, as your eyes adjust, you descry a vaguely human outline crouched against the "
+2830,"""Awk! Barrow wight!"""
+2832,bellows something awful as you pass
+2833,You stumble into the lightless 
+2834,'s eye grows wide and bold as your 
+2836,". You hesitate, then slowly retreat until the "
+2837, is well within reach.
+2838, covers its eye with its claws and 
+2843,"You slide down into gloom that grows colder and colder...
+
+"
+2844,see any exit that way.
+2846,Black trees block your path.
+2848,"A thick, suffocating miasma lingers among the trees; the black earth is squishy with corruption. "
+2849,Paths wander off in many 
+2854,The forest is too dense that way.
+2856," at your feet is striped with colorful layers of rock. Narrow paths twist northeast and northwest, uneasily close to the edge. Other trails lead off into the forest.
+
+To the north, a rocky "
+2857, towers like a golf tee from the depths of the 
+2858,. Only thirty feet separate you from its flattened summit.
+2859,An oak tree stands at the chasm's brink.
+2860,An oak tree lies fallen across the 
+2862,You step gingerly across the fallen oak
+2864,You step boldly over the 
+2866," and float down, buoyed by the "
+2868,. But its cloth panels get tangled
+2877,plummet to a painful end.
+2880,The cliff is much too steep to climb.
+2882,"Smooth walls of rock vault straight up and then lean inward, forming a natural roof that partially hides the sky. Trails lead out from under the cliff in many "
+2883,"s.
+
+A swarm of bees has staked out this formation for itself by "
+2884, an enormous hive under the arch. 
+2886," from the hive is magnified by the cliff's acoustics into a loud, frightening drone."
+2888,Blasted trees block your path.
+2889,Blasted trees block your path.
+2890,Blasted trees block your path.
+2892," around you is bent and splintered, as if a mighty fist had smashed through the branches. Sooty fumes hang in the air; the earth is dark with ashes and "
+2894,ern path ends at the lip of a deep 
+2895,", forty or fifty feet across."
+2896,You climb down into the 
+2898,The only way up is to the 
+2901," fills the air with an acrid, smoldering stench. Blackened "
+2902, covers the sides and bottom of the 
+2903,You scramble out of the 
+2905,Sheer cliff walls block your path.
+2906,Sheer cliff walls block your path.
+2907,Sheer cliff walls block your path.
+2909,A curtain of water tumbles off the 
+2910,"ern cliffs into a deep, rocky pool. From there, a mountain stream wanders off into the "
+2911,. Footpaths follow the stream 
+2914, has been hewn into the face of the north cliff.
+2915,You edge around the curtain of water
+2921,You'll never fit through the door with that open 
+2924,You're in a vast underground 
+2925,", cold enough to see "
+2927, glitter in the light shining in through an 
+2929," wall. Beyond it, a curtain of water fills the "
+2930, with its splashing roar.
+2931,You edge your way around the 
+2934,Black trees block your path.
+2936," is damp and squishy underfoot, especially along the "
+2939, between the black trees.
+2941,You're already at the bottom of the stairs.
+2944, before you must be thousands of feet high. It
+2945,", casting a stern, precise "
+2946," over the surrounding landscape.
+
+A narrow "
+2947," climbs north, up the hypotenuse of the triangle. Footpaths converge on the stair from every "
+2949,"With a fearful gulp, you ascend the narrow "
+2952,The breeze feels noticeably 
+2956," here, about halfway to the "
+2958,landscape below is gray in the 
+2965,er as you continue your 
+2970,You're already at the top of the stairs.
+2972,The temperature on this tiny 
+2973, is well below freezing. But it isn't just the cold that makes your teeth chatter when you look down that narrow 
+2974,", thousands of feet high.
+
+Far below, the "
+2976," stretches across the landscape. From this great altitude it looks like a dark finger, accusing a point on the "
+2979,"Fighting back fear, you descend the "
+2981,Tall cattails block your path.
+2982,Tall cattails block your path.
+2983,The misty waters block your path.
+2984,The misty waters block your path.
+2985,The misty waters block your path.
+2988, line the banks of a great river that flows 
+2989,ward across the silent moor. A dense fog on the water obscures your view of the 
+2990,".
+
+A pair of giant "
+2991,s is growing among the 
+2997,pass the threshold of 
+2999,... and step into empty air
+3001,You'd tumble down the hill if you went that way.
+3002,You'd tumble down the hill if you went that way.
+3003,You'd tumble down the hill if you went that way.
+3004,You'd tumble down the hill if you went that way.
+3005,You'd tumble down the hill if you went that way.
+3007, you've climbed lies at the south
+3008, edge of a vast wilderness. Towering 
+3009,"s are broken by long tracts of wasteland, rugged plateaus and marshes shrouded in perpetual mist. A brooding sun fills the distant "
+3010,"s with a sad, dusty light the color of antique brass.
+
+A "
+3011,", thousands of feet high, rises above the "
+3013,. Its vertex casts a long 
+3014," across the wood.
+
+As your eyes sweep the landscape, you notice more of the giant "
+3016," Some sprout in clusters, others grow in solitude among the trees. Their "
+3017,s increase dramatically as your gaze moves 
+3019, is choked with pale domes.
+3020,There must be hundreds of them.
+3023,It must have taken centuries to cultivate the magnificent 
+3024, rising before you. The tightly woven 
+3027," like a green wall, thirty feet high.
+
+A barren hilltop is visible to the "
+3028,. Many footpaths wander off
+3031,A fortresslike wall of 
+3032, stretches east and west through the 
+3033,only breach is an identical pair of arched 
+3036,. Paths wander from its banks in many 
+3039,The misty waters block your path.
+3040,The misty waters block your path.
+3041,The misty waters block your path.
+3043,"Footpaths wander north, west and northwest. Turning south, you see a magnificent "
+3044, growing in an unbroken wall to the 
+3048,on a lifeless strip of sand
+3050,water is unnaturally dark and still; ribbons of mist coil across its 
+3051," like ghostly fingers, obscuring what lies beyond."
+3053,The misty waters block your path.
+3056, trickles into a river that bends
+3058," is veiled behind a thick mist.
+
+Paths meander off in many "
+3059,s from the river's edge.
+3062,You've discovered a golden 
+3063,", bordered on every side by a dense "
+3065,", and the wood echoes with the cry of mourning doves"
+3068,The door you just stepped from opens into a 
+3069, of impossible size. Its broad crown towers over your head like a fleshy 
+3071, is hopelessly impenetrable
+3072,". But an obscure path winds north, to the summit of a gentle hill."
+3073,You ascend the gentle 
+3080,Barely eighteen inches separate the thick walls of arborvitae that 
+3081, on either side. They form an uncomfortably narrow corridor that bends sharply to the 
+3088, arches over your head like a great green Ferris wheel. Its tangled 
+3089,"s are peculiarly twisted, making it difficult to tell where the inside ends and the outside begins.
+
+"
+3090,"Other paths lead east and west, into the surrounding "
+3099,You can only go up or down from here.
+3100,You can only go up or down from here.
+3102, twists alarmingly as you 
+3104,You can only go up or down from here.
+3105,You can only go up or down from here.
+3109, curves up and around in an inexplicable way that makes your eyes cross. It seems as if you'd be standing on your head if you went much higher. Little daylight makes its way through the thick walls of arborvitae.
+3114,The tangled vines and tendrils seem to writhe malignantly in the 
+3115,faltering glow of the 
+3116,flickering light of the 
+3123,Something bushy blocks
+3127,The misty waters block your path.
+3128,The misty waters block your path.
+3129,The misty waters block your path.
+3130,The misty waters block your path.
+3131,The misty waters block your path.
+3132,The misty waters block your path.
+3133,The misty waters block your path.
+3135,"At first glance, this isolated spit seems hopelessly mired in the fog blowing in off the surrounding river. But the sand looks a bit firmer"
+3137,The misty waters block your path.
+3138,The misty waters block your path.
+3139,The misty waters block your path.
+3140,The misty waters block your path.
+3141,The misty waters block your path.
+3142,The misty waters block your path.
+3143,The misty waters block your path.
+3145,"It's impossible to see more than a dozen yards on this fogbound islet. The damp air makes your footsteps sound unnaturally loud as you trudge across the sand at the river's edge.
+
+A lone "
+3146, has found a home at the water's edge
+3151,ruby in its beak gleams enticingly
+3152,"You take a deep breath, and step forward."
+3154,"WIRE-TYPES identifies each of the four colored wires. 0 = red, 1 = blue, 2 = striped, 3 = white."
+3159,Magic wire stored here.
+3160,"PICK-ONE expects an LTABLE of strings, with an initial element of 0."
+3165,"You're five hundred miles above a sea of ice, hurtling in profound silence over the Arctic atmosphere. Layers of crimson and violet describe the curve of the "
+3166,", blending imperceptibly into a black sky crowded with stars."
+3169,s don't propagate well in a vacuum.
+3170,You have no means of propulsion.
+3171,"Earth Orbit, on a satellite"
+3179," is about twenty feet long, and shaped like a beer can"
+3180, around you is anchored to the 
+3187, side of a huge steel 
+3188,", fifty feet high. All around you, a frozen wasteland stretches off to a "
+3194,'s interior. The topmost rungs of a 
+3198,leap across the jamb of the 
+3199, fades away into the texture of the 
+3204, snakes down the side of the 
+3205,", then trails southwest across the "
+3206,". Grim tracts of permafrost greet your eyes every way you turn.
+
+A "
+3211,Steep mountains block your path.
+3212,Steep mountains block your path.
+3213,Steep mountains block your path.
+3214,The mountains are much too steep to climb.
+3216,The frozen earth slopes north to meet a gray wall of 
+3219,There's nothing but cold desolation in 
+3221,Steep mountains block your path.
+3222,Steep mountains block your path.
+3223,Steep mountains block your path.
+3224,The mountains are much too steep to climb.
+3226," range east and west, dark against the frozen ground. The "
+3229,Steep mountains block your path.
+3230,Steep mountains block your path.
+3231,Steep mountains block your path.
+3232,Steep mountains block your path.
+3233,The mountains are much too steep to climb.
+3236, cuts a narrow pass through the 
+3237, rising north and east. The 
+3238, is a gray sentinel on the southwest 
+3239,You follow the stream of 
+3241,The mountains are much too steep to climb.
+3243,Arctic winds whip across the permafrost in bone-chilling gusts. The distant 
+3244, is outlined against the eastern 
+3246,Steep mountains block your path.
+3247,Steep mountains block your path.
+3248,Steep mountains block your path.
+3249,The mountains are much too steep to climb.
+3251,The barren ground stretches west towards the distant 
+3253, rise like a fortress
+3257, is still visible on the northeastern 
+3259," run southwest across the permafrost, towards a distant "
+3264, breaks the monotony of this frozen plain.
+3266,Steep mountains block your path.
+3267,Steep mountains block your path.
+3268,Steep mountains block your path.
+3269,The mountains are much too steep to climb.
+3273, and south in a gray wall. The 
+3274, stands alone on the northwest 
+3276,Steep mountains block your path.
+3277,Steep mountains block your path.
+3278,Steep mountains block your path.
+3279,The mountains are much too steep to climb.
+3281," ends here, on a cliff overlooking an Arctic sea. But where ancient waters once fell, there now pours a living stream of "
+3282,". Driven by mindless instinct, too stupid or frightened to turn away, they plunge by the hundreds into the crashing waves below"
+3283,. You recognize the species now. Lemmings
+3285, underfoot is split by a narrow 
+3286,", almost hidden by the scrambling "
+3288,"If you can't beat 'em, join 'em"
+3291,"over the edge of the cliff, where you founder for a while in the Arctic waters."
+3293,You force a path through the 
+3296,Rock walls block your path.
+3297,Rock walls block your path.
+3298,Rock walls block your path.
+3299,Rock walls block your path.
+3300,Rock walls block your path.
+3301,Rock walls block your path.
+3303,"You're in a narrow underground chamber, illuminated by "
+3304,an open door in the east wall
+3309, occupies most of the chamber. The maze of 
+3310," surrounding it trails west, into the depths of a "
+3311, in the east wall is closed.
+3313, are gouged with deep spiral ruts; they look as if they've been routed out with heavy machinery.
+3314,You slip through the 
+3316,Rock walls block your path.
+3317,Rock walls block your path.
+3318,Rock walls block your path.
+3319,Rock walls block your path.
+3320,Rock walls block your path.
+3321,Rock walls block your path.
+3324,'s walls look like bloated veins and arteries in the 
+3332, you spot something moving in the corner of your eye. It's... what do you call them?... yes! A 
+3334,Rock walls block your path.
+3335,Rock walls block your path.
+3336,Rock walls block your path.
+3337,Rock walls block your path.
+3338,Rock walls block your path.
+3339,Rock walls block your path.
+3342, is sealed off with a 
+3343, of rocks and dirt. Numerous 
+3345,", trailing away to the "
+3346,Feeble light shines from a 
+3348,'s feeble glow reveals a 
+3354,Whoever threw this place together wasn't too worried about permanence. Tin walls rise on flimsy studs to a 
+3355," that sags under its own weight. It reminds you of a prefab tool shed, several stories high.
+
+You're standing beside a monstrous conglomeration of pipes, compressors and pressure valves that fills most of the "
+3358, set into one of the storage tanks
+3365,"You hesitate for a moment, then step through the "
+3368,A maze of plumbing rises before you like the back of a giant refrigerator. Stairs lead up to a 
+3370,". Turning south, you see a"
+3374,", with a small box and a "
+3375, mounted on the wall beside them.
+3380,The waters of a peaceful 
+3381," reflect the tropical dawn like a fiery mirror. A few stars are still visible in the rosy sky.
+
+The glorified tool shed dominates this little "
+3382,", leaving room only for a narrow strip of sand that curves"
+3383,east and northwest. A 
+3384, is mounted on the wall beside the
+3389,follow the curve of the 
+3390,"You recall the icky things lurking in the water, and change your mind."
+3391,Icky bits of slime wash past as you wade deeper into the 
+3392,". Invisible creatures nip at your toes, and something big and menacing brushes your shin. Enthusiasm dwindles; you hastily return to the shore."
+3396,Palm trees far across the 
+3397, stand in dark relief against the eastern sky. The 
+3398," continues northwest and southwest, around the "
+3402, juts out of the side of the 
+3403,", stretching away across the "
+3404," as far as you can see.
+
+The beach continues around the "
+3408,"The sand curves northeast and southeast, skirting the dark outline of the "
+3410, is visible a short distance offshore.
+3411,"A bolt of pain engulfs your foot.
+
+A big, fat crab is pinching your toe! You shake off the wretched thing; it watches with evil satisfaction as you hop around the beach, yowling.
+
+Another crab joins the first, and another. Soon the water's edge is crowded with snapping claws."
+3412,A glance at the snapping 
+3415,Unassisted flight is not one of your talents.
+3416,Unassisted flight is not one of your talents.
+3417,Unassisted flight is not one of your talents.
+3418,Unassisted flight is not one of your talents.
+3419,Unassisted flight is not one of your talents.
+3420,Unassisted flight is not one of your talents.
+3421,Unassisted flight is not one of your talents.
+3422,Unassisted flight is not one of your talents.
+3423,Unassisted flight is not one of your talents.
+3424,You're going that way whether you like it or not.
+3425,"NOALL = 2nd fall move, SEEN = I-FALLING queued."
+3430," hundred feet above a small city, "
+3431,drifting slowly downward as the wind 
+3435,falling straight down at a velocity of 
+3440, is dwindling away in the sky overhead.
+3441,"Thin Air, on the giant bird"
+3442,Unassisted flight is not one of your talents.
+3443,Unassisted flight is not one of your talents.
+3444,Unassisted flight is not one of your talents.
+3445,Unassisted flight is not one of your talents.
+3446,Unassisted flight is not one of your talents.
+3447,Unassisted flight is not one of your talents.
+3448,Unassisted flight is not one of your talents.
+3449,Unassisted flight is not one of your talents.
+3450,Unassisted flight is not one of your talents.
+3451,Unassisted flight is not one of your talents.
+3453,You're soaring high over the city on a giant 
+3455, and leap through the 
+3461, Behind them stands a long 
+3464," and birds folded from colored paper.
+
+Mounds of dirt are heaped around a dark "
+3465,. It appears to be a 
+3466," of some kind.
+
+Several small "
+3467, are happily chasing 
+3468," north of the swing set. Turning south, you see a group of adults (school"
+3469,", by the looks of them), wearily digging another "
+3471,You begin to yell hysterically.
+3472,"Somewhat shaken, you rise to your feet in a child's "
+3473,. In the pile you see 
+3474,[climbing out of the 
+3478,You descend into the darkness
+3479,You step closer to the group of 
+3481,"One teacher, a young woman, sees you "
+3486," and shrieks something in Japanese. Her companions quickly surround you, shouting accusations and sneering at your vacation shorts. You respond by pointing desperately at the sky, shouting ""Bomb! Big boom!"" and struggling to escape into the "
+3487,".
+
+This awkward scene is cut short by a searing flash."
+3489, cry out in surprise and fear at your approach.
+3490,You walk a little closer to 
+3491,", but hesitate when it occurs to you that they might not take kindly to your presence"
+3494,You're already in the shelter as far as you can go.
+3495,You're already in the shelter as far as you can go.
+3497,You wouldn't want to spend much time in this wretched hole. The bare 
+3498," is damp and filthy, and the "
+3500,". Luckily, there's an "
+3501,You ascend into daylight
+3504,The metal wall blocks your path.
+3505,The metal wall blocks your path.
+3506,The metal wall blocks your path.
+3507,The metal wall blocks your path.
+3508,The metal wall blocks your path.
+3509,The metal wall blocks your path.
+3512,", barely twelve feet square. The oak "
+3513," is littered with discarded bits of rope, pulleys and other "
+3517, light bulb hangs from the 
+3520,; harsh light streams in through an 
+3522,"exit in the west wall.
+
+A five-foot "
+3523, rests on a bracket in the middle of the 
+3526, and crossed with electrical 
+3527,", all converging in a boxlike "
+3529, is set into the east wall.
+3531, The door slams shut at your approach.
+3533,You're already at the top of the ladder.
+3535,"A metal rail is all that stands between you and a hundred-foot drop.
+
+Miles of barren "
+3536," lie below, gray and still in the gathering dawn. Black roads radiate outward like the hands of a great clock.
+
+This narrow "
+3537, opens east into a metal 
+3540, in a raw white glare
+3541, is sticking up over the 
+3544,You step towards the 
+3545,", but hesitate when you hear the "
+3547,go down there right now?
+3548,You clutch the topmost rung of the 
+3549," with sweating palms. Fighting back vertigo, you begin to feel your way downward.
+
+At last your foot touches a flat "
+3552,A spiderweb of steel rises from the 
+3553," floor below, tapering up to the "
+3554, fifty feet overhead. Thick ropes and 
+3558,You tighten your grip on the 
+3559,You step back onto the 
+3565," rises overhead, black against the cloudy sky. Your eyes follow the tapered frame up the "
+3568," at its summit.
+
+Paved roads and "
+3569, lead off into the surrounding 
+3572," is eyeing you from its perch on the box's lid. The ruby in its beak gleams in the early dawn.
+
+With a skillful toss, the "
+3573," deposits the ruby on the box. Then it leaps off and scampers eagerly around your feet. If you didn't know better, you'd swear it was glad to see you."
+3574,You grasp the rungs of the 
+3579,Your eyes follow the 
+3580," northwest, where a cluster of "
+3584,", and also leads southwest.
+
+An abandoned jeep is parked nearby."
+3586,".
+
+Excited shouts ring out as you approach the nearest "
+3587,. One of the giant lights sweeps
+3588, until its beam aims directly into your eyes.
+3592,You climb into the jeep
+3594,You can't move around like that in a jeep.
+3595,You can't move around like that in a jeep.
+3596,You can't move around like that in a jeep.
+3597,You can't move around like that in a jeep.
+3598,You can't move around like that in a jeep.
+3599,You can't move around like that in a jeep.
+3600,You can't move around like that in a jeep.
+3601,You can't move around like that in a jeep.
+3602,You're already in the jeep as far as you can go.
+3604,"Comfort was clearly not a consideration in the design of this jeep. The seat is narrow and hard, and your shin is scrunched up against a radio bolted to the "
+3605,You clamber out of the jeep
+3609, leads northwest across the gray 
+3610,", and southeast towards the "
+3613,Stubby poles draped with 
+3618, is a dim outline against the southeast 
+3622,. It's the only landmark in this empty 
+3626, stands alone against the surrounding 
+3629,This bleak stretch of 
+3634,You're standing at the edge of a shallow 
+3636," floor, a few hundred feet across. The ground within is gray and pulverized, as if by a powerful explosion.
+
+A "
+3638,", and northwest towards the "
+3642," of steel has been erected here, cousin to the larger "
+3644,. Suspended within the frame is an enormous metal 
+3645,", at least twenty feet long and ten wide, with rounded end caps. It looks like a king-sized cold capsule.
+
+A "
+3646, curves north and south.
+3650, leads northeast towards the 
+3656, is a faint outline on the northeast 
+3657," leading from it continues southwest, "
+3661," bears off in a straight northeast/southwest line. Another road bends southeast, and a "
+3667, by the roadside is squat and windowless. A powerful 
+3668,", mounted on the roof, directs an intense beam "
+3670,towards the northeast horizon
+3673,A little pile of gray 
+3675,. You watch in silence as the last few blow away across the 
+3676,You skirt around the 
+3677,Another look at the shepherd encourages you not to go that way.
+3680,"A paved road bears north towards the tower, and south "
+3684,", straight and level, bears in a north/south line across the "
+3688, bears north and south across the 
+3689,". Another road bends northwest, and a "
+3694,You're hiding behind a small storage 
+3695,".
+
+Peeking around the "
+3696,", you see a large earth-covered "
+3701, are parked around the 
+3703,A pear-shaped man appears at the 
+3705,". He strides up to one of the jeeps and taps the young driver on the shoulder. ""General Groves, soldier. Take me back to Base Camp.""
+
+Ill-disguised relief passes over the GI's face as the pear man clambers into the back seat. You duck behind the shed as the jeep roars past, and watch as it disappears (rather hastily) down the south road."
+3710,sound of a nearby voice
+3711,sight of people nearby
+3712,You start to move towards the 
+3714,You start to move south
+3716,", but hesistate when you notice one of the "
+3719,".
+
+Do you want to continue anyway?"
+3720," away from the safety of the shed.
+
+The GI "
+3723,drops his binoculars and
+3726,". ""Wha... Who the hell is "
+3731,You slip quietly around the back of the shed
+3733, and crackling radios can be heard inside the 
+3737, leads southeast and northwest across the 
+3741, stretches away in every 
+3744,There's nothing but trackless desert in that direction
+3745,Nothing but trackless desert lies that way
+3746,Little else but desert lies in that direction
+3749,You're surrounded by a vast 
+3750," landscape, utterly barren and featureless."
+3758, slopes upward to join the 
+3764,Nothing breaks the monotony of the barren 
+3773, stretches away on either side of a road that leads southeast.
+3779,"Rugged foothills slope eastward, away from the "
+3787,A range of foothills slopes up to meet the 
+3795, is the only point of reference in this bleak 
+3803, around you is flat and empty. Only the distant 
+3804, relieves the monotony of the landscape.
+3813, is still and expectant in the gray light of dawn.
+3820, surround you on every side.
+3826,A lone road wanders northwest across the empty 
+3831,You're at the northwest 
+3834, leads in to a dilapidated 
+3837,". Other paths curve east and south, along the wall's perimeter."
+3839,There's no entrance that way.
+3841,This patch of dust lies within the elbow of the 
+3842,", and is enclosed by a "
+3843," and west.
+
+An open "
+3844," leads south, into the house. There's also a"
+3851," stands nearby, bounded by dusty patches of ground and a low "
+3852,". Paths lead south and east, on either side of a cement "
+3856,This room is stripped bare of all furnishings. Only a rectangular area in the 
+3858," around it, belies the former presence of a mattress.
+
+A"
+3859," in the east wall leads outside. Another exit opens west, into the "
+3863,", broken and faucetless, is the only fixture left in this tiny chamber. The south exit doesn't even have a door."
+3867,", this squarish room offers no amenities. Other exits lead north and east."
+3870,"The original purpose of this stark room is uncertain; it might have been used for dining. Exits lead north, south and east."
+3873,"Whoever used this room was paranoid about dirt. The floor is swept spotless, and the edges of both "
+3874, are carefully sealed with tape. A
+3875," leads east, and there's a"
+3878, door in the north wall. Other exits lead south and west.
+3879,"You turn to face an urgent noise behind you. Your heart skips a beat. Two tiny eyes, bright with hunger, black with menace, are glaring at you from only a few feet away"
+3881,You beat a hasty retreat from the 
+3882,You hear the noise again. It's like a pebble in an empty can.
+3884,You're in the closet as far as you can go.
+3886,There's barely enough room to turn around in this puny 
+3890, door is in the south wall.
+3897, are the only evidence of this room's identity. A
+3898, in the west wall leads out to a 
+3899,. Other exits lead north and east.
+3902,Something about this room gives you the impression that it was hastily vacated. The 
+3903, in the east wall is 
+3906,. Other exits lead north and west.
+3913,". Turning west, you see a "
+3914, descending into darkness.
+3918," It feels as if nobody's been down here for a long time.
+
+Gray light seeps in from a "
+3920,The walls of this underground chamber are cool and clammy to your touch.
+3926, before you is almost as run-down as the 
+3927, inside it. Paths follow the wall's perimeter
+3929, leads northeast into a dusty yard.
+3932,There aren't any entrances here.
+3933,There aren't any entrances here.
+3935,You're just inside the 
+3938,raised deck stands immediately
+3940, in the wall leads southeast.
+3941,You stride onto the deck
+3945, enclosing this dilapidated 
+3947, leading inside. Paths follow the wall's perimeter
+3948," and west, and another curves east along a cement "
+3950,There's no entrance that way.
+3955,raised deck stands immediately
+3959,There's no entrance that way.
+3961,This is the southwest 
+3964," opens north into the house, and a"
+3965, in the wall leads southwest.
+3969,You're on a raised deck attached
+3975,one at the deck's left 
+3977,"one at the right, lead inside. A gentle ramp slopes down to the front yard."
+3982,"[Which way do you want to go in, northwest or southwest?]"
+3983,Both of the doors are closed.
+3986,You climb off the deck
+3989,This patch of ground lies between the 
+3991,". Well-worn paths curve north and south, around the "
+3992, enclosing the house. Other trails skirt the 
+3993," on either side.
+
+A ramp slopes up through a gap in the "
+3994,", ending on a raised deck."
+3998,You're resting at the north side of a big cement 
+3999,. Dusty paths curve west and southwest around a 
+4000,", and a trail leads southeast to the base of a "
+4004," rises overhead, its dark timbers tapering up to a "
+4010, the east side of an adjacent 
+4011,".
+
+The bottom rungs of a "
+4012, are just within reach.
+4013, overhead is broken. 
+4014,climb up to it anymore.
+4015,DESCRIBE-ROOM will set it.
+4016, squeaks and complains as you ascend
+4020, near the top of the 
+4021,"rotting planks underfoot creak ominously as you stand on them.
+
+A rickety "
+4023, groans under your weight.
+4026,You're near the south side of a big cement 
+4027,. Dusty paths lead west and northwest around a 
+4028,". Another curves northeast, to the base of a "
+4035,You're on the edge of a big concrete 
+4036,", filled with dark water. A short flight of steps leads down to the ground."
+4043,You're treading water in a big cement 
+4044,", too deep for your feet to touch bottom."
+4045,You climb out of the 
+4050,You hit your head against the side of the reservoir.
+4051,You hit your head against the side of the reservoir.
+4052,You hit your head against the side of the reservoir.
+4053,You hit your head against the side of the reservoir.
+4054,You hit your head against the side of the reservoir.
+4055,You hit your head against the side of the reservoir.
+4056,You hit your head against the side of the reservoir.
+4057,You hit your head against the side of the reservoir.
+4058,You're already at the bottom of the reservoir.
+4060,Suspended particles of muck swirl in the beam of the 
+4061,. It's impossible to see more than a few feet.
+4066,. Something in the way he crooks his skeletal finger compels you to board. You surrender 
+4069, you didn't know you had
+4070,", take a seat and wait patiently for your first glimpse of the "
+4072,"[EVENT: GAME OVER]Do you want to restart the story, restore a saved position, or quit?"
+4073,"[Type RESTART, RESTORE or QUIT.] >"
+4076,Time isn't holding us.
+4077,Time isn't after us.   
+4078,"Same as it ever was,  "
+4079,Same as it ever was.   
+4080,        -- David Byrne
+4081,They are of sick and diseased imaginations
+4082,who would toll the world's knell so soon. 
+4083,                    -- Henry David Thoreau
+4084,"Atoms or systems into ruin hurled,      "
+4085,"And now a bubble burst, and now a world."
+4086,                       -- Alexander Pope
+4087,"""And 'the wabe' is the grass-plot round "
+4088," a sun-dial, I suppose?"" said Alice,    "
+4089, surprised at her own ingenuity.         
+4090,"""Of course it is. It's called 'wabe,'   "
+4091," you know, because it goes a long way   "
+4092," before it, and a long way behind it --"""
+4093,                        -- Lewis Carroll
+4097,from magic.          
+4102, from technology.    
+4104,The love of posterity is a consequence
+4105,of the necessity of death. If a man   
+4106,"were sure of living forever, he would "
+4107,not care about his offspring.          
+4108,                -- Nathaniel Hawthorne
+4109,"Could annihilation occur in matter,"
+4110,this were the thing to do it.       
+4111,                 -- Herman Melville
+4112,"From this crude lab that spawned a dud,   "
+4113,"Their necks to Truman's axe uncurled,     "
+4114,"Lo, the embattled savants stood           "
+4115,And fired the flop heard 'round the world.
+4116,"           -- Los Alamos ditty, circa 1945"
+4117, Can ye not discern the 
+4118, signs of the times?    
+4119,        -- Matthew 16:3 
+4123,'Twere better Charity                 
+4124,To leave me in the Atom's Tomb -      
+4125,"Merry, and Nought, and gay, and numb -"
+4126,Than this smart Misery.                
+4127,                    -- Emily Dickinson
+4128,"Distant and dead resuscitate,                       "
+4129,"They show me as the dial or move as the hands of me,"
+4130,I am the clock myself.                               
+4131,                                     -- Walt Whitman
+4132,"THINGS for TR: (C)1986 Infocom, Inc. All rights reserved."
+4136,You're sick of looking at 
+4139,"SEEN = gone, NOALL = delay flag for I-METEOR."
+4141, is moving northeast.
+4145,"dark, with scattered clouds."
+4146,bright with sunshine.
+4157,TOUCHED = sunset seen.
+4158, broods silently in the 
+4161, is hidden by the overcast.
+4167,'s digits are flashing randomly.
+4168,"(That's odd. The ""seconds"" display has stopped working.)"
+4170,You forgot how to operate your electronic 
+4173," is worth fifty pence, not thirty."
+4176,"It's standard British currency, worth "
+4178,. This one seems to have been minted backwards
+4186,with the usual codes. It expires tomorrow.
+4188, stare back at you hungrily.
+4192,would be impressed by your offer
+4195, about excitedly at the sight of 
+4196, don't seem to care about 
+4203,The gate is swarming with 
+4207, your hopeless attempt.
+4213,You can see it sparkling
+4217,Ducks and swans paddle between the 
+4220,"Aside from the birds and boats, you see "
+4224,child relieving itself in the pond
+4225, might float out of reach
+4234,"NODESC = timing flag, LIGHTED = glowing, SEEN = just referenced."
+4237,skillfully folded from a 
+4238,. Something is written between the folds.
+4246,"folded quite nicely, thank you"
+4248,Done. All that's left is a 
+4250,You lean over the edge of the 
+4255,The edges of the paper stop twinkling.
+4257,CHILLY = not folded by girl.
+4258,crumpled piece of paper
+4260,"kcolC'O ruoF ,retaW gnoL"
+4261,"Long Water, Four O'Clock"
+4262,""" are scrawled on the "
+4265,Your fumbling attempt to 
+4266, the paper back into a bird fails.
+4268, stare back at you coolly.
+4271, paddle out of reach.
+4273, are crafted of paper and sticks. They bob freely among the 
+4274,", who can barely conceal their outrage."
+4275, are far out of reach.
+4277,TOUCHED = quote given.
+4278,A shaft of golden sunlight falls across a handsome antique 
+4279,", erected at the exact center of the "
+4287,At the center of the 
+4288, stands a handsome antique 
+4289, The circumference is enclosed in a wide 
+4291, is firmly imbedded in the 
+4292,", and cannot be moved. But the "
+4293, around its perimeter
+4297,The perimeter of the 
+4298, is inscribed with seven curious 
+4303,""" emblazoned across the bottom. A "
+4304, is set into the center of the dial
+4310, is firmly set into the 
+4311,. It cannot be moved.
+4317, is creeping slowly towards
+4318, appears to be drifting slowly 
+4356, fits perfectly around the dial's perimeter
+4357,". It's inscribed with an arrow, which"
+4361,visible markings to use as a reference.
+4362,The arrow already lies within the 
+4366, refuses to move that way.
+4367,There are only seven 
+4369, can't be moved that way.
+4373,The sun races across the sky as you casually spin the 
+4375, wobbles a bit when you touch it.
+4377,[You must specify just 
+4381,"; for example, TURN THE RING TO THE FOURTH SYMBOL or POINT THE ARROW TO OMEGA.]"
+4385,You grasp the edges of the 
+4386," and begin to turn it.
+
+An ominous vibration makes the "
+4387, tremble. Then a motion catches your eye
+4389," It's arcing across the sky like a time-lapse movie, smooth and terribly silent.
+
+You let go of the ring with a cry. The sun instantly stops, and the strange vibration with it."
+4390,"After your pulse slows, you grasp the ring again and turn it, ever so carefully, until it "
+4391,The sun sweeps across the sky as you rotate the 
+4398,"t-handed thread, and is set in the center of the dial."
+4400, on the dial appears quite ordinary
+4401,", except that the headings are all backwards"
+4404, are arranged in a circle. The series begins with a Greek omega and runs 
+4406,"clockwise around the dial, ending with a Greek alpha"
+4408, are inscribed backwards
+4409,".
+
+[You'll find the "
+4414,There are exactly seven.
+4416,"NODESC = gnomon screwed into face plate, SEEN = tried screw w/bad thread, BORING = noticed wobble."
+4420,"t-handed thread, and is "
+4423,"It's a triangular piece of metal, about a quarter-inch thick and four inches long"
+4424,", screwed into the center of the "
+4425,long bolt is welded to the bottom
+4426,would help you move the gnomon
+4428, getting more and more wobbly as you 
+4429," it. A final twist, and it falls with a clatter onto the face of the "
+4430, twinkles again as the 
+4431, straightens itself and
+4432, silently retracts into the 
+4433, on the dial wobbles loosely when you 
+4437,You twist and push the 
+4438, into the hole on the 
+4439,", but it doesn't seem to fit very well. A quick glance shows the reason why. "
+4440,The thread on the bolt doesn't match the thread in the dial's hole.
+4442, into the hole on the 
+4444, silently rises out of the 
+4445,". As it clicks to a stop, the ring around the "
+4446, emits a brilliant twinkle of light.
+4449,TOUCHED = lever discovered.
+4455," is about five feet long, and"
+4463,begins to vibrate again
+4465," you hear a loud, mechanical groan below your feet. The "
+4467,"; you feel a momentary dizziness, and a brief gust of wind"
+4472, as far as it can go.
+4477, half-hidden among the blossoms.
+4478,The air is filled with a delicate fragrance.
+4482, are lovely to behold.
+4484,Flower-picking in the 
+4485, is strictly forbidden.
+4489, is dense and full of thorns.
+4493,TOUCHED = clearing referenced as WABE.
+4498, guide book warned you that the 
+4499," was ugly, but nothing could have prepared you for this embarrassing spectacle!"
+4501,statue of Queen Victoria
+4502,She wasn't much to look at.
+4504,SEEN = seen by roadrunner.
+4505,# handfuls of crumbs left in BAG
+4506,Meep takes 4 moves to eat entire bag.
+4510,You try to empty the 
+4512,", but crumbs pile up around the edges"
+4513,Bread crumbs jitter in 
+4514,The crumbs in the bag smell a bit stale.
+4515,The bread crumbs look old and stale. 
+4517, and cram them into your mouth
+4518,"As you munch the bread, your teeth clamp down on something hard. Ouch! You spit out the particle with a muffled curse.
+
+A brilliant ruby lands "
+4523, would get all soggy if you tried that.
+4525, refuses to stay closed.
+4529, flock eagerly around the bag. Soon the bread crumbs are history.
+4531,As the birds wander away 
+4532,"As you rummage through the crumbs, your fingers brush against something solid. A brilliant ruby slips out of the bag and falls to the ground."
+4533,Maybe you should empty the 
+4538, and tumble into the open 
+4539,".
+
+In moments, the pram is covered with greedy "
+4540,! Soon there's not a crumb to be seen
+4542,As you brush the last few 
+4544,Bread crumbs fall out of the bag
+4546,'s only one more handful
+4568,fall between your fingers
+4571,disappear in the water.
+4572,jiggle around inside the 
+4573, until you scoop them all up with the bag.
+4586, before returning to the dog's head
+4587,they scatter all over the place.
+4588,the breeze blows them all away.
+4590,"a glint of red catches your eye. Frowning, you "
+4593,peer over the edge of the 
+4594," for a closer look... and gasp with astonishment!
+
+The ruby "
+4598," is bigger than a walnut, with finely cut facets that sparkle with crimson fire. It must have been in the "
+4599,The crumbs feel dry and stale.
+4601,TOUCHED = BAG emptied.
+4606,You'd have to take the 
+4609,The crumbs are all gone.
+4612,The bags are full of bread crumbs.
+4614," away. ""No touchin' the merchandise!"""
+4616,There's nobody here to sell you any.
+4617," scowls. ""I ain't no pawn shop!"""
+4623,A ruby is lying at your feet.
+4624,"SEEN = found, CHILLY = delay timer."
+4625,"As you reach down to touch the ruby, "
+4627,Its finely cut edges sparkle with 
+4632,They're probably full of British babies.
+4635,A careless nanny has left her 
+4643,You clamber into the 
+4644," and slowly rise to your feet, knees wobbling"
+4646,"With wobbling knees, you slowly rise to your feet"
+4648, The pram skitters away and deposits you on the ground
+4649,", much to the amusement of passersby"
+4650,".
+
+With as much dignity as possible, you rise to your feet and discipline the pram with an angry kick."
+4651,You start to climb into the 
+4653,"With great difficulty, "
+4654,"and much to the amusement of passersby, "
+4655,you jam yourself into the unfortunate 
+4656,"Gratefully, you clamber out of the cramped "
+4659,", simply push it in the desired "
+4660,"; for example, PUSH THE PERAMBULATOR TO THE SOUTH or PULL PRAM EAST.]"
+4661," rolls a few feet, then stops."
+4662,would move the pram very far
+4668,That'd be easier to do if you got out of the pram first.
+4670," is lying on its side, bent and useless."
+4671, topples over on its side again. It's quite useless.
+4672,'s days of carefree rolling are over.
+4674, is hopelessly broken.
+4675, would never support you now.
+4677,A printed notice is stuck into the grass.
+4678,TOUCHED = warning given.
+4680,Do Not Walk On The Grass
+4681, are sternly printed on the 
+4682,As you approach the notice
+4684,"TOUCHED = attacked, SEEN = bikes seen, CHILLY = heard."
+4686," with a gentle thud.
+
+You hear a mutter of sinister little "
+4687, and a brief rustling 
+4688,". When you look again, "
+4689, is gone without a trace!
+4690,It seems innocent enough.
+4691,As your feet touch the grass
+4692,As you bend to touch the grass
+4694," giggling ""Shh! Shh! Quiet!"" for a moment"
+4696," you sense a strange motion around you. Looking down, you watch with horror as the "
+4697, begins to ripple and writhe with vegetable indignance!
+4698,"Angry green stalks whip around your legs, pull you to the ground and drag you, kicking and screaming, back to the paved "
+4700,A chorus of offended little 
+4701, subsides as you regain your footing
+4704,"According to a plaque, the "
+4707,'s design would make that difficult.
+4712," for a few moments, but "
+4715,to admire your athletic prowess.
+4719,"'s hands, but stop short"
+4720,The parrot's head stares back at you.
+4725, teeters uncertainly for a moment.
+4727," dangles in the tree overhead, high out of reach. It"
+4729,s handle is carved in the shape of a parrot's head
+4734," and smooth the wrinkles, you notice a touristy slogan printed around the outside: """
+4738," snaps open and nearly flies to pieces in the fury of your descent. But a sympathetic breeze fills the cloth panels with air, and your death-plunge slows to a leisurely drift."
+4739, won't stretch enough now.
+4740, stretches as you open the 
+4743, the moment you open it. You
+4758, you collide with a crowd of 
+4760, until you plow into the 
+4767, you careen into the 
+4774,As you stumble across the lawn
+4779, you careen into the 
+4781, and tumble out of the 
+4784,snedraG notgnisneK eht ot dael smarp llA
+4785,All prams lead to the 
+4786,""" is printed around the outside."
+4787, lodges itself in the tree beside the 
+4789," teeters uncertainly for a moment, then tumbles out of the tree and lands at your feet."
+4790,"Nice try. Unfortunately, "
+4792, isn't long enough to reach 
+4793,Your paper bird didn't survive the crash very well. All that's left of it is a crumpled piece of paper.
+4794,"You zoom down a long slope, barely missing several trees and boulders. Peering over the top of the "
+4796," coming closer and closer. Unable to stop, and too stupid to let go of the "
+4797,", you bravely close your eyes and pinch your nose shut"
+4800,You come to your senses empty-handed and aching all over
+4801,"Painfully, you regain your footing"
+4810, is wedged in the branches overhead.
+4812, tumbles out of the tree and 
+4813,"It's quite a nice tree, actually"
+4815, wedged in its branches
+4824,A charming statue stands nearby.
+4825, portrays a carefree little boy playing a set of pipes.
+4826,'s design prevents this.
+4829, rise and fall with fateful urgency.
+4831,TOUCHED = missile noticed.
+4836," is impressively large, sixty or seventy feet from nose to tail, aiming straight downward. A crimson hammer and sickle are lovingly painted on the hull."
+4840,There's only one door here.
+4841,Looking directly at the 
+4842, makes you uneasy. It's as if your eyes can't decide whether it's really there or not.
+4847,ou wade to the threshold 
+4850, as it slips through 
+4852,"All color abruptly drains from the landscape. Trees, sky and sun flatten into a spherical shell, with you at the very center. A hissing in your ears becomes a rumble, then a roar as the walls of the shell collapse inward, faster and faster"
+4862,"""No!"" your mind shudders. ""That's not a "
+4865,It's a perfectly legitimate 
+4868, retorts the voice with cold amusement. 
+4874,"You turn, but see no one."
+4875,The space around you articulates. 
+4877, seems to have stopped.
+4879, seems to have stopped.
+4881,It blows briskly through the trees.
+4882,It smells unusually fresh.
+4889, along the diagonal edge of the 
+4890,Better not. You might trip over 
+4896,"High and broad as it is, the "
+4897, is only a few feet thick. Its 
+4898," is smooth and featureless, except for the "
+4899, along the diagonal edge.
+4900, feels smooth and hard.
+4901,There are no visible 
+4937, doesn't seem to be moving
+4953, is identical to the 
+4961, must be at least twelve feet from base to crown
+4963, is set into its fleshy stem
+4967, is high out of reach.
+4968,You slide off the slippery 
+4976,see the door anymore. It's too far away.
+4977, strikes the closed door and 
+4979, disappears through the open door.
+4981, is of stately residential design.
+4983,You feel a gentle but firm pressure.
+4984, doesn't have a keyhole.
+4993,see the door from here.
+5003,Felix Klein 1849-1925
+5004,5291-9481 nielK xileF
+5005, are inscribed on the base.
+5007, disappears into the 
+5009," looks like a crystalline bottle, eight feet high, with a polished "
+5010, that twists in impossible curves. 
+5012, makes your eyes hurt. 
+5014,Easier said than done. 
+5015, feels oddly insubstantial.
+5016,It's hard to tell where the outside of the 
+5017, ends and the inside begins.
+5019,An arborvitae is cleaved by a silver axe.
+5020,It'd be dangerous to do that while holding 
+5022,The silver blade is still sharp.
+5024,You yank the axe out of the arborvitae.
+5026,"NOALL = standing, TOUCHED = fallen, WINDY = fallen across chasm."
+5027, spreads like a green canopy overhead.
+5028, lies fallen across the 
+5031," the teetering oak northward with all your strength. It arcs across the chasm with a leafy whoosh and crashes onto the mesa, barely missing the "
+5032,You've already killed the oak.
+5035,"You chop at both sides of the oak's trunk until it teeters uncertainly, deciding which way it will fall."
+5039,You aren't strong enough to do that.
+5040,You soon tire of cavorting around the oak.
+5041,Your uncoordinated attempt to 
+5042, the oak only speeds its descent.
+5044,TOUCHED = chasm examined.
+5045, disappears into the 
+5046, is several hundred feet deep. Treetops block your view of the bottom.
+5049, below makes you giddy.
+5052,'s summit is ornamented with a giant 
+5056,A splintered log lies rotting in the mist at your feet. 
+5057,Its edges flicker with the eerie phosphorescence of decay.
+5060, is rotten with decay.
+5061, feels old and squishy.
+5063, is dank with corruption.
+5067, when you try to move it
+5071, is about a foot long. 
+5074,heap of damp corruption
+5075,All that's left of the log is a 
+5078,It crumbles uselessly.
+5080,TOUCHED = satellite seen.
+5082,You struggle to push 
+5090, are remarkably bright and numerous.
+5092," is too far away to see clearly. But its trajectory is hurling it northward, over the Arctic pole."
+5093,maneuvering thrusters
+5094, are tiny jets attached to the 
+5098,TOUCHED = phones mentioned in room description.
+5099,"Except for their size (about four feet across), you see nothing "
+5102," is about the size of a small swimming pool, and"
+5104, is filled to the brim with 
+5106,The water is white and soapy.
+5110, splashes all over the place.
+5112,You're wet enough already.
+5116,Its lemony scent reminds you of dishwashing liquid.
+5118,It feels wet and slippery.
+5119," sinks without a trace into the white, "
+5120,You clamber over the edge of the dish
+5125," up to your knees in white, slippery water."
+5126,You clamber out of the dish.
+5128,"It's a flat plastic stick, with hoops molded onto each end for blowing "
+5130,"""Aow!""
+
+The startled boy leaps backward at your approach, splashing water all over the place. ""Stupid git!"" he cries (in an intriguing Cockney accent). Then he retrieves the empty dish, pockets the wand and disappears between the prams, glaring at you over his shoulder."
+5132,His last bubble floats away over the treetops.
+5134,NOALL in room = bubble not visible.
+5135,have any bubble-blowing 
+5136, shimmers with iridescent color.
+5138, is floating high out of reach.
+5143, strains against the 
+5148,firm in the vacuum of space.
+5149," flexes like rubber, but"
+5152, and ricochets around until you catch it.
+5160,s against the shimmering wall of soap..
+5162, The film disappears in an explosion of color
+5165, sails off on a new orbit of its own
+5166,".
+
+You're blown violently away from the "
+5168,", straight towards the "
+5169,The plutonium heart of the 
+5170, erupts in a searing glare
+5171, as you cross the threshold...
+5172,". Fortunately, your open "
+5173, fills with wind and saves you from a nasty fall.
+5175,"CHILLY = hot, TRYTAKE = stuck on satellite."
+5180, lies half-buried at your feet
+5184, bursts into flame when it touches the 
+5185,. Soon there's nothing left of it.
+5186, attaches itself to the 
+5191, is roughly the size and shape of a large grapefruit. Its 
+5193, is black and scorched
+5196, proves awkward for this purpose.
+5198,Your sneaker sizzles with intense heat.
+5199,You feel a strong magnetic attraction.
+5200,You recklessly burn your fingers on the hot metal. Ouch!
+5201,You try really hard to 
+5204, the lump of metal with the 
+5205,. But it's hopeless. Every time you 
+5206,"get the awkward thing balanced, it slides off with an infuriating "
+5209,"move the awkward thing a few inches, the "
+5210, slips out from underneath.
+5211, disappears in a hissing cloud as it touches the hot 
+5212,". When the steam clears, the "
+5213, of the lump is black and wet.
+5216, disappears into the smoky 
+5218, smells sooty and acrid.
+5225, fall through your fingers.
+5228,The water falls in a white curtain 
+5229,from the overhanging cliffs.
+5233,Careful inspection reveals 
+5234, in the cliff behind the 
+5235,There's no obvious way around the 
+5236, fills the air with its hissing roar.
+5246,You easily jump over the narrow 
+5252,The cold water is quite refreshing.
+5254,"in the white, foaming water."
+5255,One touch of the frigid water
+5257,The water is very cold.
+5260, are carved into the face of the cliff.
+5264, are damp and slippery.
+5273,The sightless eyes seem to follow you around.
+5274, lie motionless in the grass.
+5275,"The cold, clammy feel of the "
+5276, are cold and clammy.
+5278, are covered with forgotten names and hopeless epitaphs
+5279,", all engraved backwards"
+5280,Let gnomon write my epitaph
+5281, are deeply imbedded in the ground.
+5283,SEEN = Bird echoed name.
+5285,Since CRYPT is LOC of GOON.
+5287, must be hundreds of years old. It
+5288,"s lid is broken off, leaving a jagged "
+5289,'s sealed shut with a heavy lid
+5291,".
+
+A name is engraved across the bottom of the "
+5298,You feel something nasty.
+5301,do that now. You broke the 
+5303,There's room for only one stiff.
+5308,"'s handle snaps neatly in half.
+
+You curse and fume at the stupid, flimsy "
+5309,", and obtain great satisfaction by throwing the broken pieces over the edge of the cliff."
+5310,You feel a puff of foul-smelling air as a section of the crypt's lid breaks away
+5312,. Everything that was on the 
+5313, scatters to the ground
+5316,You'd probably ruin the blade.
+5318,Beads of sweat stand out on your forehead as you strain against the lid. But it'll take more leverage than you've got to budge it.
+5319,You slide the end of 
+5320," under the lid's edge and lean on it with all your strength.
+
+"
+5323, is a formidable slab of granite
+5327,That would be a disrespectful thing to do.
+5332, disappears into the darkness of the 
+5336,The door bristles with iron spikes.
+5337,Ouch! The spikes on the door are razor-sharp.
+5339, resists your feeble assault.
+5340,You strain against the 
+5343,"NODESC = shroud on corpse, SEEN = point given."
+5345, is gray and tattered
+5346,. It's wrapped loosely around the 
+5349,", revealing its decomposed body."
+5350, is tattered enough already.
+5351,You sense the gray odor of death.
+5354,NODESC = bandage on goon.
+5355,It's a broad strip of gray cloth
+5356,", wrapped over the top of the "
+5357,'s head and under its chin
+5358,", wrapped around your head"
+5370,The recess you saw before is gone now.
+5371,[You can only do that to one 
+5375,There's only one boot here.
+5382, into the toe of the 
+5384," leather closes around the jewel and absorbs it like melting wax.
+
+A shudder of ecstasy ripples up and down the length of the boot. It begins to glow with raw energy, brighter and brighter, until you shield your eyes from the glare.
+
+When you peek again, a tiny pair of wings has sprouted out of the heel."
+5387, wouldn't fit in there.
+5389,"The boot is exceedingly well-made, and colored bright "
+5390,pair of miniature wings sprouts from the heel
+5391,small recess is visible at the toe's tip
+5397, are engraved on the 
+5404, and falls to the ground.
+5405,You're showered with useless ice fragments
+5411,A quick swipe with the 
+5414,There aren't any more 
+5415, within reach of the 
+5417,NODESC = icicle not yet broken.
+5420," looks like a crystal needle, eighteen inches long."
+5423, shatters into useless fragments
+5424, that quickly melt away
+5429,small hole is visible in 
+5433, slides into the hole with a satisfying click.
+5436," into the hole, but it doesn't fit."
+5440, is blocking the hole.
+5441,It occurs to you that there might be another 
+5442," beyond that wall, waiting to jab a hot spike into your eye. You decide not to risk it."
+5448, into the darkness below.
+5449, leads down into darkness.
+5457, become more numerous as your eyes sweep 
+5462,It would be a shame to disturb the 
+5463,. They're so nice and symmetrical.
+5469,It's at least ten feet high.
+5471,"The herbs are lovingly planted in neat, parallel rows."
+5479,It's just a dry heap of discarded stalks and dirt.
+5480,You find nothing in the pile except a rotten 
+5481,Further sifting reveals nothing new in the 
+5482,Dirt falls uselessly through your fingers.
+5484, is at least a year old.
+5486, in your mouth and chew with enthusiasm. Soon it's completely gone.
+5491,You make out a distinctly rancid odor.
+5494, must have looked nice before the 
+5496,Better not. There isn't much thyme left.
+5498,The scent is vaguely aromatic.
+5500, isn't likely to help matters.
+5505, stretches away in all 
+5512,TOUCHED = seen through open door on mesa.
+5513, tower like gray walls against the sky.
+5520,"TOUCHED, CHILLY = timing flags for I-RODENTS."
+5523,This global indicates whether RODENTS or LEMMINGS are in force.
+5525,TOUCHED = player referred to rodents as LEMMINGS.
+5529, would be hard to hit.
+5531, look something like hamsters
+5532,largest are only five or six inches long.
+5533,You manage to grab one of the 
+5534,", but it relieves itself in "
+5535,s and struggles away.
+5539,You'd have to catch one first.
+5540, nimbly leap out of way.
+5542,", with long brown fur and beady eyes"
+5546,"CHILLY = holding delay, SEEN = just referenced."
+5552,", but shows no interest."
+5553,would appeal to a lemming
+5554,"sulks, refusing to respond."
+5555,looks something like a hamster
+5557,bulge in the vacuum of space.
+5558,glare at you defiantly.
+5559,It isn't looking well.
+5562,TOUCHED = looked inside.
+5565, glares up at you defiantly
+5570,TOUCHED = cliff examined.
+5571, disappears over the edge of the 
+5572,The waves dashing on the rocks below are choked with 
+5575, disappears over the cliff.
+5578," run southwest, across the "
+5581,TOUCHED = group examined.
+5583,s look like military 
+5584,. Armed guards are patrolling the area.
+5587, don't notice. You're still too far away.
+5590,You draw closer to the 
+5592,This cluster of military 
+5593," is choked with scientific instruments, tended by men in heavy overcoats.
+
+One of the guards patrolling the area greets your unexpected arrival by shooting you in the back. As your blood seeps into the permafrost, you note with interest the hammer-and-sickle insignia on the uniform of your grim assailant."
+5599,There aren't any good footholds.
+5600,You're not in a tree.
+5602, smells old and damp.
+5604, is carved in the likeness of a young girl. Her lithe arm gestures enticingly towards the south
+5606,This has little effect.
+5607,The statue's design discourages this.
+5608,It's pointless to ruin the 
+5611,"They lead southeast and southwest, into the "
+5618, is thickly woven with 
+5628, sails over the top of the hedge and disappears.
+5629, is a dense tangle of 
+5633,. It ends at the river's edge
+5635,The air is pungent with the odor of 
+5638," resembles a doughnut, fifty feet across and woven entirely of "
+5639,". This ""doughnut"" is standing on end, and you're gawking up at it from underneath. "
+5640,The whole affair is oddly skewed; some parts look as if they're turned inside out.
+5642, is thick and suffocating.
+5646, is growing nearby. Its crimson jaws are 
+5647,"wide open, exposing a cavity that gleams with sweet-smelling "
+5653,jaws are fully three feet across.
+5655, closes instantly at your touch.
+5656,"Despite your best efforts, the "
+5660,'s edge bounces off the 
+5663,", and the huge jaws snap shut"
+5666,would have much effect
+5670,"when it snaps its jaws shut, nearly severing "
+5676,'s smell reminds you of corn syrup.
+5677,You barely manage to leap away from the 
+5678, before the crimson jaws snap shut.
+5680, is coated with a glistening 
+5681, that resembles morning dew.
+5684,You can hear dripping liquids and other moist 
+5688, and lands at your feet.
+5689,The gray mass of the 
+5690, hangs down from the overhanging cliff. A dark 
+5691, in the bottom is low enough to reach.
+5692, fills the air with a sweet odor.
+5694,A crescendo of buzzing
+5696, strikes the hive and lands harmlessly at your feet.
+5702,"ly into the hive, and feel something sticky at your fingertips. "
+5703,"Then a sharp, burning pain sears "
+5704," like fire!
+
+Howling with agony"
+5706,shake a gigantic bee off your swelling hand.
+5709, gleaming with a golden 
+5710, covered with gigantic bees!
+5711,", you yank your arm out of the hive and "
+5718,"Giant bees pour out of the hive in an angry cloud! They cover your face and neck with hundreds of stings, any few of which would have been enough to kill you."
+5721, feels dry and papery.
+5722,"'s buzz grows louder, then slowly subsides."
+5726,You lick all the honey off your fingers. Yum.
+5728,You'd get honey all over 
+5729,The honey sticks stubbornly to 
+5734,heir buzz is making your ears ring.
+5736,"TOUCHED = bee poised to strike, SEEN = 2 stings left, BORING = not seen."
+5737,You see only one bee here.
+5740," is about a foot long, including a three-inch stinger tipped with a drop of your own blood."
+5741,You have lost your mind.
+5743, buzzes with indignance.
+5744, buzzes angrily in reply.
+5747,CHILLY = bomb examined.
+5748, is about three feet in diameter and ten feet long. 
+5749,The War of the Worlds
+5756,Cavorting around the 
+5757,"into a compartment lined with high explosives. The resulting blast fails to initiate the nuclear reaction it was designed to trigger. It is, nevertheless, sufficiently powerful to blow you to bits."
+5761,Warnings indicate the presence of radioactivity.
+5763," lead west, into the "
+5769,It's too dark to see anything in the 
+5770,It doesn't look as if the 
+5771, is going to fit. But you twist it harder against the narrow 
+5774, The soft wood falls to the bottom of the 
+5775,", filling it with pale light."
+5784,A skink is squinting at you from the shadows nearby.
+5785,"CHILLY = timing flag for holding, SEEN = just referenced, SHADOWY = tried exiting to TUN2, TOUCHED = first seen."
+5786,"It's a scaly lizard, four inches long, with big eyes and a little pink mouth."
+5788,would affect the skink
+5791,"The tiny lizard writhes in your grasp and claws at your fingers, its pink mouth gasping for breath. You squeeze harder and harder until your fist trembles with the effort"
+5794,would affect the skink
+5796, decides not to respond.
+5797, scampers out of the way.
+5799,CHILLY = killed in space.
+5800,Did it just move a little? No; it's quite dead.
+5806," into your mouth, bite deep and swallow it with a satisfying gulp."
+5810, are bleached white from years in the sun. They range from bits of rib and skull to complete skeletons.
+5811,As you sift dispiritedly through the 
+5813,", still clutched in a long-dead hand, catches your eye."
+5814,Further sifting through the 
+5816, feel dry and brittle.
+5817, are completely odorless.
+5818,Bones clatter in all 
+5821,"NODESC = not discovered, CHILLY = point given."
+5822,Its slender form reminds you of a crooked finger.
+5824, out from between the fingers.
+5826,You slowly twist the key in the hole
+5827," under your feet is moving! You leap out of the way, and watch as a hidden slope opens up beneath the keyhole."
+5828, stomps its feet and howls with rage.
+5831,The key is firmly locked into place.
+5833, disappears into the dark 
+5835,Nothing awful happens.
+5851,", but you grit your teeth and stuff the protesting bird into the cage."
+5853, sinks its teeth into your thumb when it sees the cage. But you jam it inside anyway.
+5858, is cunningly woven of brown and yellow wicker
+5859,". Peering between the slats, you see "
+5861, flutters out of the cage and 
+5862,soars through the open door.
+5864,circles around the inside of the 
+5865,". After considerable effort, you manage to stuff it back in the cage and slam the door shut."
+5868,"SEEN = magpie just referenced, TOUCHED = stools discovered."
+5869,Prevents I-MAGPIE after any reference.
+5870,", but shows no interest."
+5871,Its sharp little eyes stare back at you suspiciously.
+5877,", pretending not to understand."
+5882, disappears into the 
+5883, in a greasy puff of steam
+5884,"; a startling result, for "
+5885, was longer than the 
+5888, writhe mysteriously from 
+5890,Your amateur conjuring doesn't seem to have damaged 
+5892," is filled to the brim with dark, "
+5894, are uncomfortably warm.
+5895, probably weighs several hundred pounds.
+5896,That'd be a tight squeeze.
+5898, with the odor of burned grease.
+5901,".
+
+The last few drops of milk dribble into the "
+5902, begins to bubble and fume more furiously than ever. Steam fills the 
+5903," in a thick, oily cloud; and an ominous rumbling sound begins to rise from the "
+5907, twist in unspeakable shapes as they rise out of the 
+5911,You scald your tongue on the 
+5915,"The hot, greasy odor makes your head spin."
+5919,At least you got that honey off your fingers
+5921,"NODESC = started, TOUCHED = beached."
+5922," is quite large, and of ancient design."
+5924, standing at the vessel's stern
+5925,deck is nearly filled with silent 
+5926,You clamber out of the dory.
+5928," shakes his head (a bit sadly, perhaps), and pushes you away from the dory."
+5929, tips alarmingly as you climb aboard
+5931, is nearly thrown out
+5933, recognizes your vacation shorts and kicks you off his dory again.
+5936," vacation shorts with barely concealed outrage. He makes a broad gesture with his oar, inviting you to debark at your earliest convenience; a well-placed kick sends you on your way."
+5939," you're wearing with silent approval, and stretches out his skeletal hand expectantly."
+5941,TOUCHED = shades' cargo noticed.
+5942, passes right through one of the 
+5948,". It gives you a look of pity, but "
+5950,refuses to accept it.
+5954," are stooped and emaciated, their sunken eyes dark with inscrutable emotions."
+5957, encounters nothing but vapor.
+5959,looks at you wistfully.
+5961, of your voice. It gives you a reproachful look and lifts a skeletal finger to its lips.
+5963,CHILLY = referenced by name.
+5970, would probably fall right out.
+5983,"letters ""P"" and ""A"" are scrawled underneath."
+5989," emits a burst of static, then "
+5998, has no ON or OFF position. All you can do is push it.
+6000,".
+
+With an electric whirr, the heavy doors slide "
+6004,es are built to resist such abuse.
+6007, are tall and massive.
+6010,"; a bit old-fashioned, perhaps."
+6016, stands in silhouette against the red morning.
+6021, floats away across the 
+6023, sinks beneath the water.
+6024,The tide is slowly rising.
+6025,Little can be seen in the fiery reflections on the 
+6026,The tropical water feels warm.
+6030, smells fresh and salty.
+6031,You hear the distant roar of surf.
+6033,CHILLY = referenced by name.
+6037," is just a barren crescent of sand, gradually shrinking away in the rising tide.
+
+A lone "
+6038, stands near one end of the 
+6040, lying under the tree
+6042,The tree is heavy with 
+6044, in the tree look plump and juicy.
+6046,"TRYTAKE = coco fallen & out of reach, CHILLY = floating."
+6053, floating in the water
+6054, looks especially plump and juicy.
+6060,would affect the coconut
+6061,You hear liquid slooshing around inside.
+6063, dribbles out of a crack in the shell.
+6069, has a deep crack where you hit it
+6073, shatters into useless fragments
+6074,", with milk splattering everywhere"
+6076,would affect the coconut
+6077,Your best karate technique has no effect on the 
+6079," with a dull thud.
+
+Nothing "
+6082, would make that difficult.
+6086,The pale liquid is rich and slightly sweet.
+6090,A gray fin is lurking just offshore.
+6093,A bottle-nosed dolphin is playing just offshore.
+6094,"CHILLY = referred to as FISH, SHADOWY = referred to as Flipper."
+6097,I suppose that makes you Luke Halpin
+6101, and shakes its head vigorously.
+6102,", nods eagerly and chatters."
+6103, responds with a happy squeal.
+6107,It's a little too far offshore.
+6109, on the islet and tries to nudge it with its snout. But the tide hasn't risen high enough yet.
+6111,", snatches it out of the "
+6112, and tosses it into the sand at your feet.
+6114, and chatters mischievously.
+6117," struggles to respond, but can only chatter"
+6118, responds with a stream of chatter
+6119," longs to respond, but can't"
+6121, and gives you a reproachful look
+6124,", struggles for a moment"
+6126, tries to catch the open 
+6127," in its mouth, but fails.
+
+The "
+6131, in its mouth and skillfully tosses it back to you.
+6133,An army of crabs is guarding the water's edge.
+6134,"NODESC = not seen, SEEN = just referenced."
+6135, are more interested in snapping at you.
+6136, peer suspiciously at 
+6137,", but show no interest."
+6138, skillfully dodge out of the way.
+6140, respond with a chorus of vicious snaps.
+6147,You discover nothing 
+6149,You hear a faint purring 
+6151,A chorus of anxious mewing
+6156,"BORING = called HIROSHIMA once, NOALL = corrected."
+6160,Patience. You'll be there soon.
+6161,You're not in the city... yet.
+6166, covers the ground at your feet
+6167,You're standing in a child's 
+6173,Poking around in the 
+6175,You climb back into the 
+6176,You climb out of the 
+6177,This is hardly the time for frolicking in the 
+6178,Sand trickles uselessly between your fingers.
+6179,Frustrated? Save your energy.
+6183,This is no time for biting the dust.
+6187,There's nothing to find.
+6188,Dirt falls between your fingers.
+6190,"All you can see is a mound of dirt, with a dark "
+6197, disappears into the 
+6200, are intent upon their work.
+6201, mutter among themselves as they work.
+6202, are watching the sky apprehensively.
+6204,TOUCHED = quote seen.
+6206, tumble over one another as they leap to catch the elusive 
+6207, shout with delight as they play.
+6208, didn't notice your gesture.
+6209, don't respond. They're a little too far away to hear you.
+6211, dart mischievously to and fro
+6216," appears to be a schoolhouse, somewhat the worse for neglect."
+6218, open from the inside.
+6223, are illustrated with clumsy drawings and Japanese writing.
+6224,The Japanese writing on the 
+6225, means nothing to you.
+6227, is visible in a classroom beyond the 
+6230, are like little red pendulums as they arc 
+6231,The seats swing a little faster for a while.
+6233, are designed for bottoms far slimmer than yours.
+6235,slowly back and forth in the humid breeze.
+6238,You can just make out two 
+6239," high overhead. No, there's another! They're flying southwest."
+6246, slopes upward to the 
+6250,A spade is leaning against the wall.
+6251,It looks sturdy enough.
+6253,Come on. You know what 
+6257, here. But you sure can smell it.
+6259,A gigantic paper bird is perched nearby.
+6260,It looks like a sixteen-foot version of the 
+6262,"Gulping with fear, you climb into the crackling folds of the "
+6263,"'s back.
+
+With a powerful beat of its wings, the strange creature lifts away from the ground. Blowing sand obscures the view, but you can hear "
+6264," crying out in wonder. When the air clears, the "
+6266, doesn't respond verbally. But you feel a wave of urgent emotion.
+6267,A wave of reproachful emotion
+6269," is a delicate crescent, hovering just above the "
+6274,The Illustrated Story of the Atom Bomb.
+6288, is a central junction for the forest of 
+6296,A few moments of fumbling with the 
+6297, persuades you to leave the 
+6301,neatly packed with colored wires. Prominent among them are a 
+6308, with your fingers. But the screws hold it fast.
+6309,You loosen the screws on the 
+6311, and clatters to the 
+6312, won't fit the screws on the 
+6313,could loosen the screws
+6315,NOALL = panel closed.
+6321,TOUCHED = wires moved.
+6322,"It's an ordinary 60-watt bulb, with a chain to turn it on and off"
+6323,. Its sullen glow fills the 
+6324,s cast by the harsh light outside
+6327," swings back and forth for a moment, then stops."
+6330, would be of little use. You decide to leave it alone.
+6331,"You pull the chain, and the bulb "
+6339,[You must refer to the wires by their color.]
+6341,You slide the blade of the 
+6343," and pull back on it as hard as you can. The thick insulation cracks under the strain, stretches, frays and splits...
+
+"
+6345, A shower of sparks erupts from the 
+6346,. You lose your balance and fall backwards to the 
+6349,", bending it this way and that. But it stubbornly refuses to break."
+6351, is hardly big enough to get 
+6352," through, much less the axe."
+6354, is tightly packed inside the 
+6355,. Four of them are easily distinguishable. There's a 
+6359, couldn't cut more than one wire at a time.
+6360,could break the wires
+6361, can be tugged only a few inches.
+6368,would affect the cables
+6370,", creating an electric spark that finds its way "
+6373, lies in a hopeless tangle at your feet.
+6374,You try to sort out the 
+6375,", but it's a hopeless tangle."
+6377, is all tangled up in the 
+6386, disappears through the 
+6391,There's only one door here.
+6395,The words PLEASE WIPE FEET are scrawled across the top of the
+6415,", but nothing happens."
+6426," is squat and ugly, with adobe walls and a cheap tin roof"
+6433," leads west, and a deck stands"
+6434,. Two doors lead inside.
+6435,deck is attached to the front.
+6437,The gentle ramp leads 
+6439,down to the front yard
+6450,up to the edge of the 
+6454,see the bottom from here.
+6455, slowly sinks to the bottom.
+6457, squirms even harder.
+6461, sinks into the murky water.
+6464, over the side of the 
+6466," resembles a big aboveground swimming pool, sixty feet long and thirty across, with tall concrete sides."
+6468," is filled to the brim with black, murky water."
+6472,You feel nothing but water.
+6474,It doesn't look very clean.
+6476,You stand on tiptoe and peer into the 
+6479,ittle can be seen beneath the murky water.
+6482," is a squat, unsightly affair of beams and planks. A rickety "
+6483, climbs the side to a 
+6489, overlooks the edge of the adjacent 
+6490,. Its planks are gray and rotten with age.
+6498,That's what you're doing.
+6501, is a gray finger on the 
+6509, makes it hard to see what's directly below.
+6510, is about fifty feet below.
+6514,Don't worry. You won't fall.
+6516, sway back and forth against the dark sky.
+6517, are out of your reach.
+6527,"DDIR = P?DIR from tower, TSTR = tower dir, DSTR = desert dir."
+6539,"The road bends southeast, "
+6541,"The road curves northwest, "
+6543," leads southeast and northwest, "
+6551, leads northeast towards the 
+6554,bends east along the north side of the 
+6558,"th, along the outside of the "
+6560, are as rugged and formidable as the 
+6562, are much too steep and rugged to climb.
+6564, loom on the eastern 
+6566,A paperback book is lying in the corner.
+6567, slips between the pages.
+6568, wouldn't fit in the book.
+6569, falls out of the book and 
+6570,It's a cheap paperback called 
+6571,Desert Island Decameron.
+6573, falls out of the book as you open it.
+6576,"You flip through the book, but nothing catches your eye."
+6578,"SEEN = verse read, CHILLY = diagram read."
+6580,You haven't seen any here.
+6581,"The diagram is a meaningless network of intersecting lines. The legend ""RD="
+6586,It's a send-up of a famous Emerson poem.
+6587, seems to have been used as a bookmark. A stanza of poetry is typed on 
+6588,one side. The other side is covered with some kind of diagram.
+6589,the side you can see.
+6594,scribbled across the bottom.
+6597,Somebody has left a nice pair of binoculars at the landing's edge.
+6598,"Peering closely, you can see that "
+6603, won't focus that closely.
+6604,You focus the binoculars on 
+6606," is only about twenty feet square. Every inch is crowded with technicians, tending racks filled with electrical "
+6607,"One technician is hunched over a stool, clutching a microphone. The tension in his grasp is reflected on every face"
+6608,As your eyes take in the maze of 
+6609,", you notice a long wooden box, similar to the one you saw under the "
+6610,There's a long wooden box lying across the 
+6611,cranes its neck and peers into the 
+6612,", its sharp eyes keen with interest."
+6619, appears very bright.
+6620,barren and featureless.
+6625,"The binoculars are of standard Army issue, with a strap for wearing."
+6626,Everything appears much closer.
+6630, back in alarm. You hold 
+6632," sways uncertainly for a moment, back and forth"
+6633,"Slowly, carefully, you stretch your arm towards the "
+6635,You fiddle aimlessly with the controls.
+6636, is visible in its open 
+6640," tips wildly under your feet. You manage a brief, hysterical shriek..."
+6641,... and your mouth fills with water
+6644,"CHILLY = drowned, NOGRASS = dropped."
+6653,"ed, as a matter of fact."
+6660,", locked with a steel "
+6672, box and lands at your feet.
+6675, is several feet in length
+6676,", and secured with a steel "
+6685,You swing the lid of the box shut.
+6688,need the key to do that.
+6691,You'd probably damage the box's contents
+6693,The box isn't locked.
+6695,You swing open the lid of the box
+6697, slides off the lid of the box as you swing it open
+6700,Holds contents of box when box is closed.
+6709, is a formidable hunk of hardened steel.
+6711,would open the padlock
+6717,The box is locked again.
+6718, is firmly locked onto the box.
+6719,You slip the key into the 
+6721, unlocks with a smart little snap.
+6723, is covered with a bewildering array of 
+6724,", clustered around a heavy-duty "
+6725, is built into the box. 
+6729, blink and twitch in response to invisible impulses. Their purpose is obscure.
+6731,"BORING = opened more than once, SHADOWY = delay for message, OPENED = breaker opened."
+6733, looks like something out of a Frankenstein movie. Its broad handle is 
+6737,You lift the handle of the 
+6738,You close the handle of the 
+6740,". X just woke up again.""
+
+A sigh of relief. ""Sounds like a wet line somewhere.""
+
+""The kid's keepin' an eye on it, "
+6742, before the sequencer takes over
+6743,", we're gonna have to scrub.""
+
+""Roger, "
+6744,". Lotta crossed fingers up here."""
+6748,see him from where you are now.
+6750,"TOUCHED = I-SBUNK queued, Groves seen."
+6752," is built of heavy timber, covered with a thick layer of earth on the north side. "
+6753, appears to be crowded with men and 
+6754,. But you can't see much detail from where you're standing.
+6756,Bright light spills across the 
+6757, from the open south 
+6760,"It's a nondescript metal structure, just large enough to hide behind."
+6766, dangling from the open box's lid.
+6768, is virtually identical to the one you saw under the 
+6769,[looking through the 
+6773, are closed and sealed with tape.
+6777, are stubborn and hard to move. You soon abandon the effort.
+6783, covered with loose sheets of 
+6784, runs along the north wall. 
+6786, scattered across the paper.
+6787,There's no room under the 
+6788, is covered with sheets of 
+6790, completely covers the 
+6791,As you lift the edge of the paper a 
+6792, rolls out from underneath and lands on your foot. Ouch!
+6794,"You lift the paper again, but find nothing "
+6797,would support your weight
+6800,It's just an ordinary 
+6804,You sift through the 
+6808,A rattlesnake is coiled only a few feet away.
+6810,"NODESC = undiscovered, CHILLY = seen by Meep, SEEN = delay, LIVING = here."
+6813, is on the other side of the 
+6814,You raise your arm to throw 
+6816,"All you can see are those tiny black eyes, glaring."
+6817,You draw closer to the 
+6822, doesn't need your help.
+6834," elicits a brief, angry rattle."
+6836,Some careless technician has left a walkie-talkie lying in the dirt.
+6837,"SHADOWY = test voice not yet heard, CHILLY = soaked."
+6847,could repair the walkie-talkie
+6849,OPENED = antenna raised.
+6851,pulled out to its full length.
+6852,pushed down into the 
+6853, is already pulled out as far as it can go.
+6856,", extending it to its full length."
+6859, is already pushed in as far as it can go.
+6861,SEEN = point given for correct setting.
+6863,", all printed backwards"
+6866, won't move any more in 
+6868, a little bit to the 
+6870,"TOUCHED = dial moved, SEEN = point given."
+6875, until it points to the 
+6879,. Right now it's set to 
+6887,You fiddle aimlessly with the 
+6889,", simply move it to the desired "
+6909,SEEN = button pushed.
+6917,. Nothing happens; so you release it.
+6919, is obviously useless.
+6920,could repair the button
+6923, A painful electric shock shoots up your arm
+6924, falls from your grasp and 
+6930,The body of the jeep is caked with mud; it's obviously been used a lot lately. The door facing you is 
+6933,Better not. You might get your vacation clothes dirty.
+6935,You test the key in the jeep's ignition. No; it's much too small.
+6938,There's not much you could fix with just 
+6945,You climb gracelessly over the door of the jeep.
+6947,Whoever was driving this jeep left it in an awful hurry. There's a wallet on the floor at your feet.
+6953, seems familiar. Maybe it's the wand he's holding.
+6954,do that to an image in a 
+6956, shows a boy staring at the camera.
+6957,The boy just stares back at you.
+6958,There's nothing on the other side.
+6960," This is probably just as well, because it's big and awkward, probably too heavy to carry. Among its many controls are an oversized dial and a "
+6962,The radio is firmly bolted to the floor of the jeep.
+6966," is marked POWER, and is turned "
+6979, is brightly illuminated by light spilling from the 
+6980,s. Anyone looking this way will probably see you if you get much closer.
+6989," seconds,"" crackles the "
+6991,You should be proud of 
+6994, Where is that voice coming from? 
+6996,This gadget would've blown New Mexico right off the map if you hadn't stopped it. Imagine the embarrassment.
+6998,"A burst of static. """
+7003,It's not as scary the second time
+7005,"Of course, there's the problem of causality,"
+7007, continues the voice. 
+7009,"If Harry doesn't get his A-bomb, the future that created "
+7012," cannot occur. And you can't sabotage the test if you're never born, can you?"
+7015,"Minus ten seconds. Nine, eight, seven"
+7019,The voice chuckles amiably. 
+7021,"Not to worry, though. Nature doesn't know the word 'paradox.' Gotta bleed off that quantum steam somehow. Why, I wouldn't be surprised to see a good-sized "
+7024, every time they shoot off one of these gizmos. Just enough fireworks to keep the historians happy.
+7028,A ruby is lying at your feet.
+7029,An aged woman is selling crumbs nearby.
+7032,"Sharp words between the superpowers. Tanks in East Berlin. And now, reports the BBC, rumors of a satellite blackout. It's enough to spoil your continental breakfast.
+
+But the world will have to wait. This is the last day of your $599 "
+7033," Getaway Package, and you're determined to soak up as much of that authentic English ambience as you can. So you've left the tour bus behind, ditched the camera and escaped to Hyde Park for a contemplative stroll through the "
+7037,s you can see from here.
+7039,SEEN = motion noticed.
+7040,"'s powerful beam slices over your head, towards a point on the northeast "
+7041,The glare makes your eyes hurt.
+7046,", but it falls short and "
+7047,. It disappears behind the 
+7049, The powerful beam of the 
+7051,". ""Damn!"" curses the "
+7052,"As your eyes adjust to the gloom, you hear a deep, menacing growl. You turn and find "
+7053, one inch away from the longest set of choppers you've ever seen.
+7054,. It skitters off the rim and slides harmlessly
+7055, is out of your reach.
+7056, a commotion worthy of an American Kennel Club convention.
+7057,"""Hold it!"" The shout doesn't say anything about a gun. But you raise "
+7058,"s over your head, just to be safe."
+7061,"'s glare. ""You... you some kinda spy or somethin'?"""
+7062,A faint rumble begins to drift 
+7063,"in from outside. You crawl over to the exit, peek around the "
+7066,. You peer between the girders to 
+7070," of them, converging on the "
+7072,"s at once, and just minutes away!
+
+White with panic, you "
+7074,leap out of the shack and 
+7076, as fast as you can. But your 
+7080,vacation sneakers slip
+7081, out from under you about ten rungs from the bottom; and you regain consciousness 
+7082,slam the box shut and 
+7083,crawl off to hide in the 
+7084,". But you bowl headfirst into a Joshua tree, and your "
+7088, on a prickly pear bush 
+7089,just as seventeen jeeps screech to a halt around the 
+7090,"Within moments you're surrounded by a dozen MPs, armed and trigger-happy. "
+7091,"They answer your polite explanations with curt accusations, punctuated by a few well-placed kicks.
+
+Eventually you're dragged off to meet somebody they call the Lieutenant, who'll deal with you, you're promised, right after a very important test is concluded. But the Lieutenant never appears. Minutes later, he's obliterated by a multigigaton atomic blast, along with "
+7093,much of the state of New Mexico.
+7096,A large map is hanging on the wall.
+7097,[This is the map included in your 
+7101,"NODESC = not yet seen, CHILLY = seen more than once."
+7105," is a boxlike affair of steel girders, about fifty feet high. The enormous "
+7106, hanging inside fills much of its open interior.
+7107,There isn't enough room between the 
+7108, and the ground to do that.
+7109,It doesn't look as if there's any way to climb onto 
+7110,You hear a faint ring of steel.
+7112,Why would anyone hang a giant 
+7113, in the middle of nowhere like this? There don't seem to be any 
+7115," or markings of any kind; as far as you can tell, the thing is utterly useless."
+7116,If there's any way into this oversized 
+7117,", you sure can't find it."
+7120, falls somewhere behind the 
+7121, is three or four feet high. It completely surrounds the 
+7126,Despite the presence of the 
+7129, is too narrow for such gymnastics.
+7136, for Internal Testing
+7141, stare back at you haughtily.
+7142, are scattering in every 
+7146,There are almost as many 
+7151,to acknowledge your presence.
+7153,It makes you smile to watch them play.
+7154, are as frightened as their 
+7156, look a lot like you do.
+7158, are stumbling in every 
+7159,A tourist whacks you over the head with a Japanese camera
+7165, shy away from you. They certainly aren't very friendly.
+7167,This is supposed to be a vacation.
+7168,A nanny whacks you over the head with her 
+7174,Everybody's too busy running to heed you.
+7180,The surrounding trees sway in the brisk 
+7181, hiss and groan in the 
+7182,Tree-climbing is strictly prohibited in the 
+7188,"""No room!"" cries the "
+7191,A lantern is lying in the dirt at your feet.
+7192,"LIGHTED = lamp lit, SHADOWY = switch on, CHILLY = broken."
+7195,'s batteries. They're sealed inside.
+7201, is more than a foot long. Its switch 
+7209,", but its dim beam reveals nothing "
+7211, is hermetically sealed. It can't be opened.
+7215,This has little effect on the broken 
+7224,'s switch is already off.
+7225,'s switch is already turned on.
+7230," emits a warm, yellow beam."
+7233,SEEN = turned on tower.
+7236, in a raw white glare.
+7237, seems to originate from a point on the southwest 
+7239,SEEN = within earshot.
+7240,"You pause, listening intently."
+7242,The explosion that created this 
+7243, seems to have obliterated all evidence of its cause.
+7244,A cursory exploration of the 
+7245, turns up nothing but scorched rubble. You soon abandon your search and return to the paved road.
+7248,A crudely drawn map hangs upon the wall.
+7249,"The map shows a network of boxes connected by lines and arrows, with many erasures and scrawled additions. Something about the pattern is maddeningly familiar; but you "
+7251,can't put your finger on where you've seen it before.
+7252,"As you ponder over the map, you discover a number of hasty squiggles that you didn't notice the first time you looked."
+7255,The biggest book you've ever seen lies open on a 
+7258, sags under the weight of the heavy book.
+7260,The giant book completely covers the 
+7262,"The open book is so wide, it's impossible to touch both edges with your arms outstretched. Its thousands of "
+7263, form a two-foot heap on either side of the spine; the rich binding probably required the cooperation of twenty calves.
+7264,It'd take a dozen muscular librarians to budge 
+7268,"There are 69,105 leaves here."
+7269,You discover nothing 
+7271,You flip aimlessly through the 
+7272,And ruin this magnificent volume? For shame.
+7274, feel smooth and creamy.
+7279," shut, but it's like trying to move a pallet of Cleveland telephone directories."
+7280,"It's hard to divine the purpose of the calligraphy. Every page begins with a descriptive heading ("""
+7281,","" for instance) followed by a list of imperatives (prayers? formulae?), each preceded by an arrow-shaped glyph.
+
+The writing ends abruptly on the page you found open, under the heading """
+7291,", and begins to study it"
+7292,"."" The last few incantations read:
+
+"
+7298,In which Wabewalker meets a Keeper of Birds
+7299,Of the Red Stone's theft by a Runner of Roads
+7300,How Wabewalker enters the first of Seven Portals
+7301,In which Wabewalker chances upon a Hovel
+7302,Wabewalker's encounter with a Magpie
+7303,Wabewalker heeds the Magpie's words
+7306,All that's left of the book and 
+7309,You poke halfheartedly through the 
+7311,The cinders feel cool and crisp.
+7312,Cinders scatter all over the place.
+7314,"Cool, useless cinders fall between your fingers."
+7316, slips down the drain and disappears.
+7317,"The porcelain is stained with big, disgusting patches of brown and green mildew"
+7323, isn't big enough for such nonsense.
+7325,The blade is still reasonably sharp.
+7328, are trained on the road leading south.
+7337," looks like a drinking straw made of plywood, six feet square and miles long. Its purpose is obscure, but it probably connects the "
+7339, to some remote part of the 
+7340, has no visible openings.
+7345,You hear the mutter of idling engines.
+7359,This is no time for catching rays
+7360,Sifting through the sand reveals nothing 
+7369,Gary Brennan    Amy Briggs    Suzanne Frank    Max Buxton    Liz Cyr-Jones
+7384,Production Coordinator
+7385,Geoff Hodgkinson       Meredith Lightbown        Angela Raup
+7386,Microcomputer Interpreters
+7387,Duncan Blanchard    Ed Black    Linde Simpson
+7388,Andy Kaluzniacki    Paul Gross    Mike Morton    Richard Lay
+7389,Interactive Fiction Plus(TM) Development System
+7390,Marc Blank    Dave Lebling    Stu Galley
+7391,T    R    I    N    I    T    Y
+7393,"SYNTAX for TRINITY: (C)1986 Infocom, Inc. All Rights Reserved."
+7395,ZERO ONE TWO THREE FOUR FIVE SIX SEVEN
+7398,"MISC for TRINITY: (C)1986 Infocom, Inc. All Rights Reserved."
+7399,*** ZCODE STARTS HERE ***
+7402," changes your mind.
+"
+7405,The arrow on the ring is already pointing 
+7406, divides the sky like a razor
+7407,All prams lead to the Kensington Gardens.
+7434,[Press any key to begin.]
+7437,[There isn't anything to 
+7451,Number of GAME-VERBS.
+7452,V?$UNRECORD V?$COMMAND V?$RANDOM
+7489,[Be specific: what do you want to 
+7491," something, use the command: "
+7494,"[This story can't understand the word """
+7495,""" when you use it that way.]"
+7496,[Please try to express that another way.]
+7504,CHILLY = hands not scorched.
+7507,swollen from the bee sting.
+7513,"TOUCHED = flight described once, CHILLY = described twice."
+7516,You wince at the sight.
+7530,You try your best to shield the girl.
+7531,"Aside from your London vacation outfit, you're "
+7532,not wearing anything special.
+7537,You're indispensable.
+7546,That would hardly be an appropriate thing to do.
+7548, isn't likely to help matters.
+7550,Walking around the area reveals nothing new
+7551,"[If you want to go somewhere, simply indicate a "
+7553,do that. It's locked.
+7579, below is dark with shadow.
+7588, is too big to fit in 
+7596,You'll have to take it out of 
+7604,tell characters to do that.]
+7620,Little can be seen from where you're 
+7627,"You're a tourist, not a "
+7634,You couldn't do that from 
+7635,where you're standing
+7639,[There's more than one 
+7640, here. Please specify which one you mean.]
+7667,CHILLY = garlic eaten.
+7668,It smells no worse than usual.
+7669,It puffs like steam in the cold air
+7670,It's not cold enough to see 
+7672,Perhaps you should take a moment to examine the 
+7676,[Which way do you want to go 
+7696,[This might be a good time to use the SAVE command.]
+7697,"WINDOW [table] [left-margin], where [table] is a global PLTABLE with the 1st element = width of window, followed by strings (0 for blank). If [left-margin] is not specified, window is centered."
+7703,Send window to printer.
+7719, if you went that way.
+7722, if you went that way.
+7724,have a long way to fall
+7725,plummet to your death
+7726,tumble to an early grave
+7734, to complete this story.]
+7743,s a voice in your ear.
+7754,s a voice in your ear.
+7776,see any at the moment.
+7777,"PARSER for TRINITY: (C)1986 Infocom, Inc. All rights reserved."
+7782,Byte offset to # of entries in LEXV
+7783,Word offset to start of LEXV entries
+7784,Number of words per LEXV entry
+7785,Offset to parts of speech byte
+7786,Offset to first part of speech
+7787,First part of speech bit mask in PSOFF byte
+7790," Grovel down the input finding the verb, prepositions, and noun clauses.   If the input is <direction> or <walk> <direction>, fall out immediately   setting PRSA to ,V?WALK and PRSO to <direction>.  Otherwise, perform   all required orphaning, syntax checking, and noun clause lookup."
+7796,Ignore boring 1st words.
+7805,[Only the first word after OOPS is used.]
+7807,[There was no word to replace in that sentence.]
+7821,[There are too many nouns in that sentence.]
+7832, manual for the correct way to address characters.]
+7833,"Check whether word pointed at by PTR is the correct part of speech.   The second argument is the part of speech (,PS?<part of speech>).  The   3rd argument (,P1?<part of speech>), if given, causes the value   for that part of speech to be returned."
+7836,"Scan through a noun phrase, leaving a pointer to its starting location:"
+7838,3/16/83: This clause used to be later.
+7839,3/25/83: next statement added.
+7840,10/26/84: next stmt changed
+7841,"Next clause replaced by following one to enable OLD WOMAN, HELLO"
+7863,You couldn't do that while you're in the dory.
+7866,"To whom are you referring?"""
+7867,[There's nobody here to ask.]
+7869,[You must address characters directly.]
+7975,"For AGAIN purposes, put contents of one LEXV table into another."
+7978,Put contents of one INBUF into another.
+7980,"Put the word in the positions specified from P-INBUF to the end ofOOPS-INBUF, leaving the appropriate pointers in AGAIN-LEXV."
+7990,Print undefined word in input. PTR points to the unknown word in P-LEXV
+7992,""" isn't in the vocabulary that you can use."
+7993,"You don't need to use the word """
+7994,""" to complete this story."
+7995,"This story doesn't recognize the word """
+8000," Perform syntax matching operations, using P-ITBL as the source of   the verb and adjectives for this input.  Returns false if no   syntax matches, and does it's own orphaning.  If return is true,   the syntax is saved in P-SYNTAX."
+8004,You'll have to do that yourself.
+8006,"[Your command wasn't complete. Next time, type wh"
+8023,Check for words to be capitalized here.
+8024,Number of entries in CAPS.
+8064,Will it ever work? --SWG
+8076,Which noun phrase is being parsed?
+8078,Next SETG 6/21/84 for WHICH retrofix
+8079,Next SETG 6/21/84 for WHICH retrofix
+8086,[GETOBJ: calling GLOBAL-CHECK]
+8091,[GETOBJ: GCHECK set to 
+8133,"direct object with """
+8135,"refer to more than one object at a time with """
+8140,"PICK-NEXT expects an LTABLE of strings, with an initial element of 2."
+8166,Those things aren't here.
+8174,You wouldn't find any
+8186,Hide invisible objects
+8187,"If HERE, apply FDESCs and DESCFCNs and eliminate those objects"
+8190,Print whatever's left in a nice sentence
+8206,Reprint a validated sentence.
+8211,"Print word, cap 1st char if 1st word or proper noun."
+8225,"Input save buffers; first byte hold length of string, zero if none."
+8227,Rotate next table into position.
+8228,Copy last input line into INSAVE-A.
+8229,Move word to INSAVE-A.
+8238,Update P-LEXV pointers.
+8241,Exit if no more tokens.
+8242,Remember length of line.

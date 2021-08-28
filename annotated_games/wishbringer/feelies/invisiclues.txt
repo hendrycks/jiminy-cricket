@@ -1,0 +1,986 @@
+***************************************************************************
+*                             InvisiClues(tm)                             *
+*                          The Hint Booklet for                           *
+*                             WISHBRINGER(tm)                             *
+***************************************************************************
+
+[Copyright by Infocom, Inc. Provided for non-commercial use only, with the
+sole intent of making information available that would otherwise be lost.
+
+To whoever presently holds the copyright to the information contained in
+this file: if you think the existence of this file violates your copyright,
+please complain and the file will be removed.
+
+Typed in from the original hintbook by Graeme Cree. Corrected by Paul David
+Doherty.]
+
+
+Sample Question
+***************
+
+What is the plural of "platypus"?
+  A. Platypuses.
+  B. Platypi.
+  C. Both platypuses and platypi are correct.
+
+
+Table of Contents
+*****************
+
+Festeron
+Ye Olde Magick Shoppe
+Witchville
+The Tower
+The Library
+The Seven Wishes
+How Points Are Scored
+How Points Are Lost
+For Your Amusement
+
+
+Festeron
+********
+
+Somebody inside the Post Office is calling me. What should I do?
+  A. The Post Office door may give you a clue. EXAMINE it.
+  B. Since the door is open, why not GO INSIDE and see who's calling?
+
+Where is the Magick Stone?
+     That's for us to know, and for you to find out.
+
+Who is Mr. Crisp?
+  A. He's your mean old boss.
+  B. And he isn't very happy about your idle daydreaming.
+  C. So you'd better do what he says.
+
+When should I open the envelope that came in my WIHBRINGER package?
+     The story will tell you.  Patience!
+
+How do I get into the cemetery?
+  A. WALK INTO THE CEMETERY.
+  B. You're not going to let the computer scare you away, are you?
+  C. Go on, chicken! WALK INTO THE CEMETERY and answer YES to the question.
+
+Who is the gravedigger?
+     LOOK AT THE GRAVEDIGGER and find out.
+
+How do I get the flowers out of the hearse?
+  A. Did you find the vase?
+  B. It may be hidden amongst the flowers in the hearse.
+  C. There aren't any flowers in the hearse.
+  D. There's no hearse or vase, either.
+  E. Remember the warning in the introduction: Don't let the presence or
+     absence of questions, or the length of the answers, influence the way
+     you play.
+
+What should I do with the umbrella?
+  A. It might come in handy if it rains.
+  B. You can't WISH FOR RAIN unless you have an umbrella.
+  C. So maybe you should hold onto it for later.
+
+How do I get through the locked gate in the Twilight Glen?
+   A. The gravedigger has the only key to the gate.
+   B. But the gravedigger is nowhere to be seen.
+   C. You can't unlock the gate. To leave the cemetery, you must go out
+      through the open gate at Creepy Corner.
+
+Why won't the poodle let me near the cottage?
+      It wouldn't be much of a watchdog if it did, would it?
+
+Why won't the poodle let me go north, into the village?
+  A. It doesn't like people walking past the cottage.
+  B. It doesn't like mail clerks.
+  C. It doesn't like you.
+
+How do I get past the poodle?
+  A. I wouldn't PICK UP THE POODLE THEN KICK IT if I were you.
+  B. Since violence doesn't work, maybe bribery will.
+  C. You'll have to find something to bribe it with.
+  D. Have you been to every location you can visit without getting past the
+     poodle?
+  E. Have you looked all around the cemetery?
+  F. Have you investigated the open grave in the Spooky Copse?
+  G. The gravedigger won't let you into the grave while he's watching.
+  H. Wait until the gravedigger goes away. Then GO INTO THE OPEN GRAVE. PICK
+     UP THE OLD BONE. Bring it to the poodle and FEED THE BONE TO THE
+     POODLE. Now you can GO NORTH into the village.
+
+I left the envelope behind, and the poodle won't let me go back for it! What
+can I do?
+  A. You're not a very good mail clerk, are you?
+  B. There's no way to walk past the poodle once it has finished eating the
+     bone.
+  C. So you'll have to start all over again.
+  D. RESTART. Next time, hold on to that envelope!
+
+Who is Miss Voss?
+  A. She's in charge of the Festeron Town Library, curator of the Festeron
+     Historical Museum, and author of the best-selling "Local History
+     Series" of booklets, including _The Legend of Wishbringer_.
+  B. Aren't you glad you asked?
+
+Why won't Miss Voss give me back my library card?
+  A. She doesn't like mail clerks.
+  B. She doesn't like you.
+  C. What library card?
+
+What should I do with the violet note?
+  A. Miss Voss asked you to give it to your boss, Mr. Crisp.
+  B. But delivering the mysterious envelope is more important right now.
+  C. So give the note to Mr. Crisp after you deliver the envelope.
+
+Who is "Corky"?
+  A. It might be the name of Miss Voss's poodle.
+  B. But why would Miss Voss write a note to her dog?
+  C. Since Miss Voss asked you to give the note to Mr. Crisp, and the note
+     is addressed to "Corky," it's probably Mr. Crisp's nickname.
+
+How do I get inside the Library?
+  A. Miss Voss probably has the key.
+  B. Unfortunately, Miss Voss isn't around any more.
+  C. You don't have time to fool around in the Library right now. The
+     Magick Shoppe closes at five o'clock!
+  D. Be patient; maybe you can get inside after you deliver the envelope.
+
+Who is Sgt. MacGuffin?
+     He's in charge of Festeron's Police Department.
+
+How do I get the chcolate?
+  A. Simply TAKE THE CHOCOLATE OFF THE DESK.
+  B. Of course, Sgt. MacGuffin might have other ideas.
+  C. Have you tried examining Sgt. MacGuffin?
+  D. Wait until Sgt. MacGuffin falls asleep before taking the chocolate.
+
+What should I do in the Park?
+  A. The statue in the middle of the fountain is interesting.
+  B. But not as interesting as the other objects in the fountain.
+  C. LOOK INSIDE THE FOUNTAIN.
+  D. The rest is up to you.
+
+How do I catch the goldfish?
+  A. Unfortunately, you won't find a net or pole anywhere.
+  B. What makes you think you have to catch the goldfish?
+
+The movie theater is closed! How do I get inside?
+  A. The schedule might give you a hint.
+  B. The theater opens at seven o'clock. Come back later.
+
+Why can't I take things out of the big mailbox?
+     Public mailboxes are built to discourage prying fingers like yours.
+
+How do I play the video game?
+  A. By scoring as many points as you can.
+  B. Naturally, you'll have to put a token in the video machine before you
+     can play.
+  C. Isn't it getting awfully close to five o'clock?
+
+What do I do with the seahorse?
+  A. If you don't do something quickly, it will probably die.
+  B. A seahorse can't live long out of water.
+  C. PICK UP THE SEAHORSE THEN THROW IT INTO THE BAY.
+
+What happened to the church mouse?
+     It ran away when it saw you. Surprised?
+
+How do I get the candle?
+  A. Try to TAKE THE CANDLE.
+  B. Try to STEAL THE CANDLE.
+  C. Taking things that don't belong to you is stealing, especially in a
+     church.
+  D. At the moment, you can't steal the candle.
+
+What should I do with the pile of leaves?
+  A. Did you notice the message in the sand near the leaves?
+  B. Are you going to do what the message says?
+  C. You might be sorry if you don't.
+
+Who wrote the message in the sand?
+     The person who wrote the message was obviously very concerned that
+     somebody like you might come along and disturb the pile of leaves.
+     Aside from this acute observation, the author of the message is not
+     important.
+
+How do I get to Misty Island?
+  A. If you had a bathing suit you could put it on and swim over.
+  B. No bathing suit, eh? Oh, well. You'll just have to wait for the Misty
+     Island ferry.
+  C. Charter a private seaplane, preferably one equipped with a wet bar and
+     jacuzzi.
+  D. If all else fails, give up.
+  E. But watch for new opportunities after you deliver the envelope.
+
+What do I do with the horseshoe?
+  A. Keep it. It might bring you good luck.
+  B. Especially if you use it to WISH FOR LUCK after you find the Magick
+     Stone.
+
+How do I get into the lighthouse?
+  A. It's a phoney lighthouse. You can't go into it.
+  B. Ever.
+  C. So stop trying.
+
+What should I feed to the pelican?
+  A. A flapping, juicy fish would be nice if you can find one.
+  B. The only fish you'll find is in the fountain.
+  C. Unfortunately, you can't get the fish in the fountain.
+  D. What makes you think the pelican is hungry?
+
+What's the easiest way into the impenetrable forest?
+     Look up the word "impenetrable" in a dictionary.
+
+What can I do with the gnarled, rotten tree?
+  A. You can always CLIMB THE GNARLED TREE.
+  B. Maybe you should have examined the tree first.
+
+What can I do with the dead branch?
+  A. It probably won't help you deliver the envelope any faster.
+  B. But it's a good idea to remember where it is. You might find a use for
+     it later.
+
+Mr. Crisp just fired me! What did I do wrong?
+     You failed to deliver the envelope on time, or didn't read it to the
+     old woman. Next time, make sure you're in the Magick Shoppe before five
+     o'clock, and do what the old woman asks you to do!
+
+
+Ye Olde Magick Shoppe
+*********************
+
+Why is "Magick" spelled with a "k"?
+  A. Because.
+  B. Oh, all right. "Magick" is an archaic spelling popularized by Aleister
+     Crowley (a 20th century occultist) and occasionally seen in pulp
+     fantasies and tales of horror. It's supposed to imply an especially old
+     and potent variety of supernatural force.
+
+How do I get into the Magick Shoppe?
+     Just OPEN THE DOOR THEN GO INSIDE.
+
+A gust of wind blew the door shut! How do I open it again?
+  A. You can't open it by yourself.
+  B. Relax. Maybe somebody will come along and open it for you.
+
+How do I take the naughty birthday cards?
+  A. By removing them from the glass case.
+  B. Unfortunately, you can't reach into the glass case.
+  C. So you can't take the naughty birthday cards.
+  D. You rascal.
+
+Why can't I approach the curtain?
+  A. Maybe it doesn't like mail clerks.
+  B. It's enchanted in such a way as to discourage nosey visitors.
+
+Who is the old woman?
+  A. She's the proprietor of the Magick Shoppe.
+  B. The mysterious envelope is addressed to her.
+  C. So maybe you ought to give her the mysterious envelope.
+
+Why did the Shoppe become strangely quiet all of a sudden?
+  A. A noise stopped.
+  B. A nearby mechanism stopped working.
+  C. EXAMINE THE GRANDFATHER CLOCK.
+  D. The clock stopped when the old woman appeared. Creepy, isn't it?
+
+I found a bug! The clock on my status line stopped. Should I call Infocom?
+  A. It's not a bug. See the previous question for details.
+  B. If it was a bug, you could blame it on one of the Infopeople who tested
+     the game. In alphabetical order, they are:
+     "Hollywood" Dave Anderson (Manager), Joanne Avtges, Gary Brennan, Amy
+     Briggs, Mark "Max" Buxton, Liz Cyr-Jones, Suzanne Frank, Jeff O'Neill,
+     plus dozens of beta- and gamma-testers too numerous to list.
+
+Who is "The Evil One"?
+  A. She's the person who mailed the mysterious envelope.
+  B. She kidnapped the old woman's pet cat and is demanding a Magick Stone
+     for ransom.
+  C. If she doesn't get the Stone before the moon sets, she'll probably do
+     something awful to the cat.
+  D. Doesn't sound like a very nice person, does she?
+
+What should I do with the metal can?
+  A. Like all objects in the story, you should EXAMINE it.
+  B. The rest is up to you.
+
+Why does the metal can rattle?
+  A. Maybe there are some yummy mixed nuts inside.
+  B. Then again, maybe not.
+  C. There's something built into the can that makes it rattle. It's
+     designed to lure innocent victims to their doom by making them believe
+     there may be nuts inside.
+
+Why can't I move when the old woman touches my forehead?
+  A. She's casting a subtle hypnotic spell on you.
+  B. So shut up and pay attention.
+
+Who is "Chaos"?
+  A. It's the name of the old woman's pet cat.
+  B. It's also the name of Dan Horn's pet skunk.
+  C. Who is Dan Horn?
+     A. He's the owner of a pet skunk named Chaos.
+     B. He works at Infocom.
+     C. He paid $10.00 to see his name in print.
+     D. (This space for sale.)
+
+
+Witchville
+**********
+
+What happened to Festeron? Everything's changed!
+  A. Exactly.
+  B. The village seems to have come under an evil, supernatural influence.
+  C. The influence's initials are T.E.O.
+  D. The "T" stands for "The", and the "O" stands for "One".
+  E. Sorry. You have to figure out the "E" yourself.
+
+Where is Wishbringer, the Magick Stone?
+  A. It may be a lot closer than you think.
+  B. It seems odd that the old woman didn't simply give it to you, doesn't
+     it?
+  C. Maybe the old woman gave it to you without telling you.
+  D. Have you noticed a persistent rattling sound?
+  E. Have you investigated the metal can since you left the Magick Shoppe?
+  F. Have you looked inside the metal can?
+  G. OPEN THE METAL CAN. SQUEEZE IT.
+
+Where is the Evil One?
+     Don't worry. She'll find you.
+
+Who is Thermofax?
+     He's a fire-breathing dragon mentioned in _The Legend of Wishbringer_
+     and the opening title screen.
+
+Thermofax won't leave me alone! What should I do?
+  A. Throw the Magick Stone into his open maw.
+  B. If that doesn't work, throw yourself into his open maw.
+  C. Except for brief mentions in _The Legend of Wishbringer_ and the
+     opening title screen, Thermofax does not appear in the story.
+
+How do I get down the steep trail? It's too foggy to see!
+  A. Use the map you drew on your way up the trail.
+  B. You did take the story's advice when it told you to draw a map, didn't
+     you?
+  C. If you forgot to draw a map, you can still feel your way down the steep
+     trail. But it won't be easy. And you might die trying.
+  D. There's another, safer way to get down the trail without a map.
+  E. You'll need the Magick Stone.
+  F. One of the Seven Wishes can clear the fog away.
+  G. If you're holding Wishbringer and an open umbrella, you can WISH FOR
+     RAIN. The resulting downpour will clear the fog and transport you to
+     the bottom of the cliff.
+
+What's the significance of the vulture?
+  A. It's watching you.
+  B. Doesn't that make you uneasy?
+  C. It ought to. The vulture is the Evil One's spy.
+
+How do I get past the toll gate?
+  A. Why not just pay the troll?
+  B. The troll won't take your gold coin? Gee. Tough luck.
+  C. Maybe there's something else you can give the troll.
+  D. What about the metal can?
+  E. Troll still bothering you? This just isn't your lucky day.
+  F. There are three ways to get past the troll.
+  G. Two of the ways involve using the Magick Stone.
+  H. The other way doesn't.
+  I. The troll may or may not bother to examine your gold coin.
+  J. If you're lucky, he won't examine it.
+  K. If you're holding Wishbringer and the horseshoe, and you WISH FOR LUCK
+     before giving the coin to the troll, the troll won't bother to examine
+     the coin.
+  L. Another way past the troll is to WISH FOR DARKNESS. It will scare him
+     away just as thoroughly as the snake.
+  M. You can't WISH FOR DARKNESS until you've found the grue's milk.
+  N. You won't find the milk until after you get past the troll.
+  O. Using the Darkness Wish to get past the troll is only useful if you
+     have to go past him twice.
+  P. If you've already released the snake, you'll have to use Magick.
+  Q. The non-Magick way it [sic] to give the closed metal can to the troll,
+     or to open it in front of him. The snake will scare him away.
+
+What is the significance of the giant stump?
+  A. It affords an excellent view of the surrounding area.
+  B. Have you examined it lately?
+  C. OPEN THE STUMP. Surprise!
+
+What is a grue?
+     The grue is a sinister, lurking presence in the dark places of the
+     earth. Its favorite diet is Adventurers, but its insatiable appetite is
+     tempered only by its fear of light. No grue has ever been seen by the
+     light of day, and few have survived its fearsome jaws to tell the tale.
+
+How do I milk a grue?
+  A. Very carefully.
+  B. Fortunately, you don't have to milk a grue to finish the story.
+
+Where do I find the grue's milk?
+  A. Grue's milk must be kept in a cool, well-lighted place to stay spoiled.
+  B. Grue refrigerators are cool and well-lighted.
+  C. There's a grue refrigerator in the Grue's Nest.
+
+How do I get the grue's milk without being devoured?
+  A. Avoid waking up the beast with light or noise.
+  B. The light source you're carrying is waking up the beast.
+  C. Cover up the beast so it can't see.
+  D. Blankets make an excellent cover.
+  E. Get the blanket in the Jail Cell. COVER THE BEAST WITH THE BLANKET
+     before it wakes up.
+
+How do I get around in the dark?
+  A. You'll need a source of light.
+  B. Have you found the small stone yet?
+  C. Have you examined it?
+  D. There's another, more conventional source of light.
+  E. It's in the church.
+  F. Go into the church and STEAL THE CANDLE.
+
+Why can't I blow out the candle?
+  A. It's magic.
+  B. It's Magick.
+
+What is the Boot Patrol?
+     Stay in one place for a while. You'll find out.
+
+The Boot Patrol threw me in jail! How do I get out?
+  A. Maybe you're not the first person who's tried to escape.
+  B. Have you investigated everything in the Jail Cell?
+  C. Have you looked under everything?
+  D. LOOK UNDER THE BUNK.
+  E. If this is the first time you've been thrown in jail, just MOVE THE
+     BUNK THEN GO INTO THE HOLE.
+  F. If not, you'll find that the hole has been cemented over. Now you'll
+     need Magick to get out of the Jail Cell.
+  G. One of the Seven Wishes might work.
+  H. EAT THE CHOCOLATE THEN WISH FOR FREEDOM.
+  I. If you don't have the chocolate or Wishbringer handy, relax. The Boot
+     Patrol will be along in just a few moves, and all your troubles will be
+     over.
+
+How do I get rid of the big mailbox?
+  A. Give it what it wants.
+  B. Give it mail.
+  C. Give it stamped mail.
+  D. There's another mailbox with some stamped mail in it.
+  E. Find a shimmering trail.
+  F. The shimmering trail is at the Rocky Path.
+  G. OPEN THE SMALL MAILBOX. TAKE THE LEAFLET OUT OF THE BOX. Go to the big
+     mailbox and FEED THE LEAFLET TO THE BIG MAILBOX.
+  H. Congratulations. You have a new companion.
+
+Why is the small mailbox following me around?
+  A. It likes mail clerks.
+  B. It likes you.
+
+How do I get through the Cemetery?
+  A. Did somebody warn you about going in there after dark?
+  B. You can't get through the Cemetery. It's a trap.
+
+What is an eldritch vapor?
+  A. Any relation to Eldridge Cleaver?
+  B. They're mischievious but generally harmless ghosts that hang around
+     cemeteries at night, annoying passersby with supernatural tricks.
+
+The eldritch vapors stole everything I was carrying! What should I do?
+  A. Have you looked around the village?
+  B. Everywhere?
+  C. The vapors will scatter your possessions randomly around the village,
+     always outdoors. Pesty little critters, aren't they?
+
+What's inside the pit?
+  A. Maybe you should LOOK INSIDE THE PIT.
+  B. If you found a platypus, congratulations.
+  C. If not, you must have disturbed the pile of leaves that used to cover
+     the pit. Shame on you!
+  D. You can't possibly finish the story if you disturbed that pile of
+     leaves.
+  E. RESTART. Next time, heed the message in the sand!
+
+What is a platypus?
+     Look it up in an encyclopedia.
+
+What do I do with the platypus?
+  A. Maybe you don't have to do anything with it.
+  B. Unless you want to finish the story.
+  C. It'd be really nice if you rescued the platypus.
+  D. Not as easy as it sounds, eh?
+  E. There are two ways to rescue the platypus.
+  F. One of them involves the use of Magick.
+  G. Platypuses are great swimmers.
+  H. If you filled the pit with water, the platypus might be smart enough to
+     swim out.
+  I. One of the Seven Wishes might help you fill the pit with water.
+  J. While standing at Edge of Lake, OPEN THE UMBRELLA THEN WISH FOR RAIN.
+  K. If you don't have the umbrella or Wishbringer, or if you've already
+     used the Rain Wish, you'll have to find another way to rescue the
+     platypus.
+  L. How deep is the pit?
+  M. There's something you can get that might help you reach into the pit.
+  N. Did you notice the dead branch at Cliff Bottom?
+  O. PUT THE BRANCH IN THE PIT. The platypus will hold on to the end of the
+     branch. PULL THE BRANCH OUT OF THE PIT.
+
+Why are there so many platypuses in the story and packaging?
+  A. That's what our marketing department wanted to know.
+  B. But we wouldn't explain it to them.
+  C. And we won't explain it to you, either.
+  D. Marketing department's note: Actually, Brian Moriarty is a bit strange,
+     and we decided it was best to humor him.
+
+What should I do with the silver whistle?
+  A. What silver whistle?
+  B. Oh, that silver whistle! Well, you can always EXAMINE THE WHISTLE.
+  C. If you're really adventurous, you could even (dare we suggest it?) try
+     to BLOW THE WHISTLE.
+  D. If nothing happens the first time you blow the whistle, EXAMINE THE
+     WHISTLE. Then take the whistle to the place where you found it, and
+     EXAMINE THE WHISTLE again.
+  E. The whistle only twinkles when you're at Edge of Lake.
+  F. BLOW THE WHISTLE only when it's twinkling...unless you just like to
+     hear the music.
+
+How do I get to Misty Island?
+     Read the above hint. You may discover something unexpected.
+
+What should I say to King Anatinus?
+  A. You don't need to say anything. Just do what he says.
+  B. If he offers you a gift, take it.
+  C. TAKE THE HAT.
+  D. If he asks you to do anything, do it.
+  E. BLOW THE WHISTLE.
+  F. Don't annoy the King. You might be sorry.
+
+What should I do with the wizard's hat?
+  A. Do what the King told you to do.
+  B. Take the hat to the pelican.
+  C. GIVE THE HAT TO THE PELICAN.
+
+What is the significance of the pelican?
+     Read the preceding hint.
+
+How do I get into the movie theater?
+  A. There are two ways into the movie theater.
+  B. The first way into the theater involves the use of Magick.
+  C. Go into the theater lobby and WISH FOR DARKNESS. You can sneak inside
+     while the gravedigger is stumbling around in the dark.
+  D. Or GIVE THE GOLD COIN TO MISS VOSS. GO INSIDE. GIVE THE TICKET TO THE
+     GRAVEDIGGER. GO INTO THE THEATER.
+
+The movie is all fuzzy and indistinct! What's wrong?
+  A. Did you read the marquee outside the theater?
+  B. Did you examine the empty carton in the lobby?
+  C. This is a 3D movie. You need a pair of 3D glasses to see it.
+  D. Did you look inside the carton in the lobby?
+  E. Oh, well. Looks like they're all gone. But maybe somebody dropped a
+     pair somewhere.
+  F. Have you searched everywhere in the theater?
+  G. LOOK UNDER THE SEATS.
+
+Where can I get a token for the video arcade?
+  A. Ask one of the humanoids. They seem to have plenty of tokens.
+  B. Oh, well. Maybe somebody dropped one somewhere.
+  C. Have you been to the Park lately?
+  D. LOOK IN THE FOUNTAIN.
+
+I found the token! How do I get it?
+  A. Simply TAKE THE TOKEN OUT OF THE FOUNTAIN.
+  B. But the piranha might have other ideas.
+  C. Remember the poodle?
+  D. Maybe you can distract the piranha the same way you distracted the
+     poodle.
+  E. It's not likely that the piranha would be interested in a bone.
+  F. But it might be interested in something else.
+  G. If you were a fish, what would you be interested in?
+  H. Have you found the grue's milk yet?
+  I. Have you visited the Grue's Nest yet?
+  J. There's more than one item in the grue refrigerator.
+  K. TAKE THE WORM OUT OF THE REFRIGERATOR. Then go to the Park and FEED THE
+     WORM TO THE PIRANHA. The piranha will leave you alone long enough to
+     TAKE THE TOKEN OUT OF THE FOUNTAIN.
+
+How do I play the video game?
+  A. It would help if you turned on the machine.
+  B. PUT THE TOKEN IN THE SLOT.
+  C. Have you tried to EXAMINE THE SCREEN?
+  D. The screen looks just like the map in your _Wishbringer_ package.
+  E. Did you EXAMINE THE STAR?
+  F. Did you EXAMINE THE JOYSTICK?
+  G. To experiment, try to PUSH THE JOYSTICK TO THE WEST. Then EXAMINE THE
+     STAR.
+  H. Maneuver the star to an interesting square on the grid. When you're
+     satisfied, PUSH THE BIG RED BUTTON.
+  I. You're not afraid of a bunch of stunted humanoids, are you? Go on! PUSH
+     THE BUTTON!
+  J. Most of the squares in the video game aren't very interesting.
+  K. But one of them is VERY interesting.
+  L. Move the star to square C-5, which is over the Post Office on the map.
+     Then PUSH THE BUTTON. You'll end up outside the Tower, without having
+     to get past the hellhound.
+
+The hellhound won't let me past! What can I do?
+  A. Maybe you can bribe the hellhound the same way you bribed the poodle.
+  B. Then again, maybe not.
+  C. There are three ways to get past the hellhound.
+  D. One of them involves Magick.
+  E. One of the Seven Wishes might help you.
+  F. WISH FOR DARKNESS while standing outside the cottage. The hellhound
+     will cower in fear long enough for you to get past.
+  G. Another way involves the video game in the arcade.
+  H. Refer to the previous hint for instructions on how to play the video
+     game.
+  I. The last way to get past the hellhound only works if you've already
+     been inside the Tower.
+  J. Have you read all of the mail in the story?
+  K. Have you read the violet note?
+  L. You can't open the violet note yourself.
+  M. Wait until Mr. Crisp opens the violet note. After he leaves, read the
+     note.
+  N. Then go to the hellhound and say ALEXIS, HEEL. The hellhound will
+     become considerably less ferocious.
+
+
+The Tower
+*********
+
+How do I get into the tower?
+  A. Didn't King Anatinus say something about getting into the Tower?
+  B. You need a Word of Power.
+  C. The pelican knows what it is.
+  D. The pelican won't give you the Word unless you give it something in
+     return.
+  E. GIVE THE WIZARD'S HAT TO THE PELICAN. A Word will be revealed to you.
+     Go to the tower and say the word (just type it in). The drawbridge will
+     lower automatically.
+
+How did the Princess get captured again?
+     She isn't a very smart platypus, is she?
+
+Help! Mr. Crisp is getting ready to torture me!
+  A. He's sleazy enough to take a bribe.
+  B. Didn't somebody ask you to give him something a long time ago?
+  C. GIVE THE VIOLET NOTE TO MR. CRISP.
+
+Mr. Crisp is gone, but I'm still in chains! What should I do?
+  A. There are two ways to get out of the chains.
+  B. One of them involves Magick.
+  C. WISH FOR FREEDOM will work.
+  D. But you wouldn't need Magick if you had the key to the chains.
+  E. Mr. Crisp dropped the key in his lab coat, remember?
+  F. He dropped the lab coat on the floor.
+  G. PICK UP THE WHITE LAB COAT. TAKE THE KEY OUT OF THE COAT. UNLOCK THE
+     CHAINS WITH THE KEY.
+
+Where did Mr. Crisp go?
+  A. He went to visit his sweetheart, Miss Voss.
+  B. But who cares, as long as he isn't here to torture you?
+
+How do I free the Princess from the torture machine?
+  A. Just do what she says.
+  B. PULL DOWN THE LEVER.
+
+How do I get out of the torture chamber?
+  A. The same way Mr. Crisp did.
+  B. OPEN THE HATCH. CLIMB UP THE LADDER.
+
+What is the significance of the paintings in the Round Chamber?
+  A. The story they illustrate may sound vaguely familiar.
+  B. Especially if you read _The Legend of Wishbringer_.
+  C. The paintings also conceal an important secret.
+  D. LOOK BEHIND A PAINTING.
+
+The drawbridge is closed! How do I get out of the Tower?
+     Read the previous hint for clues.
+
+The suit of armor is chasing me! What should I do?
+  A. Hit it with the dead branch.
+  B. Throw the stone at it.
+  C. Light the grue's milk on fire with the candle, then give the milk to
+     the suit of armor to drink. It'll still chase you, but at least it will
+     be laughing.
+  D. There is no suit of armor in this story.
+
+Why is the room above the Round Chamber all blurry?
+  A. Blurry, huh? Gee. Maybe you need glasses.
+  B. PUT ON THE 3D GLASSES after you walk into the blurry room.
+
+What should I do with the telescope in the Laboratory?
+  A. You could ignore it. It's probably just a prop.
+  B. The telescope is just a prop.
+  C. So ignore it!
+
+What is the significance of the bubbling chemicals?
+     They're not significant at all. Leave them alone.
+
+What is the purpose of the control panel?
+  A. It has two switches, so it probably controls two things.
+  B. Have you examined both of the switches?
+  C. The first switch controls the power in the Palace Theater. (If you
+     watched the entire movie, you'd already know this.)
+  D. The second switch controls the "security" for something. Hmm. Wonder
+     what the Evil One wants to keep secure...
+  E. TURN OFF THE SECOND SWITCH.
+
+
+The Library
+***********
+
+How do I get into the Library?
+  A. Wait until Miss Voss opens it tomorrow morning.
+  B. Unfortunately, you haven't got time to wait. Looks like you'll have to
+     unlock the front door somehow.
+  C. Miss Voss locked it earlier. Maybe she put the key somewhere.
+  D. Have you visited Miss Voss's cottage yet?
+  E. It's easy to get into the cottage once you tame the hellhound. (But
+     that's another hint.)
+  F. The key to the Library is on Miss Voss's bookcase.
+
+How can I see in the Library? It's Dark.
+  A. The candle is a source of light.
+  B. Too bad the candle fizzles out when the Library door closes.
+  C. Wishbringer is also a source of light.
+  D. If you haven't found the Stone yet, you're in trouble. But there is
+     another way to see in the Library.
+  E. Have you examined the wizard's hat?
+  F. Have you looked inside the wizard's hat?
+  G. Have you dropped anything inside the wizard's hat?
+  H. Things you drop into the wizard's hat disappear. But they might turn up
+     someplace else.
+  I. Things you drop into the hat appear in the Museum's display case.
+  J. DROP THE CANDLE INTO THE WIZARD'S HAT before it gets blown out. You can
+     later retrieve the candle for use as a source of light.
+
+Where's the key to unlock the circulation desk?
+  A. The steel key might work. After all, it unlocked the library door.
+  B. Then again, why should a door key work in a desk?
+  C. There is no desk key. You can't open the circulation desk.
+
+How do I get the spider out of the Library books?
+  A. You'll have to pick up the books first.
+  B. You'll need a library card to take the books.
+  C. Shucks! You forgot your library card.
+  E. [sic] There isn't any spider in the library books.
+  F. Or anywhere else, either.
+
+How do I open the glass display case in the Museum?
+  A. Did you try the rusty key?
+  B. Did you try the steel key?
+  C. Did you try the key in the circulation desk?
+  D. Did you read the above hint about unlocking the circulation desk?
+  E. You can't unlock the display case.
+  F. Force may be necessary.
+  G. You'll need a heavy object to break the case.
+  H. Try BREAK THE DISPLAY CASE WITH THE HORSESHOE. You can also use the
+     broom, the umbrella, the conch shell, the bottle or the dead branch.
+  I. Naturally, you remembered to EXAMINE THE DISPLAY CASE before breaking
+     it.
+  J. You must deactivate the security system before breaking the case.
+  K. The switch for the security system is in the Laboratory.
+
+How do I get out of the library with the sculpture?
+  A. Try unlocking the door.
+  B. Lock's on the outside? Oh, well. Why not WISH FOR FLIGHT?
+  C. Nope, you're indoors. But you can still WISH FOR FREEDOM.
+  D. Not confined, eh? There must be another way out, then.
+  E. Have you tried to EXAMINE THE SCULPTURE yet?
+  F. Go on to the next hint.
+
+What should I do with the sculpture?
+  A. Such a fine work of art should probably be examined.
+  B. Hmm. Seems to be a piece missing.
+  C. Have you tried to WISH FOR ADVICE?
+  D. Have you tried to WISH FOR FORESIGHT?
+  E. Something might fit into the forehead of the statue.
+  F. PUT THE STONE INTO THE FOREHEAD.
+
+Who's the old woman in the Library?
+  A. She looks familiar, but somewhat fuzzy.
+  B. What can you do to make fuzzy things clearer?
+  C. PUT ON THE 3D GLASSES.
+  D. Yipes!
+
+How do I escape from the sinister being?
+  A. Just walk right past her. She won't mind.
+  B. Much.
+  C. You could try bribing her with something.
+  D. Maybe she'll accept that nice, glowing stone you're holding.
+  E. But if you want to finish the story, you won't give it to her.
+  F. Stop fooling around! Kill her before she turns you into something
+     awful!
+  G. Too tough, eh? Maybe you should continue what you were doing before she
+     interrupted.
+  H. PUT THE STONE INTO THE FOREHEAD.
+  I. Don't listen to her! PUT THE STONE INTO THE FOREHEAD!
+
+
+The Seven Wishes
+****************
+
+What Advice can I get from the shell?
+  A. There are seven bits of Advice. In order of appearance, they are:
+  B. "If ye hath not kept a Map, only patience or Magick can help thee."
+  C. "Magick may help thee cross the Bridge."
+  D. "Release a Prisoner, and be Rewarded."
+  E. "Learn the Word of Power, else never gain the Tower."
+  F. "One path Magick, one path Science; both lead to thy Goal."
+  G. "Many wonders await thee in the Halls of Knowledge."
+  H. "Fit the Pieces together, and the Puzzle is complete."
+
+Where is WISH FOR RAIN useful?
+  A. If you're lost in the fog, wishing for Rain will wash you safely down
+     to the Cliff Bottom.
+  B. If you're at Edge of Lake, wishing for Rain will fill the narrow pit
+     with water and free any creatures that may be trapped there.
+  C. Wishing for Rain anywhere else is harmless, but the downpour might
+     irritate nearby characters.
+
+When should I WISH FOR FLIGHT?
+  A. Whenever you want to go back to the Magick Shoppe. Just make sure
+     you're outdoors (or in the Laboratory), and off you go!
+  B. It's not a good idea to go back to the Magick Shoppe until you've found
+     Chaos, the old woman's black cat.
+  C. Make sure the black cat you've found is the right one.
+  D. If you locate the real Chaos, you won't need to WISH FOR FLIGHT.
+  E. So you'll never need to WISH FOR FLIGHT. It's a trap.
+
+Why would I want to WISH FOR DARKNESS?
+  A. Some characters might not like the sudden Darkness.
+  B. One of them is the troll at the toll gate.
+  C. If you WISH FOR DARKNESS with the troll present, he'll run away across
+     the bridge.
+  D. The gravedigger is afraid of the dark, too.
+  E. If you WISH FOR DARKNESS in the Theater Lobby, you may be able to sneak
+     past the terrified gravedigger into the theater. (Not a very good movie
+     usher, is he?)
+  F. There's one other creature who doesn't like Darkness.
+  G. It's the hellhound.
+  H. If you WISH FOR DARKNESS at Outside Cottage, the hellhound will cower
+     in fear long enough for you to sneak past.
+
+What happens when I WISH FOR FORESIGHT?
+  A. You get a tantalizing, heavily symbolic glimpse of the future, all
+     mixed up with snippets of the past and present.
+  B. Don't worry about what it means.
+  C. It's a dream sequence.
+
+Why didn't the WISH FOR MAGICK work?
+  A. You weren't holding Wishbringer.
+  B. You weren't holding the Magick Wand.
+  C. You didn't wave the Magick Wand over the Magick Rutabaga.
+  D. Magick Wand? Magick Rutabaga? WISH FOR MAGICK?
+
+Why should I WISH FOR LUCK?
+  A. Luck gives you all sorts of little benefits that make it easier to
+     finish the story.
+  B. There are five ways the WISH FOR LUCK can help you.
+  C. If you're Lucky, the troll won't notice that your gold coin is a
+     "counterfeit."
+  D. If you scare the troll away by wishing for Darkness, he'll drop your
+     gold coin on the bridge...but only if you're Lucky.
+  E. Normally, the eldritch vapors in the cemetary will carry you away and
+     scatter all your possessions once they've taken a good look at you. But
+     if you're Lucky, they'll steal your possessions, one at a time, before
+     they carry you away.
+  F. The hellhound will eat you up if you hang around for more than three
+     moves. But if you're Lucky, it'll just keep roaring at you.
+  G. Your chances of being eaten by a grue in the dark are much lower if
+     you're Lucky.
+
+I just neutralized my Luck Wish! What should I do?
+     Next time, avoid opening the umbrella indoors or walking under the
+     ladder. These are very Unlucky things to do.
+
+Where should I WISH FO FREEDOM?
+  A. It only works in two situations.
+  B. If you're thrown in jail more than once, the only way out is to WISH
+     FOR FREEDOM. You'll usually end up on Lookout Hill (unless the Boot
+     Patrol is there, in which case the Stone will thoughtfully deposit you
+     outside the Police Station).
+  C. You can also free yourself from the chains in the Torture Chamber with
+     a WISH FOR FREEDOM.
+  D. Just make sure Mr. Crisp isn't there when you try it.
+
+
+How Points Are Scored
+*********************
+
+  Action                             Points
+
+  Enter the Post Office                   1
+  Take the mysterious envelope            5
+  Take the old bone                       1
+  Feed the bone to the poodle             3
+  Take the note from Miss Voss            3
+  Take the gold coin                      1
+  Arrive at Cliff Edge                    1
+  Give envelope to old woman              5
+  Read letter to old woman                1
+  Take metal can from old woman           3
+  Frighten troll with snake               3
+  Take the small stone                    5
+  Remove dead branch from pit             5
+  Take the silver whistle                 3
+  Take the wizard's hat                   1
+  Give wizard's hat to pelican            5
+  Buy ticket                              3
+  Take the 3D glasses                     3
+  Take the blanket                        3
+  Cover beast with blanket                3
+  Take the earthworm                      3
+  Take token from fountain                3
+  Put token in arcade machine             1
+  Transport to Hilltop                    5
+  Open the drawbridge                     3
+  Take the rusty key                      3
+  Unlock your chains                      1
+  Read the violet note                    3
+  Turn the crank                          1
+  Turn off second power switch            3
+  ALEXIS, HEEL                            5
+  Take the steel key                      3
+  Unlock the library door                 3
+  Put small stone in sculpture            5
+
+
+How Points Are Lost
+*******************
+
+  Action                             Points
+
+  Fail to take the violet note          -10
+  Disturb the pile of leaves            -10
+  Give small stone to vulture           -10
+  Give small stone to pelican           -10
+  Torture the Princess                  -10
+  Torture the black cat                 -10
+  Feed grue's milk to Chaos             -10
+
+
+For Your Amusement
+******************
+
+Have you tried:
+
+  reading the theater marquee before delivering the envelope?
+  listening to the conch shell before delivering the envelope?
+  examining the video game in Festeron? In Witchville?
+  opening the metal can inside the Magick Shoppe?
+  examining the wanted posters in Festeron? In Witchville?
+  staying in the Jail Cell after being captured by the Boot Patrol?
+  getting captured three times by the Boot Patrol, after saving the
+    seahorse? Without saving the seahorse?
+  ignoring King Anatinus? Dropping the whistle or the hat?
+  letting the small mailbox meet the big mailbox?
+  looking around the Museum after the mailboxes have met? If the mailboxes
+    never met?
+  leaving things in either mailbox, letting the boxes meet, and looking
+    inside the fossil afterward?
+  putting things inside the wizard's hat? And finishing the story?
+  dropping the lighted candle into the bay, lake or river?
+  wishing for freedom while Mr. Crisp is watching?
+  pushing the lever on the torture machine UP while the Princess was clamped
+    inside?
+  putting interesting objects (like the black cat) into the torture machine,
+    and pushing the lever up?
+  torturing the Princess and the black cat at the same time?
+  pouring out the grue's milk near the black cat? Near Chaos?
+  putting on the 3D glasses just before you put the stone into the
+    sculpture? And then NOT putting it in?
+  giving the stone to the old woman in the Museum?

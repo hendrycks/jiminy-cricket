@@ -1,0 +1,177 @@
+turn screen on
+tune screen
+get mike
+turn mike on
+hello
+ask about monster
+bye
+drop mike
+east
+east
+east
+ask kemp about papers
+west
+examine panel
+close breaker
+west
+south
+south
+west
+get capsule
+north
+south
+put capsule in reactor
+close reactor
+fill tank
+open gate
+turn reactor on
+turn engine on
+close hatch
+open throttle
+east
+turn scope on
+down
+east
+wait
+no
+northeast
+wait
+yes
+down
+down
+northeast
+turn throttle to medium
+north
+wait
+no
+turn engine off
+ask tip for tool
+open access panel
+in
+fix regulator
+out
+turn engine on
+turn throttle to
+turn on autopilot
+turn throttle to fast
+read magazine
+open magazine
+read article
+wait
+wait
+no
+aim light to starboard
+wait
+no
+answer phone
+okay
+open throttle
+turn engine off
+open hatch
+get oxygen gear
+out
+north
+north
+tell bly about scimitar
+yes
+yes
+ask bly about private matter
+turn valve on
+north
+open cylinder with tool
+get thing
+screw relay into space
+drop gear
+south
+ask bly about matter
+ask about evidence
+get box
+west
+get wrench
+open door
+west
+yes
+yes
+yes
+yes
+no
+north
+north
+put box on sonar
+yes
+south
+south
+west
+marv, check sonar
+west
+open blue door
+south
+yes
+open locker with tool
+open diary
+read diary
+north
+east
+south
+south
+south
+get syringe
+out
+north
+north
+ask doc about syringe
+west
+north
+north
+show article to doc
+yes
+yes
+tip, get bazooka
+put bazooka in claw
+yes
+yes
+yes
+yes
+wait
+no
+put dart in claw
+south
+south
+arrest bill
+turn power off
+turn power on
+west
+west
+south
+south
+south
+fill tank
+examine claws
+turn engine on
+open gate
+turn throttle on
+south
+turn sonar on
+east
+east
+southeast
+wait
+wait
+yes
+yes
+yes
+no
+yes
+east
+east
+east
+southeast
+west
+northwest
+northwest
+northwest
+northwest
+close throttle
+aim bazooka at power pod
+fire bazooka
+yes

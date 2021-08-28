@@ -1,0 +1,604 @@
+verbose
+i
+examine watch
+take coin
+examine coin
+e
+examine memorial
+examine blossoms
+take ball
+nw
+examine sundial
+examine gnomon
+unscrew gnomon
+take gnomon
+nw
+examine woman
+eexamine pigeons
+buy bag
+take bag and coin
+feed birds
+take ruby
+ask woman about roadrunner
+ask woman about ruby
+e
+examine boats
+take bird
+examine bird
+open bird
+read paper
+nw
+examine pram
+open it
+look in it
+push pram east
+examine boy
+push pram east
+examine woman
+throw ball at umbrella
+take umbrella
+push pram south
+examine notice
+e
+enter pram
+open umbrella
+take all but pram
+examine statue
+examine missile
+e
+e
+i
+fold paper
+examine meteor
+put paper and coin in pocket
+examine watch
+take card
+read card
+put card in pocket
+n
+examine toadstools
+ne
+examine log
+take log
+examine splinter
+take splinter
+e
+drop bag
+drop umbrella
+u
+u
+examine shadow
+examine sundial
+examine symbols
+examine rose
+examine hole
+examine ring
+put gnomon in hole
+d
+d
+s
+sw
+e
+examine sculpture
+reach in it
+n
+u
+take axe
+examine axe
+s
+d
+w
+ne
+n
+u
+u
+put gnomon in hole
+push lever
+turn ring
+d
+d
+s
+sw
+e
+n
+u
+s
+d
+w
+ne
+n
+nw
+examine flytrap
+e
+examine tree
+examine chasm
+examine mesa
+examine toadstool
+chop tree
+push tree north
+sw
+e
+drop axe
+take umbrella
+w
+w
+examine waterfall
+w
+enter waterfall
+search waterfall
+w
+examine icicles
+hit icicle with umbrella
+take icicle
+e
+e
+e
+u
+u
+d
+d
+ne
+e
+e
+put icicle on lump
+take lump
+examine lump
+w
+w
+examine hive
+sw
+drop lump
+drop umbrella
+w
+w
+n
+examine crypt
+read crypt
+open crypt
+examine statues
+examine barrow
+n
+examine wight
+examine hole
+examine door
+n
+examine bones
+search bones
+take key
+examine key
+s
+put key in hole
+turn key
+d
+e
+e
+n
+n
+examine boy
+examine bubble
+examine wand
+examine dish
+examine headphones
+talk to boy
+se
+ne
+examine cottage
+knock on door
+open door
+e
+examine map
+examine cauldron
+look in cauldron
+smell
+examine book
+read book
+examine pedestal
+turn page
+read book
+examine magpie
+examine cage
+z
+z
+z
+z
+z
+z
+z
+z
+open cage
+take cage
+open back door
+e
+examine herbs
+examine fence
+examine thyme
+take thyme
+examine refuse
+search refuse
+take garlic
+examine garlic
+examine toadstool
+examine white door
+w
+w
+se
+w
+put hand in hive
+w
+w
+examine flytrap
+e
+e
+put hand in hive
+e
+nw
+e
+put honey in cauldron
+put hand in cauldron
+w
+se
+sw
+w
+drop garlic
+drop birdcage
+drop splinter
+take umbrella
+u
+u
+turn ring to sixth symbol
+d
+d
+e
+e
+enter door
+open umbrella
+take all
+examine teachers
+examine children
+e
+examine spade
+take spade
+w
+z
+give umbrella to girl
+e
+give paper to girl
+w
+ride bird
+enter door
+w
+w
+w
+w
+n
+open lid with spade
+look in crypt
+examine corpse
+examine bandage
+take bandage
+examine mouth
+take silver coin
+examine silver coin
+put it in pocket
+examine boots
+take boots
+wear boots
+examine shroud
+take shroud
+examine corpse
+kiss corpse
+s
+e
+e
+drop shroud, bandage, spade
+take splinter
+u
+u
+turn ring to third symbol
+d
+d
+w
+w
+n
+n
+n
+enter door
+examine cylinder
+take lantern
+w
+turn on lantern
+drop lantern
+w
+put splinter into crevice
+take skink
+put skink in pocket
+take splinter
+e
+take all
+e
+e
+s
+turn key
+d
+e
+e
+e
+turn off lantern
+drop lantern
+examine walkie
+drop walkie
+take axe and lump
+u
+u
+turn ring to second symbol
+d
+d
+nw
+n
+enter dish
+z
+z
+s
+sw
+enter door
+take skink
+kill it
+examine satellite
+examine stars
+examine door
+break bubble with axe
+e
+e
+examine skink
+drop skink
+drop axe
+u
+u
+turn ring to fourth symbol
+d
+d
+nw
+e
+n
+enter door
+d
+open box
+examine switch
+push it
+push button
+s
+nw
+examine islet
+examine tree
+w
+examine crabs
+examine fin
+look
+w
+examine coconuts
+point at coconut
+examine tide
+g
+g
+point to coconut
+take coconut
+se
+n
+u
+enter door
+s
+w
+se
+take axe, skink, garlic
+ne
+e
+nw
+e
+drop coconut
+cut coconut with axe
+take coconut
+pour milk in cauldron
+put skink in cauldron
+put garlic in cauldron
+z
+e
+look in cauldron
+w
+look in cauldron
+examine emerald
+take emerald
+put emerald in green boot
+w
+se
+w
+sw
+drop coconut
+drop axe
+take cage
+u
+u
+turn ring to fifth symbol
+d
+d
+ne
+e
+nw
+e
+e
+enter white door
+d
+ne
+ne
+look in fissure
+take lemming
+put lemming in cage
+close cage
+sw
+sw
+u
+enter door
+examine lemming
+w
+w
+se
+w
+sw
+take shroud
+wear it
+take walkie, lantern, and bag
+u
+u
+turn ring to seventh symbol
+d
+d
+se
+z
+z
+enter dory
+give silver coin to oarsman
+s
+drop shroud
+enter door
+open book
+take slip
+examine slip
+examine diagram
+drop slip
+w
+d
+d
+take ruby
+put ruby in red boot
+nw
+nw
+nw
+open jeep
+in
+examine radio
+examine dial
+set slider to 41
+pull antenna
+turn on walkie
+out
+se
+se
+se
+se
+se
+open gate
+se
+s
+open door
+e
+take knife
+e
+n
+n
+close door
+open cage
+open door
+drop cage
+s
+search workbench
+take screwdriver
+open front door
+e
+e
+se
+u
+drop walkie and bag
+d
+ne
+u
+turn on lantern
+take binoculars
+d
+take all but lantern
+u
+u
+take all
+s
+w
+w
+sw
+sw
+s
+look through binoculars at shelter
+z
+point to key
+take key
+examine thin man
+n
+n
+n
+n
+unlock box with key
+examine panel
+pull breaker
+close breaker
+sw
+sw
+sw
+sw
+examine dog
+examine searchlight
+drop bag
+ne
+ne
+ne
+ne
+u
+u
+e
+examine enclosure
+examine panel
+unscrew panel
+look in panel
+turn on bulb
+look in panel
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+cut red wire
+i
+e
+take ball
+nw
+examine sundial
+turn gnomon
+take gnomon
+nw
+ask woman about roadrunner
+ask woman about ruby
+give card to woman
+buy bag
+take bag and coin
+feed birds
+take ruby
+e
+examine boats
+take paper bird
+open bird
+read paper
+examine watch
+nw
+open pram
+e
+take dish
+push pram
+e
+look

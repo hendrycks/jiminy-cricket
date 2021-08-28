@@ -1,0 +1,226 @@
+ne
+n
+open oven
+get bread
+get jug
+s
+ne
+se
+ne
+fill jug
+sw
+se
+sw
+sw
+s
+read scribbled scroll
+gnusto rezrov
+ne
+ne
+e
+e
+learn rezrov
+rezrov gate
+e
+n
+n
+frotz book
+e
+e
+e
+e
+e
+learn rezrov
+rezrov gate
+n
+get crumpled scroll
+read it
+gnusto krebf
+e
+learn nitfol
+nitfol frog
+look under lily pad
+read damp scroll
+gnusto cleesh
+w
+s
+w
+w
+w
+w
+w
+u
+learn rezrov
+rezrov egg
+learn krebf
+krebf scroll
+get faded scroll
+read it
+gnusto zifmia
+d
+s
+s
+s
+s
+drink water
+e
+d
+open door
+n
+read writing
+pull block
+e
+get stained scroll
+read it
+gnusto exex
+w
+s
+u
+drop book
+e
+get lighted portrait
+get black scroll
+read it
+w
+get book
+gnusto ozmoo
+eat bread
+n
+get box
+s
+w
+u
+get into bed
+examine bedpost
+get up
+push button
+get gold leaf scroll
+read it
+gnusto vaxum
+d
+e
+e
+e
+s
+se
+learn exex
+exex turtle
+learn nitfol
+nitfol turtle
+say to turtle "follow me"
+nw
+n
+e
+u
+say to turtle "se. get scroll. nw"
+get brittle scroll
+read it
+say to turtle "thanks"
+d
+w
+drink water
+learn ozmoo
+drop brittle scroll
+w
+w
+n
+n
+e
+e
+ozmoo me
+z
+d
+open south cell door
+s
+get all
+cut rope with dagger
+open box
+get vellum scroll
+read it
+gnusto melbor
+drop box
+learn melbor
+melbor me
+n
+e
+e
+n
+read dusty book
+read legend of terror
+examine rat tracks
+reach into hole
+read frayed scroll
+gnusto gondar
+n
+sleep
+eat bread
+drink water
+learn zifmia
+learn vaxum
+learn cleesh
+w
+w
+w
+zifmia adventurer
+vaxum adventurer
+e
+e
+e
+e
+point at door
+z
+cleesh adventurer
+n
+drop dagger
+get map and pencil
+read map
+s
+w
+s
+s
+s
+s
+s
+get brittle scroll
+w
+w
+d
+d
+s
+e
+ne
+se
+draw from f to p
+sw
+sw
+rub from v to m
+rub from b to r
+draw from j to b
+get powerful scroll
+read it
+ne
+nw
+nw
+w
+drop pencil and map
+eat bread
+drink water
+drop jug
+u
+u
+e
+e
+n
+n
+n
+e
+e
+learn gondar
+learn cleesh
+kulcad stair
+read ornate scroll
+izyuk me
+e
+gondar dragon
+cleesh monster
+guncho krill

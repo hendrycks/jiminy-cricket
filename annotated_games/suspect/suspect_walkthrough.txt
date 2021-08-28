@@ -1,0 +1,172 @@
+w
+examine veronica
+w
+w
+s
+s
+s
+s
+w
+w
+s
+w
+look through window
+open curtains
+look through window
+examine window seat
+open seat
+look into seat
+e
+open front door
+examine weather
+n
+e
+e
+n
+w
+examine wet overcoat
+e
+e
+ask ostmann about himself
+ask about michael
+ask about bill
+ask about veronica
+ask about marston
+w
+n
+n
+n
+ask ostmann about asher
+s
+s
+s
+e
+e
+e
+ask michael about veronica
+ask about ostmann
+ask about himself
+w
+w
+w
+s
+s
+s
+w
+w
+n
+n
+examine basket
+take business card
+take manila folder
+ask bill about murder
+show business card to bill
+n
+w
+open tool chest
+take crowbar
+hide behind bmw
+wait for michael
+look
+stand
+ask michael about murder
+e
+sw
+examine veronica
+look under veronica
+take object
+examine veronica's hair
+s
+s
+e
+e
+hide behind chair
+read manila folder
+wait for marston
+yes
+wait for michael
+stand
+unlock e door
+n
+n
+n
+e
+e
+take paper
+examine paper
+read paper
+look
+e
+show manila folder to ostmann
+w
+w
+w
+s
+s
+s
+w
+w
+n
+n
+n
+w
+open bmw's trunk with crowbar
+drop crowbar
+take trust folder
+read trust folder
+read documents
+inventory
+e
+sw
+s
+e
+n
+e
+show paper to detective
+show trust folder to detective
+show manila folder to detective
+show business card to detective
+w
+s
+w
+n
+take fairy mask
+look into fairy mask
+examine dark hair
+s
+s
+e
+e
+n
+n
+n
+w
+take wet overcoat
+e
+n
+n
+n
+n
+e
+take basket
+s
+s
+s
+w
+detective, fingerprint glass
+give dark hair to detective
+show wet overcoat to detective
+tell detective about weather
+e
+examine alicia's hair
+ask alicia about car
+w
+look
+wait for duffy
+yes
+yes
+yes
+yes
+yes
+yes
+detective, arrest michael and alicia

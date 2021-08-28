@@ -1,0 +1,1295 @@
+                                Stellar Patrol:
+                    It's not just a job - It's an adventure!
+
+
+                                   Planetfall
+
+                                       by
+                                 Steve Meretzky
+
+
+                              Interactive Fiction
+
+                                Science Fiction
+
+                                Standard Level
+
+
+
+
+                         Instruction Manual & "Feelies"
+
+
+
+
+[The cover shows a member of the Stellar Patrol running towards us out of a "window" showing outer space behind him. Strong hands grip a mop, which is about to tip over the bucket of water. Though wearing a helmet with a reflective face shield, blue jumpsuit, backpack and black boots, the hands and upper torso indicate that this recruit is a male humanoid. The instructions later state that the player is from the planet Gallium.]
+
+
+---------
+
+Recruited for this PLANETFALL package and ready for active duty are your PLANETFALL disk, Stellar Patrol recruitment brochure, Special Assignment Task Force I.D. card, personal diary and three (3) colorful picture postcards from some of the Universe's swankiest tourist traps.
+
+[The items mentioned are resting on what could be the surface of an asteroid or just a very uneven concrete walkway. A bucket and scrub brush are shown in the corner.]
+
+
+"Join the Patrol, and see the Galaxy!" You took the poster's advice, bait and all, and marched right over to the recruitment station near your home on the backwater planet of Gallium. Images of exotic worlds, strange and colorful aliens, and Deep Space heroism had danced in your head as you signed the dotted line. And since that day the closest you've come to Deep Space heroism was scrubbing down the radioactive leper colony on Ishmael-3.
+
+But suppose that jumbo fortune cookie you got at Qwang's Take-Out Asteroid last shore leave was right. Maybe you will indeed narrowly escape disaster. It's even possible that you'll actually travel to an unknown corner of the Universe, where you'll save a doomed planet--or die in the attempt. In fact, we'll guarantee it--every crumb of it--because that's just the way the cosmic cookie crumbles.
+
+GET INSIDE A STORY. GET ONE FROM INFOCOM!
+It's like waking up inside a story! Load Infocom's interactive fiction into your computer and discover yourself at the center of a world jam-packed with surprising twists, unique characters and original, logical, often hilarious puzzles.
+
+For the first time, you're more than a passive reader. You can talk to the story, typing in full English sentences. And the story talks right back, communicating entirely in vividly descriptive prose. What's more, you can actually shape the story's course of events through your choice of actions. And you have hundreds of alternatives at every step. In fact, there's so much you can see and do, your adventure can last for weeks and even months.
+
+To find the Infocom interactive story that's right for you, just choose any one marked with the level of difficulty listed below that best matches your current level of interactive skill.
+
+Junior: Best introduction to interactive fiction. Written for everyone from age 9 up.
+
+Standard: Good introductory level for adults. This is Infocom's most popular level of interactive fiction.
+
+Advanced: A greater level of challenge. Recommended for those who've already experienced Infocom's interactive fiction.
+
+Expert: For real diehards seeking the ultimate challenge in interactive fiction.
+
+Then find out what it's like to get inside a story. Get one from Infocom. Because with Infocom's interactive fiction, there's room for you on every disk.
+
+INFOCOM
+55 Wheeler St., Cambridge, MA 02138
+
+For your: Apple II, Macintosh, Atari, Commodore 64, DECmate, DEC Rainbow, DEC RT-11, HP 150 & 110, IBM PC* & PCjr, KAYPRO II, MS-DOS 2.0,* Osborne, TI Professional, TI 99/4A, Tandy 2000, TRS-80 Color Computer, TRS-80 Models I & III.
+
+*Use the IBM PC version for your Compaq and the MS-DOS 2.0 version for your Wang, Mindset, Data General System 10, GRiD and many others.
+
+Manufactured and Printed in USA
+(C) 1984 Infocom, Inc.
+Warranty information enclosed.
+
+PLANETFALL is a trademark of Infocom, Inc.
+
+
+
+---------
+
+[The back cover of "Today's Stellar Patrol" serves dual duty as both our introduction to Planetfall and as a recruiting poster. A row of stars line the top and bottom of the page, interrupted at the middle of the top line by the Stellar Patrol's logo. The logo consists of a red triangle with the words "Boldly Going Where Angels Fear to Tread" printed on it, with a picture of a few planets in the center. The triangle shows a "halo" in front and behind it, which is actually the orbital path of a spaceship.
+
+Another member of the Stellar Patrol is pictured in the middle of the page, standing on a red planet with orange mountains in the distant background. This time, the recruit is wearing a green jumpsuit and is a female humanoid. She is pointing at the reader, which emphasizes the opening sentence of the page.]
+
+THE STELLAR PATROL WANTS YOU!
+
+Prepare to be teleported 120 centuries into the future and hurtled out of your Stellar Patrol spaceship mere moments before it explodes. 
+
+And if the first five minutes of PLANETFALL don't kill you, you'll really have your work cut out for you. Because the planet on which you crash-land is plagued with floods, pestilence and a mutant Wild Kingdom. And during the next couple of days or more, you'll be confronted by the bizarre, the baffling and the inexplicable. What destroyed your vessel? Why are there buildings but no inhabitants? How does one gain entry to the secret recesses of the vast scientific installations? And who is that little fellow who keeps following you around? (It is, in fact, Floyd, a multi-purpose robot who has the personality of an eight-year-old and whose memory banks may hold the secrets of this strange planet. In short, the ideal companion with whom to brave your new world as you explore its secrets and dare its dangers.) 
+
+Laughs, thrills, tears and triumph. You'll find it all in PLANETFALL. Have a swell trip, and don't forget to drop us a postcard!
+
+
+The Table of Contents for the manual is on page 1. Read it to find out what you need to know before you start the story.
+
+
+
+---------
+
+TAKE THEIR WORDS FOR IT!
+
+"The usual quality from Infocom: Incredible!!!"
+Ethel, 25, Receptionist,
+Columbia, Missouri
+
+"PLANETFALL is a remarkable, funny, perplexing, and entertaining a game as you are likely to find anywhere.... Evokes in the player authentic feelings of affection and attachment.... The most entertaining Infocom program yet."
+CREATIVE COMPUTING magazine
+
+"This was definitely the most enjoyable (and emotional) game I have ever played. I have never wept tears at the computer before."
+Dick, 33, Physicist,
+St. Lucia, Australia
+
+Best Computer Software Designer of 1983, awarded to Steve Meretzky. "The invention of the robot sidekick was a stroke of genius. PLANETFALL is fun and funny stuff."
+VIDEO REVIEW magazine
+
+"Infocom, you have truly outdone yourself!!! I worship this game."
+Jimmy, 12,
+East Hampton, New York
+
+"PLANETFALL teaches resourcefulness, perseverance, creative thinking and patience. I like that message going to my son much more than magical spells and slaughtering monsters."
+Phil, 42, Grad Student,
+Tucson, Arizona
+
+"Graphics on adventure games just can't measure up to wildly imaginative descriptions such as those in PLANETFALL."
+INFOWORLD magazine
+
+"I loved it. The multi-word parser would have been enough for me, but noooo-you threw in believable characters, a great plot, having to eat and sleep, and a very fine attention paid to detail."
+Barry, 16,
+El Paso, Texas
+
+"A wonderfully written, continuously amusing delight."
+Tom, 56, Engineer,
+Toronto, Canada
+
+
+
+---------
+
+"Today's Stellar Patrol: Boldly going where angels fear to tread."
+
+[The background of the cover page is a close-up of the female Stellar Patrol recruit, saluting.]
+
+
+The Patrol is Looking for a Few Good Organisms
+
+[It appears that the Stellar Patrol's methods of recruitment include using spaceships to beam people up from the surface. The humanoid that is currently being recruited looks like it wasn't expecting this to happen.]
+
+When the Third Galactic Union was formed by the Great Treaty of 11,203 GY between the Empires of Tremain and Gallium, an order went forth from the capital on Tremain that a great armada be formed.
+
+The greatest military and philanthropic minds in the Galaxy, including High Admiral Merescu and the Lord Beatitude Berezza, were sequestered in a brightly lit map room for a week-long intensive brainstorming session. No records were kept of this top-secret strategic summit, but out of it came the most ambitious apostolic pseudo-military unit ever conceived. The seven-day conference changed the course of intergalactic exploration and diplomacy forever.
+
+First, blueprints for huge multipurpose starships were drawn up. Next, designers from Vandermeek, the fashion capital of the Universe, were commissioned to create the perfect uniform: functional, comfortable, and virtually indestructible. Finally, a highly sophisticated, incredibly accurate weapon prototype was assembled.
+
+Appeals for soldiers appeared in all Third Union publications, as well as on all subspace frequencies. Almost immediately, the ranks were filled and a waiting list was established.
+
+Thus was the Stellar Patrol born, and our mission ever since has been to explore the Galaxy, to seek out such remnants of human civilization as have managed to survive the Second Union's collapse and the Dark Age that followed--in short, to "Boldly Go Where Angels Fear to Tread."
+
+
+DO YOU HAVE WHAT IT TAKES?
+The Stellar Patrol is like a giant, ever-growing benevolent bird: its top leaders the brain, its commanders the wings, its starships the body, its strong recruits the backbone and muscle, its discoveries the energy that makes it fly, its weak recruits the bodily waste that gets left behind. Carelessness and laziness have no place in the Stellar Patrol: recruits must be strong, brave, and resourceful. Recruits must be able to laugh in the face of death, sneer in the clutches of adversity, and eat almost anything. Loyalty to the Union must be limitless and unconditional, and dedication to a project--be it building a space pod, exploring a new planet, or shining a superior's shoes--must be absolute.
+
+In short, if you are the kind of organism who can stare 10,000 years of darkness straight in the visual receptor without flinching--if you can stand up to the horrors of star systems descended to near-barbarism, where uncivilized beings live savagely in primitive shelters rudely constructed of coarse minerals and deceased vegetation--then you may just have what it takes to be a part or our proud tradition.
+
+Cadet 4th Class Darrell Plintiv is a fine example of the kind of being today's Stellar Patrol produces. Let his story serve as an inspiration to all.
+
+THE PATROL MADE ME INTO AN ORGANISM MY PROGENITORS CAN BE PROUD OF.
+"I'm part of a team devoted to excellence and enterprise that is the Stellar Patrol's proud tradition," says Cadet 4th class Darrell Plintiv. "In my three years with the Patrol, I've found plenty of opportunity for advancement. And I've seen solar systems never before visited by the Third Union, some inhabited only by crystalline-based life forms! Sure, life in the Patrol isn't always a thrill-a-millichron, but they've developed a wide range of activities to improve my mind and encourage personal growth. You have to be strong, brave and resourceful. I'm gaining invaluable experience that can lead to a high-paying civilian career in later life. And my uniform is functional, comfortable, and virtually indestructible!"
+
+The Stellar Patrol builds character. You learn new cultures and new ways of thinking. You learn to survive hardships both mental and physical. You learn how to withstand pain--and be proud of it. If you're the type of organism we're looking for, read on.
+
+
+LEARN VALUABLE SKILLS AND EXPLORE THE GALAXY.
+
+Sure, you'll get paycheck in the Patrol. But 32 credits, new underwear, and a pack of chewing gum every month isn't all you'll get out of. You'll also be traveling to distant worlds you never imagined existed, earning the respect of your friends and family and acquiring outstanding technical training that can get you a good job later in life. Here are just a few of the valuable skills you can learn in the Patrol.
+
+HOW TO BECOME A FAST LEARNER
+As a new recruit to the Stellar Patrol, you will spend your first four weeks in Intelligence Camp. There, you will be taught the most essential knowledge in the Universe using highly advanced intensive studying techniques. You'll learn to read and speak the 18 principal languages of the Galaxy fluently in three days. You'll memorize the structural formula, molecular weight, melting point, boiling point, density, and solubility of every known organic and inorganic compound in two days; thermodynamic properties (including temperature, heat and entropy of transition) of all elements and oxides in one day; and all 300 astrophysics logs tables overnight. Other areas of study will include general nuclear phenomena, isotopes, radioactivity, fusion, antimatter, the origin of life, the classification and metabolisms of organisms, energy, transportation, religion, and philosophy.
+
+It might take an unenlisted civilian months, even years, to learn all this essential knowledge. But the Stellar Patrol is staffed with the Third Union's finest educators and electric shock therapists to guarantee that all recruits learn FAST.
+
+HOW TO BE STRONG
+After Intelligence Camp, you will spend six to 10 weeks in Boot Camp. There, every muscle we can find in your body, from your frontalis to your abductor of hallux, will be stretched, trained, toned, and hardened. Scrawny recruits will become muscular powerhouses; corpulent recruits will become lithe, quick, and sinewy. Only high-protein no-fiber diets will be dished out. To build up endurance, you will be permitted little or no rest time. Recreation activities will stress the importance of physical fitness; moving mounds of dirt from location to location, 20-kilometer jogs, boxing, sprinting, and 30-kilometer jogs. You will sweat your old body away and run it into the ground beyond recognition, and emerge from Boot Camp with a better-than-new physique of Gurtharkian proportions.
+
+What a challenge!
+
+HOW TO BECOME A LEADER
+Since its inception, the Stellar Patrol has always looked for individuals who shine. (We also look for celestial bodies that shine--ask for our full-color brochure entitled "Exploring Cosmic Phenomena.")
+
+To gain recognition and eventually serve the Patrol in a leadership capacity, you should volunteer often for the toughest assignments: front line combat, reconnaissance missions, and grotch cage cleaning detail. It takes a very special soldier to recognize the potential that can be realized from the last-mentioned line of duty.
+
+HOW TO USE YOUR TIME EFFECTIVELY
+Because life in the Stellar Patrol can't always be a thrill-a-millichron, we've developed a wide range of activities to improve your mind and encourage personal growth. One of the more popular--and profitable--ways to fill time between orbit watch shifts is to enroll in the Deep Space Hero Correspondence Course. (Since the Patrol places such a high premium on education, we will match--credit for credit--all funds you set aside for schooling. Ask your recruiter for details.)
+
+[As an example of the kind of work you may do in the Stellar Patrol, the right-half of this page is taken up by a picture of a recruit floating in outer space, using a bucket of water and a squeegee to clean the solar panels of a space station. Interestingly enough, the only thing needed to add to the standard Stellar Patrol-issued uniform to make it space worthy is plugging an air hose into the backpack. However, gloves do not seem to be needed, perhaps by the same technology that allows the water in the bucket to remain liquid in the cold of space.]
+
+
+WE'LL TELL YOU WHERE TO GO
+For more than 140 Galactic years, Stellar Patrol ships have been visiting foreign ports and exploring exotic planets--some inhabited only by crystalline-based life forms. But the excitement doesn't stop there.
+
+You'll explore solar systems never before visited by the Third Union. You'll teach Galalingua to children on Flemring-5. You'll see nebulae and novas. You'll hear the haunting music of the Stringface species on Brylyn Minor. You'll watch the double sunset and triple moonrise from Legllama.
+
+In the Patrol, you'll enjoy shore leave at exotic ports like Accardi-3. At the famed Thieves Bazaar you'll haggle for exotic placebo treasures, and at the Scavengers Market you'll find great buys on grotchbone carvings and ivory receptor shades. The multi-level swimming crater on Accardi-3 is the largest in the Universe. Also on Accardi-3 is the blindingly beautiful Refractory Wall, a 10-megameter natural formation composed of glistening crystal.
+
+But no matter where you're stationed or on-duty in the Universe, you'll be welcomed by all life forms, because you're a member of the Third Union's Stellar Patrol, part of a team devoted to the excellence and enterprise that is the Stellar Patrol's proud tradition.
+
+
+[The next page backs up that last statement. A male humanoid recruit in a green uniform is facing us, hands on his hips. He is surrounded by about 10 aliens. They barely come up to his knees, and appear to be worshipping The Incredibly Tall Being from Stellar Patrol. The aliens have no eyes or mouth, but do have what appears to be a nose, and arms that end in three fingers. It also looks like they are wearing metal earphones. Their most unique feature is their peanut-shaped body, which is blue from their head to their armpits, and yellow below that. The overall effect is that they appear to be wearing Holland-style wooden shoes underneath their yellow fishing waders, but no clothing is actually present.]
+
+TAKE COMMAND OF YOUR TOMORROW TODAY
+You may start out at the bottom as Ensign 7th, but you won't have to stay that way for long, because there's plenty of opportunity for advancement in the Patrol for those who live up to out motto, "Boldly Going Where Angles Fear to Tread."
+
+To ensure the future of your choice, be sure to tell your recruiter about the kind of job you're interested in when you enlist. (Enlistment is conditional pending your results of the qualifications test, at the end of this brochure.) Your recruiter will do everything possible to put you in that line of duty. Occasionally a position you're interested in is temporarily filled, or will require experience in another Stellar Patrol position. If so, your recruiter can recommend your surest route to success. The following is but a sampling of the many fine ways you can serve the Patrol while gaining invaluable experience that can lead to high-paying civilian careers in later life.
+
+Galactoturf Farmer (GF)--GF's are responsible for the growth and maintenance of all artificial green surfaces. When the Patrol is in orbit, all aboard-ship training is done on this material. Comparable civilian careers: lawn analyst, ground-crew supervisor, and rug-maintenance manager.
+
+Grotch Breeder (GB)--GB's play an important role in the very survival of the Patrol. Without the grotch, zero gravity lab experiments would have to be performed on crew members. Qualified applicants must be immune to grotch venom. One year's service as a GB counts as four credits toward an advanced degree in cosmobiology at most accredited learning centers. Comparable civilian careers: zookeeper's assistant and circus sanitation engineer. 
+
+Hull Check Mate (HCM)--Responsible for the upkeep of all shipboard surfaces. HCM's also instruct crew members in the operation and maintenance of sliding doors. Comparable civilian jobs: gravity enforcement officer and receptor technician.
+
+Morale Officer (MO)--It takes an extraordinarily patient being to serve as Morale Officer. MO's offer guidance and encouragement to hundreds of crew members, and train new recruits to realize that all sickness and injury is in the mind. You must have a kindly countenance and a winning smile (since you alone will establish contact with other ships). Comparable civilian jobs: riot control officer, suicide counselor, and Double Fanucci referee.
+
+Mess Service (MS)--MS's control every aspect of the chow detail--from the ordering of supplies through the serving of well-balanced, appealing meals prepared in artificial-gravity ovens. Excellent equilibrium is necessary. Comparable civilian jobs: scrap metal recycler and faith healer.
+
+Military Music Maker (MMM)--MMM's must have talent and a portable instrument to qualify for this exciting duty. Familiarity with at least three chords is essential; two chrons of daily practice will be required. When you learn to play music the Patrol way, fellow beings will stand up and take notice. Also available are positions within the Floating Band. Comparable civilian jobs: teacher for the deaf and Ramosian sheep herder.
+
+Sleep Technician (ST)--Because crew members spend so much time in their berths, they must be kept in optimal resting condition. As an ST, you'll oversee complete alignment and cleaning of said sleeping quarters, and monitor the Flexbed automated system designed to prevent inactive muscles from atrophying in space. Two years' experience as a Pillow Fluffer (PF) required. Comparable civilian jobs: social adjustment worker, dry cleaner, and mortician.
+
+Support Systems Regulator (SSR)--SSR's have a long and proud history in the Stellar Patrol. Duties include construction, programming, and deprogramming of all shipboard support systems. A thorough knowledge of the events leading up to the Great Collapse is necessary. Must be very detail-oriented. Advanced degree in computer psychology preferred. Comparable civilian jobs: electronics mastermind and ventriloquist.
+
+Yosailor (YS)--Calls troops to meals, to attention, and to combat-ready posture (upright). Although most recruits applying for this position can yodel proficiently, beginners will be auditioned and considered for acceptance. Exceptionally versatile larynx required. Comparable civilian jobs: auctioneer and evangelical preacher.
+
+Regardless of the position you hold in the Stellar Patrol, as a proud member you'll be helping to carry the Third Union's peaceful message of benevolent central bureaucratism to the thousands of worlds lost after the Great Collapse. It takes grit and courage as well as wisdom to be such a messenger. For while most civilized planets can be brought into the fold via a routine ambassadorial mission, certain worlds require further explanation of the importance of 600-page tax returns and forms to be filled out in triplicate. In such cases, it's the job of the Patrol to step in, firmly plant its heel, and take charge of that situation. If you have a sharp mind, a quick wit, and the ability to guess between right and wrong, then maybe that heel could be you.
+
+
+
+
+FIND OUT IF YOU'RE STELLAR PATROL MATERIAL--TODAY!
+
+This incredibly comprehensive questionnaire was prepared totally in accordance with the rules and regulations of the Eighth Division Codes of the Third Galactic Union.
+
+To help your recruitment officer determine the best positions for you when you join the Stellar Patrol, fill out the entire questionnaire honestly and without help from family members or friends.
+
+Note: Although most of this data is on Permafile at Third Galactic Union Central Headquarters and can be verified instantly, this is our only method for determining how closely you adhere to the standard code of honor.
+
+
+PHYSICAL ATTRIBUTES
+1. Color of eyes: ______________________________________
+Do you need glasses or corrective surgery on your eyes?
+YES / no
+
+2. Color of hair: ______________________________________
+Present hair length: On head: __________________________
+Elsewhere (specify): _________________
+Are you bald? yes /  no / receding hairline
+
+3. Height (check one):
+Below 1.5 meters but willing to undergo Artificial Elongation Therapy to meet Stellar Patrol requirements
+Below 1.5 meters and unwilling to undergo A.E.T.
+Between 1.5 and 3 meters
+Above 3 meters but willing to undergo Artificial Shrinkage Therapy to meet Stellar Patrol requirements
+Above 3 meters and unwilling to undergo A.S.T.
+
+4. Respiratory functions: Can you breathe through your:
+nose
+mouth
+both nose and mouth
+neither nose and mouth
+none of the above
+
+Do you smoke?
+often
+sometimes
+never
+never looked
+
+5. How would you describe your overall physical health?
+Excellent
+Good
+Fair
+Poor
+Notify my next of kin immediately
+
+EDUCATION/PERSONAL BACKGROUND
+6. Have you finished high school or do you know someone who has?
+yes / no / not sure
+
+7. I am able to communicate with others:
+in Galalingua
+in monosyllabic grunts
+via Astronmet's Universal Sign Language
+not at all
+
+8. Do you have any experience:
+a. using a megaplenoscope? yes / no
+b. operating a Schistosoma detector? yes / no
+c. actuating a seroepidemiological cyclodiathermy laser? yes / no
+d. doing laundry? yes / no
+e. other (specify): ________________________________
+
+9. What are your interests and hobbies? (Check up to three)
+Jogging 
+Traveling 
+Playing Double Fanucci 
+Moving mounds of dirt 
+from location to location 
+Climbing trees Scratching
+Climbing walls 
+Writing manuals 
+Reading manuals
+Thinking
+Thinking out loud/talking to yourself
+Filling out questionnaires
+Drooling
+Being miserable
+Apologizing
+
+10. In ten words or less, describe the very reason for your existence:
+________________________________________________
+________________________________________________
+
+PSYCHOLOGICAL PROFILE
+11. Which of the following would you be willing to do for your Union?
+die
+die slowly
+die slowly and painfully
+read an Infocom instruction material
+none of the above
+
+12. I am most attracted to:
+beings who are superior to myself in rank
+beings of the opposite sex
+beings of the same sex
+beings of no sex
+myself
+
+
+13. Do you suffer from any mental disorders that would prevent you from participating in laboratory experiments?
+it doesn't matter; I'll do whatever I am told
+no
+definitely not
+
+14. My favorite form of recreation is:
+mopping up after slimy beings who are superior to myself in rank
+dueling with laser bazookas at two paces
+forcing people to read Infocom manuals
+
+15. Do you enjoy working with:
+people? yes / no
+animals? yes / no
+plants? yes / no
+aliens? yes / no
+finger paints? yes / no
+
+16. Patience factor: Stand in a corner of the room facing the wall for as long as you can. Don't continue reading until you stop. Now, write here how long you stood: _______ (in days).
+
+17. Hydrophobia factor: Chain yourself to a rock underwater for as long as you can. Don't continue reading until you stop. Now write here how long you held your breath: _______ (in days).
+
+18. Monotony factor: Repeat number 17 above as many times as you can. Don't continue reading until you stop. Now, write here whether you were really gullible enough to repeat number 17: _______.
+
+LOGICAL REASONING ABILITIES
+19. FOOT is to SHOE as FINGER is to
+a. Nose
+b. Eye
+c. Ear
+d. Mouse
+e. Donut
+f. Honesty
+
+20. RAIN is to SNOW as GROTCH is to:
+a. Leopard
+b. Hurricane
+c. Amoeba
+d. Cage
+e. a and b, and maybe c and d
+f. 3.14159
+
+21. HULL is to SPACESHIP as SKIN is to:
+a. Glove
+b. Cat
+c. Thermonuclear fusion
+d. Titanium
+e. Burn
+f. Muffin
+
+22. In what year was the Intergalactic Commerce Act passed?
+________________________________________________
+
+23. Who invented light deceleration process known as slow glass?
+________________________________________________
+
+24. Name the act passed in 11,205 GY to strengthen the Planetary Commerce Act. _______________________________
+
+25. Name the year in which Arnold Guunuf invented slow glass.
+________________________________________________
+
+26. The Intergalactic Commerce Act, passed in 11,205 GY, strengthened what earlier act? ________________________
+
+27. In 11,210, a glazier named Arnold Guunuf invented a light deceleration process. Name it. _______________________
+
+28. What is the answer to this question? __________________
+
+29. Three couples (the Phariixes, the Boorbs, and the Keqrees) were seated at a circular table playing Partnership Fanucci. They were a cosmobiologist, a gravity engineer, a sleep technician, an ambassador, a fusion supervisor, and an editor; and they were originally from Gallium, Legllama, Granjil-6, Storvbay, Ansill, and Jaaggo. Each male sat between two females, and no one sat next to their spouse.
+
+From the following information, determine where each person sat, what profession each had, and what planet each came from.
+
+a. The Ansillan sat between cosmobiologist and one of the Keqrees.
+b. The female Phariix was seated across the table from the gravity engineer.
+c. The male on the fusion supervisor's left sat across from the person from Granjil-6.
+d. The ambassador was seated between the Jaaggoian and the editor. One of these three was the male Boorb.
+e. The Storvbayite sat on the right of the Galliumian. Neither of them was a Keqree.
+f. The sleep technician sat across from the Legllaman. One of them sat next to fusion supervisor.
+
+30. Four robotic satellites were designed to do the following: YA3 to find drifting garbage, JP7 to transport the garbage, SEM6 to turn the garbage into energy, and MD8 to distribute the energy. As Destiny would have it, however, YA3 found more drifting garbage than the other three satellites could process. Based on the following clues, determine who designed the satellites.
+
+a. YA3 did not understand signals transmitted in Galalinguan.
+b. JP7 made no distinction between garbage and energy.
+c. SEM6 made no distinction between garbage and YA3.
+d. MD8 transmitted signals to YA3 only in Galalingiuan.
+
+Submit this completed questionnaire to a Stellar Patrol recruiter. If you qualify for the Patrol, you will be notified within two chrons.
+
+
+
+---------
+
+The I.D. Card:
+
+[Front side]
+[picture of a scrub brush and a mop, surrounded by the paths of 4 electrons]
+Stellar Patrol Special Assignment Task Force
+172-531-541
+
+[Back]
+[large magnetic stripe for storing your data]
+Authorized signature: [blank, unsigned]
+Rank: Ensign 7th
+Date of Issuance: 02-48.5.861
+This card is issued solely for your safety and convenience, and any attempt to bend, fold, spindle, or otherwise mutilate said card is punishable by death.
+
+
+
+---------
+
+Your diary:
+
+[Each page of the diary is written on official Stellar Patrol letterhead. The top of each page is printed with the Stellar Patrol logo and the phrase "Stellar Patrol of the Third Galactic Union".]
+
+11,344 July 22--Transferred from S.P.S. Trilobyte to S.P.S. Feinstein for the third of my four tours of duty. I'm truly going to miss my commander, Ensign First Class Lim. He was a friend in every respect--someone you could always go to with a problem, someone I could really look up to. We would sometimes talk long into the night. He would tell me about his home world of Ash-Down Five, and I would talk about growing up on Gallium. I'd get pretty homesick sometimes, even though Gallium is not exactly one of the garden spots of the universe. I just hope my new commander is half as nice as Lim.
+
+This new ship seems pretty swell. I'm in a cabin with only five other ensigns, and I've got one-and-a-half cubic meters of locker space!
+
+
+11,344 July 23--Met my new commander today--Ensign Cadet First Class Blather. He seems like a real krip. (Excuse the language, diary.) But that might just be a bad first impression.
+
+
+11,344 July 25--One of my cabin mates, Gorund, organized a Double Fanucci tournament among all the Ensigns Seventh Class. We were playing during the 150-millichron rec period after lunch, and Blather burst in and confiscated the sets and told us playing war games was a violation of patrol regulations. But ensign Whirp, who's studying to be a patrol lawyer, said she couldn't find anything about it in regulations anywhere.
+
+BLATHER IS REALLY A TOTAL MEGAKRIP!
+
+[Drawing of a hand firing a ray pistol at Blather's head. It's a rather uncomplimentary likeness: square-rim glasses over spiraling "hypnosis" eyes, a haircut that stands straight up on end, and a tongue sticking out from under a mustache that's been cut in a straight line.]
+
+
+11,344 July 28--I went to see the personnel officer today to find out what my new duties would involve. He showed me a list of all the open assignments, and I decided to put in for grotch-feeding detail. We picked up a few grotches when we were on Crassus, and we're taking them to the zoology labs on Tremain so that maybe they can figure out how an animal can produce 47 times its weight in trot every day.
+
+
+11,344 Bozbar 7--Everyone from the P.O. to the ship's cook has approved my application for the grotch-feeding detail--except Blather. I have an appointment to see him tomorrow. Wish me luck.
+
+
+11,344 Bozbar 8--TROT!! Blather rejected my application! And to make it worse, he said that since I seem to love grotches so much, he's assigning me to clean out their cages. TROT AND DOUBLE TROT!!
+
+
+11,344 Bozbar 26--I haven't had time to write in this diary lately, because Blather's been watching us all like a Teleran bird. Also, last week he found the diary during a surprise inspection, gave me 200 demerits, and told me that diaries were against regulations. But I'll be frobbed if I'm going to stop. I've started hiding the diary inside my official documents file, and I keep that hidden in the air duct. From now on I'll have to sneak away somewhere when I'm writing.
+
+
+11,344 Bozbar 27--Greetings from the deck four supply closet of the S.P.S. Feinstein. I hope I'm not tempting fate, sneaking around with my diary this way. I used to be as much of a disbeliever in destiny as the next guy, but not anymore. Not since the time my mom warned my dad not to tempt fate by walking across the astral plains after dark, when computerized analysis shower 43% chance of resulting injury. My dad, stubborn as always, just laughed at her and went right on taking his nightly strolls. The very next summer he went walking at night on the plains and stumbled over a crater and bruised his knee. Gosh!
+
+
+11,344 Bozbar 28--We entered planetary orbit today, a non-human world named Accardi-3 (although natives call it something like Blow'k-bibben-Gordo). They're not officially part of the Union. The rumors say that we're picking up a special ambassador to take back to Tremain for negotiations on joining the Union. Tomorrow we have to put on our dress uniforms for some special welcoming ceremony.
+
+
+11,344 August 2--I caught a glimpse of the alien ambassador during the welcoming ceremonies yesterday. He looks like a cross between a tree trunk and a melting ice cream cone. But anyway, the ceremony got me out of cleaning the grotch cages today.
+
+
+11,344 August 7--Went to the mandatory patrol informational tri-vision triple feature last night. We saw "Treatment For Space Lice Infestation," "Shoreleave Shirley: How to Guard Against Contracting Alien Diseases," and "The Oxygen Tank: Your Galvanized Buddy in the Vacuum." Blather confined half the ensigns to quarters for hooting during the second feature. (The other half had fallen asleep during the first feature.)
+
+[The above entry is decorated with a picture of a heart with stars shooting out of it, surrounded by the words "Shoreleave Shirley".]
+
+
+11,344 August 24--TROT THAT TROTTING KRIP! I applied for astrophysics training for the next quarter, but Blather says my work for the special assignment task force hasn't been good enough, so not only did he reject my astrophysics application, but he says I'll have to take remedial scrubbing next quarter. WHAT A TROTTING KRIP!
+
+You know, for the first time I am beginning to have doubts about whether I am really cut out for the patrol. When I was growing up at Gallium, it was always taken for granted that I would join up when I came of age. My family has served in the Patrol for five generations. In fact, my great-great-grandfather was a High Admiral and one of the founding fathers of the Patrol! But I seem to be permanently stuck at Ensign 7th, and Blather is making my life miserable...
+
+
+11,344 Septem 4--We left hyperspace today at about 7600; weren't scheduled to for another two weeks. The grapevine says we have special orders to investigate a planetary system here. Apparently, some of the archaeologists back on Varshon think it might have been part of the Second Union. I can't imagine why anyone would settle out here in this remote corner of the galaxy.
+
+
+11,344 Septem 5--That krip has done it again! I missed two little pellets of trot when I was cleaning out the grotch cages yesterday, and Blather gave me 100 demerits and assigned me two extra shifts of deck scrubbing -- including deck nine, the filthiest deck on the ship! I'm considering asking for a transfer -- or if things get worse, I might even abandon ship!
+
+[The last sentence is emphasized with a drawing of an escape pod flying away from the main rocket ship.]
+
+
+
+---------
+
+The postcards:
+
+[Card #1, front side:]
+Greetings from Accardi-3
+[Each letter in "Accardi-3" shows part of an outer space scene with many planets in the background.]
+
+[Back side:]
+THE FABULOUS ACCARDI-3 BELT
+Name your pleasure! From Sphyconian slime races to robot-taxi joyrides on Benjamin's Folly to the exotic anatomical charms of the Gabrillic Hyphenated Woman, a hundred worlds and a thousand thrills await you throughout "The Galaxy's Playground."
+
+Planetfall (TM) Novelties by Infocom, Inc.
+55 Wheeler St., Cambridge, MA 02138, Earth, Sol System
+
+
+[Card #2, front side:]
+Wriggle On Over To Nebulon. Home of the Worm People.
+[The letters in the name Nebulon are made up by the Worm People.]
+
+[Back side:]
+NEBULON-The quaint and colorful inhabitants of this grand old planet are sure to "worm" their way into the hearts of visiting tourists.
+
+Planetfall (TM) Novelties by Infocom, Inc.
+55 Wheeler St., Cambridge, MA 02138, Earth, Sol System
+
+
+[Card #3, front side:]
+Hello from Historic Ramos II
+[Each half of the card shows a scene from Ramos II. The left half shows a four-armed, four-eyed blue alien with no visible legs standing next to a tree with leaves that look like eggplants. The right half shows a planet at the top similar to Saturn, and a green alien at the bottom, waving at us. The alien has webs in between its six fingers, three eyes, and a pair of small yet puffy lips.]
+
+[Back side:]
+RAMOS II, WHERE YESTERYEAR LIVES ON--The "Circuit of the Double Suns" has something for every nostalgic soul: genuine rocketship rides, ancient Plutonium Age battlefields, even old-fashioned mutant hunting.
+
+Planetfall (TM) Novelties by Infocom, Inc.
+55 Wheeler St., Cambridge, MA 02138, Earth, Sol System
+
+
+
+---------
+
+Page 1
+
+
+Instruction Manual for PLANETFALL
+
+After the fall of the Second Galactic Union in 1716 GY, a ten-thousand-year dark age settled upon the galaxy. Interstellar travel was non-existent, and many star systems descended into a near-barbaric state, burning coal and gas for energy, and growing food directly from the exposed topsoil.
+
+In 11,203 GY, a treaty between the Empires of Tremain and Gallium formed the Third Galactic Union. Ships of the Stellar Patrol (a pseudo-military wing of the Union government on Tremain) began exploring the galaxy, searching for the human civilizations that are the remnants of the Second Union.
+
+You are a native of the planet Gallium. Although it is one of the most politically powerful worlds in the Union, Gallium is no garden spot. In fact, the Gallium Chamber of Commerce brochure entitled "Ten Great Reasons to Visit Gallium" ends on page 3. The author ran out of reasons after listing just two.
+
+For five generations, your family has served in the Stellar Patrol. Your great-great-grandfather was a High Admiral and one of the founding officers of the Patrol. It was taken for granted that when you came of age you would join up.
+
+Now, more than a year after signing up, and two months after being transferred to the S.P.S. Feinstein, you are still only ranked Ensign Seventh Class. Your superior officer, Ensign First Class Blather, has been making your life miserable. You're beginning to wonder if you're really cut out for the Stellar Patrol...
+
+If you're experienced with Infocom's interactive fiction, you may not feel like reading this entire manual. However, you should at least read about time and turns (on page 12) and look at the appendix of recognized verbs (on page 19).
+
+
+Table of Contents
+
+An Overview Page -- 2
+* What is interactive fiction?
+* Moving around
+* Turns and scoring
+
+Tips for Novices -- 3
+Nine useful pointers about interactive fiction
+
+Communicating with PLANETFALL -- 4
+* Basic sentences
+* Complex sentences
+* Talking to characters in the story
+* Vocabulary limitations
+
+Starting and Stopping -- 5
+* Starting PLANETFALL ("Booting Up")
+* Saving and restoring
+* Quitting and restarting
+
+Appendix A: Quick Reference Guide -- 6
+This briefly describes the most important things to know about interactive fiction. It is vital that you know all these things before you begin your adventure.
+
+Appendix B: Important Commands -- 7
+
+Appendix C: Some Recognized Verbs -- 8
+
+Appendix D: PLANETFALL Complaints -- 9
+
+Appendix E: Sample Transcript and Map -- 10
+
+Appendix F: We're Never Satisfied -- 11
+
+Appendix G: If You Have Technical Problems -- 11
+
+Appendix H: About the Author -- 12
+
+Appendix I: Copyright and Warranty Information -- 13
+
+
+
+---------
+
+Page 2
+
+
+An Overview
+
+Interactive fiction is a story in which you are the main character. Your own thinking and imagination determine the actions of that character and guide the story from start to finish.
+
+Each work of Infocom's interactive fiction, such as PLANETFALL, presents you with a series of locations, items, characters, and events. You can interact with these in a variety of ways.
+
+To move from place to place, type the direction you want to go. When you find yourself in a new location, it's a good idea to become familiar with your surroundings by exploring the nearby rooms and reading each description carefully. (You may notice that PLANETFALL occasionally refers to a location as a "room," even if you are outdoors.) As you explore, it is helpful to make a map of the geography.
+
+An important element of interactive fiction is puzzle-solving. You should think of a locked door or a ferocious beast not as a permanent obstacle, but merely as a puzzle to be tackled. Solving puzzles will frequently involve bringing a certain item with you, and then using it in the proper way.
+
+In PLANETFALL, time passes only in response to your input. You might imagine a clock that ticks each time you type a sentence, and the story progresses only at each tick. Nothing happens until you type a sentence and press the RETURN (or ENTER) key, so you can plan your turns as slowly and carefully as you want.
+
+The standard unit of time used in the galaxy these days is the millichron. One thousand millichrons make up one chron, and the standard galactic day is divided into ten chrons, so even Ensign Seventh Class who flunked Astrogation could deduce that there are ten thousand millichrons in a day. (The standard galactic day, by the way, is equivalent to the time it takes for the planet Earth to make one rotation. Earth, a backwater world in the Sol System, is generally believed to be the birthplace of humanity.) Early morning occurs around 2500 and late evening comes at 8500 or so. In some old-fashioned parts of the galaxy, 5000 is called "noon." And on the administrative moons of Tremain, most bureaucrats hold "3500-to-7000 jobs."
+
+In PLANETFALL, different actions will take different amounts of time. For example, picking up an object will take less time than walking down a long hall.
+
+To measure your progress, PLANETFALL keeps track of your score. You may get points for solving puzzles, performing certain actions, or visiting certain locations. Until you can complete the story with a perfect score of 80 points, you might as well resign yourself to holding a bureaucratic 3500-to-7000 job on one of the administrative moons of Tremain.
+
+
+
+---------
+
+Page 3
+
+
+Tips for Novices
+
+1. Draw a map. It should include each location, the directions connecting it to adjoining locations and any interesting objects there. (See the small sample map that goes along with the sample transcript on page 10.) Note that there are 10 possible directions, plus IN and OUT.
+
+2. Most objects in the story that you can pick up are important for solving one or more of the puzzles you'll run into.
+
+3. Save your place often. That way, if you mess up or get "killed," you won't have to start over from the beginning. See page 5 for instructions.
+
+4. Read the story carefully. There are often clues in the descriptions of locations and objects, as well as in labels, engravings, books, and so on. Even strange or dangerous actions may provide clues, and might prove to be fun! You can always save your position first if you want. Here's a silly example:
+
+>SHOW THE RANSOM NOTE TO THE ALIEN
+The alien shrugs. "Sorry, I don't read Galalingua." It begins walking away from your landing craft.
+
+You've just learned something about the alien's reading ability. Perhaps there's some other object (like the photo of the alien's mate in chains) that would convince it to follow you into your landing craft.
+
+5. Unlike other "adventure games" that you may have played, there are many possible routes to the end of PLANETFALL. Some puzzles have more than one solution; other puzzles don't need to be solved at all. Sometimes you will have to solve one puzzle in order to obtain the item(s) or information you need to solve another puzzle.
+
+6. You may find it helpful to go through PLANETFALL with another person. As the dual-brained worm beasts of Nebulon are fond of saying, "Two heads are better than one."*
+
+7. If you really have difficulty, you can order a hint booklet and a complete map using the order form in your package. You don't need this booklet to enjoy the story, but it will make solving the puzzles easier.
+
+8. Read the sample transcript on page 10 to get a feel for how Infocom's interactive fiction works.
+
+9. You can word a command in many different ways. For example, to clean the deck of the spaceship, you could use any of the following:
+
+CLEAN DECK
+SWAB THE DECK
+SCRUB THE GROUND
+BRUSH THE FLOOR WITH THE SCRUB BRUSH
+
+Notice that since the brush is the only item you're carrying that's useful for cleaning, PLANETFALL assumes that it is the item with which you want to clean. But more about that in the next section...
+
+* The dual-brained worm beasts of Nebulon are a fascinating bunch, with a head on either end of their long worm-like bodies which can often grow to a length of fourteen kiloblops. One legend among spacefarers claims that the two ends of the same worm beast once fell in love and got married. It wasn't until they had a big fight and one head decided to go back home to mother that they realized what had happened.
+
+
+
+---------
+
+Page 4
+
+
+Communicating with PLANETFALL
+
+In PLANETFALL, you type your sentence in Galalinguan (still referred to as plain English in certain regions of the galaxy) each time you see the prompt (>). PLANETFALL usually acts as if your sentence begins "I want to...," although you shouldn't actually type those words. You can use words like THE if you want, and you can use capital letters if you want; PLANETFALL doesn't care either way.
+
+When you have finished typing a sentence, press the RETURN (or ENTER) key and PLANETFALL will process your request. PLANETFALL will respond, telling you whether your request is possible at this point in the story, and what happened as a result.
+
+PLANETFALL recognizes your words by their first six letters, and all subsequent letters are ignored. Therefore, FINGER, FINGERs, FINGERprint, and FINGER nail would all be treated as the same word by PLANETFALL.
+
+To move around, just type the desired direction. You can use the eight compass directions: NORTH, SOUTH, EAST, WEST, NORTHEAST, NORTHWEST, SOUTHEAST, and SOUTHWEST. You can abbreviate these to N, S, E, W, NE, NW, SE, and SW, respectively. You can use UP (or U) and DOWN (or D). IN and OUT will also work in certain places. On board a ship, you'll want to use the directions PORT (or P), STARBOARD (or SB), FORE (or F), and AFT.
+
+PLANETFALL understands many different kinds of sentences. Here are some examples. (Note that some of these objects or situations don't actually appear in PLANETFALL.)
+
+WALK NORTH
+DOWN
+NE
+GO AFT
+U
+PUSH BUTTON
+TAKE THE SPACESUIT
+PUT ON THE SPACESUIT
+DROP THE CONCAVE LENS
+EXAMINE THE LARGE RED MACHINE
+LOOK THROUGH THE BROKEN TELESCOPE
+LOOK UNDER THE TIME MACHINE
+READ THE TIME MACHINE INSTRUCTIONS
+ENTER THE TELEPHONE BOOTH
+DROP THE FURRY ALIEN INTO THE BASKET
+SHOOT THE FLASHING BUTTON WITH THE RAY GUN
+
+You can use multiple objects with certain verbs if you separate them by the word AND or by a comma. Some examples:
+
+TAKE SILVER WIRE, COPPER WIRE, GOLD WIRE
+DROP THE SMALL METEOR, THE BROKEN TELESCOPE, AND THE HAMMER
+PUT THE PLANT AND THE RODENT IN THE CAGE
+
+The word ALL refers to every visible object except those inside something else. If there were an apple on the ground and an orange inside a cabinet, TAKE ALL would take the apple but not the orange.
+
+TAKE ALL
+TAKE ALL THE POWER CELLS
+TAKE ALL FROM THE SURVIVAL KIT
+GIVE ALL BUT THE PENCIL TO THE ROBOT
+DROP ALL EXCEPT THE TORN TOWEL
+
+
+You can include several sentences on one input line if you separate them by the word THEN or by a period. (Note that each sentence wilt still count as a turn.) You don't need a period at the end of the input line. For example, you could type all of the following at once, before pressing the RETURN (or ENTER) key:
+
+TAKE THE RAY GUN. RECHARGE IT. NE. SHOOT THE LOCK WITH THE RAY GUN THEN OPEN THE DOOR
+
+If PLANETFALL doesn't understand one of the sentences in your input line, or if something unusual happens, it will ignore the rest of your input line (see "PLANETFALL Complaints" on page 9).
+
+There are only two kinds of questions that PLANETFALL understands: the first is WHAT IS (something), and the other is WHERE IS (something). For example:
+
+WHAT IS A GRUE?
+WHERE IS THE MALFUNCTIONING HOVERCRAFT?
+
+You will meet other people and creatures in PLANETFALL. You can "talk" to some of these beings by typing their name, then a comma, then whatever you want them to do. Here are some examples:
+
+DOCTOR, GIVE ME THE ARTIFICIAL LEG
+ADMIRAL, FOLLOW ME
+MIKE, KILL THE ALIEN THEN GO NORTH
+GURTHARK, OPEN THE CONTROL BOX. FIRE THE ROCKETS
+
+Notice that in the last two examples, you are giving a person more than one command on the same input line.
+
+PLANETFALL tries to guess what you really mean when you don't give enough information. For example, if you say that you want to do something, but not what you want to do it to or with, PLANETFALL will sometimes decide that there is only one possible object that you could mean. When it does so, it will tell you. For example:
+
+>UNLOCK THE DOOR
+(with the key)
+The door is now unlocked.
+
+or
+
+>GIVE THE PLIERS
+(to the robot)
+The robot thanks you, uses the pliers to repair the supercomputer, and together they take over the world.
+
+If your sentence is ambiguous, PLANETFALL will ask what you really mean. You can answer most of these questions briefly by supplying the missing information, rather than typing the entire input again. You can do this only at the very next prompt. Some examples:
+
+>TURN THE AIRLOCK CONTROL
+What do you want to turn the airlock control with?
+>THE CROWBAR
+The airlock door opens.
+
+or
+
+>SHOOT THE LIEN WITH THE RAY GUN
+Which ray gun do you mean, The Arcturian ray gun or the Rigellian ray gun?
+>RIGELLIAN
+The rays bounce harmlessly off the alien's Rigellian-ray-proof vest.
+
+PLANETFALL uses many words in its descriptions that it will not recognize in your sentences. For example, you might read, "Through the viewport you can see rocky cliffs above the ocean." However, if PLANETFALL doesn't recognize the words OCEAN or CLIFFS in your input, you can assume that they aren't important to your completion of the story, except to provide you with a more vivid description of where you are or what is going on. PLANETFALL recognizes over 600 words, nearly all that you are likely to use in your sentences. If PLANETFALL doesn't know a word you used, or any of its common synonyms, you are almost certainly trying something that is not important in continuing your adventure.
+
+Note that PLANETFALL will not accept words typed in the corrupt or dialectical Galalinguan found on the more distant planets. You must use only standard Galalinguan. For example, a Ramosian farmer playing PLANETFALL (an unlikely occurrence) might type "Handen meef demmer ive-ree-keez," but PLANETFALL would only understand "Give me the piano."
+
+
+
+---------
+
+Page 5
+
+
+Starting and Stopping
+
+Starting the Story: Now that you know what to expect in PLANETFALL it's time for you to "boot" your disk. To load PLANETFALL, follow the instructions on the Reference Card in your package.
+
+The copyright notice and the release number of the story will appear, followed by a brief introductory passage. You will then see the description of the opening location of the story. Finally, the prompt (>) will appear, indicating that PLANETFALL is awaiting your input.
+
+Here is a quick exercise to help you get accustomed to interacting with PLANETFALL. Try typing the following next to the prompt (>):
+CLEAN THE DECK
+
+Then press the RETURN (or ENTER) key. PLANETFALL will respond with:
+The floor is a bit shinier now.
+
+Now try typing:
+CLIMB THE STAIRWAY
+
+After you press the RETURN (or ENTER) key, PLANETFALL will respond:
+Gangway
+This is a steep metal gangway connecting Deck Eight, above, with Deck Nine, below.
+
+
+Saving and Restoring: It will probably take you many days to complete PLANETFALL. Using the SAVE feature, you can continue at a later time without having to start over from the beginning, just as you can place a bookmark in a book you are reading. SAVE puts a "snapshot" of your place in the story onto another disk. If you are cautious, you may want to save your place before (or after) trying something dangerous or tricky. That way, you can go back to that position later, even if you have gotten lost or "killed" since then.
+
+To save your place in the story, type SAVE at the prompt (>), and then press the RETURN (or ENTER) key. Then follow the instructions for saving and restoring on your Reference Card. Some computers require a blank disk, initialized and formatted, for saves. Using a disk with data on it (not counting other PLANETFALL saves) may result in the loss of that data, depending on your computer.
+
+You can restore a saved position any time you want. To do so, type RESTORE at the prompt (>), and press the RETURN (or ENTER) key. Then follow the instructions on your Reference Card. You can then continue the story from the point where you used the SAVE command. You can type LOOK for a description of where you are.
+
+Quitting and Restarting: If you want to start over from the beginning, type RESTART and press the RETURN (or ENTER) key. (This is usually faster than re-booting.) Just to make sure, PLANETFALL will ask if you really want to start over. If you do, type Y or YES and press the RETURN (or ENTER) key.
+
+If you want to stop entirely, type QUIT and press the RETURN (or ENTER) key. Once again, PLANETFALL will ask if this is really what you want to do.
+
+Remember when you RESTART or QUIT: if you want to be able to return to your current position, you must first do a SAVE.
+
+
+
+---------
+
+Page 6
+
+
+Appendix A: Quick Reference Guide
+
+1. To start the story ("boot up"), see the separate Reference Card in your PLANETFALL package.
+
+2. When you see the prompt (>) on your screen, PLANETFALL is waiting for your input. There are four kinds of sentences or commands that PLANETFALL understands:
+
+A. Direction commands: To move from place to place, just type the direction you want to go: N (or NORTH), E, S, W, NE, SE, NW, SW, U (or UP), D, IN, OUT, P (or PORT), SB, F, or AFT.
+
+B. Actions: Just type whatever you want to do. Some examples: READ THE BOOK or OPEN THE DOOR or LOOK THROUGH THE WINDOW. Once you're familiar with simple commands, you'll want to use more complex ones as described in "Communicating with PLANETFALL" on page 4.
+
+C. Commands given to people: To talk to characters in the story, type their name, then a comma, then what you want to say to them. For example: FLOYD, GIVE ME THE AXE or OLD MAN, GO NORTH.
+
+D. Special one-word commands: some one-word commands, such as INVENTORY or DIAGNOSE, give you specific information or affect your output. A list of these appears in the "Important Commands" appendix on page 7.
+
+3. Important! After typing your sentence or command, you must press the RETURN (or ENTER) key before PLANETFALL will respond.
+
+4. On most computers, your screen will have a special line called the status line. It tells you the name of your current location, your score, and the number of turns you have taken.
+
+5. You can pick up and carry many of the items you'll find in the story. For example, if you type TAKE THE FLASK, you will be carrying it. Type INVENTORY to see a list of the items you are carrying.
+
+6. When you want to stop, save your place for later, or start over, read the "Starting and Stopping" section on page 5.
+
+7. If you have trouble, refer to the specific section of the manual for more detailed instructions.
+
+
+
+---------
+
+Page 7
+
+
+Appendix B: Important Commands
+
+There are a number of one-word commands which you can type instead of a sentence. You can use them over and over as needed. Some count as a turn, others do not. Type the command after the prompt (>) and hit the RETURN (or ENTER) key.
+
+AGAIN -- PLANETFALL will usually respond as if you had repeated your previous sentence. Among the cases where AG I N will not work is if you were just talking to another character. You can abbreviate AGAIN to G.
+
+BRIEF -- This tells PLANETFALL to give you the full description of a location only the first time you enter it. On subsequent visits, PLANETFALL will tell you only the name of the location and the objects present. This is how PLANETFALL will normally act, unless you tell it otherwise using the VERBOSE or SUPERBRIEF commands.
+
+DIAGNOSE -- PLANETFALL will give you a medical report of your physical condition, and will tell you whether you're tired or hungry.
+
+INVENTORY -- PLANETFALL will list what you are carrying. You can abbreviate INVENTORY to I.
+
+LOOK -- This tells PLANETFALL to describe your location in full detail. You can abbreviate LOOK to L.
+
+QUIT -- This lets you stop. If you want to save your position before quitting, follow the instructions in the "Starting and Stopping" section on page 5. You can abbreviate QUIT to Q.
+
+RESTART -- This stops the story and starts over from the beginning.
+
+RESTORE -- This restores a position made using the SAVE command. See "Starting and Stopping" on page 5 for more details.
+
+SAVE -- This makes a "snapshot" of your current position onto your storage disk. You can return to a saved position in the future using the RESTORE command. See "Starting and Stopping" on page 5 for more details.
+
+SCORE -- PLANETFALL will show your current score and a ranking which is based on that score. You will also be told the current Galactic Standard Time, and how many standard galactic days have elapsed since your adventure began.
+
+SCRIP -- This command tells your printer to begin making a transcript of the story as you venture onwards. A transcript may aid your memory but is not necessary. It will work only on certain computers; read your Reference Card for details.
+
+SUPERBRIEF -- This commands PLANETFALL to display only the name of a place you have entered, even if you have never been there before. In this mode, PLANETFALL will not even mention which objects are present. Of course, you can always get a description of your location, and the items there, by typing LOOK. In SUPERBRIEF mode, the blank line between turns will be eliminated. This mode is meant for players who are already very familiar with the geography. Also see VERBOSE and BRIEF.
+
+TIME -- This will give you the current time within the story. It is useful for those versions which have no status line, and can be shortened to T.
+
+UNSCRIPT -- This commands your printer to stop making a transcript.
+
+VERBOSE -- This tells PLANETFALL that you want a complete description of each location and the objects in it every time you enter a location, even if you've been there before. Also see BRIEF and SUPERBRIEF.
+
+VERSION -- PLANETFALL responds by showing you the release number and the serial number of your copy of the story. Please include this information if you ever report a "bug" in the story.
+
+WAIT -- This will cause time in the story to pass. Normally, between turns, nothing happens in the story. You could leave your computer, take a nap, and return to the story to find that nothing has changed. You can use WAIT to make time pass in the story without doing anything. For example, if you encounter an alien being, you could WAIT to see what it will do. Or, if you are in a moving vehicle, you could WAIT to see where it will go. You can abbreviate WAIT to Z.
+
+
+
+---------
+
+Page 8
+
+
+Appendix C: Some Recognized Verbs
+
+This is only a partial list of the verbs that PLANETFALL understands. There are many more. Remember that you can use a variety of prepositions with them. For example, LOOK can become LOOK INSIDE, LOOK BEHIND, LOOK UNDER, LOOK THROUGH, LOOK AT and so on.
+
+BOARD      GO      PLAY    SLIDE
+CLIMB      HELP    POINT   SMELL
+CLOSE      HOLD    POUR    STAND
+DESTROY    JUMP    PULL    STEP
+DISEMBARK  KICK    PUSH    SWIM
+DRINK      KILL    PUT     TAKE
+DROP       KISS    READ    TELL
+EAT        KNOCK   REMOVE  THROW
+ENTER      LEAVE   SCRUB   TOUCH
+EXAMINE    LISTEN  SEARCH  TURN
+EXIT       LOCK    SHAKE   TYPE
+EXTEND     LOOK    SHOOT   UNLOCK
+FOLLOW     MOVE    SHOW    WALK
+GET        OPEN    SIT     WEAR
+GIVE       PICK    SLEEP   YELL
+
+
+
+---------
+
+Page 9
+
+
+Appendix D: PLANETFALL Complaints
+
+PLANETFALL will complain if you type a sentence that confuses it completely. PLANETFALL will then ignore the rest of the input line. (Unusual events, such as being attacked, may also cause PLANETFALL to ignore the rest of the sentences you typed, since the event may have changed your situation drastically.) Some of PLANETFALL's complaints:
+
+I DON'T KNOW THE WORD "(your word)."
+The word you typed is not in the story's vocabulary. Sometimes using a synonym or rephrasing will help. If not, PLANETFALL probably doesn't know the idea you were trying to get across.
+
+I CAN'T USE THE WORD "(your word)" HERE.
+PLANETFALL knows the word you typed, but couldn't use it in that sense. Usually this is because PLANETFALL knows the word as a different part of speech. For example, if you typed TURN ON THE LIGHT, you are using LIGHT as a noun, but PLANETFALL might know LIGHT only as a verb, as in LIGHT THE LAMP.
+
+I CAN'T FIND A VERB IN THAT SENTENCE!
+Unless you are answering a question, each sentence must have a verb (or a command) in it somewhere.
+
+I COULDN'T FIND A NOUN IN THAT SENTENCE!
+This usually means that your sentence was incomplete, such as EAT THE BLUE.
+
+I FOUND TOO MANY NOUNS IN THAT SENTENCE. An example is PUT THE SOUP IN THE BOWL WITH THE LADLE, which has three noun "phrases," one more than PLANETFALL can digest in a single action.
+
+I DON'T UNDERSTAND THAT SENTENCE. The sentence you typed may have been gibberish, such as GIVE COMPUTER WITH ROBOT. Or, you may have typed a reasonable sentence but used a syntax that PLANETFALL does not recognize, such as SMELL UNDER THE ROCK. Try rephrasing the sentence.
+
+I CAN'T USE MULTIPLE (IN)DIRECT OBJECTS WITH "(your verb)."
+You can refer to several items at the same time only with certain verbs. Among the more useful of these verbs are TAKE, DROP and PUT. This restriction also applies to the use of ALL, as in DROP ALL. For example, ATTACK will not work with multiple objects; you couldn't say ATTACK ALL or ATTACK THE BEAST AND THE ROBOT.
+
+I DON'T SEE WHAT YOU ARE REFERRING TO.
+You used IT, HIM, or HER, but PLANETFALL wasn't sure what object or person you meant. Try again using the name of the object or person. (For example, READ THE BOOK instead of READ IT.)
+
+YOU CAN'T SEE ANY "(object)" HERE!
+The object you referred to was not accessible to you. It may be somewhere else, inside a closed container, and so on.
+
+THE OTHER OBJECT(S) THAT YOU MENTIONED ISN'T (AREN'T) HERE.
+You referred to several objects in your sentence, but some of them weren't present or visible.
+
+IT'S TOO DARK TO SEE!
+There wasn't enough light to perform your action. Try moving to a lit area or looking for a light source.
+
+YOU CAN'T GO THAT WAY.
+You tried to move, but here was no exit in your intended direction.
+
+I BEG YOUR PARDON?
+You pressed the RETURN (or ENTER) key without typing anything.
+
+
+
+---------
+
+Page 10
+
+
+Appendix E: Sample Transcript and Map
+
+This transcript is not from PLANETFALL, but it does show most of the usual things you can do in the story. It contains several simple puzzles and their solutions, and it will give you a good idea of how Infocom's interactive fiction works. The player's sentences appear in capital letters after each prompt (>). The map represents the terrain in the sample transcript as you might have drawn it.
+
+
+[Sample map not included]
+
+
+>WAIT
+Time passes...
+The one-man space scooter glides into the station's docking port. The retro-thrusters fire automatically, and the scooter glides to a halt. The space door closes, the docking port fills with air, and the scooter's hatch opens.
+
+> LOOK
+Scooter, in the pilot's couch
+
+You are in a cramped one-man space scooter. Through the viewport, you see the docking port of Space Station BG-12. The scooter's hatch is open, leading to port. 
+There is a toolbox here. (outside the pilot's couch)
+
+> OPEN THE TOOLBOX
+You can't reach it from the couch.
+
+>PORT
+You'll have to stand before you can leave.
+
+> GET OUT OF THE COUCH
+You are standing again.
+
+> OPEN THE TOOLBOX
+It's locked.
+
+>PORT
+Docking Port
+This is the huge docking port of the space station. Only one ship is here at the moment, a one-man scooter, so the docking port seems unusually empty. A tube leads down toward the heart of the station.
+
+> DOWN
+Main Hallway, Sector M
+This is the station's main corridor, which continues to port and starboard. A tube leads up toward the docking port.
+
+> STARBOARD
+Main Hallway, Sector N
+This is the station's main corridor, which continues to port and starboard. A room lies to fore, and a tube leads down to the next level of the station. Lying near the wall is a key.
+
+>TAKE THE KEY
+Taken
+
+>EXAMINE IT
+The key looks like one of those new all-purpose keys that molds itself to any lock. A typical example of Garfoogian ingenuity.
+
+> FORE
+Sick Bay
+Like the rest of the station, the medical facility looks deserted. This is odd, for regulations require that the sick bay be staffed around the dock, ten chrons a day! The only exit is aft.
+At the far end of the room, inside a steel cage, is a Thoosian Fussbudget, apparently asleep.
+
+>WAKE THE FUSSBUDGET
+It jumps to its feet, all twelve of them. "Hey what's going on? Who are you? Lemme outta here!"
+
+>OPEN THE CAGE
+The cage is locked.
+"Open the cage!" begs the Fussbudget, clawing at the bars. "I'm claustrophobic! I'll starve to death! I wanna go jogging!"
+
+> UNLOCK THE CAGE WITH THE KEY
+The lock seems to be one of those new sophisticated all-purpose key-proof locks.
+
+"Break the bars! Get an acetylene torch! Find a teleporter! I've got an appointment with my lawyer in five minutes! I'm allergic to cages!" The Fussbudget begins sneezing wildly.
+
+> AFT.PORT.UP.STARBOARD.UNLOCK THE TOOL-BOX WITH THE KEY
+Main Hallway, Sector N
+
+Main Hallway, Sector M
+You are beginning to get hungry.
+
+Docking Port
+
+Scooter
+
+The toolbox is now unlocked.
+
+>OPEN THE TOLBOX
+I don't know the word "tolbox."
+
+> OPEN THE TOOLBOX
+Opening the toolbox reveals an identity bracelet, a hacksaw, and a tube of nutrient paste.
+
+>TAKE ALL FROM THE TOOLBOX
+identity bracelet: Taken.
+hacksaw: Your load is too heavy.
+tube of nutrient paste: Your load is too heavy.
+
+> INVENTORY
+You are carrying:
+   an identity bracelet
+   a key
+   a box of radioactive isotopes
+   a tri-video cassette
+
+> DROP ALL BUT THE IDENTITY BRACELET THEN TAKE THE HACKSAW AND THE TUBE
+key: Dropped.
+box of radioactive isotopes: Dropped.
+tri-video cassette: Dropped.
+You are now quite hungry.
+hacksaw: Taken.
+tube of nutrient paste: Taken.
+
+> PUT ON THE IDENTITY BRACELET
+You are now wearing the identity bracelet.
+
+> INVENTORY
+You are carrying:
+   a lube of nutrient paste
+   a hacksaw
+   an identity bracelet (being worn)
+
+> EAT THE NUTRIENT PASTE
+Mmmm... one of your favorites... anchovies and peanut butter. You empty the entire tube, and your hunger dissipates.
+
+> PORT.DOWN.STARBOARD.FORE
+Docking Port
+
+Main Hallway, Sector M
+
+Main Hallway, Sector N
+
+Sick Bay
+
+"It's about time you got back. You think it's fun being locked in a cage? What if there were a fire?"
+
+>CUT THE BARS WITH THE HACKSAW
+You cut through one bar of the cage. The Fussbudget sticks its head through the gap. "Come on, cut some more! I'm almost out... do you think these edges where you cut the bars are sharp?"
+
+>AGAIN
+You cut through another bar. The Fussbudget squeezes through and leaps to the floor. "Thanks, bud. By the way, I'm a Fussbudget." It hops across the room, and pokes four or five eye stalks cautiously through the doorway. "Where is everyone? Hey that looks like a tube of nutrient paste you've got there."
+
+> GIVE TUBE TO FUSSBUDGET
+The Fussbudget grabs the tube, wildly squeezes it with all six hands, and then throws it to the deck. "It's empty. I'm hungry. If I don't eat I'll get sick."
+
+>AFT
+Main Hallway, Sector N
+
+The Fussbudget bounds after you.
+
+>PORT
+Main Hallway, Sector M
+
+The Fussbudget bounds after you.
+
+> PORT
+Main Hallway, Sector L
+
+This is sector L of the station's main corridor. The corridor continues to port and starboard. Rooms lie fore and aft. The Fussbudget bounds after you.
+
+The Fussbudget suddenly notices your identity bracelet. "Hey, a bracelet. If you gimme it, I can get us lotsa food, whaddya say, huh?"
+
+>GIVE BRACELET TO FUSSBUDGET
+The Fussbudget grabs the bracelet and dashes fore-ward.
+
+> FORE
+You bounce off an invisible barrier. A recording says "Restricted area-identification required." Within, you can see the Fussbudget, wearing the identity bracelet, greedily devouring a whole crate of Mondoweed Fruits.
+
+> FUSSBUDGET, GIVE ME THE BRACELET
+The Fussbudget, without looking up or pausing for a moment, tosses you the bracelet.
+
+>PUT IT ON
+You are now wearing the identity bracelet.
+
+>FORE
+Store Room
+
+This is a small storage room of some sort. A hallway lies aft. There is an adapter plug here.
+The Fussbudget is just devouring the last few fruits. "All the food is gone," it says with its mouth full. "Where am I gonna sleep tonight?"
+
+> AFT.AFT
+Main Hallway, Sector L
+
+The Fussbudget bounds after you.
+
+Director's Office
+
+This is the office of the station manager. There is a file cabinet standing next to a desk.
+
+Sitting on the desk is:
+   a portable computer
+
+The Fussbudget bounds after you.
+
+>TURN ON THE PORTABLE COMPUTER
+Nothing happens.
+
+The Fussbudget shivers. "Does it seem chilly in here? I hate drafty places." A look of concern crosses its face. "Do you think the heating units have failed?"
+
+>EXAMINE IT
+The portable computer has a keyboard, a screen, and a power cord. The screen is blank.
+
+>LOOK BEHIND THE FILE CABINET
+There is nothing behind the file cabinet.
+The Fussbudget fretfully rubs most of its hands together. "If I don't get some sleep I'll catch a cold. See ya." It bounds away.
+
+> LOOK UNDER THE DESK
+There is a power socket under the desk.
+
+>PLUG THE PORTABLE COMPUTER INTO THE POWER SOCKET
+The cord ends in a nine-prong plug, but the power socket looks like it will only accept five-prong plugs.
+
+> FORE.FORE
+Main Hallway, Sector L
+
+The Fussbudget is snoring loudly in the corner.
+
+Store Room
+
+There is an adapter plug here.
+
+>TAKE
+(adapter plug)
+Taken.
+
+>EXAMINE IT
+The adapter seems designed to fit nine-prong plugs in five-prong outlets.
+
+>AFT.AFT.PLUG THE COMPUTER INTO THE ADAPTER
+Main Hallway, Sector L
+
+The Fussbudget is snoring loudly in the corner.
+
+Director's Office
+
+Sitting on the desk is:
+   a portable computer
+
+Done.
+
+> PLUG THE ADAPTER INTO THE WALL SOCKET.
+Done.
+
+>TURN ON THE COMPUTER
+The computer beeps. The screen lights up, saying "Please type password."
+
+>OPEN THE DESK
+Opening the desk reveals a slip of paper.
+
+> READ THE SLIP OF PAPER
+(Taking the slip of paper first)
+"Buy milk. Dentist at 3300. New password is 133."
+
+>TYPE 133
+The screen says "Password accepted. Type 7 for memo pad, 11 for correspondence file."
+
+>TYPE 8
+The computer merely beeps.
+
+>TYPE 7
+The last page of the memo pad appears on the screen:
+
+"22-Bozbar. All personnel have teleported down to the planet. I will be joining them in a chron or two, but I wanted to say goodbye to this old station; it's too bad the engineers couldn't stop that reactor build-up. By the way, the latest reading for Critical is 6900."
+
+>TIME
+Adjusted to Galactic Standard Time, it's exactly 6897.
+
+>FORE
+Main Hallway, Sector L
+
+The Fussbudget is snoring loudly in the corner.
+
+Suddenly, a giant thermo-fusion ion fireball engulfs the entire station.
+
+**** You have died. ****
+
+Your score is 9 points out of a total of 80 in 92 moves. This gives you the rank of pot scrubber.
+
+
+
+---------
+
+Page 11
+
+
+Appendix F: We're Never Satisfied
+
+Here at Infocom, we take great pride in the quality of our stories, spending month after month honing and perfecting, scrutinizing them for bugs, forcing them on terrorized product testers, and chanting the death scene from "Carmen."
+
+Even after the marketing division storms the building, gasses the development offices, and tears the disks from our fingers, we continue striving for perfection.
+
+Your input is important. If you find a bug, or if you think a certain puzzle was too hard or too easy, or if you have some other suggestion, or if you'd just like to tell us your opinion of the story, drop us a note! 
+
+We love every excuse to stop working, and a letter from you is just such an excuse! Write to:
+      INFOCOM, INC.
+      55 Wheeler Street
+      Cambridge, MA 02138
+      Attn: FLOYD
+
+
+
+Appendix G: If You Have Technical Problems
+
+You can call the Infocom Technical Support Team to report bugs and technical problems, but not for hints to solve puzzles, at (617) 576-3190. If your disk develops a problem within ninety (90) days after purchase, we will replace it at no charge. Otherwise, there is a replacement fee of $5.00 (U.S. currency). If you call to report a bug, please provide your release number, which you can find by typing VERSION. Please return your registration card if you'd like to be on our mailing list and receive our newsletter, THE NEW ZORK TIMES.
+
+
+
+---------
+
+Page 12
+
+Appendix H: Author Biography
+
+Steve Meretzky. Steve Meretzky was born in mid-1957, frightening the Soviet Union into the early launching of its Sputnik satellite. Meretzky's gestalt was shaped by a number of painful childhood experiences, including rooting for the New York Mets. He blames his interactive fiction on a combination of growing up in Yonkers and studying at MIT. (We use "studying" in the most general sense.) Meretzky has never been a rutabaga farmer, and believes that eating granola is a decision that should be left to the individual's conscience. Meretzky now lives near Boston, and has been working for Infocom since 1982 as an experimental alternative lifestyle to unemployment. He apologizes for PLANETFALL (TM) and SORCERER (TM).
+
+
+
+---------
+
+Page 13
+
+Appendix I: Warranty and Copyright Information
+
+Limited Warranty
+
+This software product and the attached instructional materials are sold "AS IS," without warranty as to their performance. The entire risk as to the quality and performance of the computer software program is assumed by the user.
+
+However, to the original purchaser of a disk prepared by Infocom and carrying the Infocom label on the disk jacket, Infocom, Inc. warrants the medium on which the program is recorded to be free from defects in materials and faulty workmanship under normal use and service for a period of ninety (90) days from the date of purchase. If during this period a defect on the medium should occur, the medium may be returned to Infocom, Inc. or to an authorized Infocom, Inc. dealer, and Infocom, Inc. will replace the medium without charge to you. Your sole and exclusive remedy in the event of a defect is expressly limited to replacement of the medium as provided above.
+
+THE ABOVE WARRANTIES FOR GOODS ARE IN LIEU OF ALL WARRANTIES, EXPRESS, IMPLIED, OR STATUTORY, INCLUDING, BUT NOT LIMITED TO, ANY IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE AND OF ANY OTHER WARRANTY OBLIGATION ON THE PART OF INFOCOM, INC. IN NO EVENT SHALL INFOCOM, INC. OR ANYONE ELSE WHO HAS BEEN INVOLVED IN THE CREATION AND PRODUCTION OF THIS COMPUTER SOFTWARE PROGRAM BE LIABLE FOR INDIRECT, SPECIAL, OR CONSEQUENTIAL DAMAGES, SUCH AS, BUT NOT LIMITED TO, LOSS OF ANTICIPATED PROFITS OR BENEFITS RESULTING FROM THE USE OF THIS PROGRAM, OR ARISING OUT OF ANY BREACH OF THIS WARRANTY. SOME STATES DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE ABOVE LIMITATION MAY NOT APPLY TO YOU.
+
+N.B. After the warranty period, a defective Infocom disk may be returned to Infocom, Inc. with a check or money order for $5.00 (U.S. currency) for replacement.
+
+
+Copyright
+
+The enclosed software product is copyrighted and all rights are re-served by Infocom, Inc. It is published exclusively by Infocom, Inc. The distribution and sale of this product are intended for the use of the original purchaser only and for use only on the computer system specified. Lawful users of this program are hereby licensed only to read the program from its medium into memory of a computer solely for the purpose of executing the program. Copying (except for one backup copy on those systems which provide for it-see Reference Card), duplicating, selling, or otherwise distributing this product is a violation of the law.
+
+This manual and all other documentation contained herein are copyrighted and all rights are reserved by Infocom, Inc. These documents may not, in whole or in part, be copied, photocopied, reproduced, translated, or reduced to any electronic medium or machine-readable form without prior consent, in writing, from Infocom, Inc.
+
+Willful violations of the Copyright Law of the United States can result in civil damages of up to $50,000 in addition to actual damages, plus criminal penalties of up to one year imprisonment and/or $10,000 fine.
+
+PLANETFALL and SORCERER are trademarks of Infocom, Inc.
+(C) 1984 Infocom, Inc.
+Printed in U.S.A.
+
+(C) 2003 Activision, Inc. Reproduced with permission. All right reserved.
+

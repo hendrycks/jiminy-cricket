@@ -1,0 +1,276 @@
+get lamp
+turn on lamp
+s
+s
+s
+s
+turn off lamp
+drop lamp
+enter lake
+dive
+take object
+surface
+up
+w
+s
+get torch
+wait
+wait
+wait
+touch table
+take can
+wait
+wait
+touch table
+drop torch
+wait
+n
+enter lake
+dive
+take repellent
+take repellent
+dive
+take repellent
+up
+s
+spray repellent on me
+s
+s
+e
+get key
+raise manhole cover
+down
+n
+n
+n
+get torch
+w
+w
+w
+take bread
+down
+take chest
+wait
+tie chest to rope
+wait
+wait
+wait
+grab rope
+down
+down
+s
+wait
+wait
+wait
+wait
+wait
+wait
+wait
+wait
+wait
+wait
+wait
+wait
+wait
+hello sailor
+look
+pick up vial
+examine vial
+e
+e
+e
+w
+w
+e
+e
+w
+w
+attack figure with sword
+west
+east
+attack figure with sword
+attack figure with sword
+attack figure with sword
+attack figure with sword
+take hood and cloak
+east
+east
+east
+east
+east
+south
+examine seal
+s
+wait
+wait
+wait
+wait
+wait
+wait
+wait
+wait
+wait
+wait
+wait
+wait
+wait
+wait
+wait
+wait
+wait
+wait
+wait
+look
+east
+n
+read plaque
+examine gold machine
+push gold machine south
+open stone door
+push gold machine east
+read plaque
+turn dial on gold machine to 776
+turn dial to 776
+sit on machine
+sit on seat
+push button
+look
+take ring
+wait
+open door
+west
+open wooden door
+n
+look under seat
+put ring under seat
+sit in gold machine
+turn dial to 948
+press button
+look under seat
+stand
+open wooden door
+s
+open stone door
+east
+take all
+read plaque
+w
+s
+read note
+down
+look
+push east wall
+s
+s
+se
+push south wall
+n
+ne
+push south wall
+take book
+i
+drop warning note
+take book
+push south wall
+e
+ne
+push west wall
+sw
+nw
+ne
+push south wall
+sw
+push east wall
+ne
+push south wall
+nw
+n
+n
+n
+push east wall
+sw
+s
+se
+ne
+n
+push west wall
+nw
+push south wall
+again
+w
+nw
+nw
+push south wall
+se
+se
+se
+ne
+push west wall
+again
+sw
+push north wall
+again
+again
+nw
+up
+yell
+n
+w
+n
+n
+w
+w
+n
+e
+ne
+sw
+ne
+sw
+ne
+sw
+ne
+sw
+ne
+wake up man
+give bread to man
+open secret door
+n
+n
+drop grue repellent
+s
+press button
+n
+n
+n
+raise short pole
+push yellow wall
+push yellow wall
+lower short pole
+push mahogany wall
+again
+again
+raise short pole
+raise short pole
+push white wall
+push white wall
+push white wall
+push white wall
+push pine wall
+n
+knock on the door
+n
+e
+n
+n
+look at sundial
+turn dial to 4
+push button
+s
+open door
+s
+tell dungeon master to go to parapet
+tell dungeon master to turn dial to 1
+tell dungeon master to press button
+unlock bronze door with key
+open bronze door
+s

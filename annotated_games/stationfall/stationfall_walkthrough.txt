@@ -1,0 +1,346 @@
+east
+north
+i
+put robot form in slot
+type 3
+south
+east
+open hatch
+in
+close hatch
+get kit
+sit in pilot seat
+put spacecraft form in slot
+examine watch
+type 375
+drop assignment form
+open kit
+get thermos
+drop kit
+wait
+wait
+wait
+wait
+open thermos
+eat soup
+get up
+open hatch
+out
+east
+down
+down
+down
+open can
+get form
+northwest
+get drill
+drop bit
+southeast
+up
+up
+southeast
+south
+west
+floyd, get bit
+get bit
+east
+north
+southeast
+east
+drop drill and bit
+look under bed
+get stamp and tape
+west
+put tape in reader
+turn reader on
+press button
+press button
+press button
+press button
+press button
+press button
+press button
+press button
+press button
+press button
+turn reader off
+northwest
+northwest
+up
+up
+northwest
+open presser
+put form in presser
+close presser
+turn presser on
+open presser
+get form
+turn presser off
+stamp form
+drop stamp
+east
+north
+read sign
+south
+up
+north
+get detonator
+northwest
+down
+down
+down
+drop detonator
+northeast
+southeast
+east
+put form in slot
+east
+east
+east
+get lamp
+wear lamp
+west
+south
+south
+southeast
+put card in slot
+turn machine on
+type 10
+get card
+down
+west
+northwest
+up
+open book
+get paper
+down
+north
+north
+north
+northwest
+down
+northwest
+in
+examine skeleton
+examine dots
+lick dots
+read paper
+drop paper
+out
+east
+southeast
+put card in reader
+north
+get gun
+south
+drop card
+west
+up
+southeast
+south
+south
+south
+south
+get detector
+turn detector on
+north
+southeast
+southwest
+get can
+northeast
+south
+shoot box
+get coin
+north
+southeast
+read letter
+drop letter
+northwest
+northeast
+up
+east
+east
+spin wheel
+up
+get in bed
+wait
+get up
+get all
+open locker
+get suit
+down
+west
+west
+drop suit
+get sheet
+read sheet
+drop sheet
+north
+get bag
+east
+break mirror
+drop detector
+get foil
+northwest
+southwest
+examine ceiling
+open panel
+get nip
+southeast
+down
+southwest
+southeast
+northwest
+northeast
+up
+northwest
+open bag
+eat taffy
+drop bag
+open cage
+northeast
+spray can
+west
+spray can
+west
+spray can
+west
+spray can
+northwest
+spray can
+northeast
+read screen
+put coin in slot
+type 6
+put nip in hole
+get timer
+southwest
+southwest
+spray can
+up
+spray can
+up
+spray can
+southwest
+examine pulpit
+open pulpit
+flip switch
+spray can
+examine creature
+get leash
+get star
+examine star
+open star
+get diode
+drop leash, star and can
+east
+down
+down
+southeast
+northeast
+east
+south
+read screen
+north
+east
+east
+south
+south
+get suit
+southeast
+down
+get boots
+west
+wait
+wait
+wait
+floyd, get stun ray
+get all
+northeast
+wear suit
+wear boots
+open inner hatch
+down
+close inner hatch
+turn lamp on
+open outer hatch
+down
+get cylinder
+put cylinder in thermos
+close thermos
+up
+close outer hatch
+open inner hatch
+up
+remove suit
+remove boots
+drop suit and boots
+southwest
+northwest
+north
+north
+north
+northwest
+get detonator
+southeast
+southeast
+east
+open detonator
+get blackened diode
+drop blackened diode
+put diode in detonator
+close detonator
+get drill and bit
+put bit in drill
+drill safe
+open thermos
+get explosive
+put explosive in hole
+attach detonator to timer
+attach detonator to explosive
+drop detonator and timer
+set timer to 10
+west
+drop drill and thermos
+east
+get key
+west
+northwest
+northwest
+north
+north
+get jammer
+east
+north
+north
+up
+get board
+put board in jammer
+set jammer to 710
+down
+south
+south
+south
+southwest
+up
+up
+up
+up
+unlock bin
+open bin
+get all
+open grate
+enter air shaft
+down
+down
+down
+down
+down
+down
+down
+open grate
+turn on jammer
+turn off jammer
+up
+shoot floyd
+put foil on pyramid

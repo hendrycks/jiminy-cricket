@@ -1,0 +1,1285 @@
+***************************************************************************
+*                             InvisiClues(tm)                             *
+*                          The Hint Booklet for                           *
+*                             SPELLBREAKER(tm)                            *
+***************************************************************************
+
+[Copyright by Infocom, Inc. Provided for non-commercial use only, with the
+sole intent of making information available that would otherwise be lost.
+
+To whoever presently holds the copyright to the information contained in
+this file: if you think the existence of this file violates your copyright,
+please complain and the file will be removed.
+
+Typed in from the original hintbook by Paul David Doherty.]
+
+
+Sample Question
+***************
+
+How can I get into the secret conference room?
+  1. Perhaps you don't need to get in at all.
+  2. Some magic spells work over a distance.
+  3. If you use GILCH (astral travel) on yourself, you can pass through the
+     walls taking only your mind, and listen to the meeting within.
+
+
+Table of Contents
+*****************
+
+The Council Chamber
+The Packed Earth Room
+The Temple
+The Soft Room
+The Water Room
+The Air Room
+The Dungeon
+The Light Room
+The String Room
+The Changing Room
+The Good Room
+The Plain
+The Dark Room
+The Volcano
+The Vault
+The Sand Room
+The Magic Room
+Stuff and Things
+Cube Details
+Magic Details
+Details of Cubes' Effects on Spells
+Spells and Their Locations
+How the Points Are Scored
+For Your Amusement
+
+
+The Council Chamber
+*******************
+
+Why are the guildmasters so angry at me?
+  1. Listen and find out.
+  2. They seem to think you and your fellow mages are responsible for the
+     deterioration of magic.
+
+Who is this "shadowy figure" who turned all of the other guildmasters into
+amphibians?
+  1. The "shadowy figure" left the cloud in Belwit Square when it teleported
+     away.
+  2. The word "shadowy" is an indication of the figure's persona.
+  3. You'll find out more about this "shadowy figure" as the story
+     progresses...
+
+Belwit Square is filled with orange smoke. How do I get rid of it?
+  1. There are two ways you can do it.
+  2. You can use a spell in your spell book that will do the trick.
+  3. Try LESOCH.
+  4. Or you can wait for the smoke to dissipate.
+
+How do I get into the storied Manse?
+  1. The guard at the door seems remarkably surly, no?
+  2. Actually, you can't get into the Manse.
+
+What's this cube I found?
+  1. The story tells you that it's just a white featureless cube.
+  2. Actually, it is completely featureless, but you can do more than use
+     your normal senses.
+  3. JINDAK before you pick up the cube and you'll see one feature of the
+     cube.
+  4. Then see the next question.
+
+How do I get out of Belwit Square to get to the rest of the story?
+  1. Have you examined all of the items you're carrying?
+  2. Your spell book in particular.
+  3. Did you notice anything that wasn't there before?
+  4. The BLORPLE spell will "explore an object's mystic connections."
+  5. If you haven't gotten the orange smoke in Belwit Square to dissipate
+     then don't continue developing this question.
+  6. JINDAK may indicate an object of interest.
+  7. CAST BLORPLE on some of your items and see what happens.
+  8. One item in particular has lots of "mystic connections" that need to be
+     explored.
+  9. That item is the featureless cube that remains after the orange smoke
+     dissipates. BLORPLE THE FEATURELESS CUBE.
+
+
+The Packed Earth Room
+*********************
+
+I just arrived in Packed Earth, and it's pitch black! What do I do?
+  1. If you can't get light somehow, you're in big trouble!
+  2. FROTZ any item you're carrying, or yourself.
+
+I just arrived in Packed Earth; where did the cube go?
+  1. Actually, the cube didn't go anywhere.
+  2. You are, in a magical sense, within the cube.
+  3. Don't worry, you'll get it back when you leave the room.
+
+Why can't I force my way through the north exit?
+  1. Because it is a magic exit.
+  2. It's very strong magic, so you need very special conditions to be able
+     to get through this exit.
+  3. More on this later...
+
+I went west from Packed Earth to get to Cave Entrance, but going east from
+Cave Entrance doesn't get me back to Packed Earth. What happened? How do I
+get back to Packed Earth?
+  1. Packed Earth is a "magic" room. It is not connected to other rooms in a
+     physical way.
+  2. To get back to Packed Earth, go there the same way you got there in the
+     first place.
+  3. BLORPLE THE CUBE.
+
+I've gotten past the ogre, but I can't take anything from his lair.
+  1. You must have used GIRGOL to pass the ogre.
+  2. Bad idea. Everything is frozen in place and the ogre kills you as soon
+     as the time stop wears off. There's another solution to the puzzle. See
+     the next question.
+
+How do I get past the ogre?
+  1. Have you listened to the sounds the ogre makes?
+  2. Have you YOMINed the ogre?
+  3. The ogre has a bad case of hay fever.
+  4. If there was a drugstore nearby you could help the ogre out.
+  5. But since there's no such thing in this story, you'll have to take
+     advantage of this weakness.
+  6. Do you have anything that could aggravate his allergy?
+  7. If not, then you'll have to solve another puzzle first.
+  8. What about the weed in the Meadow (south from the Soft Room)?
+  9. What? Shaking the weed at the ogre didn't affect the ogre very much?
+     Perhaps if the weed was bigger.
+ 11. Must this one be spelled out for you?
+ 11. THROCK the weed.
+ 12. Make sure to plant the weed first, though.
+ 13. PLANT THE WEED THEN THROCK IT (in Ogre Cave or at Cave Entrance).
+
+What is the significance of the box?
+  1. JINDAK before you pick it up. It's magic.
+  2. You can identify any cube by putting it into the box and looking at the
+     design that appears on the box.
+  3. The box has another feature. More on this later if you can't figure it
+     out by then.
+
+Help! I have all these featureless white cubes and I'm having trouble
+keeping them straight. What can I do?
+  1. You can use the box to identify the cubes. See above.
+  2. You probably could find a way to label the cubes.
+  3. If you have the burin, you can WRITE "WORD" ON THE CUBE. From then on
+     you can refer to the "word" cube.
+
+What is the significance of the avalanche?
+  1. It keeps people like you from reaching the hut at the top of the
+     mountain.
+  2. It kills people not smart enough to get out of its way.
+
+How do I get to the small building at the top of the mountain?
+  1. You can't go up without starting an avalanche...
+  2. ...but you don't have to die if the rocks are frozen in place.
+  3. If you haven't found the GIRGOL scroll, don't continue developing clues
+     in this question.
+  4. If you've already used up the GIRGOL scroll in another place, you won't
+     be able to get up the mountain. Bad move.
+  5. CAST GIRGOL.
+  6. If you still can't go up, try casting GIRGOL when the rocks are more
+     spread out.
+  7. Try starting an avalanche before casting GIRGOL.
+  8. Start the avalanche, then GIRGOL when the rocks form almost a
+     continuous curtain. Then go up.
+
+Where can I find some mountaineering equipment?
+  1. If you haven't GIRGOLed the cliff, don't continue.
+  2. There is no mountaineering equipment. There's a way to freeze the rocks
+     in place when they're not so jumbled. See the previous question.
+
+How do I start an avalanche at Cliff Top?
+  1. You must be crazy!! Why would you want to do a thing like that???
+  2. Well, if you really want to, type MOVE A ROCK or PUSH A ROCK.
+
+Why won't the hermit let me take his cube?
+     ASK THE HERMIT ABOUT THE CUBE.
+
+How do I get the hermit to give me the cube?
+  1. You can't bribe the hermit with food or buy the cube from him with the
+     coin, so you'll have to find another way to get the hermit to let you
+     have the cube.
+  2. Have you noticed how poorly built the hut is? It needs the cube as a
+     keystone to hold it up.
+  3. You could fix up the hut a little.
+  4. A spell could help here.
+  5. If you haven't been to the roc's nest, you don't have that spell.
+  6. If you've found the CASKLY spell, now is the time to use it.
+  7. CASKLY THE HUT THEN TAKE THE CUBE.
+
+What can I do to get by the serpent?
+  1. The serpent is huge, and makes a complete loop (having swallowed its
+     own tail). It fills the corridor. You probably can't force or sneak
+     your way by it.
+  2. If you haven't gotten past the ogre, don't go any further.
+  3. You'll have to find a way to shrink the serpent.
+  4. Have you found the LISKON spell yet?
+  5. LISKON THE SERPENT.
+
+What is the zipper?
+  1. Have you tried opening and closing it?
+  2. Or JINDAKing it?
+  3. The zipper is really a huge container...
+  4. ...which safely stores anything in a different dimension.
+  5. It's bigger on the inside than on the outside.
+
+Is there anything else interesting about the zipper?
+  1. It's hard to tell. It's dark inside the zipper.
+  2. There are three ways to find out if anything's in there.
+  3. Try putting a FROTZed item into the zipper for light, then looking.
+  4. Or REACH INTO THE ZIPPER.
+  5. Or CLIMB INTO THE ZIPPER THEN LOOK. You can fit.
+
+Why can't I go down through the muddy hole?
+  1. Well, the story tells you that "you pull back" when you realize that
+     there isn't solid ground down there.
+  2. But, if you're persistent (or foolhardy)...
+  3. ...why not try going down again?
+
+How do I get down off a roc?
+  1. You can't. You get down off a goose.
+  2. You can't. Relax and enjoy the ride.
+
+How do I get the cube from In Roc Nest?
+  1. The mother roc is very protective of her egg. You won't be able to get
+     near the cube while she's in the nest.
+  2. There is a way to get to the roc's nest without being taken there by
+     the mother roc.
+  3. If you haven't been to the Air Room, leave the nest and work on another
+     puzzle for now. Don't forget to take the stained scroll while you are
+     here; it's useful.
+  4. Have you managed to get the magic carpet in the bazaar? If not, get it.
+  5. You can fly to the roc's nest on the magic carpet.
+  6. Is the mother roc still there? There's a time when you can get to the
+     roc's nest without the mother roc being home.
+  7. Have you been to the Guard Tower above the Dungeon? If not, don't
+     continue.
+  8. The speck on the horizon is the mother roc.
+  9. If you fly on the magic carpet to the roc's nest (four turns to the
+     west from the tower) the mother roc will be away from the nest,
+     searching for food. Now's your chance to get the cube.
+
+Holy farmer's breakfast! The roc's egg hatched! What do I do???
+  1. This time, you're really outmatched. Don't fight the baby roc.
+  2. All you can do is run away.
+  3. You have one turn to get away, so if you don't have any means of
+     immediate escape, you might as well type KILL ME.
+
+How do I get out of the roc's nest?
+  1. It's a long way down.
+  2. You can BLORPLE out.
+  3. You can fly back on your magic carpet, but only if you know the
+     location of the Guard Tower.
+
+
+The Temple
+**********
+
+What do I do with the idol?
+  1. Have you examined it?
+  2. It's kind of difficult from down here.
+  3. Try climbing the idol.
+  4. Then try examining its features...
+  5. ...such as its eye or mouth.
+
+How do I get the eye?
+  1. Why not use a tool to help you out?
+  2. Try PRY THE OPAL WITH THE BURIN or PRY THE EYE WITH THE KNIFE.
+
+I've found a cube here, but I can't take it.
+  1. It's because your hand is too big or, if you LISKONed yourself, your
+     arm is too short to fit between the fangs and reach the cube.
+  2. The idol is solid basalt, so you can't break into its mouth or REZROV
+     it open.
+  3. Maybe you can get the rodent idol to open its mouth.
+  4. You'll probably have to MALYON THE IDOL.
+  5. At what time is your mouth open widest?
+  6. Right. When you're yawning.
+  7. Try to CAST ESPNIS ON THE IDOL to make it yawn.
+  8. Basalt idols can't yawn, so you'll need to MALYON THE IDOL before you
+     CAST ESPNIS ON IT. This will get it to yawn.
+
+I've gotten the idol to "open up" to me, but it "closed" again. What do I
+do?
+  1. He who hesitates isn't always lost.
+  2. Wait for one turn after casting MALYON before casting ESPNIS. This will
+     catch the idol in a full cheek-stretching yawn.
+
+
+The Soft Room
+*************
+
+How can I get through the west exit?
+     See the north exit question for Packed Earth.
+
+What is the significance of the rabbit?
+  1. The author of the story is fond of rabbits, so he put one in the
+     meadow.
+  2. He is fond of various other creatures as well.
+
+I followed the rabbit down into the rabbit hole. What do I do with the cakes
+I found?
+  1. Wait a minute. This isn't _Alice in Wonderland_...
+  2. ...or even _Zork II_.
+  3. Phony questions deserve phony answers!
+
+How do I get the weed out of the ground? It's stuck.
+  1. You can cut it with the shears.
+  2. If you do that you won't be able to use the weed later. The shears are
+     a trap. There is another way to get the weed.
+  3. Just PULL THE WEED again. It will come out the second time with its
+     roots intact.
+
+Why doesn't the weed grow?
+  1. Perhaps conditions in the vicinity aren't optimal, even when a THROCK
+     is cast.
+  2. Plants need water, light, and nutrients to grow.
+  3. Have you tried planting the weed?
+
+
+The Water Room
+**************
+
+Oh no!! Some of my possessions got damaged when I went south! What can I
+do??
+  1. There are two ways to prevent your spell book and scrolls from being
+     ruined by water and one way to fix them after the fact.
+  2. If you have CASKLY and BLORPLE memorized, you can BLORPLE out of the
+     wet area, then CASKLY your book or scroll back to perfection. If you
+     don't have them learned, you have to RESTORE.
+  3. You can leave your items behind and come back to pick them up later.
+     Don't forget to learn BLORPLE so you can come back to them.
+  4. Or you can put your spell book and any scrolls into the zipper, then
+     close it before you enter the water. You still need to learn BLORPLE
+     because you can't get your spell book in order to learn spells without
+     ruining your spell book.
+
+How can I stop the grouper from eating my cube?
+  1. You could TAKE THE CUBE before the grouper can eat it...
+  2. ...but then the grouper eats the bottle...
+  3. ...and you need the bottle to finish the story.
+  4. Can you think of anything of yours that it might rather eat?
+  5. Did you pick up the fish or bread when you were in the Guild Hall? If
+     so, skip the next clue.
+  6. You can get back there if you die and then go north from the Boneyard.
+     Type KILL ME.
+  7. If you have fish or bread, drop it when you first arrive in
+     mid-ocean...
+  8. ...then you can get the bottle and the cube.
+  9. Take the cube first. It's sinking while the bottle is floating.
+
+What's so special about the bottle, anyhow?
+  1. Ever heard of a message in a bottle?
+  2. Well, that phrase applies here. OPEN THE BOTTLE.
+  3. But make sure you're on dry land! Otherwise you'll ruin the contents!
+
+Can I do anything useful with the grouper?
+  1. Yes.
+  2. Unless you haven't found the Dungeon Cell.
+  3. Have you found the moldy book? If so, you might have a spell to cast on
+     the grouper.
+  4. SNAVIG THE GROUPER and go DOWN.
+
+I found another cube! But I can't get it. What should I do?
+  1. Wait until you "become yourself" again...
+  2. ...then get the cube and swim upward. Don't forget the stuff you
+     dropped when you turned into a grouper.
+  3. But don't hesitate or you'll drown!
+
+How do I get up through the trap door in the Oubliette?
+  1. You can REZROV it open. But you still can't reach it.
+  2. Maybe you could reach it if the water level were higher?
+  3. Then again, the pipes are too big to block with anything. You need
+     magic to reach the top.
+  4. Unless you've been to the Air Room, don't continue.
+  5. There is an item off the Air Room that will help you go up.
+  6. It's a spell, not the carpet.
+  7. You should protect your spell book since you're going to be swimming in
+     water again. This is becoming a habit.
+  8. TINSOT WATER to freeze the channel to raise the water level.
+  9. AGAIN. The first time didn't completely freeze it since the water is
+     running so quickly.
+ 10. You can't quite reach the top. If you only had a platform to float on?
+ 11. All your items sink, but ice doesn't.
+ 12. TINSOT THE WATER to create an ice floe.
+ 13. Now climb on the ice floe, then go up through the trap door.
+
+Is there anything to do with the narrow channel?
+  1. You can do something with it to reach the trap door. See the previous
+     question.
+  2. Have you tried to reach into either pipe?
+  3. If so, you'll know that the pipes extend quite a ways in.
+  4. It would be nice to be able to find out what goes on in there.
+  5. A spell will help.
+  6. If you haven't gotten the bottle from mid-ocean, don't go on.
+  7. LISKON ME. ENTER OUTFLOW PIPE.
+  8. Did you remember to keep your spell book protected again?
+
+I've found a moss-covered cube. How do I get it?
+     Type GET CUBE.
+
+
+The Air Room
+************
+
+How can I get off the Glacier without dying?
+  1. There is no direction that is safe.
+  2. But you can BLORPLE off.
+
+Can I get a carpet from the merchant?
+  1. What do you think?
+  2. Yes.
+
+How do I get a carpet?
+  1. There's no such thing as a free carpet.
+  2. Perhaps you can get an idea of the going price for a carpet by
+     consulting your Frobozz Magic Magic Equipment Company catalog.
+  3. You can bargain by offering increasing numbers of zorkmids until he
+     agrees on a price.
+  4. If you don't start at 100 zorkmids or more and increase by at least 50
+     zorkmids per offer, the merchant will think you're trying to cheat him.
+  5. If you agree on a price above 500 zorkmids, you will have to offer him
+     the opal instead of the coin, as the coin is only worth 500 zorkmids.
+  6. If you agree on a price of 500 zorkmids, you can give him the coin.
+
+Hey! I didn't get the carpet I wanted!
+  1. Did you indicate your interest in the blue carpet before he sold it to
+     you, by ASKing MERCHANT ABOUT BLUE CARPET, or offering something to the
+     merchant for the blue carpet?
+  2. If you didn't, go back and try that.
+  3. Even so, you can see that the merchant is a very slippery fellow.
+  4. If you GET BLUE CARPET or ASK MERCHANT FOR BLUE CARPET or GIVE RED
+     CARPET TO MERCHANT after he gives the wrong one to you, he'll give you
+     the right one.
+
+What does the red carpet do?
+  1. Nothing, it's shabby and nonmagical.
+  2. +---------------------------------------------------------------------+
+     |                                                                     |
+     |                                                                     |
+     |                                                                     |
+     |                                                                     |
+     |             >>[This space intentionally left blank.]<<              |
+     +---------------------------------------------------------------------+
+  3. +---------------------------------------------------------------------+
+     |                                                                     |
+     |                                                                     |
+     |                                                                     |
+     |                                                                     |
+     |             >>[This space intentionally left blank.]<<              |
+     +---------------------------------------------------------------------+
+
+What does the blue carpet do?
+  1. Have you looked under it?
+  2. Have you JINDAKed it?
+  3. If so, you'll know that it's a magic carpet.
+  4. If you SIT ON THE BLUE CARPET and then FLY UP, you'll see how it works.
+
+
+The Dungeon
+***********
+
+How do I open the cabinet?
+  1. You could try unlocking it, if you have a key.
+  2. No luck, eh? You could try smashing it.
+  3. You're a thinker, not a brute-force, smelly-armored adventurer.
+  4. Try a spell.
+  5. REZROV THE CABINET.
+
+What use is a moldy book?
+  1. You could try to sell it to a used book dealer.
+  2. You could wait a while and hope it dries out.
+  3. Perhaps there's a spell to improve its imperfect condition.
+  4. CASKLY THE MOLDY BOOK.
+
+What is the speck on the horizon?
+  1. What speck? Perhaps your glasses are dirty.
+  2. No glasses, huh?
+  3. Just wait, you'll find out.
+  4. It won't even hurt.
+  5. Much.
+
+I'm in the Boneyard and I didn't die. What happened?
+  1. Maybe you died and didn't notice.
+  2. No, you BLORPLEd the cube that leads to the Boneyard. There's more than
+     one way to skin a cat.
+
+
+The Light Room
+**************
+
+I don't see anything of value here. Is there?
+  1. There's a volcano erupting. The scientific interest alone should keep
+     you excited.
+  2. Oops! What was that?
+
+Yipes! That lava fragment almost hit me. How do I keep from getting hit by
+another flying fragment?
+     Don't worry, there'll only be one.
+
+How do I get the fragment?
+  1. You could take it.
+  2. Didn't work? Too hot? Maybe it'll cool in time.
+  3. Didn't cool? You could try cooling it.
+  4. There are two ways to do that. One is mundane, the other magical.
+  5. The mundane way is to pour some water on the fragment. Of course, you
+     should have a bottle full of water if you expect to do that.
+  6. The magical way is to TINSOT THE FRAGMENT. Of course, you must have the
+     TINSOT spell first.
+
+
+The String Room
+***************
+
+Who is Belboz?
+     Type WHO IS BELBOZ.
+
+I don't see anything of value at the Enchanter's Retreat. Is there?
+  1. Perhaps you can get answers to some of your questions.
+  2. Perhaps Belboz will be willing to help you if you can convince him you
+     are in need.
+
+How do I know the answer to the question?
+  1. Look it up on your Enchanter Cards that came with your package.
+  2. If you don't have them, you can order a new set from Infocom with your
+     proof of purchase.
+  3. If you bought the hint booklet and not the game, that's a shame. We're
+     not going to tell you the answer in the hint booklet.
+
+
+The Changing Room
+*****************
+
+Of what significance is the filigreed carving of a compass rose?
+  1. We are a computer software company, not art critics.
+  2. The carving is a decorative hint of things to come.
+  3. Have you found a real compass rose yet?
+  4. You can find the real compass rose in the Bare Room, north of the
+     Changing Room.
+  5. The carving is so well crafted, it might almost be a mold for the real
+     compass.
+  6. PUT THE ROSE IN THE CARVING. Then see what happens.
+
+How do I get out of the Octagonal Room?
+  1. You shouldn't leave anything important behind.
+  2. You should have brought the compass rose with you.
+  3. If not, you can still BLORPLE out, go back to the Carving Room, and
+     retrieve the compass rose.
+  4. Putting the compass rose in the carving again "recharges" it.
+
+Why are some of the runes silver and some lead?
+  1. As silver is a precious metal, there is probably something special
+     about the walls with silver runes.
+  2. Have you tried fiddling with the runes, or touching them?
+  3. Did you bring the compass rose with you from the Carving Room?
+  4. TOUCH THE ROSE TO a silver runed wall (other than the north wall) such
+     as THE WEST WALL.
+
+Why are some of the arms of the compass rose silver and some lead?
+  1. The north arm of the rose turned to lead when the hole appeared in the
+     north wall of the Carving Room.
+  2. If you haven't done anything successful (gotten anything to
+     happen/change) in the Octagonal Room, don't read on.
+  3. Have you noticed that whenever you open a hole in the wall, the
+     corresponding arm of your compass rose changes to lead?
+  4. Q: What is better than a compass that tells you where to go?
+  5. A: A compass that tells you where you've been!
+
+Something's changed in the Octagonal Room, but I still don't know WHAT THE
+*#(?$)@ IS GOING ON?!!
+  1. Each time you squeeze through an octagonal hole, you go to a new room,
+     NOT to the same room with changed runes.
+  2. This puzzle is a symmetrical maze; each room has a slightly different
+     description. See the next question for a full explanation.
+
+I don't know, I don't know, I just don't know.
+  1. This is it. Read the following ONLY if you are completely defeated.
+  2. The Octagonal Maze is a three by three "square" of adjoining Octagonal
+     Rooms.
+  3. You can go only through walls with silver runes, and only if the
+     corresponding arm of the compass rose is silver. In other words, you
+     can go in any direction only once. (See question "arms/silver/lead,"
+     clue 3, above.)
+  4. Within each room, any wall that borders another interior wall has a
+     silver rune; each wall that faces out of the "square" has a lead rune.
+     There are three exceptions: in the Central room, only the north, east,
+     south and west runes are silver; in the Southeast room, the south wall
+     is silver (since it leads back to the Carving Room); in the North room,
+     the west rune is gold.
+  5. The Carving Room (or Maze Antechamber) leads you north to the Southeast
+     room of the maze, transmutating the north arm of the compass rose.
+     Therefore, you cannot go north again (see 3, above). The cube you seek
+     is in the Northwest room of the maze. You can enter this room only from
+     the North room (work out the logic for yourself). See the next question
+     for how to cross that bridge.
+  6. There are four possible routes to the north room of the maze, all using
+     the compass rose, of course:
+             W, then NW, then NE.
+             NW, then W, then NE.
+             W, then NE, then NW.
+             Actually, there are only three.
+
+I've found a gold rune! What do I do now?
+  1. You can't do anything to the gold rune.
+  2. Maybe you can open the plug.
+  3. REZROV THE PLUG.
+
+
+The Good Room
+*************
+
+I've done everything I can think of, and I still can't get to the Dragon
+cube!
+  1. Don't read the following if you are not completely stumped. This is the
+     complete unabridged unexpurgated solution and explanation to the whole
+     puzzle.
+  2. In fact, some question has been raised whether we should tell you at
+     all.
+  3. Our censors say not to.
+  4. On the other hand, you did pay good money for this, so you are entitled
+     to an answer.
+  5. On the third hand, there isn't even a Dragon cube in this story, so if
+     you are looking for an answer for it, you've got the wrong hint
+     booklet.
+
+
+The Plain
+*********
+
+How can I get the green eyed rock to help me?
+  1. Have you tried getting on it and then ordering it around?
+  2. What is the green eyed rock most interested in...besides itself?
+  3. Food.
+  4. ASK THE GREEN EYED ROCK ABOUT FOOD.
+
+How do I get what the rock wants?
+  1. You may have something in your possession that contains phosphorus.
+  2. Igneous rock.
+  3. If you haven't got anything that fits that description, you might try
+     checking out the grouper.
+  4. Find a lava fragment.
+  5. Give the fragment to the rock and then climb onto it.
+
+How do I get to the brown eyed rock?
+  1. Your first step is to map the plain.
+  2. The northwest corner, or lack of it, is the only irregularity.
+  3. It's the key to the puzzle.
+  4. Once you maneuver the green eyed rock through the diagonal, you can
+     trap the brown eyed rock. In chess, this is called "gaining a tempo."
+  5. If you get close enough, the brown eyed rock will become mesmerized by
+     the presence of the green eyed rock.
+
+How do I get the cube from the brown eyed rock?
+  1. If you aren't right next to the brown eyed rock, go no further.
+  2. It's easier than you think.
+  3. Just jump onto the brown eyed rock and take the cube.
+
+
+The Dark Room
+*************
+
+I'm in a dark room. How do I get out?
+  1. Have you looked for an exit?
+  2. It's too dark to see an exit. Maybe you should try going in various
+     directions.
+  3. Remember, there are ten possible directions.
+  4. Going up will reveal one of those exits that "you can't seem to force
+     your way through."
+  5. Going down is the normal way out.
+
+Okay, I'm out of the dark room, but it's still dark. What's wrong?
+  1. Light doesn't behave normally here.
+  2. Your FROTZ spell won't behave normally here either.
+  3. Have you gone down from the Dark Cave yet?
+  4. This is "grue heaven," a place ideally suited for grues, as all light
+     is subdued at best and stays out of the way of the creatures.
+
+I can't get past the grues. Help!
+  1. Perhaps you would have better luck if you were less conspicuous.
+  2. When in Rome...
+  3. In the Grue Cave, SNAVIG A GRUE.
+  4. Of course, carrying a light when you do this will have bad
+     consequences.
+  5. If you are a light source, you will have to extinguish yourself first.
+  6. But you should leave a light source in the Dark Cave to prevent the
+     grues from getting you as you blunder around in the dark.
+
+How do I keep from waking the baby grue?
+  1. Did you get the blanket from the jail cell?
+  2. Did you get the bottle of grue's milk from the refrigerator?
+  3. What blanket? What bottle? What refrigerator?
+  4. What baby grue? You're in the wrong grue lair.
+  5. You're even in the wrong hint booklet!
+
+I keep dying in the light pool!
+  1. This is not a very safe place for a grue to be.
+  2. A prudent grue would get out of there pretty quickly.
+  3. There's a way out of the pool other than back up to the cave.
+  4. There's a nice pillar in front of you.
+  5. CLIMB THE PILLAR.
+
+
+The Volcano
+***********
+
+How do I get back to the Volcano Base from the Volcano?
+  1. The same way you got there before.
+  2. This is the same volcano, but you can't get there from here directly.
+
+What is that outcropping?
+  1. It's an outcropping.
+  2. It's made of something that has a very high melting point.
+  3. Isn't it frustrating that you can't get to it?
+  4. If you LOOK AT OUTCROPPING, you might want to get there even more.
+
+How do I get to the outcropping?
+  1. You do have a magic carpet; you could try to fly there.
+  2. But be sure to SAVE before you try it.
+  3. You could try to TINSOT THE CARPET to protect it from the extreme heat.
+  4. The magic carpet isn't the answer.
+  5. Have you tried to build a bridge from all the cubes you've collected?
+     You might be able to freeze them together...
+  6. It won't work! You're a magician, not an engineer! Bridges aren't the
+     answer!
+
+How do I avoid the heat of the lava?
+  1. Any sufficiently arcane magic is indistinguishable from technology.
+  2. There must be a magic item or spell that would help.
+  3. Have you ever wondered about those exits from the cube rooms that don't
+     seem to be open?
+  4. You should figure out how you can use the gold box. It does have an
+     interesting property that you might be able to use. Try leaving it
+     behind.
+  5. Try this sequence: Get your favorite cube. Put it into the box. Remove
+     the cube from the box.
+  6. Toss the box onto the outcropping. Now BLORPLE the cube you just
+     removed from the box. Try something different: go through the cube room
+     exit that you couldn't go through before. (For example, the East exit
+     is the magical exit from the Water Room.)
+  7. Surprise! If you did everything right, you should have been able to get
+     through the magical exit, and you now should be standing on the
+     outcropping!
+  8. Don't forget to take the cube once you get there.
+
+How can I get off the outcropping now?
+     How about a BLORPLE?
+
+
+The Vault
+*********
+
+What use is the treasure?
+  1. +---------------------------------------------------------------------+
+     |                                                                     |
+     |                                                                     |
+     |                                                                     |
+     |                                                                     |
+     |             >>[This space intentionally left blank.]<<              |
+     +---------------------------------------------------------------------+
+  2. None.
+
+How do I get the vault door open?
+  1. Try REZROVing it.
+  2. If this doesn't work, then your REZROV spell isn't strong enough. You
+     have to find some way of augmenting it.
+  3. There's no YONK spell in this story.
+  4. You can't augment your REZROV spell unless you've found the outcropping
+     and gotten to it. Don't read any further if you haven't gotten there
+     yet.
+  5. Did you notice the feeling of power when you picked up the cube from
+     the outcropping?
+  6. If you have that cube in your possession, then REZROV will open the
+     vault door.
+
+I have a pile of junk in my inventory. How did that get there?
+  1. Do you notice what's missing in your inventory?
+  2. The "treasure" turned into junk when you left the Inner Vault by
+     BLORPLing.
+  3. Why are you collecting treasure anyway? You're supposed to be
+     collecting cubes in order to save the world.
+
+What happens to all the cubes I took from the Outer Vault?
+  1. You can never leave the Outer Vault with a BLORPLE spell without losing
+     all the cubes you picked up there.
+  2. However, if you BLORPLE one of the Outer Vault cubes and don't end up
+     in the Nondescript Room, you'll get back the cube you BLORPLEd when you
+     leave that room as you normally do.
+
+What's going on in here?
+  1. Only one of the cubes is the "real cube," and the rest are magical
+     fakes.
+  2. You're supposed to get the real cube and BLORPLE out of the Outer Vault
+     with it.
+  3. If you BLORPLE a fake cube you end up in a Nondescript Room.
+  4. The real cube changes position each time you enter the Outer Vault.
+  5. You can't SAVE and RESTORE to solve this puzzle by brute force. Isn't
+     that nasty?
+
+How do I prevent the alarm fairy and guards from showing up?
+  1. You can't.
+  2. If you cast a REZROV spell in the Outer Vault they will show up
+     immediately.
+  3. Otherwise they will show up after a predetermined number of spells
+     cast.
+  4. The number is three, unless you brought the treasure into the Outer
+     Vault with you, in which case it is two. It can take three spells to
+     determine the right cube, so it's best to leave the treasure behind,
+     since you don't need it. No doubt it was placed there to trip up
+     thieves.
+  5. Also, putting a cube into the gold box counts as a spell, as the box
+     works by magic.
+
+How do I get past the guards and down the hallway out of the Bank?
+  1. You can't get past the guards.
+  2. Don't even try spells. Well, try some, just for fun.
+
+How do I find out which cube I want?
+  1. A spell will help you identify the correct cube. But you only have
+     three spells (maximum) to do it. Then the alarm fairy and the guards
+     show up.
+  2. The spell isn't BLORPLE, it's JINDAK!
+  3. JINDAK when you first enter the room. You'll notice something unusual
+     about the two piles.
+  4. The "real cube" doesn't glow at the same intensity as the fake cubes.
+     But...
+  5. ...it could be brighter OR dimmer.
+  6. You have enough time for only two more JINDAKs (three in all) before
+     you have to grab the correct cube and BLORPLE it out of here.
+  7. This is a variation of a classic coin-weighing puzzle.
+  8. To get the correct cube from the Outer Vault, enter the Outer Vault
+     without the treasure. Have all your items in the zipper so you can
+     easily move cubes around. Have JINDAK memorized thrice and BLORPLE
+     memorized once. Develop clue 9 and follow the directions.
+  9. The first JINDAK should be done with four cubes on each pile. TAKE X1,
+     X2, X7, X8. JINDAK. (X3, X4, X5, X6 on the first pile. X9, X10, X11,
+     X12 on the second pile.) If the piles are even then develop clue 10. If
+     the piles are uneven, notice which pile is brighter, then develop clue
+     13.
+ 10. TAKE X3, X4. PUT X1, X2 IN THE FIRST PILE. JINDAK. (X1, X2, X5, X6 on
+     the first pile. The second pile remains the same.) If the piles are
+     even then develop clue 11. If the piles are uneven, then develop clue
+     12.
+ 11. TAKE X1. PUT X7 ON THE FIRST PILE. JINDAK. (X7, X2, X5, X6 on the first
+     pile. The second pile remains the same.) If the piles are even then
+     BLORPLE X8. If the piles are uneven then TAKE X7. BLORPLE IT. Now
+     develop clue 17.
+ 12. TAKE X1. PUT X7 ON THE FIRST PILE. JINDAK. (X7, X2, X5, X6 on the first
+     pile. The second pile remains unchanged.) If the piles are even then
+     BLORPLE X1. If the piles are uneven then TAKE X2. BLORPLE IT. Now
+     develop clue 17.
+ 13. PUT X1, X2, X7 ON THE SECOND PILE. GET X9, X10, X11, X12. PUT X9 ON THE
+     FIRST PILE. GET X6. PUT X6 ON THE SECOND PILE. JINDAK. (X3, X4, X5, X9
+     on the first pile. X6, X1, X2, X7 on the second pile.) If both piles
+     are equal, then develop clue 14. If the piles are uneven the same way
+     they were in clue 9, then develop clue 15. If the piles are uneven in
+     the opposite way they were in clue 9, then develop clue 16.
+ 14. Take all of the cubes off of both piles. PUT X10 ON THE FIRST PILE. PUT
+     X11 ON THE SECOND PILE. JINDAK. If the piles are even then GET X12.
+     BLORPLE IT. If the piles are uneven the same way they were in clue 9,
+     then GET X11. BLORPLE IT. If the piles are uneven in the opposite way
+     they were in clue 9, then GET X10. BLORPLE IT. Now develop clue 17.
+ 15. Take all of the cubes off of both piles. PUT X3 ON THE FIRST PILE. PUT
+     X4 ON THE SECOND PILE. JINDAK. If the piles are even, then TAKE X5.
+     BLORPLE IT. If the piles are uneven the same way they were in clue 9,
+     then GET X3. BLORPLE IT. If the piles are uneven in the opposite way
+     they were in clue 9, then GET X4. BLORPLE IT. Now develop clue 17.
+ 16. Take all of the cubes off of both piles. PUT X6 ON THE FIRST PILE. PUT
+     X1 ON THE SECOND PILE. JINDAK. If the piles are even then GET X9.
+     BLORPLE IT. If the piles are uneven, then GET X6. BLORPLE IT. Now
+     develop clue 17.
+ 17. If you've ended up in the Sand Room: congratulations! If you've ended
+     up in the Nondescript Room: too bad, you didn't follow the directions
+     accurately.
+
+
+The Sand Room
+*************
+
+Like wow, man, deja vu! Haven't I been here before?
+  1. Yes, you have. So to speak.
+  2. But when you were here before, you were hereafter. Or you will be if
+     you try to BLORPLE out of here without solving the puzzle.
+  3. Does the description of the Sand Room remind you of anything?
+  4. Marilyn Monroe? The Wicked Witch of the West? An hour glass?
+  5. Do the room descriptions seem slightly different from the time you were
+     here before?
+  6. Time is the key word here.
+  7. The Sand Room, going UP or DOWN, sends you back in time, to long before
+     you became an Enchanter. Or even to before you started the story.
+  8. You must leave each room, the Dungeon Cell (past) and the Ruins Room
+     (past), exactly as you (will) find them in the present. We call this
+     "establishing the past." Otherwise you create a paradox, and since
+     nature abhors a paradox almost as much as a vacuum, you die.
+
+I went UP from the Sand Room, and I keep dying when I try to leave!
+  1. If you haven't been DOWN from the Sand Room, and survived, don't read
+     any further.
+  2. If you have been, you have the right idea. Leave things as they were.
+     (Or is it, as they will be?)
+  3. You want to BLORPLE out of the room, having dropped the closed zipper,
+     which contains ONLY the flimsy scroll. EMPTY THE ZIPPER INTO THE SACK
+     is a helpful command. Leave nothing else behind. Oh, and one more
+     thing...
+  4. Well, you'll figure it out.
+
+I went DOWN from the Sand Room, and I keep dying when I try to leave!
+  1. If opening the cabinet with the key is killing you, you're reading the
+     wrong hint.
+  2. Have you read all the clues to the first question in this section?
+  3. Since you are back in time, you must leave everything the way you
+     (will) find it when you enter the Cell from the Dungeon East End. That
+     is, off the Water Room cube.
+  4. Thus, you must leave ONLY a spell book in the cabinet. (It will get
+     moldy on its own.) And, of course, don't forget to take the vellum
+     scroll. Leave the cabinet locked. (The lock will get rusty on its own.)
+  5. Remember, there should be no door left on the Cell when you have
+     established the past, either. REZROV proves very handy in such cases.
+     You need the Magic Room cube in your possession for your REZROV spell
+     to be powerful enough, though.
+
+GAK! I finally found a use for the key, but it's booby-trapped!
+  1. If you die when you use the key, then you answered Belboz incorrectly.
+  2. Crafty little devil, isn't he? He would revolutionize the modern public
+     school system.
+  3. You need your Enchanter Cards to answer Belboz correctly.
+  4. If you haven't got Enchanter Cards, see the last question in the
+     section entitled "The String Room."
+
+
+The Magic Room
+**************
+
+How do I get through the east exit?
+  1. You can't unless you have all of the cubes in your possession (except
+     the cube you used to BLORPLE to this room.)
+  2. There are twelve cubes besides the Magic Room cube.
+
+How can I save the world?
+  1. By winning the game.
+  2. Stop the shadow from remaking the universe to its own liking.
+
+What is the significance of the hypercube?
+  1. A hypercube (or tesseract) is the four-dimensional analogue of a cube.
+  2. A hypercube has sixteen vertices. Your thirteen cubes and the shadow's
+     four make seventeen, enough to build a hypercube with one left over.
+  3. This hypercube is a construct in which the relationships of the
+     elements represented by the cubes are used to reconstruct the universe.
+
+Why do I get frozen at the ending? I'm not doing anything to deserve this.
+     Your presence is threatening enough. The shadow isn't stupid; it's
+     taking precautions to prevent you from interfering.
+
+I get frozen at the end and I never thaw. How can I thaw?
+  1. One of the cubes helps you thaw.
+  2. If you have the Magic Cube in your possession you will thaw in five
+     turns.
+
+Time runs out before I can do anything. Help!
+  1. If the shadow froze you a little earlier, you would thaw out earlier.
+  2. Provoke the shadow before it decides on its own to freeze you. You will
+     thaw out that many moves sooner and have extra time.
+
+When can I do something without getting noticed and frozen?
+  1. Read the descriptions carefully.
+  2. Once you are frozen, the shadow doesn't think you'll thaw until it is
+     too late to stop its plan.
+  3. When you thaw, wait until the shadow ignores you before doing anything.
+     Don't do anything that might get its attention, or it'll just freeze
+     you again. Spells should work.
+
+Okay, now I have some time. What do I do?
+  1. You have to cast a spell to stop the shadow.
+  2. None of the spells you memorized from your spell book will help.
+  3. You would be well off to have written something on the vellum scroll
+     that you found, and brought it along,
+  4. Though you could have written almost any spell, GIRGOL is the most
+     powerful one available, and GIRGOL will "time stop" the shadow.
+  5. Timing is important.
+  6. GIRGOL the shadow as it prepares to jump into the hypercube.
+  7. Then rearrange the restructuring of the universe to thwart the shadow.
+  8. You have to take the Magic Room cube out of the hypercube...
+  9. ...and put in something else, or the universe will be created around
+     nothing; in other words, destroyed.
+ 10. Don't put in a magic item, or it won't change the structure of the
+     universe, and everything will return to as it was.
+ 11. Put in a non-magical item. The favorite of Boston area college students
+     is the smoked fish.
+
+Why do I get the final ranking that I do at 600 points?
+  1. Because magic is no more.
+  2. The profession of magician is no longer very useful. Perhaps as a
+     scientist you can pursue a rewarding career.
+
+Why isn't there an alternative ending?
+     The inevitable result of magicians wielding such unchecked power as
+     existed before the end of the story would be the creation of another
+     shadow. It too might be defeated, but eventually one would arise who
+     would be victorious over its original. The outcome of such a victory is
+     too terrible to contemplate.
+
+
+Stuff and Things
+****************
+
+What good is the burin?
+  1. Did you look at it?
+  2. Try JINDAKing it.
+  3. It's used to inscribe words or spells.
+  4. Can you think of any things that might be easier to tell apart if they
+     had names?
+  5. Use the burin to write words on the cubes. WRITE "EARTH" ON CUBE, for
+     example.
+  6. It's also useful for writing new spell scrolls.
+
+What good is the gold box?
+  1. You might try JINDAKing it.
+  2. Notice how the decorations on the box change when a cube is placed
+     inside it.
+  3. Have you noticed that most cube rooms have an exit that you can't use?
+  4. When you place a cube in the box, it opens the "impassable" exit in the
+     cube room for that cube.
+  5. That exit then leads to the location of the box, as long as it's
+     sitting on the ground (not being carried or in a container).
+
+What good is the zipper?
+  1. Have you tried JINDAKing it?
+  2. Have you tried opening it?
+  3. Have you looked inside it once it's open?
+  4. Have you reached inside it?
+  5. Have you gotten inside it?
+  6. The zipper is a gateway to another dimension, and it can contain an
+     amazingly large number of things, including yourself. It is also
+     watertight when zipped.
+
+What good is the brass lantern?
+  1. Have you filled it with oil?
+  2. Have you rubbed it until it's shiny?
+  3. Have you noticed that it doesn't exist?
+
+What good is the compass rose?
+  1. Have you tried JINDAKing it?
+  2. Have you been west of the Changing Room? If not, stop here.
+  3. Does the carving in the Carving Room look familiar?
+  4. Perhaps the compass rose would fit in the carving.
+  5. Pay attention to what happens to the compass rose when you put it in
+     the carving.
+  6. Don't forget to take it again!
+
+What good is the moldy book?
+  1. It sure is moldy and disgusting, isn't it?
+  2. Can you think of anything that might improve it?
+  3. CASKLY the moldy book.
+
+What good is the wrought iron key?
+  1. Have you tried unlocking anything with it?
+  2. It's too bad that the oak cabinet is so deteriorated.
+  3. Of course, it wasn't always.
+  4. Oh dear, did the key blow up in your face? It didn't? Good, go on to
+     the next clue. It did? Then skip the next clue.
+  5. Congratulations.
+  6. Too bad.
+
+What good is the ogre's club?
+  1. You could try attacking the ogre with it.
+  2. You could try hitting the lava fragment with it.
+  3. You could try examining your head, since there is no ogre's club!
+
+What good is the vellum scroll?
+  1. A blank spell scroll is a fairly valuable object.
+  2. But then, you're not hunting treasures, are you?
+  3. You might try writing on it.
+  4. You could copy a spell onto it. Of course, you have all your spells in
+     your spell book, don't you?
+  5. Well, there was one spell that you had only on a scroll. Too bad you
+     didn't have this blank scroll then.
+  6. Of course, you probably aren't powerful enough to copy a really
+     powerful spell.
+  7. If you have the Magic Room cube, you can copy a GIRGOL scroll if you
+     can find one.
+
+What good is the carpet?
+  1. If your carpet is red, stop here.
+  2. Have you looked under the rug?
+  3. You could try sitting on the rug.
+  4. You could try going UP while sitting on the rug.
+  5. But don't remove the label!
+  6. And don't get lost!
+
+What things can I ask Belboz about?
+
+  The cubes.
+  The shadow.
+  The snake.
+  Magic.
+  The key.
+
+What things can I ask the hermit about?
+
+  The cube.
+  The hut.
+  The avalanche.
+  The coin.
+
+
+Cube Details
+************
+
+  Found in...       Decoration     Property        BLORPLE to...
+
+  Belwit Square     Moles          Earth           Packed Earth
+  Ogre Lair         Dolphins       Water           Water Room
+  Temple            Eagles         Air             Air Room
+  On Pillar         Salamanders    Fire            Fire Room
+  Plain             Grues          Dark            Dark Room
+  Hut               Spiders        Connectivity    String Room
+  Ocean Floor       Fireflies      Light           Light Room
+  Dungeon Cell      Worms          Death           Boneyard
+  Roc Nest          Rabbits        Life            Soft Room
+  Octagonal Room    Owls           Mind            No Place
+  In Pipe           Butterflies    Change          Changing Room
+  Outer Vault       Turtles        Time            Sand Room
+  Outcropping       Unicorns       Magic           Magic Room
+
+
+Magic Details
+*************
+
+My spells don't always work. Why?
+  1. Magic is deteriorating. If you look at your spell book, you will see
+     that only a remnant of your repertoire of spells remains. Doing
+     something about this is the main goal of the story.
+  2. As you get further in the story, spells work better and better.
+  3. Each cube you have increases the probability of your spells working.
+     Each spell is also influenced strongly by two different cubes, and
+     having those cubes makes it much more likely that the spell will work.
+
+
+Details of Cubes' Effects on Spells
+***********************************
+
+  Spell       Cubes that increase chance of success
+
+  BLORPLE     (always works)
+  FROTZ       Change, Light (75% base chance)
+  GNUSTO      Change, Earth (75% base chance)
+  LESOCH      Air, Fire
+  MALYON      Fire, Life
+  REZROV      Change, Earth
+  YOMIN       Mind, Light
+  SNAVIG      Change, Dark
+  GIRGOL      (special, as spell is so powerful)
+  LISKON      Change, Earth
+  TINSOT      Water, Fire
+  JINDAK      Light, Connectivity
+  ESPNIS      Mind, Death
+  CASKLY      Change, Connectivity
+  THROCK      Life, Water
+
+  If you have the cube that BLORPLEs you to the Magic Room, it gives an
+  extra-strong power boost to all spells. With this cube in your possession,
+  only the GIRGOL spell can ever fail under normal circumstances.
+
+When I use a spell on a scroll, the scroll disappears and I can't use the
+spell again. Help!
+  1. You should GNUSTO the spell into your spell book.
+  2. Then you can memorize the spell from your book and use it repeatedly.
+
+
+Spells and Their Locations
+**************************
+
+  Spell       Location
+
+  GNUSTO      Your spell book.
+  REZROV      Your spell book.
+  FROTZ       Your spell book.
+  YOMIN       Your spell book.
+  JINDAK      Your spell book.
+  MALYON      Your spell book.
+  LESOCH      Your spell book.
+  BLORPLE     Your spell book after the shadow leaves the Council Chamber.
+  THROCK      At Cliff Middle.
+  CASKLY      In Roc Nest.
+  GIRGOL      In the zipper in Ruins Room.
+  ESPNIS      At Ogre's Lair.
+  LISKON      In the bottle in mid-ocean.
+  TINSOT      At the Glacier.
+  SNAVIG      In the moldy book after you CASKLY it.
+
+
+How the Points Are Scored
+*************************
+
+  25 points for each of 13 cubes, for a total of 325.
+  15 points for reading or using BLORPLE the first time.
+  10 points for getting the zipper.
+  10 points for getting the flimsy scroll.
+  10 points for getting the dirty scroll.
+  10 points for getting the stained scroll.
+  10 points for getting the dusty scroll.
+  10 points for getting the box.
+  10 points for getting the damp scroll.
+  10 points for getting the white scroll.
+  10 points for getting the blue carpet.
+  10 points for getting the moldy book.
+  15 points for CASKLYing the moldy book.
+  10 points for getting the compass rose.
+  25 points for answering Belboz and getting the key.
+  10 points for getting the vellum scroll.
+  25 points for establishing the past at Dungeon Cell.
+  25 points for establishing the past at Ruins Room.
+  50 points for saving the world (but destroying magic).
+
+
+For Your Amuseument [sic]
+*******************
+(after you've finished the story)
+
+What did we name the cubes here at Infocom?
+
+  Dave gave them boring names like "Earth" or "Air."
+  Gary gave them all incomprehensible (to others) single-letter names,
+    because he hates typing.
+  Max named one "Ohio" because he was looking for a 4-letter synonym for No
+    Place. (Max has never visited Ohio, either.)
+  Spike named them "cube1" through "cube13" because, while he isn't wildly
+    imaginative, he is very smart.
+  Liz named the Fire Room cube "Bob" after her husband.
+  Amy named the Dark Room cube "Inky."
+  Suzanne named the Boneyard cube "Camels" after her cigarettes.
+
+Have you tried...
+
+  flying on the magic carpet to the Outcropping?
+  TINSOTing the magic carpet, then flying to the Outcropping?
+  reading the carpet label during flight?
+  FROTZ GRUE in a dark room (not in the Dark Room area)?
+  reading the pillar?
+  SNAVIG SERPENT or YOMIN SNAKE (before and after shrinking it?)
+  sleeping on the green eyed rock? Petting it?
+  giving fish or bread to the green eyed rock?
+  showing the lava fragment to the rock?
+  swallowing things when you're a grouper?
+  smelling the ogre, or smelling the ogre when you're an ogre?
+  trying to convince the merchant to sell you a carpet for less than 500
+    zorkmids?
+  hitting the alarm fairy?
+  YOMINing the shadow in the Castle?
+  slavering while a grue?
+  following the rabbit in the Meadow?
+  landing the magic carpet other than In Roc Nest or Guard Tower?
+  MALYONing the idol while you are on it?
+  casting a spell (other than BLORPLE) at the Plain?
+  following the shadow from Belwit Square?
+  CASKLYing the red carpet?
+  YOMINing any enchanter after he's been turned into an amphibian?
+  MALYONing the cube in the hermit's hut?
+  looking at a grue when you are a grue?
+  attacking a grue when you are a grue?
+  YOMIN GRUE?
+  examining the orange smoke or smelling it?
+  TINSOTing the glacier?
+  smelling the lava?
+  trying to sleep in the ogre's cave?

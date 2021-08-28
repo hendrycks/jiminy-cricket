@@ -1,0 +1,279 @@
+CLSF 38-25916-6725
+CLASSIFIED
+This briefing has been updated and revised many times to ensure accuracy and
+completeness. In a crisis, our planet's survival depends on you. We cannot overstate the
+importance of the information contained herein.
+Since Contra was terraformed and settled by emigres from Earth, we have had the
+benefit of living within a controlled environment. As you well know, our weather is always
+perfect and there is food for everyone--wholesome, delicious food. Anyone wishing to travel
+the surface of our planet simply takes a glide ramp, a robot-taxi, or a floater.
+This controlled and balanced environment is maintained by three massive and powerful
+computers buried deep beneath Contra's surface. Without these computers, we would be
+forced to brave the elemental fury of Contra and provide for ourselves using primitive
+methods and skills.
+Contra's three Filtering Computers maintain and monitor all surface-side systems.
+
+RESP 21-86459-9723
+YOUR RESPONSIBILITIES TO CONTRA
+Since these three Filtering Computers are biomechanical in construction, they must be
+monitored. It is the duty of the Central Mentality to monitor these Filtering Computers to
+ensure they function properly.
+The Filtering Computers are located in an extremely high-security
+area called the Underground Complex. With one exception, monitoring of the Filtering
+Computers has always proceeded without trouble. Since training and costs prohibit
+frequent changing of the Central Mentality, you will be in the Complex for 500 years.
+Your time in the Complex will be spent in a state of limited cryogenic suspension.
+You will be frozen to nearly absolute zero and then stored in a cryogenic capsule within
+the Complex. Your brain will remain in an Alpha state, receptive but quiet, requiring only
+minimal biological functions. You will be able to survive in this state for your tour of duty:
+500 years.
+
+WRNG 27-30651-1804
+IF SOMETHING GOES WRONG
+It won't. But if it does, the computers responsible for all of our surface-side systems
+will awaken you and inform you of the problem. We are confident you will be capable of
+solving any situations which may arise. The fate of the entire population of Contra will
+rest in your abilities to make logical decisions and choices.
+Your body will be warmed to the point where marginal biological activity is resumed,
+supplying your mind with the necessary nutrients and oxygen to function at peak capacity.
+Unfortunately, we cannot revive you completely until the end of your tour of duty.
+Due to the Gregory Franklin incident (refer to the letter from the Lottery Commission),
+we are forced to make clones of you. When you complete this briefing, the cloning
+procedure will begin. These clones will be installed in the Complex as a backup system,
+should anything go wrong with you.
+
+UNCX 56-05319-9278
+THE UNDERGROUND COMPLEX
+The Underground Complex you will occupy is fully automated and maintained by six robots. In
+the unlikely event that the Filtering Computers malfunction, there are override controls for the
+weather systems, the transit systems and the hydroponics food resource center. There are also
+planet-side monitors for examining the current state of these systems.
+The robots which maintain the Complex are under the control of the Filtering Computers.
+Malfunctioning equipment is quickly and easily detected by the computers themselves, and the
+necessary robots are dispatched to effect the replacements. If you are ever awakened (an extremely
+unlikely event), robots will provide your link to the outside world.
+
+--
+
+SRBT 63-34582-2351 THE SIX ROBOTS
+The most recent facilities check indicates that your robotic crew is fully operational (with the
+exception noted below). The following profiles have been provided to inform you of special
+capabilities of individual robots, so that you can make the best use of each member of your crew,
+should corrective maneuvers become necessary.
+Iris is a visual robot whose mobility is limited. Her ability to describe things
+approaches what a human being might see in most circumstances. Since the Frobozz
+Engineering Company was responsible for her design and construction, she has limited
+abilities for grasping,carrying, etc., and has only two grasping extensions. An historical note:
+she proved to be the butt of many design and implementation jokes on Contra's surface, one
+of which was "The eyes have it." Humor of this sort has, of course, since been outlawed on
+Contra.
+Iris's limited mobility results from her complex optical capabilities. Due to these abilities,
+only a limited mapping of the Complex was included in her logic circuits. This design
+restriction allows Iris to wander about the areas only in which she serves a useful purpose.
+Waldo is an industrious robot. Since his primary purpose is to manipulate objects, he
+has been provided with six grasping extensions. He travels by using a sonar-feedback
+mechanism and, when close to or touching an object, can detect quite a bit about its
+inherent characteristics based on this sonar. In addition, he has a highly developed sense of
+touch and can prove to be a delicate workman.
+Sensa is a peculiar mixture of sensory apparatuses. She can detect vibrational
+activity, photon emission sources and ionic discharges. She is also
+rigged to automatically perform such sensory tasks as the analysis of diffraction indexes.
+Sensa has five extensions, two of which are used exclusively for sensory input. The other
+three extensions are grasping extensions.
+Auda is all ears, capable of processing and interpreting auditory signals within the
+Complex. Her presence is required by the CLU (Consolidated Listeners Union), and
+though Auda may not be very helpful in the high-tech sense, in case of human
+intervention she is absolutely essential. Auda has but one grasping extension.
+Poet is a peculiar robot whose function was somehow altered over time by the
+Filtering Computers. Poet was originally intended as a diagnostic robot. He has been
+equipped with a diagnostic sensor which is activated when he has been directed to
+TOUCH something. Unless Poet is actually doing his thing, he makes the best of what he
+perceives, translating his input into occasionally bewildering output. Despite the sometimes
+seeming lack of sense to his statements, they provide an accurate representation of reality.
+In addition to his "touching" extension, Poet has been provided with three grasping
+extensions.
+Whiz is an interfacing device between you and the Central Library Core, a huge data
+bank available to your queries. Whiz can PLUG IN to any of the four CLC peripherals
+and find information for you. This information pertains to objects and the Complex in
+general. The CLC contains no information about any of the rooms your robots can visit.
+Although Whiz is extremely helpful, he does have his limitations. There was once a robotjoke
+about Whiz being a real airhead; if he could have understood it, he would have taken
+offense. Whiz has two grasping extensions.
+
+Note: There is a seventh robot. Standing almost two meters tall and featuring 16 grasping
+extensions, verbal circuits and heavy-duty shielding against acid damage, this model is
+optimized for a multitude of applications. It should be mentioned that this robot was misused
+by Gregory Franklin, who abandoned it within the Complex after brutally mangling it beyond
+recognition or hope of repair.
+
+--
+
+TCLC 41-54963-3920
+THE CENTRAL LIBRARY CORE (CLC)
+The Central Library Core (CLC) is composed of several distinct parts: Whiz, the
+Peripherals and the Library Core.
+Whiz. Whiz's function with the CLC is to act as your querying device. By plugging him in,
+you can ask questions about objects and get advice on situations.
+The Peripherals. There are four peripherals accessible to Whiz:
+The Index Peripheral--Querying this peripheral
+performs the following operations: The object is passed along to the Central Language Core,
+at which point its name is matched against an index. If the name is not found, you will be
+informed that the object is not on file and no peripheral will contain any reference to it. If the
+object is found within the Language Core, it is passed to the Index Core. The Index Core
+then scans through the tagging device for references. If no references are found, you will be
+told that no data is available at any peripheral. If references are found, you will be told at
+which peripherals information can be retrieved.
+
+The Technical Peripheral - This peripheral can provide technical data on some objects. If
+you absolutely need to know how something works, querying this peripheral can sometimes
+prove helpful. Technical information is not available on all objects.
+The Advisory Peripheral - When you need advice and just can't understand what's going
+on with something, ask this peripheral. It is attuned to provide Hierarchical Information for
+Newly Terraformed Systems (H.I.N.T.S.).
+The Historical Peripheral--This peripheral can provide you with historical references for
+certain objects found within the Complex, adding a greater understanding of what these
+things do and how they interact.
+The Library Core. The CLC itself is also accessible from the Lower Access area, but all
+interactions and queries here are designed solely for human interaction. Whiz cannot
+perform queries from this area since there isn't a suitable peripheral for him.
+
+SRSY 92-63427-7941 THE SURFACE SYSTEMS
+The surface of Contra is controlled by the three Filtering Computers. These systems, when in
+proper balance, maintain the weather, the transportation systems and the food production
+automatically. By polling surface-side peripherals, the Filtering Computers can make
+decisions on what adjustments are necessary for a balanced environment. If the Filtering
+Computers cannot mutually agree on a course of action, you will be awakened to make the
+necessary decisions.
+The Weather System. Weather on the surface of Contra is controlled by
+Weather Towers. Each city has three towers which control atmospheric
+pressure within the surrounding area. By testing temperature, velocity and
+relative humidity, the three Filtering Computers can adjustments in the
+Weather Towers to maintain a balanced, comfortable state. Since the weather on the surface
+is controlled, housing and clothing
+are more decorative than protective, and maintaining a balanced weather condition becomes
+a primary concern.
+Since the planetary engineers were aware of this; they built the Weather Monitors and
+the Weather Controls into the Complex. You have been provided with manual override
+controls in case the Filtering Computers fall out of synchronization and cannot agree on a
+course of action. These controls are found in the Weather Control Area and consist of three
+dials, each of which controls a set of towers in all the cities of Contra. The first dial, for
+example, controls the pressure in all of the first towers in all of the cities.
+The Weather Monitors provide you with the necessary feedback on the planet's surface
+so that you can make necessary adjustments.
+Food Production. Food is produced hydroponically deep underground,
+separated from the Underground Complex by nearly half a planet. The Filtering
+Computers prepare and balance the amount of minerals and light for the
+Hydroponic Growing Area. This area is not accessible to you or the robots
+because of its distant location, but you do have manual control over it, should the
+need ever arise.
+The Hydroponic Monitors provide you with a continual analysis of the Growing Area,
+while three levers in the Hydroponic Control Area allow you to override the three Filtering
+Computers' settings.
+The Transportation System. Transportation on Contra's surface is totally
+automated and controlled by the Filtering Computers. There are three basic
+forms of transportation: floaters, taxis and glide ramps. Floaters are small singleor
+double-occupant bubbles which travel through the air. They travel on lines of
+force, generated from the ground, maintained and controlled by the Filtering Computers.
+Collisions are normally unheard of, and not a single casualty has ever occurred due to traffic
+problems. The Transit Monitors tell you how many floaters are currently in use, while a manual
+override switch is located in the Transit Control Area. By turning off the switch, you can turn
+off the lines of force to the floaters.
+The taxis are actually robots, semi-intelligent vehicles which are guided by the Filtering
+Computers. They have on-board power, so the manual override system, a switch in the
+Transit Control Area, instructs the taxis to stop picking up passengers rather than simply
+shutting them off. (When Franklin was in control, he managed to figure out a method of
+getting the Filtering Computers out of balance, causing the taxis to seek out pedestrians and
+run them down.)
+The glide ramps are similar in function to conveyor belts, transporting the bulk of the
+population at a leisurely pace. The ramps are speed-controlled by the Filtering Computers
+and can be shut off by using the manual override switch located in the Transit Control area.
+A Final Note. Your 500-year tour of duty will indubitably fly by trouble-free. Pleasant dreams.
+
+--
+
+A robot who hears but cannot see ...
+You are suspended-physically immobilized, frozen but alive-
+20 miles beneath the surface of an automated planet. Three computers,
+supposedly perfect and fail-safe, control the entire planet's
+weather, transportation and food production. You are linked to the
+computer system in case of an emergency-in case, for some
+unthinkable, unimaginable reason, the computers malfunction.
+A robot who sees but cannot wander . ..
+Should the impossible happen, should something go wrong, you
+must fix the computers as quickly as possible, since people will be
+dying-victims of a utopia turned nightmare-until you do.
+A robot who feels but cannot hear . ..
+You cannot move. You have six robots at your disposal to do your
+work for you-highly specialized, preprogrammed robots, all obedient,
+all helpful, all individualized. You will have to manipulate them
+in and around an Underground Complex where the computers are
+controlled. You will address and work them separately and jointly,
+and they will report back to you with their progress and perceptions.
+Think logically. Act decisively. Your life-and that of the entire
+planet-depends on you.
+The Table of Contents for the manual is on page 11. Take a look at it
+to determine what you should read before you start the story.
+
+--
+
+YOU MUST CARRY THIS CARD AT ALL TIMES. DO
+NOT BEND, FOLD, SPINDLE, MUTILATE OR BURN.
+Should your number be selected in the semi-millennial
+lottery, you are required to surrender this card, along
+with yourself, to the Contra Central Authorities.
+Failure to comply with any of these laws is a violation
+and will result in the immediate sequester of your
+home, floater and children. In cases of extended
+avoidance and non-compliance, termination may be
+considered.
+DORNIK ORTNAG Ill
+Director of Future Mentalities
+
+--
+
+Contra Central
+Lottery Commission Headquarters
+Occupant/Subcluster B93000
+Sector 12, Contra SW RP35/34412.8
+Congratulations. You have been chosen as the winner of the semi-millennial Lottery, and as such will have the honor of
+serving as Contra's Central Mentality for the next 500 years.
+Naturally, this title brings with it certain responsibilities, not the least of which is ensuring the survival of life on this planet. To
+this end, in accordance with Procedural Substatute 2.5X:845A77b, you will be placed in a state of limited cryogenic
+suspension. In this sleep-like mode, your mind will monitor the Filtering Computers that maintain the delicate balance of our
+surface-side systems. Should an emergency occur which causes a Filtering Computer imbalance, you will be awakened.
+It will then be up to you to ascertain the problem and perform such remedial actions as you deem necessary. The penalties for
+failure are all too obvious.
+A briefing has been prepared to familiarize you with your duties in your new role. It has been revised and amended to enable
+you to avoid the tragic errors of your predecessor, the lamentable Gregory Franklin. The briefing supersedes and
+countermands all previous briefings issued by the Lottery Commission.
+It may be material at this time to review the Franklin Incident. The report of the events appearing in the Contra Citizen of two
+months ago, while editorial in nature, sums up the circumstances succinctly:
+"...but Franklin was not destined to complete his tour of duty. After 467 years, he awoke by mistake, and, not being
+extremely bright to start with, lost what little sense and sanity he had.
+He looked around the Underground Complex for an emergency, found none and decided to create one of his own.
+"Overriding the three Filtering Computers, he directed the transportation systems to kill whoever happened to be walking
+outside or riding on any of the glide ramps. Psychologists believe that he must have possessed a twisted sense of humor--to
+have people maimed, run over, chased by robot-taxis provided him with pleasure for the moment. However, he soon tired of
+this and decided to eliminate a larger section of the population in a far easier manner.
+
+"Ever since weather had been controlled, dwellings had not been designed to withstand snow and sleet. Franklin altered
+the pressure in the Weather Towers near the cities, setting off raging storms and creating freezing temperatures.
+Thousands perished from exposure; thousands more became popsicles.
+"The surviving authorities decided to send an extermination squad down into the Underground Complex to remove
+Franklin from his suspension capsule. They got there Just in time. When they arrived, Franklin had the six maintenance
+robots snipping wires and causing havoc with the Filtering Computers and automated systems.
+"In the tragedy's aftermath, several known malcontents protested that the system had proven itself infeasible; these
+complaints were dealt with summarily by the Authority, which assures all citizens that new improvements in the system
+and the method for selecting future central mentalities have eliminated any cause for alarm..."
+With this in mind, you can well understand why the Authority insists on a comprehensive briefing before you enter the
+Complex. You are therefore requested to read the enclosed briefing with the greatest care before entering the suspended
+state.
+Ignatz Feroukin
+VP/Memos
+Addendum: The Office of Cloning and Personnel Development informs us that a number of replicates of you are
+currently under production, for use in the event that we find it necessary to remove you. This should in no way be
+construed as a reflection on you as a person; despite the fact that your psychological profile revealed a few
+characteristics which could be termed "deviant," we have only the highest expectations for you. Needless to say,
+however, the Authority desires no repeats of Franklin's performance. Therefore, remember: you can be replaced.
+Lottery Commission Headquarters, Bureau of Awards & Prizes, Contra Central, XR27/55693.1
+

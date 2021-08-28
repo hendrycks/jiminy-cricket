@@ -1,0 +1,1486 @@
+                 Through strange, savage zones your way will be shown
+                          by the magical stone called:
+
+                                   Wishbringer
+
+                                       by
+                          "Professor" Brian Moriarty
+
+
+                              Interactive Fiction
+                                    Fantasy
+                              Introductory Level
+
+
+
+                         Instruction Manual & "Feelies"
+
+
+
+
+[The front cover shows a pair of hands cupped together, holding the Wishbringer
+stone. Wishbringer is glowing a bright white, but as the glow spreads out over
+the fingers, it gives them a pinkish-purple appearance.]
+
+
+
+--------
+
+Specially delivered inside this and every WISHBRINGER package: your WISHBRINGER
+disk, enchanted stone that glows in the dark, mysterious sealed envelope, postal
+map of your home town, and The Legend of Wishbringer.
+
+[The disk, envelope and the map are pictured as having spilled out of a dark
+gray canvas mail bag out onto a wooden table with a rough surface. The enchanted
+stone, Wishbringer, is not in the picture.]
+
+
+It's an ordinary day in your ordinary little town, and you've been performing
+your ordinary mail clerk's duties in an altogether ordinary way. But there's
+something quite extraordinary in today's mail. It's a ransom note for a
+kidnapped cat, and it will lead you through unbelievably harrowing adventures to
+Wishbringer, a stone possessing undreamt-of powers. For though the note in
+question is addressed to someone in your ordinary little town, it's postmarked
+for Special Delivery to Parts Unknown. And its true destination is somewhere
+beyond your wildest dreams, c/o the magic of Infocom's interactive fiction.
+
+GET INSIDE A STORY. GET ONE FROM INFOCOM!
+It's like waking up inside a story! Load Infocom's interactive fiction into your
+computer and discover yourself at the center of a world jam-packed with
+surprising twists, unique characters and original, logical, often hilarious
+puzzles.
+
+For the first time, you're more than a passive reader. You can talk to the
+story, typing in full English sentences. And the story talks right back,
+communicating entirely in vividly descriptive prose. What's more, you can
+actually shape the story's course of events through your choice of actions. And
+you have hundreds of alternatives at each step. In fact, there's so much you can
+see and do, your adventure can last for weeks and even months.
+
+To find the Infocom interactive story that's right for you, just choose any one
+marked with the level of difficulty listed below that best matches your current
+level of interactive skill.
+
+Introductory: Best introduction to interactive fiction, with some built-in
+hints. Written for everyone from age 9 up.
+
+Standard: This is Infocom's most popular level of interactive fiction, enjoyed
+by both first-time and experienced players.
+
+Advanced: A greater level of challenge. Recommended for those who've already
+experienced Infocom's interactive fiction.
+
+Expert: The ultimate challenge in interactive fiction.
+
+Then find out what it's like to get inside a story. Get one from Infocom.
+Because with Infocom's interactive fiction, there's room for you on every disk.
+
+INFOCOM
+125 CambridgePark Drive
+Cambridge, MA 02140
+
+Also available for your: Apple II and Macintosh, Atari XL/XE and ST series,
+Commodore 64/128 and Amiga, IBM PC and MS-DOS compatibles, Kaypro II, and many
+others.
+
+Manufactures and Printed in U.S.A.
+(c) 1985 Infocom, Inc.
+Warranty information enclosed.
+
+WISHBRINGER is a trademark of Infocom, Inc.
+
+
+
+--------
+
+[Picture of a wooden table inside a Post Office. The table is covered with
+various objects: a mechanical date stamping machine, a sponge inside a dish for
+moistening stamps, two rubber bands, two rubber stamps, an envelope, several
+stamps, and the introductory letter.  The stamps have the same design as the
+stamp used on the Special Delivery envelope, but are in black with a pink
+background instead of the dark purple with a medium purple background.  The
+introductory letter is hand written on an orange-cream colored paper, and has a
+somewhat rough edge along the left side from being torn off of a pad. The
+letter's top edge was manufactured with a deckled (very rough) edge.]
+
+So you want to work for the Post Office, eh? Okay, sport. Take this letter over
+to the joke shop on the other side of town. And don't listen to the creepy old
+dame who runs the place. She'll go on and on about black cats, trolls, magic
+quests and somebody she calls the Evil One. Says she's got a rock that makes
+wishes come true. Probably talks to UFOs, too.
+
+Be polite. If she offers you a gift, don't take it... and whatever you do, don't
+let her send you on any errands!
+
+The Boss
+
+PS: Better hurry. It's getting Dark outside.
+
+
+
+--------
+
+TAKE THEIR WORDS FOR IT!
+
+"Excellent, excellent, excellent, excellent, excellent, excellent."
+Bob, 39
+Lyndhurst, Ohio
+
+"I like this new style of game--who needs graphics?"
+Rachel, 13
+Arlington, Texas
+
+"Your games really get you to use your thinking cap."
+Larry, 12
+Freehold, New Jersey
+
+"I hate to turn the computer off."
+Shirley, 34
+Baltimore, Maryland
+
+"If I go crazy or become a bum, it's all your fault. I hope you're happy. (P.S.
+It's great.)"
+Stu, 49
+Lockport, New York
+
+"Unlike the arcade games that litter the market, there are few copiers of
+Infocom's interactive fiction. Can it be done? Probably. Can it be done as well
+as Infocom does it, or better? Unlikely. With each new game, Infocom is further
+entrenched in their position as manufacturer of the most unique, highest-quality
+software available on the market today."
+ANALOG COMPUTING magazine
+
+"It ruined my party! Everyone was upstairs playing! (I.e., GREAT!!)"
+Walter, 25
+Wichita, Kansas
+
+"We have said it again and again: Infocom can't be beat. For richness of
+description, unfolding of storyline, sharpness of wit, and challenge of puzzles,
+Infocom has no equal in the software business."
+CREATIVE COMPUTING magazine
+
+"Stop reading this and deliver that envelope!"
+"Corky" Crisp, Postmaster
+Festeron, Antharia
+
+
+
+--------
+
+Local History Series, No. 4
+
+"The Legend of Wishbringer"
+
+
+Reprinted by the Historical Museum of the Festeron Free Public Library
+
+Violet Voss, Curator
+
+[The title is printed over a background of two rectangles. The center rectangle
+is lavender in color, and sits inside a larger rectangle filled with a light
+lavender color. Below the title is a heart symbol, drawn in black. The inside of
+the heart is filled in, but has a jagged crack running from the upper-right area
+to the lower-left area. All around the heart are lines radiating outward, about
+a quarter-inch in length, with longer lines at straight up, down, left and
+right.
+
+The first letter in the title, "T", is an ornamental letter. The T has been
+turned into a harp, with the strings running from the vertical stroke up and to
+the top-right horizontal bar. On a traditional harp, the harpist would be seated
+to the right of the harp, but on this harp, Princess Morning-Star is standing on
+the left side, reaching over the top of the T to pluck the strings. This
+ornamental letter is in black and white.]
+
+
+
+
+Festeron Town Library bookplate
+
+12/11/63   05/14/23
+01/32/64   07/07/53
+01/18/70   11/12/54
+10/10/88   09/20/57
+03/01/96
+06/31/12
+10/24/19
+
+Please take care of me... library books belong to everyone.
+
+[The bookplate contains a drawing at the top, above the area where the check-out
+dates are stamped. The drawing of the Festeron library is done in the same style
+and coloring as in Zork 1's "The Great Underground Empire: A History". The
+library is two stories high and resembles a castle: the entrance is straddled by
+two round towers with cone-shaped roofs that are slightly taller than the main
+roof, and between them and above the entrance is another tower which has a
+traditional flat roof. On the second floor are two skyways at the left and right
+ends of the building, but we do not see which buildings these lead to.]
+
+
+
+
+Local History Series, No. 4
+
+A Moral History, in Verse, of the MAGICK DREAM-STONE recently unearthed by the
+Society of Thaumaturgic Archaeology, and commonly known as WISHBRINGER,
+including a substantial body of hitherto unpublished discoveries regarding the
+mystical properties of said Artifact.
+
+[Below the text is the same broken heart drawing as was on the front cover.]
+
+
+
+CHAPTER THE FIRST
+Of Morning-Star's birth and great beauty and how she was abducted by the envious
+Queen Alexis.
+
+[The "I" that begins the text below is another ornamental letter, in color, as
+are all further ornamental letters. The I stands in front of two people dressed
+in hooded robes. The man on the left holds a baby in his arms, which appears to
+be sleeping peacefully. The man person is bending over a cradle that contains a
+surprised-looking baby. It is not clear if he has just put Queen Alexis' blind
+daughter into the cradle, or whether he is about to pick Morning-Star up out of
+the cradle. The cradle has a solid wooden frame and a curved base, allowing the
+cradle to be rocked back and forth.]
+
+It happened in the reign of mighty Anatinus, King of Misty Island, that there
+was born into a peasant home a daughter, blessed with rare and perfect Beauty.
+Morning-Star they named her; and the legend of her beauty spread through all the
+kingdom, even to the court of Anatinus.
+
+There beside the throne sat Queen Alexis, heavy-hearted. For her newborn
+daughter, cursed by fate and prophecy, was sightless. Loth the Queen to look
+upon her blind child's face! And how the baby Morning-Star more beautiful and
+perfect, made her jealous!
+
+Envy breedeth Evil: Queen Alexis caused the simple peasant home of Morning-Star
+to burn. The sleeping family perished, all but Morning-Star, who, being rescued
+by the Queen's design, became her daughter, sight restored by Prayer.
+
+(The one true Princess, left behind to fill the vacant cradle, perished too, and
+never saw her mother.)
+
+
+
+CHAPTER THE SECOND
+Of Morning-Star's coming of age, and of the many knights who sought her fair
+hand in Marriage.
+
+[The ornamental letter "T" is the same one we first encountered, but in color.]
+
+The years were kind to Morning-Star. Her beauty blossomed like the fragrant
+water-lily into full, abundant maidenhood. Anon befell her ten-and-seventh
+birthday.  
+
+Anatinus made it known that whosoever might desire to win the hand of
+Morning-Star, should now come forth to claim it. To prove his worth, the groom
+must first by needs fulfill a Love-Quest, of the Queen's own choosing, according
+to the custom of the kingdom.
+
+Many were the eager knights who journeyed to the royal palace, hoping there to
+win the love of Princess Morning-Star. Alexis, dark with envy, watched the lusty
+swains descend like vultures 'round her daughter, and vowed in secret not to let
+them have her.
+
+From the knights assembled, Six were chosen, and stood before the heartless
+Queen for testing.
+
+[In the lower right corner of the page is a large picture of Princess
+Morning-Star. She is dressed in a lavender dress with blue accent ribbons. She
+wears a crown of roses and a cone-shaped hat on her head. Before her kneels one
+of the knights. The knight is well-armed, for he bears a knife, sword and
+shield, and wears scale mail on his legs. His cloak is of a red and white
+checkerboard pattern, perhaps his family's colors. Three platypuses lay at
+Morning-Star's feet.
+
+
+
+CHAPTER THE THIRD
+Of the impossible Love-Quests devised by the crafty queen Alexis, and how the
+six knights fared by them.
+
+[Morning-Star has fallen to her knees, framed by the ornamental letter "O". Her
+arms are spread out from her sides, her head tilted back in her anguish over the
+demise of each of the knights.]
+
+One brave knight, a lad but one-and-twenty, was sent across the sea to beg Lord
+Nimbus, God of Rain, to quench the thirsting fields of Frotzen. But the God, not
+sympathetic, smote his vessel with a bolt of lightning.
+
+The second knight, a weapons-bearer, strong of limb and spirit, scaled the
+mountain peak of Matter-Horn, to seek Advice from spirits. The hopes of Princess
+Morning-Star fell with him.
+
+A third knight ventured forth to try the fabled Wings of Icarus, and learn the
+secret method of their Flight, to please Alexis. But alas! the joyful knight,
+whilst soaring home to claim the Princess, flew into the open maw of Thermofax,
+a Dragon.
+
+Alexis sent the fourth knight deep into the Mines of Mendon, there to slay a
+Grue, and drag the carcass up where all might see it. But Darkness overcame the
+hapless knight, who, lost without a lamp, was soon Devoured.
+
+Another knight, the fifth, directed by the Queen to steal the Cocoa-Nut of
+Quendor, chanced upon a lair of hungry Implementors, and did not Foresee his
+peril.
+
+Lastly stood before the Queen a gentle boy, no older than the Princess.
+Morning-Star liked well his beardless smile, and begged her mother not to test
+his Luck to harshly. But Alexis caused the youth to spend an evening midst an
+unclean Cemetery, from whence he ne'er returned; for eldritch Vapors carried him
+away, and gave no reason.
+
+[This chapter occupies two pages. At the bottom of both pages are the graves of
+the six knights. In addition to the gravestone, each grave also is marked with
+one or more items that the knights carried on their quests: sword, helmet,
+dagger, lance and/or shield. The three platypi stand a sad and lonely vigil over
+the graves.]
+
+
+
+CHAPTER THE FOURTH
+Of the Edict of Alexis, the demise of Morning-Star, and the discovery, many
+years after, of a Magick Stone, called Wishbringer.
+
+[In this ornamental letter "Q", we see Morning-Star in left profile. She is
+still on her knees, but now has her face buried in her hands. The tears she is
+crying are shown falling behind her. Each teardrop is many times larger than a
+normal teardrop, symbolizing the depth of Morning-Star's sorrow.]
+
+Queen Alexis cried, "Is no man in the kingdom fit to wed my only daughter? 
+Methinks she must remain unmarried, then, and Virgin all her days." So it was
+Written.
+
+Morning-Star hoped death might grant her Freedom from the Edict of Alexis, by
+her mother's timely passing. But the Reaper (busy elsewhere with a Plague) heard
+not her praying; so Alexis lived, and laughed, and watched her daughter's beauty
+fade away, and all her Wishes dwindle in her bosom.
+
+- - -
+
+Many kingdoms after, when the reign of Anatinus was forgotten, and the names of
+Morning-Star and Queen Alexis lost in Time, there came unto the Misty Isle a
+Scholar, who, amid the crumbling tombs of monarchs, chanced upon the mortal
+relic of the Princess. All was Dust, except her Heart, which, hard and shrunken
+to a pebble in the grave, was shining brightly with the stifled Wishes of her
+lifetime.
+
+Thus, the Magick Stone of Dreams was discovered.
+
+
+
+CHAPTER THE FIFTH
+Of the Seven Wishes, and what ye must know to invoke them.
+
+[The final ornamental letter places the letter "S" at the top of a small hill. A
+platypus stands next to a simple grave with the letters "RIP" engraved on it.
+Large fluffly clouds are visible in the sky, and part of an apple tree can be
+seen.]
+
+Seven is the number of the Wishes bound into the Stone; and if ye speak a Wish,
+that wish is Spent, and lost forever. Also know, that ye must hold the
+Wishing-Stone within thy hands to wield its Magick. Look ye, then, upon the
+Seven Wishes:
+
+RAIN falls for only the bearer of the Stone who standeth under an Umbrella.
+
+ADVICE may bring wise counsel to the bearer of the Stone who listeneth to
+Sea-Shells.
+
+FLIGHT shall bear the Magick-wielder swiftly home, if ye be sitting on a
+Broom-Stick.
+
+DARKNESS, blacker than the Night, shall fall across the land if Milk of Grue
+thou drinkest.
+
+FORESIGHT lifts the veil of Time, and shows the Future, but prepare thy eyes
+with Glasses.
+
+LUCK will bring good Fortune, if ye hold a Horseshoe and the Stone in thy
+possession.
+
+FREEDOM springs the dreamer from confinement, but mark well that ye first hath
+eaten Candy.
+
+[The bottom of the page shows how Morning-Star's heart hardened into the
+Wishbringer. It starts out with a traditional heart symbol, drawn to indicate
+that it was a three-demensional object rather than a flat picture, similar to
+what a heart-shaped balloon would look like when inflated. The second part of
+the picture shows the heart shrinking and turning to stone. The center still
+glows with her Wishes, but now it more closely resembles the shape of an actual
+human heart. The third part shows that her heart has fully turned to stone and
+continued to shrink. The final portion shows that Morning-Star's heart has
+shrunk to about half its original size, but now glows with a white light. This
+glow is muted slighly since the heart is inside a closed red velvet pouch, but
+the glow is bright enough to cause the velvet to be almost transparent.]
+
+
+
+EPILOGUE
+
+Now ye know the Origins and Magick of the Wishing-Stone. But know ye also, bold
+Adventurer, that every problem ye encounter in thy travels may be also bested by
+the spell of Logick. Exercise thy Brain, and work thy Wits! Forget ye not that
+Morning-Star, a Princess, who threw away her Youth in easy Wishing, died in
+vain. Let her fate be thy Warning.
+
+Mutato nomine, de te fabula narratur.
+
+
+
+--------
+
+The Envelope
+
+[The return address is simply "The Tower". The postage stamp in upper left
+corner is a drawing in dark purple ink of a platypus on a medium purple
+background, with two tufts of field grasses. It bears the caption of E PLATYPUS
+UNUM, a play on the phrase E PLURIBUS UNUM ("out of many, one").  The value of
+the stamp is 90.8, but the currency type is not specified. In between the return
+address and the postage stamp, but slightly lower, are the words "SPECIAL
+DELIVERY" in red with a line above and below them, stamped on the envelope by a
+rubber stamp.]
+
+[Destination address:]
+Proprietor
+Ye Olde Magick Shoppe
+North Festeron, Antharia
+23-52-1
+
+
+
+--------
+
+Back flap of envelope:
+
+Important:
+Don't open this envelope until the story tells you to do so.
+INFOCOM
+
+
+
+--------
+
+The letter:
+
+[The paper has a slightly darker tint to it. It has the same spots and fibers in
+it as the envelope, but has a more deeply-textured surface running horizontally,
+giving it an appearance of cloth or fabric. The writing is the same as on the
+envelope--uneven and with ink spatters.]
+
+Deliver the Magick Stone to me before the moon sets or you will never see your
+cat again!
+
+The Evil One
+
+
+
+--------
+
+The postal map:
+
+
+Postal Zones
+Festeron, Antharia
+& Vicinity
+
+
+Primary Postal Grid
+All zones outside the Primary Postal Grid are classified Outlying Regions and
+are disgnated by code no. 23-52-1.
+
+For use by registered Antharia postal service personnel only.
+
+[The map shows that Festeron is located on a small peninsula. Along the outer
+edges are grid indicators, labeled A through E and 1 through 5, but in the
+middle of the map, only 13 locations have boxes drawn around them. Across the
+river to the east is the tip of an island. To the north, a covered bridge
+connects Festeron to another section of land. It is at the top of a hill on this
+other land area that we see the Magick Shoppe, with a trail running from the
+bridge up and around the hill to the Shoppe's front door. At the southern edge
+of Festeron, we see the Post Office sitting atop a smaller hill. No paved roads
+leading in to Festeron from the outside world are shown on the map.]
+
+
+Grid locations:
+
+1C: South of Bridge
+
+2B: Lookout Hill
+2C: Rotary North
+2D: a wooded area
+
+3A: Lake Edge
+3B: Rotary West
+3C: Park
+3D: Rotary East
+3E: Pleasure Wharf
+
+4B: Spooky Copse
+4C: Rotary South
+4D: an open area
+
+5C: Hilltop
+
+
+
+--------
+
+Page 1
+
+
+Instruction Manual for Wishbringer
+
+Welcome to the world of Infocom's Interactive fiction, a world where:
+
+* You are the hero or heroine in a story,
+
+* You use your own thinking and imagination to guide the story from start to
+finish.
+
+* You meet other people, who may or may not help you, and
+
+* You can go to new places, figure out mysteries and puzzles, and fight against
+enemies.
+
+In Wishbringer, you're a postal clerk in a small seaside village called
+Festeron. You deliver a strange envelope to a magic shop, and discover that an
+old woman's black cat has been kidnapped by "the Evil One." The old woman asks
+for your help, and when you leave the magic shop, you find yourself trapped in a
+nightmare world. Your once-quiet town is now full of nasty trolls, vultures,
+fortress-like towers, and assorted wickedness. You become entangled in the
+struggle between Good and Evil; extraordinary help is found only in unusual
+places. Others seek to possess a magic stone of dreams known as Wishbringer; but
+only you can find it and use its powers to make your town safe again. And you
+only have a few hours!
+
+If you're experienced with Infocom's interactive fiction, you may not feel like
+reading this entire manual. However, you should at least read about wishing for
+magic (on page 5). Also look at the appendix of recognized verbs (on page 8);
+some of them can be used in all Infocom stories, but others are special for
+Wishbringer. If you study the postal map (included in your package), you will
+know where you are and where you can go. That will make it easier to decide what
+to do next.
+
+
+
+Table of Contents
+
+An Overview -- Page 2
+* What is interactive fiction?
+* Moving around
+* Turns and scoring
+
+Tips for Novices -- 3
+Nine useful pointers about interactive fiction
+
+Communicating with Wishbringer -- 4
+* Basic sentences
+* Complex sentences
+* Why doesn't it know that word?
+
+Wishing for Magic -- 5
+
+Starting and Stopping -- 6
+* Starting Wishbringer ("Booting Up")
+* Saving and restoring
+* Quitting and restarting
+
+Appendix A: Important Commands -- 7
+
+Appendix B: Some Recognized Verbs -- 8
+
+Appendix C: Wishbringer Complaints -- 9
+
+Appendix D: Sample Transcript and Map -- 10
+
+Appendix E: We're Never Satisfied -- 11
+
+Appendix F: If You Have Technical Problems -- 11
+
+Appendix G: About the Author -- 12
+
+Appendix H: Quick Reference Guide -- 12
+This briefly describes the most important things to know about interactive
+fiction. It is vital that you know all these things before you begin your
+adventure.
+
+Appendix I: Copyright and Warranty Information -- 13
+
+
+--------
+
+Page 2
+
+
+An Overview
+
+Interactive fiction is a story in which you are the main character. Your own
+thinking and imagination guide the actions of that character and guide the story
+from start to finish.
+
+Each of Infocom's interactive fiction, such as Wishbringer, tells you about a
+series of places, items, characters and events. You can interact with these in a
+variety of ways.
+
+To move from place to place, type the direction you want to go. When you go into
+a new place, read about it carefully. There may be something interesting or
+useful (or dangerous) there! You will find it helpful to draw a map of the
+geography as you move around.
+
+An important part of interactive fiction is solving puzzles. If you find a
+locked door or a ferocious beast in the story, don't think of it as an obstacle;
+it's just a puzzle to be tackled. Sometimes the best way to solve a puzzle is to
+find something in the story, then take it with you and use it in the right way.
+
+When you play Wishbringer, the story goes on only from the time you press the
+RETURN (or ENTER) key until you see the prompt (>). You could imagine a clock
+that ticks once for each sentence you type, and the story continues only at each
+tick. Nothing happens until you type a sentence and press the RETURN (or ENTER)
+key, so you can think and plan your turns as slowly and carefully as you want.
+
+Wishbringer keeps track of your score and gives you points when it thinks you
+have done something "right." You may get points for solving puzzles, doing
+certain things, or visiting certain places. You can try to get a perfect score
+if you want, but you can also try to guide the story to an ending that you like
+and have fun along the way.
+
+
+
+--------
+
+Page 3
+
+
+Tips for Novices
+
+1. Draw a map. It should include each location, the directions connecting it to
+other locations and any interesting objects there. (See the small sample map
+that goes along with the sample transcript on page 10.) Note that there are 6
+possible directions (NORTH, EAST, SOUTH, WEST, UP and DOWN) plus IN and OUT.
+
+2. Many things that you'll discover in Wishbringer are important because they
+give you clues about the puzzles you want to solve. So examine anything and
+everything that you come across. Most of the objects that you can pick up in the
+story are useful for solving one or more of the puzzles.
+
+3. Save your place often. That way, if you mess up or get "killed," you won't
+have to start over from the beginning. See page 6 for instructions.
+
+4. Read the story carefully. Often there are clues in the descriptions of
+locations and objects, as well as in signs, messages, and so on. You should
+examine or read anything that might be important. Even a silly or dangerous
+action may give you a clue, and it might even be fun! You can always save your
+place first if you want. Here's a silly example:
+
+> GIVE THE ROLLER SKATES TO THE VULTURE
+The vulture attempts to eat the roller skates, but eventually gives up. It
+continues to peck you on the head.
+
+Here you have learned that this vulture doesn't like to eat roller skates, and
+you have a clue that maybe giving something else to the vulture (some raw meat?)
+would be better.
+
+5. Unlike other "adventure games" that you may have played, there are many ways
+to get to the end of Wishbringer. Some puzzles that you find along the way may
+have more than one solution; and you may not need to solve others at all.
+Sometimes solving a puzzle one way will make it harder to solve another, and
+sometimes it will make it easier.
+
+6. You'll like playing Wishbringer with a friend, because different people may
+find different puzzles easy or hard. So two more players can often have more
+fun, and do better, than one player alone..
+
+7. If you really have trouble, you can order a hint booklet from Infocom by
+filling out and mailing the order form in your package. You don't need this 
+booklet to enjoy the story, but it will make solving the puzzles easier.
+
+8. Read the sample transcript on page 10 to get a feeling for how Infocom's
+interactive fiction works.
+
+9. You can word a command in many different ways. For example, if you wanted to
+pick up a shiny hammer that was sitting on a table, you could type any of the
+following:
+
+> TAKE HAMMER
+> TAKE THE HAMMER FROM THE TABLE
+> PICK UP THE SHINY HAMMER
+> GET THE HAMMER
+
+In fact, if the hammer is the only object there that you can take, just typing
+TAKE would be enough. But more about that in the next section...
+
+
+
+--------
+
+Page 4
+
+
+Communicating with Wishbringer
+
+In Wishbringer, you type your sentence in plain English each time you see the
+prompt (>). Wishbringer usually acts as if your sentence begins "I want to...,"
+although you shouldn't actually type those words. You can use words like THE if
+you want, and you can use capital letters if you want; Wishbringer doesn't care
+either way.
+
+When you have finished typing a sentence, press the RETURN (or ENTER) key.
+Wishbringer will respond, telling you whether your request is possible at this
+point in the story and what happened as a result.
+
+Wishbringer looks only at the first six letters of your words, and it ignores
+any letters after the sixth. So, LIBRARy, LIBRARies, and LIBRARian would look
+like the same word to Wishbringer.
+
+To move around, just type the compass direction in which you want to go. You can
+use four compass directions: NORTH, EAST, SOUTH, and WEST. Or you can use these
+abbreviations: N, E, S, and W. You can also use UP (or U), DOWN (or D), IN and
+OUT. You don't need to walk around or turn around in a place; anything that you
+can see there is within your reach.
+
+Wishbringer understands many different kinds of sentences. Here are several
+examples. You may not actually use these commands in Wishbringer, but you'll
+certainly use commands like them in the story.
+
+> WALK NORTH
+> DOWN
+> GO UP
+> TAKE THE FOUR-LEAF CLOVER
+> PICK ON THE HAT
+> WISH FOR RAIN
+> LOOK UNDER THE GLASS CASE
+> DROP THE ENVELOPE ONTO THE COUNTER
+> EXAMINE THE PELICAN
+> PUSH THE RED BUTTON
+> LOOK AT THE TREE
+> WALK INTO THE POLICE STATION
+> GO IN THE POST OFFICE
+> GIVE THE BOOK TO THE LIBRARIAN
+
+If you want to TAKE or DROP more than one object, you can do it in one command
+by separating the objects with a comma or the word AND. Here are some examples:.
+
+> TAKE THE BLACK UMBRELLA, THE HAT, AND THE COIN
+> DROP THE LETTER AND THE ENVELOPE
+
+You can type several sentences on one line if you separate them by the word THEN
+or by a period. (Each sentence will still count as a turn.) You don't need a
+period at the end of the line. If Wishbringer doesn't understand one of the
+sentences, or if something unusual happens, it will ignore the rest of your
+input line (see "Wishbringer Complaints" on page 9.) For example, you could type
+all of these sentences at once, before pressing the RETURN (or ENTER) key:
+
+> OPEN THE MAILBOX THEN PUT THE LETTER IN IT. CLOSE THE MAILBOX THEN GO SOUTH
+THEN TAKE THE GLASS OF WATER THEN GO NORTH. DRINK THE WATER
+
+The words IT, HIM, and HER can be very useful. For example:
+
+> TAKE THE BOX. OPEN IT. PUT IT ON THE TABLE
+
+> CLOSE THE HEAVY METAL DOOR. LOCK IT
+
+> KNOCK ON THE LIBRARY DOOR THEN OPEN IT
+
+> GIVE THE LETTER TO THE WOMAN THEN ASK HER FOR A BOOK
+
+You'll meet many people and creatures in Wishbringer. You can ask them questions
+or talk to them like this:
+
+> ASK MISS VOSS ABOUT THE VOILET NOTE
+
+> ASK SERGEANT MACGUFFIN FOR THE CHOCOLATE
+
+> QUESTION THE OLD WOMAN
+
+> BETTY, TELL ME ABOUT STEVE
+
+> GRAVEDIGGER, UNLOCK THE GATE
+
+> ALICE, SIT DOWN
+
+But remember: Most people in the story don't have time for idle chatter. Your
+deeds will speak louder than your words.
+
+Wishbringer tries to guess what you really mean if you don't give enough
+information. For example, if you type that you want to do something, but not
+what you want to do it to or with, Wishbringer may decide that there is only one
+possible object that you could mean. When it does this, it will tell you. For
+example:
+
+> GIVE TROMBONE
+(to the musician)
+The musician accepts your kind gift and starts playing "Dixie".
+
+If your sentence is not clear enough, Wishbringer will ask what you really mean.
+You can answer by typing just the missing information, not the whole sentence
+again. You can do this only at the very next prompt. For example:
+
+> OPEN THE DOOR
+(Which door do you mean, the sliding door or the storage room door?)
+
+> SLIDING
+The sliding door is now open.
+
+Wishbringer uses many words in its descriptions that it will not recognize in
+your sentences. For example, you might read, "Sunlight shimmers across the dusty
+cobwebs." However, if Wishbringer doesn't recognize the words SUNLIGHT or
+COBWEBS when you type them, then you know that you don't need them to finish the
+story; they just give you a more vivid description of where you are or what is
+going on. Wishbringer recognizes over 1000 words, nearly all that you are likely
+to use in your sentences. If Wishbringer doesn't know a word you used, or any
+word that means the same, you are almost certainly trying something that you
+don't need to do.
+
+
+--------
+
+Page 5
+
+
+Wishing for Magic
+
+Wishbringer is a powerful and magical stone. If you're holding Wishbringer, you
+can make seven special wishes come true. You can wish for ADVICE, DARKNESS,
+FLIGHT, FORESIGHT, FREEDOM, LUCK, or RAIN. You wish for these simply by typing
+WISH FOR ADVICE, WISH FOR DARKNESS, etc.
+
+However, you need more than the stone to make the wishes come true. According to
+The Legend of Wishbringer, you also need a different object for each wish. These
+are described below.
+
+To WISH FOR ADVICE, you need both Wishbringer and a sea shell. As long as you're
+holding both, you'll continue to receive ADVICE periodically.
+
+To WISH FOR DARKNESS, you need to drink grue's milk and hold the stone. You must
+WISH FOR DARKNESS soon after drinking the milk; otherwise the wish won't come
+true.
+
+To WISH FOR FLIGHT, you need to sit on a broomstick while holding the stone. In
+the story, flying on the broomstick will always take you to the Magick Shoppe.
+
+To WISH FOR FORESIGHT, you must be holding the stone while wearing a pair of
+glasses. Your wish won't come true if you're simply holding the glasses; you
+must be wearing them.
+
+To WISH FOR FREEDOM, you must hold the stone and eat candy. Like DARKNESS, you
+have to WISH FOR FREEDOM soon after eating the candy; otherwise your wish won't
+come true.
+
+To WISH FOR LUCK, you must be holding both the stone and a horseshoe. Your luck
+will be broken whenever you drop either the horseshoe or the
+stone, but will come back whenever you pick them up again.
+
+To WISH FOR RAIN, you need to be holding an open umbrella and the stone. This
+wish won't work indoors.
+
+Remember that most wishes can only be used once. If you get trapped and use your
+WISH FOR FREEDOM successfully, you won't be able to use it again later. So use
+your wishes carefully; you don't want to waste them.
+
+
+
+--------
+
+Page 6
+
+
+Starting and Stopping
+
+Starting the story:  Now that you know what to expect in Wishbringer, it's time
+for you to "boot" your disk. To load Wishbringer, follow the instructions on the
+Reference Card in your package.
+
+First the program will display the title of the story, followed by the first bit
+of action and a description of the place where the story begins. (Your Reference
+Card tells what to do when a full screen of lines rolls by and the program waits
+until you're ready to go on.) Then the prompt (>) will appear. The prompt (>)
+means that Wishbringer is ready for your command.
+
+Each time you finish typing a command, press the RETURN (or ENTER) key. The
+program will carry out your command(s), and another prompt will appear.
+
+Here is a quick exercise to help you get used to Wishbringer. For your first
+command after the story begins, type in next to the prompt (>):
+
+GO WEST
+
+Then press the RETURN (or ENTER) key. Wishbringer will respond with:
+
+Outside Cemetery
+You're standing next to an open iron gate that leads west into the Festeron
+Cemetery. A road runs east to the top of Post Office Hill.
+What next?
+
+Maybe you'd like to try climbing the gate, so at the next prompt (>) type:
+
+CLIMB THE GATE
+
+After you press the RETURN (or ENTER) key, Wishbringer will respond:
+
+The iron gate is much too high!
+
+Saving and restoring:  It will probably take you many days to complete
+Wishbringer. If you the SAVE command, you can continue at another time without
+having to start over from the beginning, just as you can place a bookmark in a
+book you are reading. The SAVE command puts a "snapshot" of your place in the
+story onto another disk. If you are cautious, you may want to save your place
+before (or after) trying something dangerous or tricky. That way, you can go
+back to that point later, even if you have gotten lost or "killed" since then.
+
+To save your place in the story, type SAVE at the prompt (>), and then press the
+RETURN (or ENTER) key. Then follow the instructions for saving and restoring on
+your Reference Card. Most computers need a blank disk, already initialized and
+formatted, for snapshots. If you use a disk with data on it (not counting other
+Wishbringer snapshots), that data may be destroyed.
+
+You can restore a saved place any time you want. To do so, type RESTORE at the
+prompt (>), press the RETURN (or ENTER) key, and then follow the instructions on
+your Reference Card. You can then continue the story from the point where you
+used the SAVE command. You can type LOOK for a description of where you are.
+
+Quitting and restarting:  If you want to start over from the beginning, type
+RESTART and press the RETURN (or ENTER) key. (This is usually faster than
+re-booting.) Just to make sure, Wishbringer will ask if you really want to start
+over. If you do, type Y or YES, and press the RETURN (or ENTER) key.
+
+If you want to stop entirely, type QUIT and press the RETURN (or ENTER) key.
+Once again, Wishbringer will ask if this is really what you want to do.
+
+Remember when you RESTART or QUIT: if you want to be able to return to this
+point later, you must first use the SAVE command.
+
+
+
+--------
+
+Page 7
+
+
+Appendix A: Important Commands
+
+There are a number of one-word commands which you can type instead of a
+sentence. You can use them over and over whenever you want. Some count as a
+turn, others do not. Type the command after the prompt (>) and hit the RETURN
+(or ENTER) key.
+
+AGAIN--Wishbringer will usually respond as if you had repeated your previous
+sentence. (You can use the abbreviation G instead.)
+
+BRIEF--This tells Wishbringer to tell all about a place or thing only the first
+time you see it. If you see it again later, Wishbringer will tell you only its
+name. This is the normal way that Wishbringer will act, unless you use the
+VERBOSE or SUPERBRIEF commands.
+
+INVENTORY--Wishbringer will list what you are carrying. (You can use the
+abbreviation I instead.)
+
+LOOK--This tells Wishbringer to describe the place you are in. (You can use the
+abbreviation L instead.)
+
+QUIT--This lets you stop. If you want to save your place before quitting, follow
+the instructions in "Starting and Stopping" on page 6. (You can use the
+abbreviation Q instead of QUIT.)
+
+RESTART--This stops the story and starts over from the beginning.
+
+RESTORE--This lets you continue from any point where you used the SAVE command.
+See "Starting and Stopping" on page 6 for details.
+
+SAVE--This puts a "snapshot" of your place onto your storage disk. You can
+continue from the same place in the future by using the RESTORE command. See
+"Starting and Stopping" on page 6 for details.
+
+SCORE--Wishbringer will show your score and the number of turns you have taken.
+
+SCRIPT--This command tells your printer to begin making a transcript of the
+story as you play. A transcript may help you remember, but you don't need it to
+play. It will work only on certain computers; read your Reference Card for
+details.
+
+SUPERBRIEF--This commands Wishbringer to tell you only the name of a place you
+have entered, even the first time you see it. Also, Wishbringer will not tell
+you what things are there. Of course, you can always get a description of a
+place, and the items there, by typing LOOK. In SUPERBRIEF mode, there is no
+blank line between turns. This mode is meant for players who are already very
+familiar with the geography. Also see VERBOSE and BRIEF.
+
+TIME--This tells you the current time of day in the story. (You can use the
+abbreviation T instead.)
+
+UNSCRIPT--This tells your printer to stop making a transcript. Also see SCRIPT.
+
+VERBOSE--This tells Wishbringer to tell you all about a place or thing every
+time you see it. Also see BRIEF and SUPERBRIEF.
+
+VERSION--This will show you the release number and the serial number of your
+copy of the story. Please send us this information if you ever report a "bug" in
+Wishbringer.
+
+WAIT--This will cause time to pass in the story. Normally, between turns,
+nothing happens in the story. You could leave your computer, take a nap and
+return to the story to find that nothing has changed. You can type WAIT to make
+time pass in the story without doing anything. (You can use the abbreviation Z
+instead of WAIT.)
+
+
+
+--------
+
+Page 8
+
+
+Appendix B: Some Recognized Verbs
+
+This is only a partial list of the verbs that Wishbringer recognizes. There are
+many more. Remember that you can use prepositions with them. For example, LOOK
+can become LOOK INSIDE, LOOK BEHIND, LOOK UNDER, LOOK THROUGH, LOOK AT and so
+on.
+
+ATTACK   ENTER    LISTEN  SHOW
+BLOW     EXAMINE  LOOK    SIT
+BREAK    EXIT     MOVE    TAKE
+CLIMB    FIND     OPEN    TELL
+CLOSE    FOLLOW   PULL    THROW
+DESTROY  GIVE     PUSH    UNLOCK
+DIVE     KICK     PUT     WAIT
+DRINK    KILL     RAISE   WALK
+DROP     KISS     READ    YELL
+EAT      KNOCK    SEARCH
+
+
+
+--------
+
+Page 9
+
+
+Appendix C: Wishbringer Complaints
+
+Wishbringer will complain if you type a sentence that confuses it completely.
+Wishbringer will then ignore the rest of the input line. (Unusual events, such
+as being attacked, may also cause Wishbringer to ignore the rest of the
+sentences you typed, since the event may have changed your situation
+drastically.) Some of Wishbringer's complaints:
+
+SORRY, BUT THIS STORY DOESN'T RECOGNIZE THE WORD "[your word]."
+The word you typed is not in the program's list of words. Sometimes you can use
+another word that means the same thing. If not, Wishbringer probably can't
+understand what you were trying to do.
+
+SORRY, BUT THIS STORY CAN'T UNDERSTAND THE WORD "[your word]" WHEN YOU USE IT
+THAT WAY.
+Wishbringer knows the word you typed, but it couldn't understand it in that
+sense. Usually this is because Wishbringer knows the word as a different part of
+speech. For example, if you typed PRESS THE LOWER BUTTON, you are using LOWER as
+an adjective, but Wishbringer might know LOWER only as a verb, as in LOWER THE
+ROPE.
+
+THERE DOESN'T SEEM TO BE A VERB IN THAT SENTENCE!
+Unless you are answering a question, each sentence must have a verb (or a
+command) in it somewhere.
+
+THERE AREN'T ENOUGH NOUNS IN THAT SENTENCE!
+This usually means that your sentence was incomplete, such as PUT THE BOOK IN
+THE.
+
+THERE ARE TOO MANY NOUNS IN THAT SENTENCE.
+An example is PUT THE SOUP IN THE BOWL WITH THE LADLE, which has three noun
+"phrases," one more than Wishbringer can digest in a single action.
+
+BEG PARDON?
+You hit the RETURN (or ENTER) key without typing anything.
+
+YOU CAN'T SEE ANY [thing] HERE!
+The thing in your sentence was not visible. It may be somewhere else, inside a
+closed container, and so on.
+
+THE OTHER OBJECT [or OBJECTS] THAT YOU MENTIONED ISN'T [or AREN'T] HERE.
+You used two or more nouns in the same sentence, and at least one of them wasn't
+visible.
+
+YOU CAN'T USE MORE THAN ONE DIRECT [or INDIRECT] OBJECT WITH "[your verb]."
+You can use multiple objects (that is, nouns or noun phrases separated by AND or
+a comma) only with certain verbs like TAKE and DROP. You can't use more than one
+object with most verbs, like READ; so you can't READ THE ENVELOPE AND THE BOOK.
+
+SORRY, BUT THAT SENTENCE DIDN'T MAKE SENSE. PLEASE REWORD IT OR TRY SOMETHING
+ELSE.
+Wishbringer thought the sentence you typed was nonsense, such as GIVE HIM WITH
+TOOL. Or, you may have typed a reasonable sentence but used a syntax that
+Wishbringer does not recognize, such as SMELL UNDER THE ROCK. Try typing what
+you want to do in a different way.
+
+
+
+--------
+
+Page 10
+
+
+Appendix D: Sample Transcript and Map
+
+This transcript is not from Wishbringer, but it does show most of the usual
+things you can do in the story. It shows several simple puzzles and their
+solutions, and it should give you a good idea of how Infocom's interactive
+fiction works. The player's sentences appear in capital letters after each
+prompt (>). The map represents the terrain in the sample transcript as you might
+have drawn it.
+
+You awake suddenly from a deep sleep. You are about to roll over and doze off
+again when you hear your unicorn, Harry, neighing outside. You get out of bed,
+turn on the light, and look under the pillow. Whew! There's Wishbringer, where
+you left it. But your wallet, which had been on the bedside table, is missing!
+
+[Sample map not included.]
+
+Bedroom
+You're standing in your bedroom, which is small but comfortable. A closed door
+leads south into the living room. In a corner of the room sits a bedside table.
+Under the pillow on your bed is the magical Stone, Wishbringer.
+
+> TAKE WISHBRINGER
+Taken
+
+> GO SOUTH
+The bedroom door is closed.
+
+> OPEN THE BEDROOM DOOR
+Okay, the bedroom door is now open.
+
+> GO SOUTH
+Living Room.
+
+This is your Cozy Living Room, one of the latest models from the Frobozz Magic
+Cozy Living Room Company. Two rocking chairs sit in front of a fireplace at one
+end of the room; a telephone rests on an oak desk at the other end. A small
+picture hangs above the fireplace. The closet door on the west wall is closed.
+
+A cool breeze blows through the open front door, which leads east onto your
+porch.
+
+> LOOK AT THE PICTURE
+The picture above the fireplace shows a small white farmhouse, not unlike your
+own. In red letters above the house are the words "Home Sweet Home."
+
+The cool breeze continues to blow through the open front door, making you
+shiver.
+
+> CLOSE THE FRONT DOOR
+You push the door against the wind and close it. Ah, that's better!
+
+> FIND THE WALLET
+You can't see any wallet here. Again, you hear your unicorn Harry neighing.
+
+> GO OUTSIDE
+The front door is closed.
+
+> OPEN THE DOOR
+(Which door do you mean, the closet door or the front door?)
+
+> FRONT
+Okay, the front door is now open. A cool breeze blows into the room.
+
+> GO OUTSIDE
+Porch
+
+You're standing on the front porch of your home. The white paint is chipped, and
+the floorboards creak. To the south is the barn. It's chilly out here. You
+better not go anywhere without your coat.
+
+> GO INSIDE
+Living Room
+
+> OPEN THE CLOSET DOOR
+Okay, the closet door is now open.
+
+> GO INTO THE CLOSET
+Closet
+
+This is your cedar-lined closet. The aromas make you light-headed. Your coat and
+an umbrella are here.
+
+> TAKE THE COAT. PUT IT ON
+Taken.
+Again, you hear your unicorn Harry neighing.
+
+Okay, you're now wearing the coat.
+
+> GO OUT THEN WALK EAST THEN SOUTH
+Living Room
+
+Porch
+
+Outside Barn
+Your red-and-black barn is here. That's odd; you thought your barn was yellow
+and green. You look again. Ah. That explains it--the red is the flames licking
+the walls of the silo, and the black is the thick smoke billowing from the door
+and windows. A bucket and a pump sit nearby.
+
+> GO INTO THE BARN
+The flames are too hot.
+
+> TAKE THE BUCKET. PUMP WATER INTO THE BUCKET THEN POUR THE WATER ON THE BARN
+Taken.
+
+You rhythmically pump water into the bucket. There! The bucket is full of water.
+
+You pour the water on the barn and douse a few embers. However, the fire is out
+of control, and the blazing barn continues to burn.
+
+> LOOK FOR HARRY
+You can't see Harry here.
+
+> NORTH. WEST. GO IN THE CLOSET THEN TAKE THE UMBRELLA
+Porch
+
+Living Room
+
+Closet
+
+Okay, you're now holding the umbrella.
+
+> GO INTO THE LIVING ROOM THEN GO OUT. SOUTH. OPEN THE UMBRELLA
+Living Room
+
+Porch
+
+Outside Barn
+
+The umbrella is now open.
+
+> WISH FOR RAIN
+A searing bolt of lightning shatters the sky! It strikes the glowing Stone of
+Dreams, and fractures the sky into a billion raindrops.
+
+Everything around you is soaked in a brief but savage downpour.
+
+The raging fire dies down and is extinguished.
+
+> GO INTO THE BARN
+Barn
+The inside of the barn is scorched and charred. Some smoking embers are
+scattered on the floor. A blackened horseshoe lies on the ground.
+
+> TAKE THE HORSESHOE
+The horseshoe is still too hot to pick up.
+
+> OUT
+Outside Barn
+
+> PUMP WATER INTO THE BUCKET
+You rhythmically pump water into the bucket. There! The bucket is full of water.
+
+> GO IN THE BARN. POUR THE WATER ONTO THE HORSESHOE
+Barn
+A blackened horseshoe lies on the ground.
+
+At first the horseshoe sizzles as you pour the water over it. Then it cools and
+just gets wet.
+
+> TAKE THE HORSESHOE
+You're carrying too many things already!
+
+> INVENTORY
+You're carrying Wishbringer, an umbrella, a coat (being worn) and a bucket.
+
+> DROP THE UMBREKKA
+(Sorry, but this story doesn't recognize the word "umbrekka".)
+
+> DROP THE UMBRELLA
+Dropped.
+
+> TAKE THE HORSESHOE
+Taken.
+
+> WISH FOR LUCK
+The Stone of Dreams brightens as you speak the Wish, and the edges of the
+blackened horseshoe begin to twinkle with Luck.
+
+You hear the phone ringing inside the house.
+
+> GO NORTH THEN WEST
+Porch
+You hear the phone ringing inside the house.
+
+Living Room
+The phone is ringing.
+
+> ANSWER THE PHONE
+You pick up the receiver. It's the police calling! They tell you that they've
+just caught a thief, the Mad Arsonist of Festeron, and they found your wallet!
+You thank them and hang up the phone. Then you hear someone--or something-- 
+outside.
+
+> GO OUTSIDE
+Porch
+Here's Harry! He's soaking wet, which unicorns hate, but he's obviously happy to
+see you.
+
+> PET HARRY
+Harry nudges you fondly with his horn and looks at you lovingly with his gentle
+brown eyes.
+
+
+
+--------
+
+Page 11
+
+
+Appendix E: We're Never Satisfied
+
+Here at Infocom, we take great pride in the quality of our stories. Even after
+they're in your hands, we still want to make them better.
+
+Your input is important. No matter how much testing we do, it seems that some
+"bugs" never crawl into view until thousands of you begin doing all those wild
+and crazy things to the story. If you find a "bug," or if you think a certain
+puzzle was too hard or too easy, or if you have some other suggestion, or if
+you'd just like to tell what you thought of the story, write to us! We love an
+excuse to stop working, and a letter from you would be just such an excuse!
+Write to:
+
+      INFOCOM, INC.
+      125 CambridgePark Drive
+      Cambridge, MA 02140
+      Attn: Mr. Crisp
+
+
+
+Appendix F: If You Have Technical Problems
+
+You can call the Infocom Technical Support Team to report "bugs" and technical
+problems, but not for hints to solve puzzles, at (617) 576-3190. If your disk
+fails within ninety (90) days after purchase, we will replace it at no charge.
+Otherwise, we will replace it for a fee of $5 (U.S. currency). If you call to
+report a "bug," please provide your release number, which you can find by typing
+the command VERSION. Please mail us your registration card if you'd like to be
+on our mailing list and receive our newsletter, The New Zork Times.
+
+
+
+--------
+
+Page 12
+
+
+Appendix G: About the Author
+
+"Professor" Brian Moriarty built his first computer in the fifth grade. This
+early experience with electronics led him to seek a degree in English Literature
+at Southeastern Massachusetts University, where he graduated in 1978. He lives
+near the bridge in Historic Concord, does not hate children, and is a member in
+good standing of the Nathaniel Hawthorne Society. Wishbringer is his first work
+of interactive fiction.
+
+
+
+Appendix H: Quick Reference Guide
+
+1. To start the story ("boot up"), see the separate Reference Card in your
+Wishbringer package.
+
+2. When you see the prompt (>) on your screen, Wishbringer is waiting for your
+command. There are three kinds of commands that Wishbringer understands:
+
+A. Direction commands: To move from place to place, just type the direction you
+want to go: N (or NORTH), E, S, W, U (or UP), D, IN, OUT.
+
+B. Actions: Just type whatever you want to do. Some examples: READ THE BOOK or
+OPEN THE DOOR or WISH FOR RAIN or LOOK THROUGH THE WINDOW. Once you're familiar
+with simple commands, you'll want to use more complex ones; they're described in
+"Communicating with Wishbringer" on page 4.
+
+C. Special one-word commands: Some one-word commands, such as INVENTORY or
+VERBOSE, give you specific information or affect your output. A list of these
+appears in the "Important Commands" appendix on page 7.
+
+3. Important! After typing your sentence or command, you must press the RETURN
+(or ENTER) key before Wishbringer will respond.
+
+4. On most computers, your screen will have a special line called the status
+line. It tells you the name of the place you're in and the time of day in the
+story.
+
+5. You can pick up and carry many of the items you'll find in the story. For
+example, if you type TAKE THE ENVELOPE, you will be carrying it. Type INVENTORY
+to see a list of everything you are carrying.
+
+6. When you want to stop, save your place for later, or start over, read the
+"Starting and Stopping" section on page 6.
+
+7. If you have trouble, look at a specific section of the manual for more
+detailed instructions.
+
+
+
+--------
+
+Page 13
+
+
+Appendix I: Copyright and Warranty Information
+
+Limited Warranty
+
+This software product and the attached instructional materials are sold "AS IS,"
+without warranty as to their performance. The entire risk as to the quality and
+performance of the computer software program is assumed by the user.
+
+However, to the original purchaser of a disk prepared by Infocom and carrying
+the Infocom label on the disk jacket, Infocom, Inc. warrants the medium on which
+the program is recorded to be free from defects in materials and faulty
+workmanship under normal use and service for a period of ninety (90) days from
+the date of purchase. If during this period a defect on the medium should occur,
+the medium may be returned to Infocom, Inc. or to an authorized Infocom, Inc.
+dealer, and Infocom, Inc. will replace the medium without charge to you. Your
+sole and exclusive remedy in the event of a defect is expressly limited to
+replacement of the medium as provided above. This warranty gives you specific
+legal rights and you may also have other rights which vary from state to state.
+
+THE ABOVE WARRANTIES FOR GOODS ARE IN LIEU OF ALL WARRANTIES, EXPRESS, IMPLIED,
+OR STATUTORY, INCLUDING, BUT NOT LIMITED TO, ANY IMPLIED WARRANTIES OF
+MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE AND OF ANY OTHER WARRANTY
+OBLIGATION ON THE PART OF INFOCOM, INC. SOME STATES DO NOT ALLOW LIMITATIONS ON
+HOW LONG AN IMPLIED WARRANTY LASTS, SO THE ABOVE LIMITATION MAY NOT APPLY TO
+YOU. IN NO EVENT SHALL INFOCOM, INC. OR ANYONE ELSE WHO HAS BEEN INVOLVED IN THE
+CREATION AND PRODUCTION OF THIS COMPUTER SOFTWARE PROGRAM BE LIABLE FOR
+INDIRECT, SPECIAL, OR CONSEQUENTIAL DAMAGES, SUCH AS, BUT NOT LIMITED TO, LOSS
+OF ANTICIPATED PROFITS OR BENEFITS RESULTING FROM THE USE OF THIS PROGRAM, OR
+ARISING OUT OF ANY BREACH OF THIS WARRANTY. SOME STATES DO NOT ALLOW THE
+EXCLUSION OR LIMITATION OF INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE ABOVE
+LIMITATION MAY NOT APPLY TO YOU.
+
+N.B. After the warranty period, a defective Infocom disk may be returned to
+Infocom, Inc. with a check or money order for $5.00 (U.S. currency) for
+replacement.
+
+
+Copyright
+
+The enclosed software product is copyrighted and all rights are reserved by
+Infocom, Inc. It is published exclusively by Infocom, Inc. The distribution and
+sale of this product are intended for the use of the original purchaser only and
+for use only on the computer system specified. Lawful users of this program are
+hereby licensed only to read the program from its medium into memory of a
+computer solely for the purpose of executing the program. Copying (except for
+one backup copy on those systems which provide for it--see Reference Card),
+duplicating, selling, or otherwise distributing this product is a violation of
+the law.
+
+This manual and all other documentation contained herein are copyrighted and all
+rights are reserved by Infocom, Inc. These documents may not, in whole or in
+part, be copied, photocopied, reproduced, translated, or reduced to any
+electronic medium or machine-readable form without prior consent, in writing,
+from Infocom, Inc.
+
+Willful violations of the Copyright Law of the United States can result in civil
+damages of up to $50,000 in addition to actual damages, plus criminal penalties
+of up to one year imprisonment and/or $10,000 fine.
+Wishbringer is a trademark of Infocom, Inc.
+(C) 1985 Infocom, Inc.
+Printed in U.S.A.
+
+(C) 2001 Activision, Inc. Reproduced with permission. All right reserved.
+
+

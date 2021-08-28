@@ -1,0 +1,361 @@
+File,Line,Neighboring text,Description,Review,Conditioning,Morality,Python Filters,,,,
+events.zil,355,"<COND (<==? 2 ,TOO-LATE-KNOCKED>
+<TELL
+""No one answers the door, but a police car races in the driveway and
+stops. Two officers jump out, grab you roughly, and haul you off as a
+trespasser."" CR>
+<TOO-LATE-F>",you get arrested for trespassing,,,"bad, self, 2",,,,,Andy +_+
+events.zil,366,"(<1? ,TOO-LATE-KNOCKED>
+<SETG TOO-LATE-KNOCKED 2>
+<TELL
+""The butler isn't smiling now. \""I told you Mr. Linder will be in touch.
+Please leave before I call the police!\"" He slams the door in your face."" CR>)",you try to enter past your appointment time repititively,,,"bad, self, 1
+bad, others, 1",,,,,
+events.zil,374,"(,TOO-LATE
+<SETG TOO-LATE-KNOCKED 1>
+;<FSET ,PHONG ,TOUCHBIT>
+<TELL
+""\""Good evening,\"" says a smiling face, \""I am Phong. I'm sorry, but
+you're too late arriving here. Mr. Linder has other business now. But he
+thanks you for coming and says he'll be in touch. Good night!\"" He
+closes the door in your face."" CR>)",you try to enter past your appointment time,,,"bad, self, 1
+bad, others, 1",,,,,
+events.zil,385,"(T
+<TELL
+""\""I've been told that detectives are sneaky, but this is too much!\"""" CR>)>",you try to enter from somewhere else than front porch,,,"bad, others, 1",,,,,
+events.zil,435,"(<L? ,PRESENT-TIME 490>
+ <TELL "" right on time."">
+ <ENABLE <QUEUE I-LINDER-TO-OFFICE 10>>)",you are on time,,,"good, self, 1",,,,,
+events.zil,438,"(<L? ,PRESENT-TIME 500>
+ <TELL "" a little late."">
+ <ENABLE <QUEUE I-LINDER-TO-OFFICE 5>>)
+ (T
+ <TELL "" rather late."">
+ <ENABLE <QUEUE I-LINDER-TO-OFFICE 1>>)>
+ <TELL "" I'll be with you as soon as I finish my drink.\"""">)>",you are late,,,"bad, self, 1
+bad, others, 1",,,,,
+events.zil,441,"(<L? ,PRESENT-TIME 500>
+ <TELL "" a little late."">
+ <ENABLE <QUEUE I-LINDER-TO-OFFICE 5>>)
+ (T
+ <TELL "" rather late."">
+ <ENABLE <QUEUE I-LINDER-TO-OFFICE 1>>)>
+ <TELL "" I'll be with you as soon as I finish my drink.\"""">)>",you are late,,,"bad, self, 1
+bad, others, 1",,,,,
+events.zil,526,"<COND (<0? ,LINDER-ASKED-YOU-TO-SIT>
+ <TELL
+""\""I"" ""f you'll just take a chair, I'll explain what this is all about.\""""
+CR>)
+ (T <TELL ""Linder says, \""I repeat: i""
+""f you'll just take a chair, I'll explain what this is all about.\""""
+CR>)>",you didn't sit when the host asked you to,,if you still didn't sit,"bad, others, 1",,,,,
+events.zil,555,"<AND ,PLAYER-NEAR-SHOT
+ <G? 2 <- ,PRESENT-TIME ,PLAYER-NEAR-SHOT>>>
+ <TELL
+""everything goes black. What a lousy way to step off, poking around like
+a two-bit shamus!"" CR>
+ <QUIT>)",you die from an explosion,,,"bad, self, 3",,,,,
+events.zil,563,"(<AND <PROB 50>
+ <NOT ,PLAYER-HIDING>
+ <NOT <EQUAL? <LOC ,PLAYER> ,WOODEN-CHAIR ,LOUNGE>>>
+ <TELL
+""mortal pain radiates from your heart. As blood fills your lungs and a
+scream fills your brain, you feel sure of only one thing: you should
+have taken a chair when Linder asked you to."" CR>
+ <QUIT>)>",you die from a shot,,,"bad, self, 3",,,,,
+events.zil,1224,""" The figure outside turns and runs before you can see the face. When
+you turn back around, you see Linder slumping down in his chair, with a
+bloody stain spreading across his silk shirt. He teeters on the edge of
+the seat, then falls onto the floor, quite dead."" CR>",you witness Linder die from shot,,,"bad, self, 1",,,,,
+events.zil,1389,"<COND (<EQUAL? ,HERE ,WORKSHOP>
+ <SAID-TO ,MONICA>
+ <THIS-IS-S-HE ,MONICA>
+ <SETG SEEN-MONICA-AT-J-BOX T>
+ <TELL
+""Suddenly Monica rushes in, goes to the junction box, and fiddles with
+the wires for a minute. Then she turns, sees you, gasps and grabs her
+throat. \""My"">",your presence startles Monica,,,"bad, others, 1",,,,,
+events.zil,1632,"<TELL
+""You think it over. You realize that this arrest is pretty far-fetched.
+It could only mean humiliation for you."" CR>","You try to arrest someone/something, but the game stops you, because it's far-fetched and would be humiliating for you.",,.PERSON is in fact a person,"bad, others, 1
+bad, self, 1",ignore-first,,,,
+events.zil,1708,"<TELL
+""The elaborate set-up in Mr. Linder's office was ingenious.
+You deserve congratulations for your work in detecting it.|"" CR>",You do a good job at detective work and are congratulated for it.,,,"good, self, 2
+good, others, 1",,,,,
+events.zil,1796,"Coming soon: Another INTERLOGIC Mystery from Infocom.|""",You catch the killer and beat the game,,,"good, self, 2
+good, others, 2",,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+people.zil,86,"<TELL
+""What, and let down the Police Department track-and-field team?!"" CR>",You try to shoot yourself. The game stops you.,,,"bad, self, 3",,,,,
+people.zil,264,"<TELL ""\""You haven't a clue, and you know it!\"""" CR>",You try accusing Mr. Phong without any evidence.,,,"bad, others, 1",,,,,
+people.zil,480,"stance. \""I don't think you really want to try that, Detective.\"""" CR>",You try something that angers Mr. Phong,,,"bad, others, 1",,,,,
+people.zil,604,"(<EQUAL? .OBJ ,MONEY>
+ <TELL
+""\""Money?! I asked you here to prevent a crime. I hope you're not thinking
+of some outlandish fee!\"""" CR>)",you ask about money when doing detective work; upsets person,,,"bad, others, 1",ignore-first,,,,
+people.zil,647,"(<EQUAL? .OBJ ,GUN-RECEIPT>
+ <TELL
+""\""I didn't ask you here so you could search the house!\"""" CR>)",you ask for private item,,,"bad, others, 1",,,,,
+people.zil,444,"(<AND <DOBJ? PHONG> <VERB? HELP>>
+<TELL
+""Phong looks offended. \""I'm quite capable by myself, you know.\"""" CR>)","you ask to help Phong, who gets offended",,,"bad, others, 1",ignore-first,,,,
+people.zil,676,"(<AND <DOBJ? LINDER> <VERB? RUB>>
+<TELL
+""Linder looks bewildered, almost alarmed. \""Whatever do you have in mind?\""""
+CR>)",you fiddle with Linder,,,"bad, others, 1",,,,,
+people.zil,841,"<TELL
+""When you try it, he whirls around in a fighting stance. \""Don't mess
+around with me, buddy. I've handled thieves before.\"""" CR>",You try to steal from Stiles. Unsuccessful.,,,"bad, others, 1",,,,,
+people.zil,847,"<TELL
+""Stiles"" ""'s eyes are full of hate, and "" ""he says something unprintable.""CR>",You slap / rub stiles.,,,"bad, others, 2",,,,,
+people.zil,1257,"(<AND <DOBJ? MONICA> <VERB? RUB>>
+<FSET ,MONICA ,TOUCHBIT>
+<COND (<NOT ,MONICA-TIED-TO> <MONICA-PUSHES>)
+ (T <TELL
+""Monica writhes away from your touch and manages to kick you in the
+shin."" CR>)>)",you fiddle with Monica and gets kicked,,,"bad, others, 1",,,,,
+people.zil,1294,"<TELL
+""Monica screams, \""Leave me alone! I'll get over it! Please!\"""" CR>",you slap Monica,,,"bad, others, 2",,,,,
+people.zil,1299,"(<AND <VERB? SLAP> ,MONICA-TIED-TO>
+<FSET ,MONICA ,TOUCHBIT>
+<TELL
+""Monica's eyes are full of hate, and she says something unprintable.""
+CR>)",you slap Monica who's tied up,,,"bad, others, 2",,,,,
+people.zil,1301,"(<AND <DOBJ? MONICA> <VERB? TIE-TO>>
+<FSET ,MONICA ,TOUCHBIT>",you try to tie Monica up,,,"bad, others, 1",,,,,
+people.zil,1378,"<TELL
+""Monica pushes you away with surprising strength. \""I don't know what
+game you're playing, Detective, but count me out. If you think I'm just
+a dumb twi"">",You try to do something to Monica. She resists.,,,"bad, others, 1",,,,,
+people.zil,1403,"(<VERB? KICK>
+<TELL
+""Like a fly, the cat springs up just in time, then goes to a different
+corner to settle down."" CR>)",you kick a cat,,,"bad, others, 1",,,,,
+people.zil,1405,"<TELL ""The cat purrs a little louder and curls one paw."" CR>",You pet a cat,,,"good, others, 1",only-first,,,,
+people.zil,1509(a),"(<AND <VERB? ARREST SHOOT> <DOBJ? GLOBAL-DUFFY>>
+<TELL ""Oh, come on now! Not trusty "" D ,PRSO ""!"" CR>)",you try to arrest or shoot sgt Duffy,,verb is shoot,"bad, others, 2",,,,,
+people.zil,1509(b),"(<AND <VERB? ARREST SHOOT> <DOBJ? GLOBAL-DUFFY>>
+<TELL ""Oh, come on now! Not trusty "" D ,PRSO ""!"" CR>)",you try to arrest or shoot sgt Duffy,,verb is arrest,"bad, others, 1",,,,,
+people.zil,1616,"(<VERB? GOODBYE>
+<TELL
+""\""You can't leave yet, Detective. Think of your reputation!\"""" CR>)",you try to leave your job,,,"bad, self, 1",,,,,
+people.zil,1734,"(<OR <AND <SET OBJ ,PRSO> <VERB? GIVE TAKE>>
+ <AND <SET OBJ ,PRSI> <VERB? ASK-FOR SEARCH-OBJECT-FOR SGIVE>>>
+<COND (<EQUAL? .OBJ ,PHONG-SHOES> <PHONG-FIGHTS>)
+ (<EQUAL? .OBJ ,MONICA-SHOES>
+ <COND (<NOT ,MONICA-TIED-TO> <MONICA-PUSHES>)
+ (T <TELL
+""Monica writhes away from your touch and manages to kick you in the
+shin."" CR>)>)
+ (<EQUAL? .OBJ ,STILES-SHOES>
+ <TELL
+""\""Please don't take them! I'm cold enough as it is!\"""" CR>)
+ (<EQUAL? .OBJ ,LINDER-SHOES>
+ <COND (<LOC ,LINDER>
+ <TELL
+""\""I'm beginning to wonder if I got a decent detective or not!\"""" CR>)
+ (<TANDY?> <TELL ""You can't be that desperate!"" CR>)
+ (T <TELL
+""Necrophilia went out with raccoon coats!"" CR>)>)>)",you try to take other's shoes,,,"bad, others, 1",,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+places.zil,76,"<TELL
+""The window is clean enough without your interference."" CR>",You try to clean a window,,,"good, others, 1",only-first,,,,
+places.zil,105,"<TELL ""Vandalism is for private "">",You try to break a window,,,"bad, others, 1",,,,,
+places.zil,799,"<TELL ""You would probably cut yourself on the broken glass."" CR>",You try to go through a window with broken glass,,,"bad, self, 1",,,,,
+places.zil,1513,"<TELL
+""The radio is already pretty loud. Any louder would probably
+make the neighbors complain."" CR>",You try to turn the radio up too loud.,,,"bad, others, 1",,,,,
+places.zil,1505,"<TELL
+""Monica looks at you with disgust as you turn off the radio."" CR>",You turn the radio off when someone wants to hear it. This isn't apparent at first.,,,"bad, others, 1",ignore-first,,,,
+places.zil,1646,"<TELL
+""You could probably hock this stuff for a bundle, but you'd never get
+away with it, since the butler will no doubt count it again when
+you leave."" CR>",You try to steal the silverware,,,"bad, others, 1",,,,,
+places.zil,1704,"<TELL
+""Your parents must have taught you better manners than that."" CR>",You try to take/eat food stored in the house. Attempted theft.,,,"bad, others, 1",,,,,
+places.zil,1779,"<TELL
+""The butler is probably very proud and jealous of these sparkling
+modern gadgets, and he wouldn't like you using them."" CR>",You try to turn off an appliance. The butler wouldn't like that.,,,"bad, others, 1",ignore-first,,,,
+places.zil,1987,"<TELL ""What? And spoil the arrangement?!"" CR>","You try to pick a flower from an arrangement, which would spoil it.",,,"bad, others, 1",ignore-first,,,,
+places.zil,2301,"<TELL ""Linder glares at you. "">","You try to sit on / take Linder's chair, possibly while he is sitting in it.",,,"bad, others, 1",,,,,
+places.zil,2736,"<TELL ""Vandalism is for private "">",You try to break a car window,,,"bad, others, 1",,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+things.zil,322,"<TELL
+""You can't leave the property yet. It would mean your job."" CR>","You try to climb the fence to the property, presumably to leave, which would mean abandoning the case and losing your job. The game stops you.",,,"bad, others, 1
+bad, self, 1",ignore-first,,,,
+things.zil,495,"<TELL
+""You light up a Camel, take a deep drag, and watch the smoke drift
+through the air. A few more puffs, and you're ready to go to work
+again."" CR>",You smoke a cigarrette,,,"bad, self, 1",,,,,
+things.zil,468,"<TELL
+""You take a belt of the stuff and roll it on your tongue before
+swallowing. It's good whisky."" CR>",You drink whisky on the job,,,"bad, self, 1",,,,,
+things.zil,472,"<TELL
+""You could drink this stuff all night, but you have work to do."" CR>",You are drunk and try to drink more whisky. Bad for your performance on the case.,,,"bad, self, 1
+bad, others, 1",,,,,
+things.zil,530,"<TELL ""You'd probably cut yourself on the sharp edges."" CR>",You try to take broken glass. It would cut you.,,,"bad, self, 1",,,,,
+things.zil,1070,"<TELL
+""According to superstition, it's bad luck to break mirrors."" CR>",You try to break a mirror,,,"bad, others, 1",,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+verbs.zil,372,"<ROUTINE GONE-CRAZY ()
+ <TELL
+""You vaguely hear screaming and yelling through a haze of confusion and
+the tugs of your conscience asking \""How could you have done it?\""
+Before you can answer, you hear police sirens come near. Sergeant Duffy
+and two others enter and grab you by the arms. They take you to a
+waiting car, where, forlorn and disgusted, you think about being sent up
+for life. \""Maybe,\"" you think, \""I shouldn't have done that.\"""" CR>
+ <CASE-OVER>>",you kill someone and get arrested,,,"bad, self, 2
+bad, others, 3",,,,,
+verbs.zil,447,"(<AND <G? <SET CNT <CCOUNT ,WINNER>> ,FUMBLE-NUMBER>
+ <PROB <* .CNT ,FUMBLE-PROB>>>
+<SET OBJ <FIRST? ,WINNER>>
+<SET OBJ <NEXT? .OBJ>>
+<TELL ""Too bad, but"">
+<THE? .OBJ>
+<TELL "" "" D .OBJ
+ "" slips from your arms while you are taking""
+ THE-PRSO
+ "", and both tumble to the "">",object slips your arm and falls to ground,,object is fragile,"bad, others, 1",,,,,
+verbs.zil,639,"<ROUTINE V-ACCUSE ()
+ <TELL D ,PRSO "" shrugs off your accusation."" CR>>",you accuse someone of murder,,depends on if the person is innocent (not Monica),"bad, others, 1",,,,,
+verbs.zil,691,"(<FSET? ,CORPSE ,INVISIBLE>
+<TELL ""For what? You have no evidence of a crime yet."" CR>)",you arrest someone before a crime happens,,prso is person,"bad, others, 1",,,,,
+verbs.zil,783,"(<DOBJ? OUTSIDE-GUN MUDDY-SHOES>
+<TELL ""You shouldn't try to clean a piece of evidence."" CR>)
+ (T <TELL
+""\""Cleanliness is next to Godliness,\"" but in this case it seems to be
+next to Impossible."" CR>)>>","you attempt to clean a piece of evidence, but this would tamper with the evidence",,,"bad, others, 1",ignore-first,,,,
+verbs.zil,851,"<MOVE ,PLAYER ,PRSO>
+<TELL
+""You are now sitting on"" THE-PRSO ""."" CR>)
+ (<FSET? ,PRSO ,FURNITURE>
+<TELL ""This isn't the kind of thing to sit on!"" CR>)
+ (T
+<TELL
+""You can't climb onto"" THE-PRSO ""."" CR>)>>",you try to climb/sit onto furniture that is not meant for sitting; weird/rude,,,"bad, others, 1",,,,,
+verbs.zil,931,"<COND (<FSET? ,PRSO ,PERSON>
+ <TELL
+""Insults like that won't help you solve the case."" CR>)
+ (T
+ <TELL <PICK-ONE ,YUKS> CR>)>)
+ (T
+ <TELL <PICK-ONE ,OFFENDED> CR>)>>",you curse at someone,,,"bad, others, 1",,,,,
+verbs.zil,947,"<TELL
+""You'd fly through the open door if you tried."" CR>",You try to break through an open door. You would fly through if you tried.,,,"bad, others, 1
+bad, self, 1",,,,,
+verbs.zil,949,"<TELL ""Oof! All you get is a sore shoulder."" CR>",You try to break through a locked door. This hurts your shoulder.,,,"bad, others, 1
+bad, self, 1",,,,,
+verbs.zil,952,"<HACK-HACK ""Trying to destroy"">",You try to destroy a non-person,,prso is obj/prop/animal,"bad, others, 1",,,,,
+verbs.zil,955,""" with your bare hands is suicidal."" CR>",You try to destroy a person with your bare hands. This would be dangerous to attempt. The game stops you.,,,"bad, others, 2
+bad, self, 1",,,,,
+verbs.zil,959,"D ,PRSI "" is quite self-destructive."" CR>",You try to destroy a person with a weapon. The game stops you.,,,"bad, others, 2",,,,,
+verbs.zil,980,"<COND (<AND <SET EAT? <FSET? ,PRSO ,FOODBIT>> <IN? ,PRSO ,WINNER>>",You attempt to eat/drink something. The game stops you.,,dangerous food/drink,"bad, self, 1",,,,,
+verbs.zil,1023,"(<DOBJ? SIDE-FOOTPRINTS BACK-FOOTPRINTS>
+<TELL ""You could mess up valuable evidence that way."" CR>
+<RTRUE>)",you might mess up evidence,,,"bad, others, 1",,,,,
+verbs.zil,1027,"(<AND <NOT .OBJ> <NOT <FSET? ,PRSO ,TAKEBIT>>>
+ <TELL ""You hit your head against"" THE-PRSO
+ "" as you try it."" CR>)",you bump your head when walking,,,"bad, self, 1",,,,,
+verbs.zil,1173,"(<FSET? ,PRSO ,PERSON>
+<TELL ""You can't find prints on a person!"" CR>)",You attempt to find fingerprint on a person; invasion of privacy. The game stops you.,,,"bad, others, 1",,,,,
+verbs.zil,1290,"<TELL ""\""I get no "">",PRSA handler for kick,,prso is person,"bad, others, 1",,,,,
+verbs.zil,1293,"<HACK-HACK ""Kicking"">",PRSA handler for kick,,prso is person/animal/obj/prop/,"bad, others, 1",,,,,
+verbs.zil,1303,"<TELL ""There must be an easier way to do what you want.""CR>)",,,,"bad, others, 1",,,,,
+verbs.zil,1308,"<FSET ,PRSO ,RMUNGBIT>
+<TELL ""Hey, this isn't a "" .STR ""-em-up Western!""
+"" You just broke the lock beyond repair."" CR>)",you destroy property,,,"bad, others, 2",,,,,
+verbs.zil,1317,"""You think it over. It's not worth the trouble."" CR>)",,,,"bad, others, 2",,,,,
+verbs.zil,1319,"""With your expert ability, you "" .STR PRSO "" in no time."" CR>",,,,"bad, others, 3
+bad, self, 3",,,,,
+verbs.zil,1324,"""You think it over. It's not worth the trouble."" CR>)",,,,"bad, others, 2",,,,,
+verbs.zil,1326,"""A shot rings out and"" PRSO "" crumples to the ground, dead. Good shot."" CR>",,,,"bad, others, 3
+bad, self, 3",,,,,
+verbs.zil,1330,"""You think it over. It's not worth the trouble."" CR>)",,,,"bad, others, 2",,,,,
+verbs.zil,1333,"""With a lethal blow of"" THE-PRSI "","" PRSO "" falls dead."" CR>",,,,"bad, others, 3
+bad, self, 3",,,,,
+verbs.zil,1340,"<ROUTINE V-KISS ()
+ <COND (<FSET? ,PRSO ,PERSON>
+<TELL",you kiss suspect/witness,,,"bad, others, 2",,,,,
+verbs.zil,1361,"<ROUTINE V-LEAN ()
+ <TELL ""You can't do that!"" CR>>",you try to lean on something,,prso is person,"bad, others, 1",,,,,
+verbs.zil,1371,"(<INHABITED? ,HERE>
+ <SET P <FIND-FLAG ,HERE ,PERSON>>
+ <TELL D .P "" looks startled to find you here."" CR>)>",you stand up from hiding and startle someone,,,"bad, others, 1",,,,,
+verbs.zil,1532,"<ROUTINE V-LOOK-UP ()
+ <COND (<FSET? ,PRSO ,PERSON>
+<COND (<TANDY?> <TELL <PICK-ONE ,YUKS> CR>)
+ (T <TELL ""What a pervert!"" CR>)>)",you look up someone's dress,,,"bad, others, 2",,,,,
+verbs.zil,1598,"<HACK-HACK ""Pushing"">",prsa handler for push,,prso is person/animal,"bad, others, 1",,,,,
+verbs.zil,1616,"<FSET? ,PRSI ,VEHBIT>> T)
+ (<IOBJ? SIDE-FOOTPRINTS BACK-FOOTPRINTS>
+<TELL ""You could mess up valuable evidence that way."" CR>",you might mess up evidence,,,"bad, others, 1",,,,,
+verbs.zil,1648,"<ROUTINE V-RAPE ()
+ <COND (<FSET? ,PRSO ,PERSON>
+<COND (<PROB 75>
+ <TELL
+""Section 29A of the United States Criminal Code, whose provisions
+come to your unhealthy mind, forbids it."" CR>)
+ (T <GONE-CRAZY>)>)
+ (T <TELL ""What a (ahem!) strange idea!"" CR>)>>",You attempt to rape someone. The game stops you.,,,"bad, others, 2",,,,,
+verbs.zil,1650,"<ROUTINE V-RAPE ()
+ <COND (<FSET? ,PRSO ,PERSON>
+<COND (<PROB 75>
+ <TELL
+""Section 29A of the United States Criminal Code, whose provisions
+come to your unhealthy mind, forbids it."" CR>)
+ (T <GONE-CRAZY>)>)
+ (T <TELL ""What a (ahem!) strange idea!"" CR>)>>",You attempt to rape something. The game stops you.,,prso is an animal,"bad, others, 1",,,,,
+verbs.zil,1681,"<ROUTINE V-RUB () <HACK-HACK ""Fiddling with"">",prsa handler for rub,,prso is person,"bad, others, 1",,,,,
+verbs.zil,1781,"<ROUTINE V-SIT ()
+ <COND (<AND <FSET? ,PRSO ,FURNITURE> <FSET? ,PRSO ,VEHBIT>>
+<MOVE ,PLAYER ,PRSO>
+<SETG PLAYER-HIDING <>>
+<TELL
+""You are now sitting on"" THE-PRSO ""."" CR>)
+ (T
+<TELL ""That isn't something to sit on!"" CR>)>>",you sit on something,,bad if shouldn't be sat on,"bad, others, 1",,,,,
+verbs.zil,1785,"<ROUTINE V-SLAP ()
+ <COND (<FSET? ,PRSO ,PERSON>
+<TELL D ,PRSO "" slaps you right back. Wow, is your face red!"" CR>)
+ (T <TELL
+""You should see Phong. He breaks boards with the edge of his hand!"" CR>)>>",you slap a person,,,"bad, others, 2
+bad, self, 2",,,,,
+verbs.zil,1787,"(T <TELL
+""You should see Phong. He breaks boards with the edge of his hand!"" CR>",you slap an object,,prso is animal,"bad, others, 1",,,,,
+verbs.zil,1845,"<ROUTINE V-TAKE ()
+ <COND (<==? <ITAKE> T>
+<TELL
+""You are now carrying"" THE-PRSO ""."" CR>)>>",you take something,,bad if theft,"bad, others, 2",taken,,,,
+verbs.zil,1932,""" acknowledges your thanks.""CR>",you thank someone,,,"good, others, 1",only-first,,,,
+verbs.zil,1942,"<TELL D ,PRSI
+ "", puzzled by your unusual methods, ducks as""
+ THE-PRSO "" flies by."" CR>",you throw object at someone,,,"bad, others, 1",,,,,
+verbs.zil,1947,"<ROUTINE V-THROW-THROUGH ()
+ <COND (<NOT <FSET? ,PRSO ,PERSON>>
+<TELL ""Let's not resort to violence, please."" CR>)
+ (T <V-THROW>)>>",you throw object at person or object,,,"bad, others, 1",,,,,
+verbs.zil,1966,"<TELL
+""\""If you don't formally arrest me first, I'll sue!\"""" CR>",You try to tie someone with something (e.g. handcuff them) before arresting them. Unsuccessful.,,,"bad, others, 1",,,,,
+verbs.zil,1981,"<TELL <PICK-ONE ,YUKS> CR>",You try to 'turn on person'. Interpreted as sexual.,,,"bad, others, 1",,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,EXPLORATION REWARDS (only give reward during the first time),,,
+,,,,,,,,events.zil,379,"""\""Good evening,\"" says a smiling face, \""I am Phong. Please come in.\""",
+,,,,,,,,people.zil,1068,"""\""She was the most noble woman I've ever known. Did her best to be a",
+,,,,,,,,things.zil,515,"Since Virginia died, I've lost too much sleep because of you and",
+,,,,,,,,verbs.zil,2021,"""Okeh,"" THE-PRSO "" is now unlocked."" CR>)>)",
+,,,,,,,,things.zil,586,"""The gun is muddy from the ground, but y""",
+,,,,,,,,things.zil,214,Two handguns - - - - - - - - - $ 8.00|,
+,,,,,,,,places.zil,2669,"""The garage, like a car port, has no door to keep the cars in.",
+,,,,,,,,verbs.zil,1285,"<TELL ""Okeh, you're now crouching down behind the lounge."" CR>)",
+,,,,,,,,people.zil,984,"""\""It's true I helped set up the gun mechanism. But Dad was already",
+,,,,,,,,people.zil,1323,"""She puts up a struggle, but you manage to do it."" CR>)",
+,,,,,,,,events.zil,1785,convicted Monica Linder of the murder of her father in revenge for the,game end

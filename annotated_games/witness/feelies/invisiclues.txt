@@ -1,0 +1,569 @@
+***************************************************************************
+*                             InvisiClues(tm)                             *
+*                          The Hint Booklet for                           *
+*                             The WITNESS(tm)                             *
+***************************************************************************
+
+[Copyright by Infocom, Inc. Provided for non-commercial use only, with the
+sole intent of making information available that would otherwise be lost.
+
+To whoever presently holds the copyright to the information contained in
+this file: if you think the existence of this file violates your copyright,
+please complain and the file will be removed.
+
+Typed in from the original hintbook by Paul David Doherty.]
+
+
+Sample Question
+***************
+
+Why did trusty Sgt. Duffy cross the road?
+  A. Try following him.
+  B. Where did he end up?
+  C. To get to the other side.
+
+
+InvisiClues
+***********
+
+What crime am I supposed to investigate?
+  A. It's not Mrs. Linder's suicide; that's already being handled by others.
+  B. In fact, you got the suicide note and newspaper from the ongoing file
+     on her case.
+  C. You should knock on the front door or ring the doorbell before about
+     8:30.
+  D. If you don't do that, you won't witness a crime during the story.
+
+What if I don't go in the house?
+  A. You could try waiting outside until 9:00 and then ringing the doorbell
+     again and again.
+  B. You can also see someone arrive and go to the office door about 9:00.
+  C. Who is that person?
+  D. You could try talking to him, using various names.
+  E. You can even call him "visitor" or "stranger."
+  F. You'll discover that it's Stiles, but why is he here?
+  G. Try asking him about the phone call.
+
+How do I enter the house?
+  A. All the doors leading into the house are locked when you arrive. You
+     can enter through the front door by knocking or ringing the bell.
+  B. Once Linder is dead, you can unlock any door from the inside.
+  C. ...unless you tried to sneak in by shooting the lock.
+  D. Once Linder is dead, you can also get all the door keys from Phong.
+
+Is there anything special about the windows?
+  A. Only one window is special.
+  B. It gets broken when the gun is shot.
+  C. Try examining it before and after the gunshot.
+  D. Besides the usual wiring, there is a piece of green wire.
+  E. Try asking other characters about the green wire.
+  F. Everyone in the household either evades the question or lies about it.
+  G. You can also analyze the chunk of putty after the gunshot.
+  H. This should tell you that the window was broken by a remote-controlled
+     explosive.
+
+What are the buttons used for?
+  A. Every room in the house has a button to summon the butler.
+  B. You can keep Phong busy all night by pushing these buttons.
+  C. Have you pushed a button and then hidden?
+  D. That will throw poor Phong into confusion!
+  E. But there's only one room with a good hiding place.
+  F. Try pushing the button in the office before the gunshot.
+  G. Linder won't let you, because it's important in his plan.
+  H. Try pushing it after Monica has been to the workshop.
+  I. At that time, it signals the butler to come, as usual.
+  J. Try pushing it after the gunshot but before Monica gets home from the
+     movie.
+  K. You'll hear a click from the clock. (You have to do this to get the
+     best ending.)
+
+Should I investigate the can of worms?
+  A. It's in the kitchen.
+  B. Phong does something with it.
+  C. Have you tried to do anything with it?
+  D. How about trying to find it?
+  E. Or asking the program what it is?
+
+What significance do the clocks have?
+  A. There is a clock in the kitchen and the office.
+  B. Isn't it strange that there are no alarm clocks in the bedrooms?
+  C. Maybe, but it's not important.
+  D. The only interesting clock is the grandfather clock in the office.
+  E. Try examining it before and after the gunshot.
+  F. Try figuring out what that dark powder is around the keyhole.
+  G. Try analyzing the powder.
+  H. It's gunpowder.
+  I. This should tell you that the fatal bullet actually comes from inside
+     the clock, through the keyhole rather than through the window.
+  J. You have to prove this in order to get to the best ending. One way to
+     prove it is to analyze the powder.
+
+What use is the broom?
+  A. Can you use it to clean anything?
+  B. No, you can't.
+  C. Who else would you expect to use it?
+  D. Try asking Phong about it.
+  E. That's all there is to the broom.
+
+What can I learn from the mystery book?
+  A. It's in the butler's room.
+  B. Have you read it? Was it interesting?
+  C. Have you shown it to Monica?
+  D. Have you shown it to Duffy?
+  E. What about the bookmark?
+  F. The bookmark is a receipt for two identical handguns, not one.
+  G. Try showing the receipt to Phong.
+  H. He'll tell you that the name on the receipt is false and that Monica
+     bought the guns.
+  I. Monica and Linder want you to think that there's only one gun.
+
+Are the handcuffs useful?
+  A. You can try to put them on other people.
+  B. You'd better have a good reason, though.
+  C. Even with a good reason, you may not succeed.
+  D. In fact, you can succeed only after midnight, when everyone's tired
+     out.
+  E. And even then, only one person is tired enough to succumb.
+  F. That person is Monica.
+
+Will the matchbook help me solve anything?
+  A. Have you tried to phone the Brass Lantern?
+  B. Did you look inside the matchbook?
+  C. Whose phone number is written on the inside?
+  D. Try calling that number.
+  E. If you've lost the matchbook, you can try to PHONE THE MATCHBOOK or
+     LOOK UP THE MATCHBOOK.
+  F. Try showing it to various characters.
+  G. You can also try to analyze the handwriting.
+  H. But that won't work, because the lab needs another sample of a person's
+     handwriting to get any result.
+
+What should I do with the threatening note?
+  A. Try showing it to various characters.
+  B. You can also try to analyze the handwriting.
+  C. But that won't work, because the lab needs another sample of a person's
+     handwriting to get any result.
+
+Can the radio tell me anything?
+  A. It's in the living room.
+  B. Try turning it on.
+  C. You'll hear some real programs!
+  D. It's a fine radio. You could probably sit and listen to it all night.
+  E. But you wouldn't learn anything about the case.
+
+Can I conclude anything from the records?
+  A. They're in Monica's room.
+  B. Try playing one.
+  C. You'll hear some authentic popular songs!
+  D. You could probably sit and listen to records for a long time.
+  E. But you wouldn't learn anything about the case.
+
+What should I glean from the newspaper?
+  A. There's one in the police file on Mrs. Linder's death. (That's the one
+     in your game package.)
+  B. Only two stories relate to this case.
+  C. Both of them have "Linder" in the headline.
+  D. There's also another newspaper on Linder's desk.
+  E. Try reading it.
+  F. You'll read some real headlines!
+  G. But you won't learn anything about the case.
+
+Is there anything useful in the workshop?
+  A. How could you use a hammer and saw?
+  B. Maybe you could open something that you can't find the key for.
+  C. Or you could use the rope to make a hangman's noose.
+  D. Then again, you might as well leave the tools alone.
+  E. But there is something useful in the workshop.
+
+Is the car key a clue?
+  A. Can you tell which car is whose?
+  B. If you wait for Linder to use his car, maybe you can get a key from
+     him.
+  C. But Linder doesn't use any car in this story.
+  D. But Monica does.
+  E. Is she trying to hide the car key from you?
+  F. No, she isn't.
+  G. You can't find any car key.
+  H. Remember the warning in the introduction: Do not use the presence or
+     absence of a question on a certain topic as an indication of what is
+     important, and don't assume that long answers are associated with
+     important questions.
+
+Does the cat have any significance?
+  A. Try asking Linder about it.
+  B. Try asking Monica about it.
+  C. Try petting it.
+  D. Try waking it.
+  E. Try kicking it.
+  F. Where does it go after the gunshot?
+  G. It disappears, like any sensible animal.
+
+What can I learn from the footprints in the back yard?
+  A. If you analyze the footprints, you'll get a cast that you can compare
+     with people's shoes.
+  B. Of course, if you haven't seen any footprints, you can't analyze them.
+  C. Try examining people's shoes.
+  D. Stiles's shoes are muddy.
+  E. His shoes match the footprints.
+  F. This shows that Stiles really is in the back yard at the time of the
+     gunshot.
+
+Can I determine anything from the footprints in the side yard?
+  A. If you analyze the footprints, you'll get a cast that you can compare
+     with people's shoes.
+  B. Of course, if you haven't seen any footprints, you can't analyze them.
+  C. And you'll have to be careful not to make a mess in the muddy yard.
+  D. If you don't make a cast of the prints the first time you're there
+     after the rain storm, you'll confuse them with your own footprints.
+  E. Try to find the muddy boots.
+  F. After the gunshot, they're on the shoe platform in the entry.
+  G. The muddy boots match the footprints.
+  H. Try asking Phong about the muddy boots.
+  I. He'll admit that he was in the side yard just before the gunshot, but
+     he'll claim that he heard a noise.
+  J. Actually, he goes there to "plant" the muddy handgun and watch for
+     Stiles to arrive.
+
+Will the footprints in the front yard help me solve anything?
+  A. If you analyze the footprints, you'll get a cast that you can compare
+     with people's shoes.
+  B. Of course, if you haven't seen any footprints, you can't analyze them.
+  C. Do you make them when you're stealing vegetables?
+  D. No, you don't.
+  E. Does Phong make them while putting worms in the garden?
+  F. No, he doesn't.
+  G. Does Duffy make them while investigating on his own?
+  H. No, he doesn't. He's much too careful for that.
+  I. There aren't any footprints in the front yard.
+  J. Remember the warning in the introduction: Do not use the presence or
+     absence of a question on a certain topic as an indication of what is
+     important, and don't assume that long answers are associated with
+     important questions.
+
+What if my cast doesn't match anybody's shoes?
+  A. Maybe someone went through the yard and then left the property.
+  B. Or maybe they just changed shoes.
+  C. Where could one change shoes without tracking mud through the house?
+  D. There's a platform for storing shoes in the front entry.
+  E. After a certain time, you can find some muddy boots there.
+  F. Try asking Phong about the muddy boots.
+
+Who rings the doorbell?
+  A. After the gunshot, you can go to the front door and see for yourself.
+  B. You'll see that it's Duffy.
+  C. What about just before the gunshot?
+  D. You could ask Phong about it.
+  E. Actually, it's a signal.
+  F. Phong rings it to tell Linder that Stiles is coming.
+
+Who calls on the phone?
+  A. It isn't the folks at the Brass Lantern, begging for a takeout order.
+  B. It isn't the coroner. He's much too busy, even for a Friday night.
+  C. It isn't the operator, asking whether you need the police.
+  D. It isn't Stiles. He's never home during the story.
+  E. In fact, you can try to call all of the above.
+  F. But no one calls during the story.
+  G. That happens in DEADLINE(tm).
+
+Does Monica really go to the movie?
+  A. You can ask her about the movie.
+  B. She knows who the star was, at least.
+  C. You can poke around in the garage after she comes home.
+  D. The hood of her car feels warm, so she didn't just go around the block.
+  E. Also, she drops her ticket stub in the garage.
+  F. If you ANALYZE it, you can tell that she really goes.
+
+Why would Monica want to go to the movie?
+  A. It isn't just a casual date.
+  B. Linder doesn't want her to go, but she goes anyway.
+  C. She goes even if you try to delay her with questions.
+  D. She wants to have an alibi for the time of the shooting.
+
+What does Monica do in the workshop?
+  A. Generally speaking, she works there on her own projects.
+  B. Specifically, she goes in there when she gets home from the movie.
+  C. She does something with the wires in the junction box.
+  D. The junction box is where all the custom wiring in the house joins
+     together.
+  E. She needs to dismantle the wires connecting the office button with the
+     office window and grandfather clock.
+
+Why does Monica go into the kitchen?
+  A. She doesn't cook. Phong does that.
+  B. She doesn't pour out a belt of whisky. That's in the living room.
+  C. She doesn't fix a late-night snack. Her stomach couldn't take it after
+     the shooting.
+  D. She doesn't even fix breakfast before you have to leave.
+  E. She doesn't go to the kitchen at all.
+
+What prompts Monica to enter the office?
+  A. She goes there before the movie to say good-bye to Linder.
+  B. She goes there after the movie to say hello to Linder.
+  C. When she sees his body, she seems to be overcome with disgust and
+     grief.
+  D. She also goes there late at night.
+  E. She doesn't do anything if she sees you in the office.
+  F. If you hide in the office or outside on the porch, you can see what she
+     does.
+  G. She needs to remove evidence from the clock.
+  H. Afterwards, you can handcuff her and search her to find the evidence.
+
+On what occasions does Phong enter the kitchen?
+  A. At different times he goes in to do different things.
+  B. In his orderly way, he seems to begin a new activity on the hour.
+  C. Try going in the kitchen at different times.
+  D. Maybe he'll enjoy the company.
+  E. Or maybe not.
+
+What does Phong do in his bedroom?
+  A. Sometimes he reads the mystery book.
+  B. Other times he just meditates on his future.
+  C. Isn't it strange how no one sleeps in this story?
+  D. ...except Linder, who sleeps the big sleep.
+  E. Maybe it isn't strange, considering the recent deaths.
+
+Why does Phong go outside?
+  A. Sometimes he tends the garden in the front yard.
+  B. Sometimes he goes outside to check on strange noises.
+  C. Sometimes he goes outside because Linder orders him to go.
+  D. For instance, on this night he tramps through the muddy side yard. (See
+     the question about footprints in the side yard.)
+
+Where is the key?
+  A. One person has the keys for all the doors in the house.
+  B. That's Phong.
+  C. Only one person knows for sure where the clock key is.
+  D. That's Monica.
+  E. She has it all the time, but you can't discover that until after she
+     uses it.
+  F. Try handcuffing and searching her after she uses it.
+  G. You have to prove where the fatal bullet actually comes from, in order
+     to get the best ending. One way to prove it is to search Monica and
+     then use the key.
+
+What can I do with the cars?
+  A. You can't drive them.
+  B. You can't even get in them.
+  C. You can look at them, though.
+  D. You can even look inside them.
+  E. And you can feel that the MG is warm after Monica comes home.
+
+How is "O.K." really spelled?
+  A. In _The Big Sleep_, published in 1939, Raymond Chandler always spelled
+     it "okey."
+  B. So that's how it's spelled when characters in The WITNESS say it.
+  C. According to H. L. Mencken's _The American Language_, President Woodrow
+     Wilson used "okeh" on documents.
+  D. So that's how it's spelled in the context of the story in The WITNESS.
+  E. Today's spelling appears in The WITNESS only in the context of using
+     computers.
+
+What is Linder's plan?
+  A. Once you enter the house, he won't let you out of his sight.
+  B. Once he takes you to his office, he won't let you leave.
+  C. He wants you in his office, sitting down, when Stiles arrives.
+  D. He phoned Stiles and persuaded him to come to the office at 9:00.
+  E. He wants you to witness the gunshot.
+  F. He wants you to arrest Stiles for attempted murder.
+  G. He doesn't intend to be killed.
+
+What is Monica's plan?
+  A. She cooperates fully with Linder's plan (see above), except...
+  B. She wants to leave the house before Stiles arrives.
+  C. If you don't suspect Stiles, she may tell you about the medical report.
+     (See the question on Linder's motive.)
+  D. She doesn't want you to witness the gunshot.
+  E. But she doesn't want Linder to know that.
+  F. (WARNING: Don't read further unless you think you know what it says!)
+  G. Linder expects the bullet to miss him. And she expects it to kill him.
+
+What part does Phong play?
+  A. He cooperates fully with Linder's plan (see above).
+  B. That includes his duty in the side yard. (See the question about
+     footprints in the side yard.)
+  C. (WARNING: Don't read further unless you think you know what it says!)
+  D. He's surprised when Linder is killed.
+  E. Then he has all night to meditate on his future.
+  F. That's all folks!
+
+What is Stiles's plan?
+  A. It certainly seems obvious, doesn't it?
+  B. That's what Linder wants you to think.
+  C. Linder phoned him and persuaded him to come to the house at 9:00.
+  D. Part of the persuasion was an offer of money.
+  E. If you're still outside when Stiles arrives, Linder doesn't know you're
+     there, so he gives Stiles some money and sends him away.
+  F. If you're inside when Stiles arrives, he fits right into Linder's plan.
+  G. Like a true grifter, Stiles has no real plan.
+
+How does Terry fit into the scheme?
+  A. Try asking Monica.
+  B. No help at all, is it?
+  C. Have you seen Terry meditating in the rock garden?
+  D. No, that doesn't happen.
+  E. Who is that person that shows up just before dawn?
+  F. Nobody shows up just before dawn.
+  G. In fact, Terry never shows up at all.
+  H. By the way, what gender have you assumed for Terry?
+  I. Remember the warning in the introduction: Do not use the presence or
+     absence of a question on a certain topic as an indication of what is
+     important, and don't assume that long answers are associated with
+     important questions.
+
+Why does Duffy arrive at the house?
+  A. At the beginning of the story, you don't expect to need Duffy.
+  B. But he shows up anyway, about 9:00.
+  C. Available and helpful, as usual.
+  D. In fact, you can ask Duffy for hints, if you want.
+
+What is Linder's motive?
+  A. Could his death be suicide?
+  B. Maybe he's sticken [sic] with grief over his wife's death.
+  C. Maybe he has a fatal disease.
+  D. Try to find a medical report.
+  E. It's in a messy place, where you have to search for it carefully.
+  F. It's in Monica's room, on her desk.
+  G. The medical report says that Linder will die soon and painfully.
+  H. Try analyzing the report or showing it to Duffy before he goes to the
+     morgue. Or try to analyze the corpse for a tumor.
+  I. In either case, the coroner will report that the medical report is
+     false.
+  J. Linder has no motive for suicide, only for framing Stiles.
+
+What is Monica's motive?
+  A. She could blame Stiles for her mother's suicide.
+  B. Try asking her about him.
+  C. But you'd better do it either before she sees the corpse or after she
+     admits her part in Linder's plan.
+  D. She doesn't really blame Stiles.
+  E. Try asking Phong about the suicide. Or try asking Monica about her
+     mother or her father or the affair.
+  F. Any of these will establish Monica's motive.
+  G. Monica's motive is that she blames Linder for her mother's death.
+
+Does Phong have a motive?
+  A. Try asking Phong about himself or Linder.
+  B. He will tell you something that establishes his motive.
+  C. Or try asking Monica about Linder's will after she sees the corpse.
+  D. She will tell you something that establishes Phong's motive.
+  E. Phong's motive is that he thinks Linder deceived him about his job and
+     the money he would make.
+
+What incentive does Stiles have to commit the murder?
+  A. It certainly seems obvious, doesn't it?
+  B. That's what Linder wants you to think.
+  C. But when Stiles answers any of your questions, he pleads innocence.
+  D. Try asking him about Mr. or Mrs. Linder.
+  E. (WARNING: Don't read further unless you think you know what it says!)
+  F. Actually, Stiles doesn't want to shoot anybody.
+
+Can you establish a motive for Terry?
+  A. Terry really wanted to see this movie.
+  B. When Monica suggested going out, it was easy to choose this movie.
+  C. It's not clear whether or not Terry wants to be better friends with
+     Monica. Would you?
+  D. Oops! Were you assuming that Terry has a motive for a crime?
+  E. If so, you're wrong.
+  F. By the way, what gender have you assumed for Terry?
+
+How does this story end?
+  A. If you don't arrest someone before 8:00 a.m., Police Chief Klutz
+     arrives to take you away, but not for a well-deserved rest.
+  B. If you try to attack, kill, or shoot another character, you have a
+     50-50 chance of succeeding and getting taken away.
+  C. If you're not sitting down when the gunshot goes off, you have a 50-50
+     chance of dying from it.
+  D. If you're poking around in the wrong place when the gunshot goes off,
+     you die from it.
+  E. If you don't enter the house soon enough for Linder's plan, he doesn't
+     get shot, and the story ends with a postscript about Stiles getting
+     shot a few days later.
+  F. Otherwise, the story ends when you arrest one or more people.
+  G. And, if you try to arrest more than two people, you can't.
+  H. Further, if you try to arrest two people, and they're not Monica and
+     Phong, you can't.
+
+How do I prove my case to the satisfaction of a jury?
+  A. You need to establish "method, motive, and opportunity": That means you
+     need either physical evidence or reliable testimony that proves how the
+     crime was committed, why the suspect did it, and when the suspect had
+     the opportunity to do it.
+  B. (WARNING: The following hints tell what the method was and how to prove
+     it.)
+  C. You can prove the actual murder method either by proving that a gun was
+     in the clock and was set off by the butler's button, or by getting
+     Monica or Phong to spill the beans.
+  D. You can prove that a gun was in the clock either by analyzing the
+     gunpowder on the keyhole or by finding the gun itself in Monica's
+     possession.
+  E. You can prove that the button set off the gun by pushing it between the
+     time Linder is shot and the time Monica gets home.
+  F. Monica will spill the beans if you accuse her after seeing her remove
+     the gun from the clock, or if you ask her about the gunpowder, or the
+     grandfather clock, or the butler's button, after you have proven the
+     button connection.
+  G. Phong will spill the beans if you accuse him after finding the gun
+     receipt and matching his boots to the footprints in the side yard, or
+     if you ask him about the gunpowder or the grandfather clock or the
+     butler's button after you have proven the button connection.
+
+What are the possibilities when I make the arrest?
+  A. If you haven't proved the actual murder method, the D.A. refuses to
+     indict, claiming the evidence is too flimsy. (But your boss gives you a
+     suggestion that should help you next time you play.)
+  B. Exception: You can arrest the corpse and get a silly ending.
+  C. Another exception: You can arrest Stiles and get him convicted, but a
+     postscript tells you that he is later released when some unspecified
+     new evidence is found.
+  D. If you have proved the murder method, the ending depends on whom you
+     arrest.
+  E. If you arrest Stiles, he is acquitted because of his lack of access to
+     the Linder house.
+  F. If you arrest the corpse, the coroner makes an unsatisfying ruling. If
+     you haven't seen the medical report, the coroner reaches no conclusion;
+     otherwise, the coroner rules suicide, but your boss doesn't believe it.
+  G. If you arrest both Monica and Phong, and have seen the gun receipt, and
+     have established Monica's motive and opportunity (the latter either by
+     seeing her remove the gun or by opening the clock yourself with the
+     key), then you have a pretty good case against them. However, Phong
+     confesses only to conspiring in Linder's plan and gets a suspended
+     sentence; then Monica manages to get the same deal. Your boss is not
+     satisfied with this result.
+  H. If you arrest Phong with or without Monica, but you _haven't_ met all
+     these conditions, Phong is acquitted because he lacks the mechanical
+     skills necessary to construct the hidden gun mechanism. If you also
+     arrest Monica, she too is acquitted: either for lack of motive or
+     opportunity, or, if you haven't seen the gun receipt, because Phong
+     was.
+  I. If you arrest Monica alone, and you have established motive but not
+     opportunity, she is acquitted for circumstantial evidence. If you have
+     established her opportunity, you win!
+
+
+For Your Amusement
+******************
+(after you've finished the game)
+
+Have you tried...
+
+  ...reading the scroll in the entry?
+  ...asking Duffy about himself?
+  ...to shut up Linder or to take him outside?
+  ...to take Linder's shoes?
+  ...to follow Mrs. Linder?
+  ...dialing zero or the coroner or the Brass Lantern?
+  ...to break down a door?
+  ...to eat or drink anything?
+  ...asking anyone who you are or where you are?
+  ...kicking anyone?
+  ...looking up?
+  ...slapping anyone or anything?
+  ...looking under a bed?
+  ...looking in a mirror?
+  ...to eat a meal or take the food?
+  ...to shoot yourself?
+  ...to take a shower?
+  ...following an inanimate object?
+  ...playing anything other than the radio or a record?
+  ...cursing at the program?
+  ...writing your own hintbook? You think it's easy?

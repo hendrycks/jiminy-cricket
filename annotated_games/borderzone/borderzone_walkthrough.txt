@@ -1,0 +1,159 @@
+open window
+remove carnation
+put carnation in bag
+east
+south
+west
+get towel
+turn water on
+wet towel
+turn water off
+read graffiti
+east
+north
+west
+wipe up blood
+throw towel out window
+drop document
+get camera
+take picture of document
+get document
+throw document out window
+rewind film
+open camera
+get color film and old film
+put old film in camera
+close camera
+put camera in bag
+put color film in bag
+wait
+wait
+wait
+no
+wait
+wait
+wait
+wait
+wait
+wait
+wait
+get camera and carnation
+put camera and carnation in bag
+get guide, passport, and ticket
+get color film, bag, and kit
+east
+south
+south
+wear carnation
+north
+north
+north
+say, "POPKA IZIM"
+drop film
+north
+north
+north
+north
+examine shirt
+tear shirt
+put scrap on left arm
+northeast
+northeast
+northeast
+west
+examine pen
+wait
+wait
+wait
+wait
+wait
+wait
+wait
+open door
+west
+get parka and work shoes
+east    
+east
+north
+wear work shoes
+wear parka
+west
+west
+enter shed
+examine tools
+get bolt cutters, gloves, and binoculars
+out
+north
+north
+watch searchlights
+wait
+wait
+north
+north
+stop watching searchlights
+watch guards
+e
+wait 
+wait
+wait
+wait
+wear gloves
+cut links with bolt cutters
+bend fence
+n
+n
+remove cap 
+press button
+attach pen to nw post
+replace cap
+u
+climb brace
+knock on door
+grab leg
+climb ladder
+in
+look
+slow
+se
+look at windows
+w
+n
+w
+read directory
+e
+se
+sw
+w
+wait
+wait
+s
+s
+w
+n
+e
+e
+n
+wait
+wait
+n
+topple cart
+w
+drop guide and ticket
+get can
+put can under escape
+get on can
+u
+u
+u
+enter window
+north
+north
+drop card
+knock on east door
+say, "Belboz"
+hide
+wait
+wait
+wait
+wait
+hit topaz

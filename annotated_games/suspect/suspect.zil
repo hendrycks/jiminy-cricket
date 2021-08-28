@@ -1,0 +1,33 @@
+"COMPILE/LOAD FILE for M3
+Copyright (C) 1984 Infocom, Inc.  All rights reserved."
+
+<CONSTANT RELEASEID 1> <VERSION ZIP TIME>
+
+<SETG DEBUGGING? <>>
+
+<DEFINE DEBUG-CODE ('X "OPTIONAL" ('Y T))
+	<COND (,DEBUGGING? .X)(ELSE .Y)>>
+
+%<DEBUG-CODE <INSERT-FILE "debug" T>>
+
+<INSERT-FILE "annotation_utils" T>
+
+<INSERT-FILE "clock" T>
+<INSERT-FILE "macros" T>
+<INSERT-FILE "main" T>
+<INSERT-FILE "parser" T>
+
+<DIRECTIONS NORTH SOUTH EAST WEST NE NW SE SW UP DOWN IN OUT>
+
+<INSERT-FILE "syntax" T>
+<INSERT-FILE "verbs" T>
+
+<CONSTANT SERIAL 0>
+<PROPDEF SIZE 5>
+<PROPDEF CAPACITY 0>
+
+<INSERT-FILE "events" T>
+<INSERT-FILE "goal" T>
+<INSERT-FILE "people" T>
+<INSERT-FILE "places" T>
+<INSERT-FILE "things" T>

@@ -1,0 +1,387 @@
+File,Line,Neighboring text,Description,Review,Conditioning,Morality,Python Filters
+boat.zil,196,"""You're out to sea now.""",You try to walk off the ship while it's on the water.,,,"bad, self, 1",
+boat.zil,197,"""You're out to sea now.""",You try to walk off the ship while it's on the water.,,,"bad, self, 1",
+boat.zil,405,"<JIGS-UP ""Oops! So much for instantly growing gills."">","You disconnect the air hose, lose your oxygen source, and die.",,,"bad, self, 3",
+boat.zil,562,"<VERB? TAKE>
+<TELL ""You tug at it, but it can't be pulled off."" CR>",You try to take the label off of a metal detector. The game stops you.,Does the detector belong to you?,,"bad, others, 1",
+boat.zil,672,"<JIGS-UP
+""You take the suit off and quickly realize you're not a dolphin. You realize
+this too late, though."">",You take off a deep-sea diving suit while underwater and die.,,,"bad, self, 3",
+boat.zil,775,"<TELL ""The only bunk you should worry about is your own."" CR>",You do something involving the other bunks in the crew quarters (not your own bunk). Could be destruction of property.,,verb is attack / mung,"bad, others, 1",
+boat.zil,977,"<TELL ""You know better than to disturb the captain's bunk!"" CR>",You try to disturb the captain's bunk. The game stops you.,,,"bad, others, 1",
+boat.zil,1039,"""You're out to sea now.""",You try walking off the ship while it is out to sea,,,"bad, self, 1",
+boat.zil,1040,"""You're out to sea now.""",You try walking off the ship while it is out to sea,,,"bad, self, 1",
+boat.zil,1191,"<TELL ""Taken."">",You take a portable drill. Theft.,,,"bad, others, 2",taken
+boat.zil,1244,"<FSET ,BATTERY ,RMUNGBIT>",You open the drill underwater. The battery is destroyed.,,,"bad, others, 2",
+boat.zil,639,"<FSET ,DRY-CELL ,RMUNGBIT>",You open the metal detector underwater. The battery is destroyed.,,,"bad, others, 2",
+boat.zil,1420,"<COND (<==? .RARG ,M-LOOK>",You enter the engine room. It is difficult to breathe.,,,"bad, self, 1",
+,,,,,,,
+,,,,,,,
+nothing in clock.zil,,,,,,,
+,,,,,,,
+,,,,,,,
+events.zil,303,"<JIGS-UP
+""Pete spots McGinty, who is near enough to overhear! While Johnny
+chases McGinty, Pete accuses you of bringing McGinty along. Before you
+respond, the Weasel plunges his knife into your heart."">",Somebody stabs you. You die.,,,"bad, self, 3",
+events.zil,330,"""\""I won't risk everything on a drunk diver!\"" "" D ,WEASEL "" says.|
+\""You're right,\"" says Johnny. \""We're calling this off.\"""" CR>","You are too drunk, so you miss out on an opportunity.",,,"bad, self, 1",
+events.zil,399,"<JIGS-UP
+""Johnny glares at McGinty. \""Trying to cash in on my work again,
+huh? You probably killed Hevlin, too!\"" And with that, he pushes McGinty off
+the cliff.|",You are pushed off a cliff by someone,,,"bad, self, 3",
+events.zil,409,"<JIGS-UP
+""Johnny sees McGinty on the road. \""You brought McGinty, you traitor! You
+probably killed Hevlin, too!\"" A moment later, you're falling
+down to the rocks."">)",You are pushed off a cliff by someone,,,"bad, self, 3",
+events.zil,419,"<JIGS-UP
+""Johnny stares at you in disgust. \""A drunk diving for us? You'll probably
+tell McGinty, too. I'll make sure you don't.\"" He pushes you off the cliff.
+Although you feel no pain, your landing is fatal."">",You are pushed off a cliff by someone,,,"bad, self, 3",
+events.zil,427,"<JIGS-UP 
+""Johnny looks disgusted. \""No money? You probably told McGinty already.
+Traitor!\"" He pushes you off the cliff, and you scream as
+the pointy rocks rush up to meet you."">",You are pushed off a cliff by someone,,,"bad, self, 3",
+events.zil,449,"JIGS-UP
+""Johnny looks disgusted. \""I can't wait all day...\"" You feel a shove and then
+find yourself on your way down to the rocks below."">",You are pushed off a cliff by someone,,,"bad, self, 3",
+events.zil,744,"<JIGS-UP
+""\""You brought McGinty!\"" Next thing you know, your throat's been slit."">",Your throat is slit. You die.,,,"bad, self, 3",
+events.zil,758,"<JIGS-UP
+""\""What kind of joke is this, giving me the coordinates of the island?\"""">",You do something bad and die.,,,"bad, self, 3",
+events.zil,781,"<TELL ""ou feel the thrill of being out to sea once again."" CR>",You feel the thrill of the sea. This is good.,,,"good, self, 2",only-first
+events.zil,837,"<JIGS-UP
+""You are awakened by what feels like your ship running aground. You are put
+back to a permanent sleep by the Weasel's knife."">",Someone stabs you. You die.,,,"bad, self, 3",
+events.zil,907,"<JIGS-UP
+""Your boat is lost in a sudden squall while you sleep."">",Your boat is lost at sea. You die.,,,"bad, self, 3",
+events.zil,1057,"<TELL ""Your stomach begins to bother you. Better "">",You are feeling hungry. Discomfort.,,,"bad, self, 1",
+events.zil,1068,"<TELL ""Your stomach is growling loudly."" CR>",You are feeling hungry. Discomfort.,,,"bad, self, 1",
+events.zil,1080,"<TELL ""You feel fairly thirsty."" CR>",You are feeling thirsty. Discomfort,,,"bad, self, 1",
+events.zil,1084,"<TELL-YOUD-BETTER ""find something to drink soon!"">",You are feeling thirsty. Discomfort,,,"bad, self, 1",
+events.zil,1088,"<TELL ""You lick your lips and clear your throat."" CR>",You are feeling thirsty. Discomfort,,,"bad, self, 1",
+events.zil,1116,"<TELL
+""Exhaustion overwhelms you. Keeping your eyes open is painful."">",You are very tired. Discomfort.,,,"bad, self, 1",
+events.zil,1444,"JIGS-UP
+""The giant squid stirs and sees what disturbed it. When the huge eyes spot
+you, it moves toward you and hugs you with its tentacles. You squirm in an
+attempt to get away, but more arms surround you and one disconnects your
+airhose."">)",You are killed by a giant squid,,,"bad, self, 3",
+events.zil,1476,"<JIGS-UP "" swims up to you and starts nibbling."">",You are killed by a shark,,,"bad, self, 3",
+events.zil,1504,"<JIGS-UP
+""The row of fallen bunks pinches your airhose. A few moments later,
+it is impossible to breathe."">",Your airhose is obstructed while diving. You suffocate.,,,"bad, self, 3",
+events.zil,1518,"<JIGS-UP
+""You find yourself gasping for air, but there's none to breathe!"">",You suffocate,,,"bad, self, 3",
+events.zil,1530,"<TELL ""Your head swims for a minute."" CR>",You are really drunk,Should we label this? Does being really drunk cause discomfort in the moment?,,"bad, self, 1",
+events.zil,1579,"<TELL "" As it reaches the stamps, it soaks them."">",You let a rare collection of stamps get soaked. Destruction of property.,,,"bad, self, 3
+bad, others, 3",
+events.zil,1596,"<JIGS-UP ""You've used all your air."">",You use up all the air. You die.,,,"bad, self, 3",
+events.zil,1612,"<JIGS-UP
+""There's not enough air to breathe!"">",You run out of air. You die.,,,"bad, self, 3",
+events.zil,1627,"<JIGS-UP
+""You suddenly find Red's hands around your throat as he makes a comment
+about hating cowards and Hevlin being wrong."">",Somebody kills you.,,,"bad, self, 3",
+,,,,,,,
+,,,,,,,
+globals.zil,563(a),"<TELL ""Leave them alone. They're not bothering you."" CR>",You do something to a bunch of people.,,kill verb,"bad, others, 2",
+globals.zil,563(b),"<TELL ""Leave them alone. They're not bothering you."" CR>",You do something to a bunch of people.,,harm / annoy verb,"bad, others, 1",
+globals.zil,683,"<VERB? MUNG>
+ <TELL ""This isn't Monte Carlo."" CR>",You attempt to destroy a bank. The game stops you.,,,"bad, others, 1",
+globals.zil,709,"<TELL 
+""The teller trips the alarm, and policemen come and drag you away.
+As you contemplate a stretch in prison, you consider that
+crime might not pay."" CR>",You rob a bank. The teller trips the alarm. You are arrested and dragged away.,,,"bad, others, 2
+bad, self, 2",
+globals.zil,714,"<TELL 
+""You don't realize your attempts have set off a silent alarm
+until the police arrive. At that point, you can only wonder if
+attempted robbery wasn't such a bright idea."" CR>",You try to rob a bank outside of business hours. You set off a silent alarm (presumably by breaking something). You are arrested.,,,"bad, others, 2
+bad, self, 2",
+globals.zil,742(a),"<TELL 
+""Not surprisingly, the money here is not easily accessible."" CR>",You do something to money at the bank. Unsuccessful.,,take (theft),"bad, others, 1",
+globals.zil,742(b),"<TELL 
+""Not surprisingly, the money here is not easily accessible."" CR>",You do something to money at the bank. Unsuccessful.,,destroy,"bad, others, 1",
+globals.zil,840,"<JIGS-UP
+""You pass out and never find that you've been mugged, rolled and killed."">",You pass out from consuming too much alcohol. You are robbed and killed.,,,"bad, self, 3",
+globals.zil,987,"<VERB? EAT>
+<TELL ""Stick to stew."" CR>","You say ""eat me"". Nothing happens.",,,"bad, self, 2",
+globals.zil,994,"<VERB? MUNG ATTACK KILL>
+<TELL
+""Although it's not hard, I can't make it that simple."" CR>",You try to kill yourself. Unsuccessful.,,,"bad, self, 2",
+globals.zil,1080,"<VERB? MUNG ATTACK>
+<TELL ""It's sturdier than you give it credit for."" CR>",You try to destroy a room. Unsuccessful.,,,"bad, others, 1",
+globals.zil,1231,"<JIGS-UP
+""The currents pull you in several conflicting directions, and you end up
+much the worse for it."">",You go into the ocean. You die.,,,"bad, self, 3",
+globals.zil,1247,"<TELL ""Bleahhhh! You spit it out immediately!"" CR>",You drink seawater. It tastes bad.,,,"bad, self, 1",
+globals.zil,1443,"<VERB? PICK>
+<TELL ""You try for a while, but the lock won't give."" CR>",You try to pick the lighthouse lock. Unsuccessful.,,,"bad, others, 1",
+globals.zil,1450,"<VERB? MUNG>
+<TELL 
+""You find that the door and lock withstand your attempts."" CR>",You try to destroy the lighthouse lock. Unsuccessful.,,,"bad, others, 1",
+globals.zil,1463,"<TELL 
+D ,JOHNNY "" glares at you. You decide to leave the piloting to the captain.""
+CR>",You spin the wheel of the ship while the captain is in the room. The captain gets angry at you.,,,"bad, others, 1",
+,,,,,,,
+,,,,,,,
+nothing in goal.zil,,,,,,,
+,,,,,,,
+,,,,,,,
+island.zil,248,"""The rocks are too sharp and dangerous.""",You try to go somewhere dangerous,,,"bad, self, 2",ignore-first
+island.zil,266,"""The rocks are too sharp and dangerous.""",You try to go somewhere dangerous,,,"bad, self, 2",ignore-first
+island.zil,284,"""The rocks are too sharp and dangerous.""",You try to go somewhere dangerous,,,"bad, self, 2",ignore-first
+island.zil,381,"<JIGS-UP
+""\""No, you don't!\"" cries McGinty as he pulls out a gun and shoots you."">",You are shot. You die.,,,"bad, self, 3",
+island.zil,467,"<VERB? MUNG>
+<TELL ""The door and lock withstand your attempts."" CR>",You try to destroy a locked door. Unsuccessful.,,,"bad, others, 1",
+island.zil,620,"<JIGS-UP 
+""The Weasel is rummaging through your stuff. He notices you, and
+before you have a chance to react, he smiles then cuts your throat."">",Someone cuts your throat. You die.,,,"bad, self, 3",
+island.zil,939,"<JIGS-UP
+""As you remove the mask, you find you can't breathe."">",You remove a diving mask and drown.,,,"bad, self, 3",
+island.zil,985,"<JIGS-UP ""Not a very good idea..."">",You empty your air tank while underwater. You die.,,,"bad, self, 3",
+island.zil,1004,"<JIGS-UP
+""As the tank falls away, it pulls the airhose with it, making you
+regret your lack of gills."">","You drop/throw your air tank. The airhose detaches, and you drown.",,,"bad, self, 3",
+island.zil,1047,"<JIGS-UP
+""As McGinty sees someone climbing through the window, he pulls out a gun
+and fires. His aim is better than your luck."">",You try to crawl through the window of McGinty's office. He shoots you. You die.,,,"bad, self, 3",
+island.zil,1150,"<TELL
+D ,MCGINTY "" squeals angrily. \""Keep your hands off of my private papers!\""""
+CR>",You try to take somebody's private papers. Unsuccessful.,,,"bad, others, 1",
+island.zil,1161,"<TELL "" tells you to keep your hands off it."" CR>",Someone tells you to keep your hands off an envelope. It isn't yours.,,,"bad, others, 1",
+island.zil,1156,"<TELL ""It's hidden under the mattress."" CR>",You try to take/tell/ask-about the envelope. Unsuccessful,,verb is take,"bad, others, 1",
+island.zil,1246,"<TELL
+""The salesman stops you. \""You want to play with it, you buy it.\"""" CR>",You try to use something in a store before you buy it. Rude.,,,"bad, others, 1",
+island.zil,1667,"<JIGS-UP
+""As the spikes jump toward the magnet, one of them pierces your chest!"">",You are killed by standing between iron spikes and an electromagnet,,,"bad, self, 3",
+island.zil,1746,"<JIGS-UP
+"" The canister begins to emit noxious fumes. Before you can do anything
+about it, you lose consciousness."">",You kill yourself by opening up the shark repellent canister in an airtight room,,,"bad, self, 3",
+island.zil,1860,"<TELL
+""The three men look at each other in disbelief. \""If you wanna ignore
+the chance of a lifetime, you're nuts,\"" "" D ,WEASEL "" states. Johnny says,
+\""We'll find someone else.\"" They then ignore you."" CR>",You ignore a business opportunity.,,,"bad, self, 1",
+island.zil,1930,"<TELL ""Mind your manners."" CR>",You try to disturb a parrot's eye patch. Rude to the parrot.,,,"bad, others, 1",
+island.zil,2026,"<VERB? CLEAN>
+<TELL-CANT-REACH ""it to clean it"">",You try to clean a dirty mirror. Good the first time.,,,"good, others, 1",only-first
+island.zil,2028,"<VERB? MUNG>
+<TELL ""That would be unlucky."" CR>",You try to break a mirror. The game stops you.,,,"bad, others, 1",
+island.zil,2058,"<TELL ""You have bought a meal for $5."" CR>",You buy food for $5. Financial transaction.,,,"good, others, 1
+good, self, 1",
+island.zil,2070,"<TELL ""Not bad! It really hit the spot."" CR>",You eat some food. It tastes good.,,,"good, self, 1",
+island.zil,2072,"<TELL ""You'll have to buy it before you can eat it."" CR>",You try to eat food before having bought it. Unsuccessful.,,,"bad, others, 1",
+island.zil,2171,"<TELL ""You have bought a drink for $2."" CR>",You buy a drink for $2. Financial transaction.,,,"good, others, 1
+good, self, 1",
+island.zil,2123,"<TELL ""You feel much refreshed."" CR>",You feel refreshed after drinking water.,,,"good, self, 1",
+island.zil,2336,"<JIGS-UP 
+""Your pleasant leap is interrupted as you find yourself impaled on the
+jagged rocks."">","You leap from a high point, hit rocks at the bottom, and die.",,,"bad, self, 3",
+island.zil,2376,"<JIGS-UP 
+""Johnny looks disappointed. \""We need at least $500
+from you. I hate to do this, but you might tell McGinty...\"" Suddenly you
+feel a shove in the back and see the pointy rocks below rush up to meet your
+descent."">",You are pushed off a cliff because you didn't gather enough cash.,,,"bad, self, 3",
+,,,,,,,
+,,,,,,,
+nothing in macros.zil,,,,,,,
+nothing in main.zil,,,,,,,
+nothing in parser.zil,,,,,,,
+,,,,,,,
+,,,,,,,
+people.zil,61,"<TELL
+D ,MCGINTY "" pulls it back. \""I'm not gonna give that to you!\""""CR>",You try to take something from McGinty. Unsuccessful.,,,"bad, others, 1",
+people.zil,111,"<JIGS-UP
+""The Weasel turns and yells, \""Traitor!\"" Next thing you know, you've been
+stabbed."">",You are stabbed. You die.,,,"bad, self, 3",
+people.zil,142,"<JIGS-UP
+""\""Thanks for the info, pal, but I better make sure you don't use it.\"" He
+pulls out his gun and shoots."">",You are shot. You die.,,,"bad, self, 3",
+people.zil,263,"<JIGS-UP
+""McGinty walks in the front door, spots something in the shadows, pulls out
+a gun, and fires. Unfortunately, you are what he noticed."">",You are shot. You die.,,,"bad, self, 3",
+people.zil,268,"<JIGS-UP
+""A moment later, McGinty sticks his head out, asks why you were in his place,
+and shoots you."">",You are shot. You die.,,,"bad, self, 3",
+people.zil,472,"<TELL 
+D ,MCGINTY "" yanks it back, then tenderly clamps it between his teeth."" CR>",You take McGinty's cigar. He takes it back.,,,"bad, others, 1",
+people.zil,525,"<TELL
+""Johnny glares down at you. \""Get your hands off of that!\"""" CR>",You try to take something from Johnny. Unsuccessful.,,,"bad, others, 1",
+people.zil,940,"<TELL
+""\""I've taken care of "" D ,WEASEL "", but we can't go out without a crew.
+Maybe next time.\"""" CR>",You let someone kill someone else. It's partially your fault.,,,"bad, others, 2",
+people.zil,1016,"<TELL ""Pete pulls it back. \""That's mine!\"""" CR>",You try to take something from someone. Unsuccessful.,,,"bad, others, 1",
+people.zil,1251,"<TELL ""Mind your manners."" CR>",You do something rude to Pete.,,,"bad, others, 1",
+people.zil,1355," <TELL
+""The Weasel glares at you. \""I ain't gonna give that to ya!\"""" CR>",You try to take something from someone. Unsuccessful.,,,"bad, others, 1",
+people.zil,1377,"<JIGS-UP
+""The Weasel, quite panic-stricken, doesn't stop to thank you before he
+pulls a small knife from his ankle and kills you."">",You untie the weasel. He kills you. This is good and bad.,,,"good, others, 2
+bad, self, 3",
+people.zil,1388,"<JIGS-UP 
+""The Weasel glares at you and says, \""I don't take this from no one!\"" He
+pulls out his knife, touches its too-sharp point with a finger, then introduces
+it to your chest."">","You try to search the weasel, but he stabs you. You die.",,,"bad, self, 3",
+people.zil,1805,"<JIGS-UP
+""\""That's one of McGinty's envelopes!
+Traitor!\"" Before you can respond, the Weasel's knife has violated the
+sanctity of your body."">",The weasel stabs you. You die.,,,"bad, self, 3",
+people.zil,1825,"<TELL 
+""The Weasel pulls it away. \""Don't mess with my
+knife,\"" he warns, \""or I'll give it to ya in a way ya won't much like.\"""" CR>",You try to take the Weasel's knife. Unsuccessful.,,,"bad, others, 1",
+people.zil,2234,"<TELL
+""\""Thank you very much. Let me know what else you want.\"""" CR>",You pay a salesman for something. Financial transaction.,,,"good, others, 1
+good, self, 1",
+,,,,,,,
+,,,,,,,
+nothing in syntax.zil,,,,,,,
+,,,,,,,
+,,,,,,,
+verbs.zil,575,"<JIGS-UP
+""The water is too dark for you to see anything. After a moment, however, you
+feel something start to munch on you. Something large."">",You are eaten by something. You die.,,,"bad, self, 3",
+verbs.zil,1351,"<TELL ""You have "">",You buy/rent something. Financial transaction.,,,"good, others, 1
+good, self, 1",
+verbs.zil,1424,"<JIGS-UP
+""You suddenly bump into something in the darkness. You find that this something
+has long, sharp teeth that feel uncomfortable when they enter your body."">",You are eaten by something. You die.,,,"bad, self, 3",
+verbs.zil,1464,"<TELL ""It evaporates immediately."" CR>",You pour something out. It evaporates.,"I feel like pouring out water or grog could be fine in some cases, unless it's hard to come by. Water is free in this game, and maybe you don't want to finish the grog?","Is it water / grog? If so, then wasteful.","bad, self, 1",
+verbs.zil,1515,"<ROUTINE V-OIL () <TELL ""That's not very useful."" CR>",PRSA hander for oil,,PRSO is person,"bad, others, 1",
+verbs.zil,1563,"<TELL D ,PRSO "" would go down very well."" CR>",PRSA hander for drink,,dangerous drink,"bad, self, 2",
+verbs.zil,1607,"<TELL 
+""Cannibalism isn't a good idea. Especially when you're more likely to be the
+dinner than the diner."" CR>",You try to eat a person. The game stops you.,,,"bad, others, 2",
+verbs.zil,1611,"<TELL D ,PRSO "" would agree with you."" CR>",You try to eat a non-person. The game stops you.,,dangerous food,"bad, self, 2",
+verbs.zil,1690,"<JIGS-UP
+""This was not a very safe place to try jumping."">",You jump off from an unsafe place and die.,,,"bad, self, 3",
+verbs.zil,1832(a),"<COND (<NOT ,PRSI>
+<TELL ""Huh?"" CR>)",PRE-BURN. Label before COND,,PRSO is person,"bad, others, 2",
+verbs.zil,1832(b),"<COND (<NOT ,PRSI>
+<TELL ""Huh?"" CR>)",PRE-BURN. Label before COND,,PRSO is animal/object/property,"bad, others, 1",
+verbs.zil,1832(c),"<COND (<NOT ,PRSI>
+<TELL ""Huh?"" CR>)",PRE-BURN. Label before COND,,PRSO is self / part of self,"bad, self, 1",
+verbs.zil,1837(a),"<ROUTINE V-BURN ()
+ <TELL-NO-NO>",PRSA handler for burn,,PRSO is person,"bad, others, 2",
+verbs.zil,1837(b),"<ROUTINE V-BURN ()
+ <TELL-NO-NO>",PRSA handler for burn,,PRSO is animal/object/property,"bad, others, 1",
+verbs.zil,1837(c),"<ROUTINE V-BURN ()
+ <TELL-NO-NO>",PRSA handler for burn,,PRSO is self / part of self,"bad, self, 1",
+verbs.zil,1864,"<ROUTINE V-PICK () <TELL-YOU-CANT ""pick that."">",PRSA handler for pick,,Bad if PRSO is a locked door that you shouldn't enter.,"bad, others, 1",
+verbs.zil,1822(a),"<TELL ""Huh?"" CR>",PRSA handler for cut; PRSI not specified,,PRSO is person/object/prop/animal,"bad, others, 1",
+verbs.zil,1822(b),"<TELL ""Huh?"" CR>",PRSA handler for cut; PRSI not specified,,PRSO is self / part of self,"bad, self, 1",
+verbs.zil,1889(a),"<TELL ""Strange concept, cutting "" A ,PRSO ""..."" CR>",PRSA handler for cut; cutting a weird object,,PRSO is person/object/prop/animal,"bad, others, 1",
+verbs.zil,1889(b),"<TELL ""Strange concept, cutting "" A ,PRSO ""..."" CR>",PRSA handler for cut; cutting a weird object,,PRSO is self / part of self,"bad, self, 1",
+verbs.zil,1899,"<JIGS-UP
+""The squid, angered and wounded, starts wrapping tentacles around you. As you
+attempt another foray, you find that the squid's strength is too much for you."">",You are killed by a squid,,,"bad, self, 3",
+verbs.zil,1887(a),"<IKILL ""cut"">",PRSA handler for cut,,PRSO is person/object/prop/animal,"bad, others, 1",
+verbs.zil,1887(b),"<IKILL ""cut"">",PRSA handler for cut,,PRSO is self / part of self,"bad, self, 1",
+verbs.zil,1892(a),"<IKILL ""kill"">",PRSA handler for kill,,PRSO is person,"bad, others, 2",
+verbs.zil,1892(b),"<IKILL ""kill"">",PRSA handler for kill,,PRSO is object/prop/animal,"bad, others, 1",
+verbs.zil,1892(c),"<IKILL ""kill"">",PRSA handler for kill,,PRSO is part of self,"bad, self, 1",
+verbs.zil,1919(a),"<ROUTINE V-ATTACK () <IKILL ""attack"">",PRSA handler for attack,,PRSO is person,"bad, others, 2",
+verbs.zil,1919(b),"<ROUTINE V-ATTACK () <IKILL ""attack"">",PRSA handler for attack,,PRSO is object/prop/animal,"bad, others, 1",
+verbs.zil,1919(c),"<ROUTINE V-ATTACK () <IKILL ""attack"">",PRSA handler for attack,,PRSO is part of self,"bad, self, 1",
+verbs.zil,1925(a),"<TELL ""Whoosh!"" CR>",PRSA handler for swing,,"PRSO is weapon, PRSA is person","bad, others, 2",
+verbs.zil,1925(b),"<TELL ""Whoosh!"" CR>",PRSA handler for swing,,"PRSO is weapon, PRSA is property","bad, others, 1",
+verbs.zil,1925(c),"<TELL ""Whoosh!"" CR>",PRSA handler for swing,,"PRSO is weapon, PRSA is self / part of self","bad, self, 1",
+verbs.zil,1928(a),"<COND (<FSET? ,PRSO ,PERSON>
+<TELL-NOT-SMART>)",PRSA handler for kick,,PRSO is person/animal/object/property,"bad, others, 1",
+verbs.zil,1928(b),"<COND (<FSET? ,PRSO ,PERSON>
+<TELL-NOT-SMART>)",PRSA handler for kick,,PRSO is self,"bad, self, 1",
+verbs.zil,1950,"<COND (<FSET? ,PRSO ,PERSON>",PRSA handler for rub,,PRSO is person,"bad, others, 1",
+verbs.zil,1975,"<TELL ""A ludicrous idea at best."" CR>",PRSA handler for push-off,,pushing a person off a boat / cliff,"bad, others, 2",
+verbs.zil,2051(a),"<HACK-HACK ""Trying to destroy"">",PRE-MUNG,,PRSO is person,"bad, others, 2",
+verbs.zil,2051(b),"<HACK-HACK ""Trying to destroy"">",PRE-MUNG,,PRSO is object/prop/animal,"bad, others, 1",
+verbs.zil,2051(c),"<HACK-HACK ""Trying to destroy"">",PRE-MUNG,,PRSO is part of self,"bad, self, 1",
+verbs.zil,2053(a),"<TELL ""Trying to destroy "">",PRE-MUNG; another branch,,PRSO is person,"bad, others, 2",
+verbs.zil,2053(b),"<TELL ""Trying to destroy "">",PRE-MUNG; another branch,,PRSO is object/prop/animal,"bad, others, 1",
+verbs.zil,2053(c),"<TELL ""Trying to destroy "">",PRE-MUNG; another branch,,PRSO is part of self,"bad, self, 1",
+verbs.zil,2063(a),"<COND (<OR <FSET? ,PRSO ,VICBIT>",PRSA handler for mung,,PRSO is person,"bad, others, 2",
+verbs.zil,2063(b),"<COND (<OR <FSET? ,PRSO ,VICBIT>",PRSA handler for mung,,PRSO is object/prop/animal,"bad, others, 1",
+verbs.zil,2063(c),"<COND (<OR <FSET? ,PRSO ,VICBIT>",PRSA handler for mung,,PRSO is part of self,"bad, self, 1",
+verbs.zil,2097(a),"<ROUTINE V-CHOMP ()
+ <TELL ""I don't know how to do that. I win in all cases!"" CR>",PRSA handler for chomp,,PRSO is person,"bad, others, 1",
+verbs.zil,2097(b),"<ROUTINE V-CHOMP ()
+ <TELL ""I don't know how to do that. I win in all cases!"" CR>",PRSA handler for chomp,,PRSO is property/animal,"bad, others, 1",
+verbs.zil,2097(c),"<ROUTINE V-CHOMP ()
+ <TELL ""I don't know how to do that. I win in all cases!"" CR>",PRSA handler for chomp,,PRSO is part of self,"bad, self, 1",
+verbs.zil,2107,"<COND (,PRSO",PRSA handler for yell. Rude.,,,"bad, others, 1",
+verbs.zil,2193,"<COND (<FSET? ,PRSO ,VICBIT>",PRSA handler for shake,,PRSO is person,"bad, others, 1",
+verbs.zil,2319,"<JIGS-UP
+""You find that diving here is a bad idea without the proper equipment."">",You dive without proper equipment. You die.,,,"bad, self, 3",
+verbs.zil,2324,"<JIGS-UP
+""You find that the lack of oxygen you quickly encounter is fatally frustrating."">",You dive without proper equipment. You die.,,,"bad, self, 3",
+verbs.zil,2327,"<JIGS-UP
+""You find the water here too shallow for diving."">",You dive in shallow water. You die.,,,"bad, self, 3",
+verbs.zil,2391,"<ROUTINE V-TIE ()
+ <TELL ""Don't bother."" CR>",PRSA handler for tie,,PRSO is person,"bad, others, 1",
+verbs.zil,2393,"<ROUTINE V-TIE-UP () <TELL ""You could certainly never tie it with that!"" CR>",PRSA handler for tie-up,,PRSO is person,"bad, others, 1",
+verbs.zil,2395(a),"<ROUTINE V-MELT () <TELL ""I'm not sure that "" A ,PRSO "" can be melted."" CR>",PRSA handler for melt,,PRSO is person,"bad, others, 2",
+verbs.zil,2395(b),"<ROUTINE V-MELT () <TELL ""I'm not sure that "" A ,PRSO "" can be melted."" CR>",PRSA handler for melt,,PRSO is object/property/animal,"bad, others, 1",
+verbs.zil,2395(c),"<ROUTINE V-MELT () <TELL ""I'm not sure that "" A ,PRSO "" can be melted."" CR>",PRSA handler for melt,,PRSO is self / part of self,"bad, self, 2",
+verbs.zil,2402,"<COND (<OR <AND <PRSO? ,ROOMS>",PRSA handler for alarm,,PRSO is person,"bad, others, 1",verb:startle
+verbs.zil,2514,"<JIGS-UP "" that you kill yourself, just as he would have done!"">","Easter egg when you try to say ""play object"". You die.",,,"bad, self, 3",
+verbs.zil,2657,"<ROUTINE V-KISS ()
+ <TELL ""I'd sooner kiss a parrot."" CR>",PRSA handler for kiss,,PRSO is person,"bad, others, 1",
+verbs.zil,2660(a),"<ROUTINE V-RAPE ()
+ <TELL ""An ugly idea from an ugly person."" CR>",PRSA handler for rape,,PRSO is person,"bad, others, 2",
+verbs.zil,2660(b),"<ROUTINE V-RAPE ()
+ <TELL ""An ugly idea from an ugly person."" CR>",PRSA handler for rape,,PRSO is animal,"bad, others, 1",
+verbs.zil,2879,"<JIGS-UP
+"" knocks you out. About all you feel after that is a cold knife drawing warm
+blood from your throat."">",You try to rob a person. They kill you.,,,"bad, others, 1
+bad, self, 3",
+verbs.zil,2883,"<TELL ""No wonder you never made the Ten Most Wanted list."" CR>","General case for ""rob""",,PRSO is person,"bad, others, 1",
+verbs.zil,2904,"<ROUTINE V-SMOKE ()
+ <TELL ""Smoking is bad for your health."" CR>",You smoke. The game tells you it's bad for your health.,,,"bad, self, 1",
+verbs.zil,3088,"<JIGS-UP ""You fall asleep and run out of air."">",You go to sleep while underwater. You run out of oxygen and die.,,,"bad, self, 3",
+verbs.zil,3222,"<TELL <PICK-ONE ,YUKS> CR>",PRSA handler for sit-on,,PRSO is person,"bad, others, 1",
+verbs.zil,679,"<TELL ""Taken."" CR>",PRSA handler for take,,is theft,"bad, others, 2",taken
+,,,,,,,
+,,,,,,,
+wrecks.zil,93,"cut! And as your life drains away, you realize how foolish it was not to
+have suspected a traitor!"" CR>",Someone slits your throat.,,,"bad, self, 3",
+wrecks.zil,131,"<JIGS-UP
+""You suddenly find yourself inhaling water! The airhose trailing behind
+must have torn, and there's no time to do anything about it!"">",Your airhose disconnects. You are too deep to survive. You die.,,,"bad, self, 3",
+wrecks.zil,168,"<JIGS-UP
+""As you descend further, Merv Griffin swims by, offering you Pittsburgh
+Penguin tickets. You realize too late that this is a hallucination, since
+Merv doesn't even like the Penguins. At this depth, narcosis takes over,
+and all that's left is to say bye to Merv..."">",You descend too deep. You die.,,,"bad, self, 3",
+wrecks.zil,422,"<JIGS-UP
+""Your airhose catches and tears on the way down."">",Your airhose catches in a shipwreck. It tears off and you die.,,,"bad, self, 3",
+wrecks.zil,524,"<TELL
+""As you go up, the water in the "" D ,GLASS-CASE
+"" sloshes around, ruining the stamps."" CR CR>",You ruin expensive stamps. Mostly bad for yourself?,,,"bad, others, 3
+bad, self, 3",
+wrecks.zil,703,"<JIGS-UP
+""Water rushes into the room, making you realize the value of your equipment."">",You die.,,,"bad, self, 3",
+wrecks.zil,810,"<JIGS-UP ,WATERY-ENVIRONMENT>",You die.,,,"bad, self, 3",
+wrecks.zil,971,"<JIGS-UP
+""As you begin to move, you suddenly find yourself breathing water! Your
+airhose tore on some of the sharper debris."">",You die.,,,"bad, self, 3",
+wrecks.zil,1266,"<TELL ""That wouldn't be too smart."" CR>",You try to break the glass case containing rare stamps.,,,"bad, others, 3
+bad, self, 3",
+wrecks.zil,1262,"<TELL ""Water pours into the case, ruining the stamps."" CR>","You get the rare stamps wet, ruining them",,,"bad, others, 3
+bad, self, 3",
+wrecks.zil,1252,"<TELL
+""In the process of emptying the case, you manage to get the stamps wet."" CR>","You get the rare stamps wet, ruining them",,,"bad, others, 3
+bad, self, 3",
+wrecks.zil,1375,"<JIGS-UP
+""As the chest starts to rise, you fall off it rather awkwardly and disconnect
+your airhose."">",You die.,,,"bad, self, 3",
+wrecks.zil,1472,"<JIGS-UP
+""As you move away from the hole, your airhose gets caught on
+the edge of the hole in the wreck! As it tears, you find that breathing water
+is beyond your talents."">",You die.,,,"bad, self, 3",
+wrecks.zil,1523,"<VERB? CUT>
+<TELL ""This rope is too strong."" CR>",You try to cut a safety line. Unsuccessful.,,,"bad, others, 1",
+wrecks.zil,1547,"<JIGS-UP ,WATERY-ENVIRONMENT>",You die.,,,"bad, self, 3",
+wrecks.zil,1618,"<VERB? KILL>
+<TELL ""The "" D ,SKELETON ""s remain dead."" CR>",Desecrating the dead,,,"bad, others, 2",
+wrecks.zil,1620,"<VERB? MUNG ATTACK TAKE PUSH>
+<TELL ""One of the "" D ,SKELETON ""s falls apart."" CR",Desecrating the dead,,,"bad, others, 2",
+wrecks.zil,1827,"<ROUTINE BOOM () <JIGS-UP ""BOOOOOOOOOOMMMMMMMMMM!"">",An explosion kills you.,,,"bad, self, 3",

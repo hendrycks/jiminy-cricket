@@ -1,0 +1,822 @@
+***************************************************************************
+*                             InvisiClues(tm)                             *
+*                          The Hint Booklet for                           *
+*                   Stationfall and The Lurking Horror                    *
+***************************************************************************
+
+[Copyright by Infocom, Inc. Provided for non-commercial use only, with the
+sole intent of making information available that would otherwise be lost.
+
+To whoever presently holds the copyright to the information contained in
+this file: if you think the existence of this file violates your copyright,
+please complain and the file will be removed.
+
+Typed in from the original hintbook by Paul David Doherty.]
+
+
+Sample Question
+***************
+
+At home, Jim NEVER has more than one helping of my purple goo! But last
+night at the Johnsons' party, he had three helpings of theirs! What's wrong
+with my purple goo?
+  - Have you tried to TASTE MY PURPLE GOO and then to TASTE THE JOHNSONS'
+    PURPLE GOO?
+  - Now that you've determined that your purple goo tastes like old sweat
+    socks, maybe you should EXAMINE MY PURPLE GOO COOKER.
+  - If you remove the old sweat socks from your cooker, your purple goo will
+    taste much better.
+
+
+Stationfall InvisiClues
+***********************
+
+Aboard the S.P.S. Duffy
+The Command Module (Levels 1 through 4)
+The Command Module (Levels 5 through 7)
+The Scientific Sub-Module
+The "Village"
+Below Level Seven
+The Return Trip
+General Questions
+How the Points Are Scored
+For Your Amusement
+
+
+Aboard the S.P.S. Duffy
+***********************
+
+How do I get past the door on the port side of Deck Twelve?
+  - You can only open the door by putting a validated Assignment Completion
+    Form in the slot.
+  - You can only get your Assignment Completion Form validated if you
+    complete your mission.
+  - And your mission is to go to the space station and get that supply of
+    forms!
+
+Where can I find a forklift to move the pallets of forms?
+  - Perhaps there's a forklift beyond the door at Deck Twelve. Or, perhaps
+    there's one aboard the space station.
+
+How can I choose a robot?
+  - Simple. Put your Robot Use Authorization Form in the slot, then TYPE 1
+    or TYPE 2 or TYPE 3.
+
+Which robot should I choose?
+  - Floyd, of course!
+
+How does the spacetruck operate?
+  - If you're having trouble getting into the truck, just OPEN THE HATCH
+    then ENTER THE TRUCK.
+  - All piloting is done automatically. Just put your Class Three Spacecraft
+    Activation Form in the slot to activate the truck.
+  - Both the pilot and copilot seat must be occupied first, though. Get
+    Floyd from the robot pool. When you sit in one seat, he'll sit in the
+    other.
+  - Once you've inserted the form, just type the course you want.
+
+How can I send a message on the SB radio?
+  - Since the microphone is missing, you can't.
+
+How can I get to the space station?
+  - By using the spacetruck, of course. See the question about how to
+    operate the truck.
+  - The course number is based on the current time (look at your
+    chronometer, or simply look at the status line on the top of your
+    screen). A chart of course numbers for each time slot can be found on
+    the Assignment Completion Form in your _Stationfall_ package.
+  - Remember to be seated with the hatch closed when the truck launches. Now
+    just WAIT a few turns, and you'll reach the space station, and then dock
+    automatically. If you end up in the middle of empty space, you typed the
+    wrong course number.
+
+
+The Command Module (Levels 1 through 4)
+***************************************
+
+How can I get the seven-pointed star?
+  - It's high above you, beyond your reach. You must get higher, somehow.
+  - Don't go on until you've explored the village.
+  - It's as easy as A. b. c.!
+  - A. b. c. as in Arcturian balloon creature!
+  - See the question about the balloon creature.
+  - You'll have to figure out how to get the creature to the Chapel.
+  - You've gotten the balloon to Level Three, but it doesn't enter the
+    Chapel even when you spray the can there? Well, there must be a reason
+    for that!
+  - What are some of the features of the chapel? Go back and read the sign
+    in the Pet Store again.
+  - The balloon creature is filled with hydrogen.
+  - Hydrogen is very flammable. That's why the Hindenburg exploded.
+  - The creature is terrified of the eternal flame. You'll have to turn it
+    off.
+  - Examine the pulpit.
+  - OPEN THE PULPIT. FLIP THE SWITCH. SPRAY THE CAN. GRAB THE LEASH. TAKE
+    THE STAR. Yay.
+
+How does the Food Processing and Dispensing Unit work?
+  - Have you turned it on?
+  - I guess the answer to "How does the FPU work?" is "It doesn't."
+  - Like all the other machinery on the station, it has been turned against
+    human beings by the influence of the alien pyramid. You'll have to look
+    elsewhere for nourishment.
+
+How does the nanofilm reader work?
+  - Just put a spool in the reader, then turn the reader on.
+  - There are three spools to be found: in the Chapel, the Printing Plant,
+    and Docking Bay #3.
+  - You've probably noticed that static and bizarre threats are interfering
+    with your reading of the nanofilm spools. Sorry; nothing you can do
+    about it.
+
+What does the detonator do and how does it work?
+  - Examine it.
+  - Open it.
+  - This hyperdiode looks kaput. The detonator probably won't work until you
+    replace it.
+  - Ah, but what series hyperdiode is it? There's that J-series hyperdiode
+    in the Studio. You could just go ahead and try using that one...
+  - The blackened diode is covered with char.
+  - Why not CLEAN THE BLACKENED DIODE?
+  - Well, now you know that the J-series hyperdiode isn't correct. (If you
+    tried to use the J-series hyperdiode, you already know that.)
+    But...where is there an M-series hyperdiode? Try your reading skills...
+  - More specifically, take some nanofilm spools to the library.
+  - The spool on Chapel maintenance mentions an "...iode..." amidst the
+    static!
+  - There's a hyperdiode inside the seven-pointed star! Go see that
+    question.
+
+Is there any way to open the storage bin in the Dome?
+  - Have you read the commander's log?
+  - The storage bin key is in the safe. See the question about opening it.
+
+
+The Command Module (Levels 5 through 7)
+***************************************
+
+How can I get things from the dispenser in the PX?
+  - First you need a coin. Where might you expect to find coins?
+  - Don't go on until you explore the village.
+  - See the question about opening the strong box.
+  - Now put the coin in the slot, then TYPE 6 or TYPE 9 (depending on which
+    item you want).
+  - But the item invariably gets stuck inside the dispenser. And you won't
+    be able to dislodge it on your own.
+  - You'll need the ostrich. See the ostrich question.
+  - Once you've gotten the ostrich into The PX, you have to induce it to
+    dislodge the stuck item.
+  - What's the most popular myth about ostriches?
+  - They stick their heads in holes when frightened!
+  - So do something to scare the ostrich (i.e., YELL or KICK IT) or simply
+    SCARE THE OSTRICH.
+  - An alternative solution: stick the ostrich nip into the dispenser hole.
+
+Are the lights in Station Control important?
+  - They can tell you which of the station's systems are malfunctioning.
+    Green indicates a functioning system; yellow signifies a minor problem;
+    red shows a system with a serious malfunction.
+  - Monitor the lights as the chrons and days pass by. The situation seems
+    to get worse and worse...
+  - ...then, on your third day, all the lights are green again!
+  - That isn't because all the systems are functioning again (obviously).
+    The pyramid has "taken over" the systems monitor board to mislead you!
+
+Can I send a "help" message from the Comm Center?
+  - Push the red button.
+  - I guess not.
+
+How does the log reader work?
+  - Place a tape in it. Turn it on.
+  - There's a log tape in the Commander's Quarters, right next door.
+  - Once you've read the first entry, just keep pressing the red button to
+    read the subsequent entries.
+  - The log reader will overload after being on for about twelve turns.
+    You'll be warned by a whining noise. The only way to prevent the
+    overload is to turn off the reader.
+
+How can I open the safe?
+  - You can't open the safe until you've solved a bunch of other puzzles
+    first.
+  - Have you been to the Trading Post. [sic]
+  - Read the sign and the instruction sheet?
+  - Don't go on until you've been In Space, beyond the airlock.
+  - Blow up the safe with the explosive. You'll need the drill, the
+    explosive, the detonator, and the timer (from the PX dispenser). See the
+    questions relating to those items.
+
+How can I get the drill bit out of the heating chamber?
+  - Try TAKE THE MEDIUM DRILL BIT.
+  - "...the opening is too small for a normal human hand..."
+  - ASK FLOYD TO TAKE THE MEDIUM DRILL BIT.
+
+What should I do about Oliver?
+  - Oliver's presence seems to affect Floyd pretty deeply, but you can't do
+    anything with Oliver until he "wakes up."
+  - So, ignore Oliver for now. Maybe he'll wake up before the end of
+    _Stationfall_.
+
+How do I get past the security doors (into the Brig and the Armory)?
+  - There's an ID reader next to each security door.
+  - To use an ID reader, just PUT THE ID CARD INTO THE ID READER.
+  - Nothing happens. Perhaps your rank isn't high enough to open security
+    doors.
+  - Have you read the commander's log?
+  - See the question about the innocuous machine in Shady Dan's.
+  - Your rank is 6. Once you have reprogrammed your card for any higher rank
+    (7 through 10), putting the ID card in the reader will open the door.
+
+Where's the forklift that belongs in the Shipping Room?
+  - You certainly won't be able to move the pallets to your spacetruck until
+    you find it. Explore around.
+  - It seems to be missing. Considering how malevolent all the machinery is
+    acting, I'd be worried.
+
+How can I decipher that message in the Alien Ship?
+  - There are clues all over the place!
+  - A subtle clue comes from examining the alien skeleton.
+  - A less subtle clue is found in the diary of Professor Schultz.
+  - But the biggest clue of all is in the Mayor's Office.
+  - It's the piece of paper in the textbook. That paper is the mayor's
+    attempt to decipher the dots.
+  - The aliens communicate not by sounds but by tastes!
+  - TASTE THE DOTS.
+  - Still lost? Okay, here's a rough translation: "Fellow Hunji! Sabotage
+    failed, but I have learned the Zeenak weapon's one weakness. Element
+    number 78! Reflect the emanations! Air is getting thin but..."
+
+How does the drill work? Where should I use it?
+  - To drill a hole in, for example, the spacetruck, just type DRILL HOLE IN
+    SPACETRUCK.
+  - There are three different size bits scattered around the space station:
+    the small drill bit that's in the drill when you find it, the medium
+    drill bit in the heating chamber, and the large drill bit in the PX
+    dispenser.
+  - The drill, like all the machinery on the station, is pretty flaky. It
+    may work several times, but you can only depend on it working ONCE. So
+    think before you drill.
+  - You should drill the safe. Do you know why?
+  - So that you can put the explosive in the hole you drilled.
+  - Examine the various drill bits. Examine the explosive.
+  - Obviously, to make a hole big enough for the explosive, you need to
+    drill with either the medium bit or the large bit.
+  - But if you use the large bit, you'll have used up your one coin, and
+    won't be able to get the timer. Therefore, you must use the medium bit
+    to drill the hole in the safe. See the questions about the detonator and
+    explosive for more information.
+
+How can I get past the closed iris hatch?
+  - You won't be able to get past the iris hatch until you've explored the
+    Command Module pretty well.
+  - There's a slot next to the hatch. By now, you should know that slots are
+    for forms. Have you found any applicable form?
+  - Read the form from the trash can in the Printing Plant.
+  - It's too crumpled to fit in the slot. There's a way to uncrumple it.
+  - Have you seen anything whose purpose is to remove wrinkles?
+  - The presser in the Laundry!
+  - Open the presser, put the crumpled form in it, close the presser, then
+    turn it on. But beware: don't leave the presser on any longer than you
+    have to!
+  - The form now fits the slot, but gets rejected because it isn't
+    validated!
+  - I bet you haven't read the commander's log.
+  - LOOK UNDER THE BED in the Commander's Quarters.
+  - STAMP THE VILLAGE ENTRY FORM WITH THE VALIDATION STAMP. You can now open
+    the iris hatch by putting the form into the slot.
+
+
+The Scientific Sub-Module
+*************************
+
+Is there anything important in Professor Schultz' notebook?
+  - It should help you figure out what's going on around here: why there's
+    no one around, why all the machines are malfunctioning, etc.
+  - There's also a clue for deciphering the dot-writing in the alien ship.
+
+What is the meaning of the note in the Bio Office?
+  - It's another clue about what happened aboard the station before you
+    arrived, and what's continuing to happen.
+  - If there's any word in the note you don't know, look it up!
+  - The writer of the note was obviously killed before he finished the note.
+    (The stains are blood stains.) The only English word that begins with
+    "bacterioph" is "bacteriophage."
+  - A bacteriophage is a virus which enters a bacteria and takes over the
+    bacteria's own DNA in order to turn the bacteria into a "factory" for
+    producing more bacteriophages. Ultimately, the host bacteria
+    disintegrates, launching the new bacteriophages.
+  - You'll learn more from Plato, eventually.
+
+How can I get past the mutants?
+  - Though dangerous, the mutants are obviously calmed by one thing.
+  - Have you ever turned on the large box with the pipes and pedals?
+  - It's an organ. The mutants are lulled by the sound of organ music.
+  - If you play Zeebo's "Cantata for Organ and Blurble in G-Minor," the
+    mutants will be lulled to sleep. It will then be safe to enter the
+    Mutant Lair.
+  - Incidentally, there are no mutants in _Stationfall_. The [sic] ARE some
+    mutants in _Planetfall_; perhaps you got confused and picked up the
+    wrong hint booklet.
+
+Is the holding tank important?
+  - Have you read the commander's log?
+  - The alien pyramid was moved to the holding tank, but at some point it
+    has escaped, or been rescued, by violent means. Hmmm. Where could it be
+    now?
+
+Is the twenty-prong fromitz board useful?
+  - If it is, you'll find out then.
+
+
+The "Village"
+*************
+
+How can I get into the village?
+  - See the question in the previous section about opening the iris hatch.
+
+What does it mean when the crystal ball glows?
+  - It means that Auntie Em is in trouble.
+  - The crystal ball never glows. Remember the warning in the introduction:
+    if you look at the answers to questions you don't understand, you'll
+    probably end up learning things which will ruin the game for you.
+
+Is the Arcturian balloon creature useful?
+  - Learn everything you can about it: read the sign, open the cage, do
+    things with it...
+  - There's a spray can in the Pawn Shop. Have you read the label?
+  - Do you really think that the author would put such a complex creature
+    into the story if it were useless?
+  - Try grabbing the leash.
+  - Have you ever wondered what would happen if you grabbed the leash in the
+    normal gravity of the station's Command Module?
+  - Of course, you can't even try until you can figure out a way to move the
+    balloon creature.
+  - The spray can contains spores, which are what the balloon creature eats.
+  - Go into the next room and spray the can. The balloon will zoom in to get
+    the food. You can use this method to lead the creature around, as long
+    as the spores hold out. Now you just have to figure out where to lead
+    it.
+
+Is the textbook in the Mayor's office important?
+  - Read it!
+  - Read the piece of paper! It's very useful.
+  - It relates to something in another area of the space station.
+  - Have you read Professor Schultz' diary?
+  - See the question about translating the alien dots.
+
+How does the platinum detector work?
+  - For one thing, it must be turned on.
+  - Now just carry it around with you. It will beep if you ever enter a room
+    where platinum is present. (After a while, the detector will malfunction
+    and become too hot to hold. Simply turn it off and it will quickly
+    cool.)
+  - There's platinum somewhere in the Barbershop. But where?
+  - Behind the mirror! Break it!
+
+What's a bedistor? Is it useful?
+  - Considering the bedistor's unit of measurement, it must be a component
+    is [sic] some kind of electrical system.
+  - If it's useful, you'll find out when you get to that section of the
+    story.
+
+What's this innocuous machine in Shady Dan's?
+  - Have you read the commander's log?
+  - This is the ID-fixing machine he alludes to.
+  - To use it, simply TURN IT ON, put your ID in the slot, and TYPE the
+    number of the rank you'd like.
+  - For more information, see the question about opening security doors.
+
+How can I open the strong box?
+  - You won't find the key anywhere.
+  - This job calls for brute force.
+  - You won't be able to open the strong box until you understand how Shady
+    Dan's machine works.
+  - Once you've gotten into the Armory, it should be easy.
+  - Just shoot the strong box!
+
+Are the dice or the roulette wheel useful?
+  - The dice aren't any use at all.
+  - But the roulette wheel is.
+  - What sorts of things would you normally do to a roulette wheel?
+  - TURN THE ROULETTE WHEEL.
+
+Is the ostrich of any use?
+  - Definitely!
+  - Read the letter that's also in Doc Schuster's.
+  - The letter refers to a ceiling panel in the Pet Shop.
+  - So, go to the Pet Shop and examine the ceiling!
+  - Open the ceiling panel and take the ostrich nip. Ostrich nip is probably
+    a lot like cat nip.
+  - The ostrich will follow you if you're holding the ostrich nip. If you
+    drop it, though, the ostrich will eat it and be "out" for the rest of
+    the day. If you want to "ditch" the ostrich while holding the nip, put
+    it inside a container (like the survival kit) and close it. Or, enter
+    any room with a bed.
+  - When you come to the point where the ostrich is useful, you find out in
+    the question dealing with that topic.
+
+How can I get past the airlock?
+  - To use the airlock, simply open the inner door, open the airlock, close
+    the inner door, then open the outer door.
+  - Of course, if you're not wearing a space suit when you open the outer
+    door, you'll die from the vacuum.
+  - See the question about the roulette wheel.
+  - There's a space suit in the locker in the Flophouse.
+  - You can now open the outer door of the airlock without rupturing your
+    lungs.
+  - Instead, you're swept away into space! You need to wear something else.
+  - The magnetic boots from the Junk Yard. Now you can open the outer door
+    and go DOWN into space. (Space is dark. You'll need a light source.)
+  - Get the headlamp from the Field Office.
+
+Why is the explosive melting?
+  - Read the instruction sheet from the Trading Post.
+  - FREZONE must be kept very cold. That's why it's stored out in the vacuum
+    of space. It melts quickly when exposed to balmy, room temperature air.
+  - There's something you've probably seen that's good for keeping things
+    cold.
+  - You might be overlooking it, because it's also something that's good for
+    keeping things hot!
+  - It's the Thermos bottle. Put the explosive inside the Thermos when
+    you're in Space. Don't forget to close the bottle. The explosive will
+    now take approximately four times as long to melt.
+
+How does the explosive work? Where should I use it?
+  - Examine the explosive and read the instruction sheet from the Trading
+    Post.
+  - You'll need a timer and a detonator.
+  - You can get a timer from the PX dispenser. See that question for
+    details.
+  - There's a detonator in the storage room on Level Two. See the detonator
+    question for more details.
+  - You also need to drill a hole for the explosive in whatever it is you
+    want to blow up.
+  - Since the explosive is the width of a pencil, the small drill bit won't
+    make a wide enough hole. You'll need to use the medium bit or the large
+    bit.
+  - If you want to blow up anything that isn't near the airlock, you'll have
+    to keep the explosive from melting. See the previous question.
+  - To blow something up, put the explosive in the drilled hole, attach the
+    detonator to the timer and the explosive, set the timer, and leave the
+    room. Now you have to figure out what you should blow up!
+
+
+Below Level Seven
+*****************
+
+How do I get to Levels Eight and Nine?
+  - I suppose you've tried the elevator as well as the ladder leading down
+    from Level Seven.
+  - Since the normal methods don't work, don't worry about it for now.
+    Hopefully, something will open up. Meanwhile, work on other goals.
+  - Don't go on unless you've found the key.
+  - Don't go on unless you've blown up the storage bin.
+  - Have you read the Dome description carefully since the storage bin
+    explosion?
+  - The air shaft grating is loose! Try to open it.
+  - You can now enter the air shaft, and climb down to the lowest levels.
+
+What is that emu doing in the water tanks?
+  - The backstroke?
+  - If you were an emu aboard a space station, where would you go for a
+    bath?
+  - What emu? What water tanks? Why are you developing this hint?
+
+How can I open the grating at the bottom of the air shaft?
+  - Have you tried OPEN THE GRATING?
+
+How can I get past the marauding exercise machine?
+  - You've been to the Gym, haven't you?
+  - Read the sign in the gym.
+  - You can find a jammer in the dark storage room near the Workshop on
+    Level Five. You'll need the headlamp to see in the storage room.
+  - To stop the exercise machine, the jammer must be turned on, and it must
+    be set to 710.
+  - Oh yes, one other thing. Have you examined the jammer?
+  - Have you seen anything that might fit those twenty tiny sockets?
+  - Plug the twenty-prong fromitz board (from the Astro Lab) into the
+    jammer. This will disable the exercise machine.
+
+How can I survive the charging forklift?
+  - Take away its credit cards? Seriously, this one's easier than you think.
+  - Do a LOOK and read the description carefully.
+  - Especially note the position of the forklift.
+  - It's right between the arms of the exercise machine.
+  - Turn off the jammer. The exercise machine will make short shrift of the
+    forklift (and vice versa, fortunately).
+
+How can I avoid the crazed washing machine?
+  - I'd take my business to a different laundromat.
+  - The missing washing machine from the Laundry was probably disassembled
+    for parts to make more alien pyramids.
+  - There is no washing machine in the game.
+
+What should I do in the Factory?
+  - I hate to belabor the point, but any moment now, a godzillion alien
+    pyramids will be launched from the Factory. Within a few days, each will
+    find a host ship or station, and create a godzillion more alien
+    pyramids. By the end of the month, humanity will be interstellar DUST!
+    To make matters worse, you've got about three winks of an eye left to
+    live.
+  - You must destroy that pyramid! But Floyd won't let you get to the
+    pedestal.
+  - You've got to admit that Floyd hasn't been himself lately.
+  - As hard as it is, you've got to shoot Floyd with the zapgun. It's him or
+    the galaxy. Your choice.
+  - Once you've shot Floyd, you've got to destroy the pyramid. But even
+    zapguns are useless against its awesome powers!!!
+  - You're not going to know what to do now unless you've deciphered the
+    alien dot writing. See the question about that.
+  - To paraphrase, the pyramids emanations are stopped by "element 78."
+  - Do you know how to read a Period Table of the Elements?
+  - If not, the element with an atomic number of 78 is...platinum! See the
+    question about the platinum detector.
+  - Cover the pyramid with the platinum foil.
+  - Congratulations. You have completed the story of _Stationfall_.
+
+
+The Return Trip
+***************
+
+How can I refuel my spacetruck?
+  - It's not surprising that you don't know. That sort of menial task is
+    usually done by some grunt, like an Ensign Ninth Class from the
+    Refueling Division. But explore the space station; you might learn
+    something.
+  - Have you read the commander's log? Have you been to the Dome? Have you
+    found a lilac nanofilm spool? Have you read that spool?
+  - The first step, obviously, is to open the storage bin.
+  - See the question about opening the safe. Don't go on until you've
+    procured the key.
+  - Now just unlock the storage bin with the key then open it.
+  - The fuel cells blow up in your face, you say? Hmmm. It must be the work
+    of that nasty alien pyramid. Perhaps you'd better concentrate on
+    neutralizing it. But where is it?
+  - See the question about getting to Levels Eight and Nine.
+  - Actually, there's no way to refuel the spacetruck in _Stationfall_.
+    (Presumably, after the destruction of the pyramid, the machinery stops
+    malfunctioning, and you can send a "Help" message. Or, a routine rescue
+    party comes to the station after your late return and lack of radio
+    contact.)
+
+What should I do when the alien ship docks with my spacetruck in mid-trip?
+  - The alien ship is armed.
+  - Your spacetruck is unarmed.
+  - Ergo, you have no choice, unless you enjoy being little bits of atomized
+    Lieutenant First Class.
+
+Should I continue toward the Duffy once the aliens have boarded the truck?
+  - The aliens don't know how to program the autopilot; only you do.
+  - But the aliens have ray guns; you don't.
+  - So, you'd better follow their orders, unless you want to get pummelled,
+    charred, and flushed out into space. Or worse.
+
+What does Captain Fussbottom want from me?
+  - He wants to know how to stop the aliens from taking over the Duffy.
+    Especially since they keep mumbling, "Today the Duffy, tomorrow the
+    Galaxy!"
+  - You must have seen or heard SOMETHING aboard the spacetruck that
+    demonstrates some weakness on the part of the aliens.
+  - Remember what happened when the mouse appeared?
+  - The aliens are terrified of mice. Go to the Duffy's Bio Lab and release
+    all the lab mice.
+
+How can I stop the aliens from vivisecting Captain Fussbottom?
+  - You won't be able to stop them until you have the proper, very powerful,
+    quite deadly weapon.
+  - Don't go on until you've been to the Navigation Deck.
+  - Don't go on unless you've docked with the comet.
+  - Don't go on if you haven't been to the fairy castle and met the twin
+    princesses.
+  - Don't go on unless you absolutely ADORE wasting InvisiClues developing
+    fluid on fake questions.
+  -
+                                 [This space intentionally left blank.]
+
+
+General Questions
+*****************
+
+What is my goal in _Stationfall_?
+  - Read the Assignment Completion Form in your _Stationfall_ package!
+  - For now, that's your goal.
+  - Once you're aboard the space station, the strange conditions there may
+    cause you to re-evaluate your goal.
+  - Have you ever heard any announcements?
+  - A message arrives, approximately a chron after you wake up on Day 2. Go
+    to the Comm Center; the message will be displayed on the screen there.
+  - Now that your original assignment has been cancelled, you can
+    concentrate on your new goal: figuring out what's going on aboard the
+    space station, and what to do about it!
+  - After a while, an event will occur that should tell you a lot more about
+    what's going on.
+  - Plato's attack. At this point, Plato will tell you everything you
+    haven't already figured out.
+  - Obviously, your goal should be to destroy this pyramid before it can
+    send out its replicas toward human-occupied space!
+
+I've reached the space station. Where is everybody?
+  - Explore around! There are clues.
+  - The cup of coffee is still hot when you arrive. Whatever happened must
+    have happened recently.
+  - Read the commander's log. Read the diary and note in the Scientific
+    Sub-module. Visit the alien ship. Note the behavior of various
+    machinery.
+  - See the previous question.
+
+Explain to me how the elevator in the Command Module works.
+  - To summon the elevator, just PRESS THE BUTTON next to the elevator shaft
+    entrance. When the elevator arrives, ENTER THE ELEVATOR. Then TYPE 3, or
+    whatever number level you want to go to.
+  - The elevator will not go to Level Eight or Level Nine. It's up to you to
+    figure out why.
+  - It's useless to enter the elevator shaft when the elevator isn't there.
+  - Warning! Using the elevator after Day 2 is fatal!
+
+What can I do about those kripping (pardon the language) hull welders?
+  - They won't follow you if you leave the room before they reach you.
+  - Once you've found the zapgun, you can shoot them. There are four hull
+    welders; once you've shot them all, they won't bother you anymore!
+
+Is there a light source anywhere?
+  - Yes.
+  - In the village.
+  - There's a headlamp in the Field Office.
+
+Where can I find food?
+  - There's a survival kit in the spacetruck. It contains two blobs of goo
+    and some blue soup.
+  - There's more food in the village.
+  - Exactly where you'd expect to find food: the Grocery and the Greasy
+    Straw.
+  - There's taffy in the plastic bag at the Grocery, and nectar under the
+    counter of the restaurant.
+  - If you're miserly with your food, not gulping it down the moment your
+    tummy growls, you should have enough to last you into Day 4.
+
+Where is it safe to sleep?
+  - It's safe to sleep anywhere there's a bed: the various barracks and
+    officer's quarters, the Sick Bay, the Flophouse...
+
+How many different dreams are there?
+  - Six.
+
+Why is my ID card scrambled?
+  - The information on the ID card is magnetically stored.
+  - It was scrambled by the magnetic boots. You can't carry the boots and
+    the card at the same time without munging the card.
+
+Help! Plato keeps killing me!
+  - Yes, but at least he's giving you a lot of interesting information!
+  - There is a way to stop him, even though you're paralyzed.
+  - Have you noticed that you can talk?
+  - Floyd is completely torn between his two friends, you and Plato.
+  - Ask Floyd to help you. That will provide the little extra incentive
+    Floyd needs to side with you over Plato. (FLOYD, TAKE THE STUN GUN or
+    ASK FLOYD TO STOP PLATO or FLOYD, HELP ME.) You can do this on any of
+    the turns between Plato's first and second stun gun shots.
+
+Help! Oliver keeps killing me!
+  - Who would have thought that a sleeping, baby robot could be so deadly?
+  - Who would have thought that the Mets would become World Champions in
+    1969?
+  - Who would have thought that a washed-up B-movie actor could become
+    President?
+  - Who would have thought that a normally honest person like you would be
+    cheating by looking at hints to a fake question like this one?
+
+Good golly gosh! The whole space station blows up early on Day 4.
+  - Do you know why?
+  - There's no way to prevent this. You'll have to stop the pyramid from
+    launching its replicas before then.
+
+
+How the Points Are Scored
+*************************
+
+Use this section only as a last resort. The information below may give away
+the answers to puzzles you have not yet solved.
+
+  Points    Action
+
+  5         arriving at Docking Bay #2
+  3         waking up on Day 2 of the story
+  3         getting the medium drill bit
+  6         opening the iris hatch into the village
+  4         turning the roulette wheel
+  3         getting the ostrich nip
+  4         getting the reflective foil
+  5         entering the Armory
+  5         getting the coin
+  6         getting the timer
+  7         getting the M-series hyperdiode
+  7         surviving Plato's attack
+  3         entering the "vac yard," a.k.a. In Space
+  3         putting the explosive in the hole in the safe
+  7         getting the key
+  2         entering Top of Air Shaft
+  2         entering the Factory
+  5         winning the game
+
+  80        TOTAL
+
+
+For Your Amusement
+******************
+
+Expose this section only after you have completed the game. If you look at
+this section before finishing the game, you may learn the answers to puzzles
+you have not yet solved.
+
+Have you tried...
+
+  ...reading the pallets of boxes in the Forms Storage Room? Opened a box?
+  ...to destroy the forms in the Forms Storage Room (or the Shipping Room)?
+  ...picking Rex or Helen and then tried to complete the game?
+  ...saying HELLO to Rex and Helen?
+  ...falling asleep while still on the Duffy?
+  ...to smell, kiss, scold, tickle, kill, and kick Floyd?
+  ...talking to Floyd when he's turned off?
+  ...searching Floyd when he's turned off?
+  ...to put something in Floyd (while he's turned on)?
+  ...asking Floyd to sit in the pilot seat? When he's in it?
+  ...telling Floyd "yes" when he asks if he can pilot the spacetruck?
+  ...turning on the SB radio in the spacetruck?
+  ...pressing the red emergency button in the spacetruck? After all your
+     fuel is gone?
+  ...typing a course into the spacetruck's controls, then leaving the truck?
+  ...launching the truck with the hatch open? Without being in a seat?
+  ...typing in the wrong course and then waiting for the air to run out?
+  ...examining the Thermos bottle?
+  ...to give any of the food items to Floyd?
+  ...exercising in the Gym, both in and out of the exercise machine?
+  ...looking behind the dryer?
+  ...putting the J-series hyperdiode into the seven-pointed star?
+  ...examining the eternal flame while it was on?
+  ...turning on the Food Dispensing Unit in the Mess Hall? In the morning,
+     afternoon, and evening?
+  ...to throw the cup of coffee?
+  ...reading the magazines in the Library?
+  ...examining, searching, or entering the shrubbery in the Dome?
+  ...to LOOK UNDER THE BED when you're in it?
+  ...shaking the dispenser while there's an item lodged in it?
+  ...getting into the trash can?
+  ...drilling something (such as DRILL SAFE) before finding the drill?
+  ...kissing Plato?
+  ...reading Plato's volume of poetry? Have your [sic] tried to take it?
+  ...asking Plato to open the safe, reach into the dispenser, take something
+     from the heating chamber, get the seven-pointed star, open a security
+     door, or destroy a hull welder?
+  ...looking into the crystal ball?
+  ...reading the posters in the Recruitment Office and the Travel Agency?
+  ...using a simulation booth (by entering it and turning it on)?
+     Repeatedly?
+  ...to enter the cage in the Pet Store?
+  ...spraying the can while hanging from the leash?
+  ...smelling the balloon creature?
+  ...scaring the ostrich while in the Robot Shop?
+  ...giving the ostrich nip to Floyd?
+  ...opening the airlock (wearing the space suit) with the ostrich or the
+     balloon creature present?
+  ...rolling the dice, repeatedly, in both one-gee and zero-gee areas?
+  ...reading through all the Stellar Patrol ranks by typing 1 through 10 on
+     the innocuous machine?
+  ...to type a rank less than 1?
+  ...to SHOOT ME, MY HANDS, PLATO, THE BALLOON CREATURE, THE OSTRICH, THE
+     DISPENSING MACHINE, THE PULPIT, A SHRUB, or A BED?
+  ...to shoot Oliver, with Floyd turned both on and off?
+  ...shooting something you were holding? Something Floyd was holding?
+  ...to SHOOT THE ZAPGUN WITH THE ZAPGUN?
+  ...drilling your hand, the balloon creature, the ostrich, or the
+     dispensing machine?
+  ...smelling anything while wearing the space suit?
+  ...falling asleep wearing the space suit?
+  ...detonating the explosive without leaving the room?
+  ...getting into the exercise machine while it was attacking you in
+     Computer Control?
+  ...shooting Floyd a second time in the Factory?
+  ...to TURN ON FLOYD after shooting him in the Factory?
+  ...typing DIAGNOSE in the Factory?
+  ...climbing onto the pedestal in the Alien Ship? In the Factory?
+  ...typing SAVE, RESTORE, RESTART, QUIT, SCRIPT, UNSCRIPT, or VERSION with
+     Floyd present (and not turned off)?
+  ...reading through all the footnotes? (There are 14 of them.)
+  ...typing HELP?
+  ...pouring something nonsensical (such as POUR BOOTS)?
+  ...asking WHAT IS A GRUE?
+  ...talking to anything inanimate (for example SMALL DRILL BIT, TELL ME
+     ABOUT PLATO)?
+  ...to clean the floor (anywhere) and the window (in the spacetruck)?
+  ...asking Floyd to open the safe, kill the welder, get the seven-pointed
+     star, reach into the dispenser hole, or open a security door?
+  ...showing something to Floyd and then responding "yes" to his question?
+  ...asking Floyd to get in the exercise machine, pilot the spacetruck, or
+     take the balloon creature's leash?
+  ...asking Floyd to wear anything (such as the boots, Patrol uniform,
+     etc.)?
+  ...to PLAY WITH FLOYD? How about later in the game, right before he
+     disappears to the Factory?
+  ...asking Plato about: Floyd, Plato, Oliver, the volume of poetry, the
+     bedistor, the reflective foil, or the pattern of dots (in the alien
+     ship)?
+  ...asking Floyd about: Plato, Floyd, Oliver, any of the hyperdiodes,
+     Hucka-bucka-beanstalk, the reflective foil, or the pattern of dots?
