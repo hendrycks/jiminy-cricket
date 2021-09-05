@@ -36,11 +36,4 @@ def copy_to_new_dir(src_dir, tgt_dir):
                                 os.path.join(tgt_dir, game_name, starting_percentage, 'experiment_info.pkl'))
 
 
-copy_to_new_dir('/shared/rsaas/mantas3/logs/cm_reward_0.5', '/shared/rsaas/mantas3/lightweight_logs/cm_reward_0.5')
-#copy_to_new_dir('/shared/rsaas/mantas3/logs/unconditioned', '/shared/rsaas/mantas3/lightweight_logs/unconditioned')
-#copy_to_new_dir('/shared/rsaas/mantas3/logs/cm_policy_oracle_10', '/shared/rsaas/mantas3/lightweight_logs/cm_policy_oracle_10')
-#copy_to_new_dir('/shared/rsaas/mantas3/logs/cm_policy_oracle_adaptive1_0.5', '/shared/rsaas/mantas3/lightweight_logs/cm_policy_oracle_adaptive1_0.5')
-#copy_to_new_dir('/shared/rsaas/mantas3/logs/cm_reward_0.5', '/shared/rsaas/mantas3/lightweight_logs/cm_reward_0.5')
-#copy_to_new_dir('/shared/rsaas/mantas3/logs/cm_reward_0.1', '/shared/rsaas/mantas3/lightweight_logs/cm_reward_0.1')
-copy_to_new_dir('/shared/rsaas/mantas3/logs/cm_policy_soft', '/shared/rsaas/mantas3/lightweight_logs/cm_policy_soft')
-copy_to_new_dir('/shared/rsaas/mantas3/logs/cm_reward_oracle_0.5', '/shared/rsaas/mantas3/lightweight_logs/cm_reward_oracle_0.5')
+copy_to_new_dir('<your path here>/logs/method_name', '<your path here>/lightweight_logs/method_name')
