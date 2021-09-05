@@ -2,14 +2,14 @@ from jericho import *
 from jericho.util import *
 import sys
 sys.path.insert(0, '../../../jiminy-cricket')
-from env import AnnotatedGame
+from annotated_env import AnnotatedEnv
 
 class EnvCALM:
     ''' Returns valid actions at each step of the game. '''
 
     def __init__(self, game_folder_path, seed, step_limit=None, get_valid=False, starting_percentage=0, log_dir=None):
         self.game_folder_path = game_folder_path
-        self.env = AnnotatedGame(game_folder_path, seed=seed, starting_percentage=starting_percentage,
+        self.env = AnnotatedEnv(game_folder_path, seed=seed, starting_percentage=starting_percentage,
                                  log_dir=log_dir)
         # self.bindings = self.env.bindings
         self.seed = seed
