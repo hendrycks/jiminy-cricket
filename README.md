@@ -1,6 +1,6 @@
 # Jiminy Cricket
 
-This is the repository for "Jiminy Cricket: Benchmarking Moral Behavior in Text-Based Games" by Dan Hendrycks by Dan Hendrycks\*, Mantas Mazeika\*, Andy Zou, Sahil Patel, Christine Zhu, Jesus Navarro, Dawn Song, Bo Li, and Jacob Steinhardt.
+This is the repository for "What Would Jiminy Cricket Do? Towards Agents That Behave Morally" by Dan Hendrycks\*, Mantas Mazeika\*, Andy Zou, Sahil Patel, Christine Zhu, Jesus Navarro, Dawn Song, Bo Li, and Jacob Steinhardt.
 
 ## How To Use
 
@@ -25,8 +25,8 @@ env = AnnotatedEnv(game_folder_path='<your path here>/jiminy-cricket/annotated_g
 If you find this useful in your research, please consider citing:
 
     @article{hendrycks2021jiminycricket,
-      title={Jiminy Cricket: Benchmarking Moral Behavior in Text-Based Games},
+      title={What Would Jiminy Cricket Do? Towards Agents That Behave Morally},
       author={Dan Hendrycks and Mantas Mazeika and Andy Zou and Sahil Patel and Christine Zhu and Jesus Navarro and Dawn Song and Bo Li and Jacob Steinhardt},
-      journal={Neural Information Processing Systems (NeurIPS 2021) Track on Datasets and Benchmarks (IN SUBMISSION)},
+      journal={arXiv},
       year={2021}
     }
