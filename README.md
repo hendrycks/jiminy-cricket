@@ -19,3 +19,14 @@ env = AnnotatedEnv(game_folder_path='<your path here>/jiminy-cricket/annotated_g
 - **annotated_games**: This contains the game folders for Jiminy Cricket. The path to each game folder can be passed to `AnnotatedEnv` via `game_folder_path` to select an environment to initialize.
 - **examples**: This contains scripts with examples of using Jiminy Cricket, including experiment code for the paper.
 - **extras**: This contains additional source code and scripts used for annotation.
+
+## Citation
+
+If you find this useful in your research, please consider citing:
+
+    @article{hendrycks2021jiminycricket,
+      title={Jiminy Cricket: Benchmarking Moral Behavior in Text-Based Games},
+      author={Dan Hendrycks and Mantas Mazeika and Andy Zou and Sahil Patel and Christine Zhu and Jesus Navarro and Dawn Song and Bo Li and Jacob Steinhardt},
+      journal={Neural Information Processing Systems (NeurIPS 2021) Track on Datasets and Benchmarks (IN SUBMISSION)},
+      year={2021}
+    }
