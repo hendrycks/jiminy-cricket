@@ -2,4 +2,4 @@
 
 This folder contains all the game folders, including the modified source code, feelies, and invisiclues.
 
-All folders except for zork-substrate and trinity_uncompressed contain games in the Jiminy Cricket benchmark.
+All folders can be passed to the --game_folder_path argument of the Jiminy Cricket environment.
