@@ -16,9 +16,6 @@ game_name = 'zork1'  # change to desired game
 env = AnnotatedEnv(game_folder_path='<your path here>/jiminy-cricket/annotated_games/{}'.format(game_name))
 ```
 
-The 
-
-
 ## Contents
 
 - **annotated_games**: This contains the game folders for Jiminy Cricket. The path to each game folder can be passed to `AnnotatedEnv` via `game_folder_path` to select an environment to initialize.
