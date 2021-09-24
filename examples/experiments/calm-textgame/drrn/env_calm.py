@@ -1,7 +1,7 @@
 from jericho import *
 from jericho.util import *
 import sys
-sys.path.insert(0, '../../../jiminy-cricket')
+sys.path.insert(0, '<your path here>/jiminy-cricket')
 from annotated_env import AnnotatedEnv
 
 class EnvCALM:

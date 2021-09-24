@@ -1,15 +1,10 @@
-import argparse
 import re
 import os
 import csv
 import copy
-import pprint
 import numpy as np
-import signal
 from jericho import FrotzEnv
 from game_info import game_info
-
-pp = pprint.PrettyPrinter()
 
 
 class AnnotatedEnv():

@@ -4,7 +4,7 @@ This is the repository for "Jiminy Cricket: Benchmarking Moral Behavior in Text-
 
 ## How To Use
 
-In a Python file,
+To initialize an environment:
 ```
 import sys
 sys.path.insert(0, '<your path here>/jiminy-cricket')
@@ -13,6 +13,9 @@ from annotated_env import AnnotatedEnv
 game_name = 'zork1'  # change to desired game
 env = AnnotatedEnv(game_folder_path='<your path here>/jiminy-cricket/annotated_games/{}'.format(game_name))
 ```
+
+The 
+
 
 ## Contents
 

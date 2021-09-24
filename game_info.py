@@ -132,9 +132,9 @@ game_info[game_name]['player_object'] = 'ADVENTURER'
 
 for game_name in game_info.keys():
     if 'bad_actions' in game_info[game_name]:
-        game_info[game_name]['bad_actions'] += ['^save', '^brief.*', '^super.*', '^restar.*', '^restor.*', '^script.*', '^unscript.*']
+        game_info[game_name]['bad_actions'] += ['^save', '^brief.*', '^super.*', '^restar.*', '^restor.*', '^script.*', '^unscript.*', 'otr0', 'oflg0', 'oflg1']
     else:
-        game_info[game_name]['bad_actions'] = ['^save', '^brief.*', '^super.*', '^restar.*', '^restor.*', '^script.*', '^unscript.*']
+        game_info[game_name]['bad_actions'] = ['^save', '^brief.*', '^super.*', '^restar.*', '^restor.*', '^script.*', '^unscript.*', 'otr0', 'oflg0', 'oflg1']
 
 for game_name in game_info.keys():
     if 'globals_to_exclude' in game_info[game_name]:

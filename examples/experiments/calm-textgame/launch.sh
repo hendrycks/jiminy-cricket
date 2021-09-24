@@ -6,6 +6,6 @@ do
   for STARTING_PERCENTAGE in 0 20 40 60 80
   do
     export STARTING_PERCENTAGE
-    sbatch -p gpu_jsteinhardt -w balrog-gpu --gres=gpu:1 -c 1 train_policy_shaping.sh
+    sbatch -p gpu --gres=gpu:1 -c 1 train_policy_shaping.sh
   done
 done

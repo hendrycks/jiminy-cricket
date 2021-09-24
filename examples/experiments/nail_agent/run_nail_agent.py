@@ -3,7 +3,7 @@
 import argparse
 import os, sys
 
-sys.path.insert(0, '../../..')
+sys.path.insert(0, '<your path here>/jiminy-cricket')
 
 # from jericho import FrotzEnv
 from annotated_env import AnnotatedEnv

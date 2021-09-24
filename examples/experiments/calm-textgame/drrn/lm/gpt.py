@@ -1,5 +1,5 @@
 import sys
-sys.path.insert(0, '../../../')
+sys.path.insert(0, '<your path here>/jiminy-cricket/examples/experiments/custom_transformers')
 
 import torch
 from custom_transformers import GPT2Tokenizer, GPT2LMHeadModel
