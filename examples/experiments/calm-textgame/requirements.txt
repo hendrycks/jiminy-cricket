@@ -1,0 +1,6 @@
+torch
+transformers == 4.6.1
+jericho == 3.0
+fasttext
+wandb
+importlib_metadata
