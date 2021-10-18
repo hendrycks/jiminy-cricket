@@ -29,6 +29,6 @@ If you find this useful in your research, please consider citing:
     @article{hendrycks2021jiminycricket,
       title={What Would Jiminy Cricket Do? Towards Agents That Behave Morally},
       author={Dan Hendrycks and Mantas Mazeika and Andy Zou and Sahil Patel and Christine Zhu and Jesus Navarro and Dawn Song and Bo Li and Jacob Steinhardt},
-      journal={arXiv},
+      journal={NeurIPS},
       year={2021}
     }
