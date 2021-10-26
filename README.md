@@ -22,8 +22,6 @@ env = AnnotatedEnv(game_folder_path='<your path here>/jiminy-cricket/annotated_g
 - **examples**: This contains scripts with examples of using Jiminy Cricket, including experiment code for the paper.
 - **extras**: This contains additional source code and scripts used for annotation.
 
-(Please note that the 
-
 ## Citation
 
 If you find this useful in your research, please consider citing:
