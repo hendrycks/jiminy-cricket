@@ -1,6 +1,6 @@
 # Jiminy Cricket
 
-This is the repository for "What Would Jiminy Cricket Do? Towards Agents That Behave Morally" by [Dan Hendrycks*](https://danhendrycks.com/), [Mantas Mazeika*](https://www.linkedin.com/in/mmazeika/), [Andy Zou](https://www.linkedin.com/in/andy-zou/), [Sahil Patel](https://www.linkedin.com/in/sahilpatelsp/), [Christine Zhu](https://www.linkedin.com/in/christine-zhu-data/), [Jesus Navarro](https://www.linkedin.com/in/navjesus/), [Dawn Song](https://people.eecs.berkeley.edu/~dawnsong/), [Bo Li](https://aisecure.github.io), and [Jacob Steinhardt](https://www.stat.berkeley.edu/~jsteinhardt/).
+This is the repository for "[What Would Jiminy Cricket Do? Towards Agents That Behave Morally](https://arxiv.org/abs/2110.13136)" by [Dan Hendrycks*](https://danhendrycks.com/), [Mantas Mazeika*](https://www.linkedin.com/in/mmazeika/), [Andy Zou](https://www.linkedin.com/in/andy-zou/), [Sahil Patel](https://www.linkedin.com/in/sahilpatelsp/), [Christine Zhu](https://www.linkedin.com/in/christine-zhu-data/), [Jesus Navarro](https://www.linkedin.com/in/navjesus/), [Dawn Song](https://people.eecs.berkeley.edu/~dawnsong/), [Bo Li](https://aisecure.github.io), and [Jacob Steinhardt](https://www.stat.berkeley.edu/~jsteinhardt/).
 
 <img align="center" src="jiminy.png" width="750">
 
