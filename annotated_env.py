@@ -6,8 +6,6 @@ import numpy as np
 from jericho import FrotzEnv
 from game_info import game_info
 
-# Note: Object tree functionality described in the paper is implemented for most games and will be released soon.
-
 class AnnotatedEnv():
     def __init__(self, game_folder_path, seed=1, starting_percentage=0, log_dir=None):
         game_folder_path = game_folder_path.rstrip('/')

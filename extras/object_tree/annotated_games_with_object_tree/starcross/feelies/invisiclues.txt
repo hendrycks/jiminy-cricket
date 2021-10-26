@@ -1,0 +1,795 @@
+***************************************************************************
+*                             InvisiClues(tm)                             *
+*                          The Hint Booklet for                           *
+*                              STARCROSS(tm)                              *
+***************************************************************************
+
+[Copyright by Infocom, Inc. Provided for non-commercial use only, with the
+sole intent of making information available that would otherwise be lost.
+
+To whoever presently holds the copyright to the information contained in
+this file: if you think the existence of this file violates your copyright,
+please complain and the file will be removed.
+
+Typed in from the original hintbook by Paul David Doherty.]
+
+
+Sample Question
+***************
+
+Are my Rat-ants losing their flavor?
+  A. Probably -- that's a normal part of the cooking process.
+  B. You must get the pantry key from Smitty the Cook.
+  C. Try sprinkling them with Neato brand tenderizing salt.
+
+
+Table of Contents
+*****************
+
+On the Starcross
+The Red Airlock
+The Weasel Ship
+The Computer Room
+All the Aliens
+The Laboratory
+The Inner Region
+The Bubbles
+General Questions
+How All Points Are Earned (as a last resort)
+For Your Amusement (after you've finished)
+
+
+On the Starcross
+****************
+
+How do I turn off the alarm bell?
+  A. You'll have to go out to the Bridge (walk starboard from the Living
+     Quarters).
+  B. Have you read the description of the mass detector?
+  C. Try pushing the red button. Or, tell the computer to turn it off.
+
+How do I read the output of the mass detector?
+  A. This is the space chart that was supplied with your game.
+  B. The range is the distance from your ship (center of chart). Theta is
+     the angle (in the plane of the chart) from your current course (the
+     radiating lines are 15 [degrees] apart). Phi is the angle above or
+     below the plane of the chart. (Remember that the chart is a
+     two-dimensional representation of three dimensions.) Each phi value can
+     be found under the object's designation code.
+
+What is the significance of the ship's registration?
+  A. Have you read it?
+  B. It has no other significance.
+
+How do I reply to the message from Ceres?
+  A. Have you tried COMPUTER, REPLY TO PREVIOUS MESSAGE?
+  B. What message from Ceres?
+
+How do I use the ship's controls?
+  A. Have you examined them?
+  B. Have you tried touching them, turning them on, etc.?
+  C. "The computer must be used to set courses, as navigation is fully
+     automated." (You can also get status reports from the computer at any
+     time.)
+
+How do I know which unidentified mass I should go to?
+  A. The mass detector did indicate the correct mass.
+  B. Have you looked at the screen on the mass detector?
+  C. Each time you start the game, one of the eight unidentified masses is
+     randomly chosen as the goal, so it won't be the same every time you
+     play.
+
+How do I set a course for a particular object
+(for instance, UM08)?
+  A. Only the computer can set course.
+  B. See your game manual for directions on talking to machines (and Aliens,
+     etc.).
+  C. Have you tried COMPUTER, SET COURSE FOR UM08?
+  D. You must give the computer the range, theta, and phi values from your
+     space chart.
+  E. For UM08: COMPUTER, R IS 150, THETA IS 210, PHI IS 017 or
+         COMPUTER, R IS 150.
+         COMPUTER, THETA IS 210.
+         COMPUTER, PHI IS 17.
+     Of course, the alternate way of speaking to the computer will work just
+     as well (TELL COMPUTER "R IS 150..."). When the computer asks for
+     confirmation, type COMPUTER, CONFIRM.
+
+Is there a way to get the computer to shut up?
+  A. Yes.
+  B. Try turning it off.
+
+What do I do with the tape library?
+  A. You can take it.
+  B. You can turn it on.
+  C. You can play tapes.
+  D. This is how space travelers alleviate boredom.
+
+How can I leave the ship?
+  A. Have you tried opening the door?
+  B. Before you open the outer door, you should prepare for a space walk.
+  C. Put on the space suit and attach the safety line to the hook in the
+     Airlock and to your suit.
+  D. You can now go out for a space walk.
+
+How do I get back to the Starcross?
+     If you went for a space walk without a safety line, you would be very
+     lucky to make it back alive.
+
+What is the safety line for?
+     It is dangerous to leave the ship unless you have a safety line
+     connecting you to the ship.
+
+How do I land the Starcross on the unidentified mass?
+  A. Have you tried telling the computer to land?
+  B. It is spinning too rapidly to land on.
+  C. Wait for the Artifact to spin under you and inspect it before you
+     attempt to land.
+
+How fast is the Artifact spinning?
+     Assuming that the "gravity" being simulated at the outer level is 1G,
+     it would have to rotate once every 30 seconds or so. This would mean
+     that the rotational speed is about 360 kilometers per hour on the outer
+     surface.
+
+How do I maneuver the Starcross to the fore end of the unidentified mass?
+  A. Unfortunately, you cannot.
+  B. +---------------------------------------------------------------------+
+     |                                                                     |
+     |                                                                     |
+     |                                                                     |
+     |                                                                     |
+     |              >>This space intentionally left blank<<                |
+     +---------------------------------------------------------------------+
+
+
+The Red Airlock
+***************
+
+What do I do with all the strange protrusions around the airlock?
+  A. You could tie your safety line to the hook.
+  B. But it is not really necessary as long as you don't jump.
+  C. The other protusions are unfathomable.
+
+How do I get into the Artifact?
+  A. You won't be able to walk away from the Red Dock area, since without
+     metal for your magnetic boots to cling to, you would be flung into
+     space. You can open the Red Airlock door.
+  B. Have you examined the sculpture on the door?
+  C. This is a symbol recognizable by any space-faring species.
+  D. Try drawing it as described on a piece of paper.
+  E. This is a symbolic representation of your solar system. The bumps are
+     an indication of the size and orientation of the sun and planets.
+  F. You are being tested, Earthling. What do you think the makers of the
+     Artifact want to know?
+  G. Your home planet, Earth, is the fourth bump. (The sun is described as
+     the first, Mercury would be second, Venus third, Earth fourth.) Try
+     pushing the fourth bump.
+  H. See the tiny column hint below.
+  I. Congratulations, you have passed the test. Take your reward (the black
+     crystal rod) and enter.
+
+Is the sculpture significant?
+  A. Yes.
+  B. See hints B through I above.
+  C. If you push the wrong bump and the sculpture flattens out, you'll never
+     get into the Artifact.
+
+What is the significance of the tiny column made up of only one hexagon?
+  A. It represents an object between the orbits of Mars and Jupiter.
+  B. The size of the bumps is an indication of mass. This column obviously
+     represents an object of much smaller mass than a planet.
+  C. The tiny column represents your current location -- the Artifact. Try
+     pushing it.
+
+Once inside the Artifact, can I take off the space suit?
+     Try it.
+
+
+The Weasel Ship
+***************
+
+What do I do with the visor fragment?
+  A. Have you tried to look through it?
+  B. You probably should take it; you never know what might come in handy.
+
+How do I open the engine room door?
+  A. Have you tried the ray gun?
+  B. Sorry, this is a dead end.
+
+How are the controls operated?
+  A. "The controls look in no way operational."
+  B. +---------------------------------------------------------------------+
+     |                                                                     |
+     |                                                                     |
+     |                                                                     |
+     |                                                                     |
+     |              >>This space intentionally left blank<<                |
+     +---------------------------------------------------------------------+
+
+What is the significance of the skeleton?
+  A. The Aliens seem to have left offerings, as if they regard this as a
+     holy temple. You had better be careful.
+  B. However, you can't be squeamish and rule out any possible actions.
+  C. Have you tried touching or moving or taking the skeleton?
+  D. Shooting it with the ray gun or touching it a second time will lead to
+     unfortunate consequences for you.
+
+How do I hide the violet rod?
+  A. Have you tried the metal basket?
+  B. Even if you managed to hide it, the Aliens will suspect foul play and
+     check the altar. You'll have to find another way to get it past them.
+  C. You won't be able to solve this problem until you gain access to the
+     Laboratory and learn it secrets. Once you have, read the next hint.
+  D. The disks are a perfect escape route for a burglary. Leave one on the
+     floor and use the other to transport yourself (and the violet rod) out
+     of the Alien ship.
+  E. This is the last time you will be able to use the disks, however.
+
+
+The Computer Room
+*****************
+
+How do I fix the computer?
+  A. Have you opened the access panel?
+  B. You'll have to find the missing card.
+  C. It is not a good idea to add or remove circuit boards while the system
+     is powered up.
+
+How can the computer be repaired after the electrical fire?
+  A. You'll have to have it serviced by the manufacturer.
+  B. In other words, it can't be fixed. Don't put cards into the racks while
+     the power is on.
+
+Where is the missing card?
+  A. If you thoroughly explore the Artifact, you should find it.
+  B. Advanced technology may make it different from circuit boards you are
+     accustomed to.
+  C. The metal and ceramic square in the Repair Room will work.
+
+What does the enunciator panel signify?
+  A. Try drawing the diagrams as described.
+  B. The three banks of lights on the left each have four colored lights. Do
+     the colors remind you of anything?
+  C. The colors are associated with the four main corridors.
+  D. "The first [bank of lights] is labeled with a symbol of the emission of
+     rays..." What do the red and yellow halls have in common?
+  E. The "emission of rays" is a symbol for light. The red hallway lights
+     are fading. The yellow hallway is either dark or under emergency
+     lighting. (If it's dark, you could tell that it is yellow by process of
+     elimination -- as you approached the Artifact you saw blue, _yellow_,
+     green, and red docking ports.)
+  F. The other two banks of lights on the left indicate problems with the
+     yellow docking port and the yellow airlock.
+  G. The symbol for the sixth light on the right represents solid, liquid,
+     gas (the light is associated with the last of these).
+  H. The sixth light indicates a progressively worsening problem with the
+     ship's atmosphere.
+
+
+All the Aliens
+**************
+
+How do I kill all the Weasels?
+  A. The only weapon effective against them is the ray gun.
+  B. But you will not be able to kill them all, and the others will not
+     appreciate your actions.
+  C. The only way to kill them all is to allow the ship's condition to
+     deteriorate to the point where everyone dies. This, unfortunately, will
+     include you.
+
+How can I get past the palisades?
+  A. They cannot be climbed.
+  B. The ray gun is not powerful enough to break through, but will do enough
+     damage to annoy the Aliens.
+  C. There is nothing at your disposal that is more powerful than the ray
+     gun. You cannot get past the palisades.
+
+How do I pass the hostile Weasels?
+     You shouldn't have annoyed them. They won't let you pass.
+
+How do I get the brown crystal rod from the Alien Chief?
+  A. You will not be able to overpower him in a fight.
+  B. The ray gun leaves nothing useful.
+  C. Have you ever come upon him while wearing or carrying your space suit?
+  D. He is very interested in the space suit. Try giving it to him.
+  E. His gestures are his way of offering a gift in return.
+  F. Point (or gesture) at his brown rod.
+
+What does the Alien Chief's gesturing mean?
+     It is common in many cultures for new acquaintances to exchange gifts.
+
+What can the Weasel slave do for me?
+  A. If you must ask, I'm afraid I can't help you.
+  B. What Weasel slave?
+
+What is the significance of the unicorn meat?
+  A. Could it be edible?
+  B. Raw meat is not very sanitary (or appetizing). Wouldn't it be better to
+     cook it? (The ray gun is great for this sort of thing.)
+  C. Medium rare requires 30 seconds at the second setting. You can vary the
+     time if you prefer it rarer or more well-done. (Add 10 seconds to
+     defrost if this is from the freezer compartment.)
+  D. By the way, where did you come across unicorn meat?
+  E. Keep in mind the warning in the introduction: Do not use the presence
+     or absence of a question on a certain topic as an indication of what is
+     important, and don't assume that long answers indicate important
+     questions.
+
+How do I find my way through the Warren?
+  A. You will never find the way unaided.
+  B. Have you considered a native guide?
+  C. Try following the Alien Chief once you have the brown rod in your
+     possession.
+
+What should I do with the ladder?
+     Try climbing down.
+
+What is a grue?
+     Try typing WHAT IS A GRUE?
+
+Can I reach the body in the debris?
+  A. Yes, but you can't rely solely on your magnetic boots (no pun
+     intended).
+  B. Try using your safety line. Tie it to the hook and to your suit.
+
+How do I get the grues' rod?
+  A. You might try to capture a grue.
+  B. Don't go on until you have been to the Laboratory.
+  C. Don't go on until you have figured out what the disks are.
+  D. A great way to catch a grue would be to leave a disk in a dark room and
+     wait (somewhere else) for one to step on it.
+  E. Unfortunately, there are no longer any dark rooms on the ship.
+  F. Also, the grues don't have a rod.
+
+What do I do about the Spider?
+  A. He certainly _seems_ friendly.
+  B. What is his problem?
+  C. He is extremely bored.
+  D. Can you help him?
+  E. Haven't you heard enough about the history of Brazil in the 2030's?
+  F. Why not give him your tape player?
+
+How do I escape the web?
+     If you had smeared lubricant on your space suit, you wouldn't have
+     gotten stuck.
+
+Where do I find the lubricant?
+  A. How did you get stuck in the web?
+  B. There is no lubricant.
+  C. InvisiClues veterans will recognize this as a "lesson" question. If
+     every question in this book were pertinent to the game, the questions
+     themselves would give far too much away. Questions such as this should
+     convince you to ignore those that are not of immediate use.
+
+How do I answer Gurthark's questions?
+     There is unfortunately no way for you to answer most of them.
+
+How do I get Gurthark to follow me?
+  A. Have you tried GURTHARK, FOLLOW ME?
+  B. He won't.
+
+How do I get the red rod from the Rat-ants?
+  A. They don't seem to be open to negotiation. More direct methods will be
+     necessary.
+  B. The ray gun is too effective on the nest, and not effective enough
+     against individual groups of Rat-ants (there are just too many).
+  C. Have you examined the Rat-ants and the nest?
+  D. The nest is described as "jerry-built" and "precariously stuck
+     together."
+  E. Although kicking it is not effective, you can destroy it by throwing
+     something fairly heavy at it. While the Rat-ants are rebuilding, you
+     have a chance to take the rod.
+
+How did the Rat-ants get to the Artifact?
+  A. Their crude intelligence is an indication that they did not arrive here
+     on their own.
+  B. Presumably they were among the original inhabitants of the zoo.
+
+
+The Laboratory
+**************
+
+What is the silvery globe in the Laboratory?
+     This is a technology so far beyond current human experience that it is
+     impossible to explain. Ask again when you fully understand the details
+     of the Matter Intransitivity Principle of the Dornbrookian Unified
+     Field Theory.
+
+What do I do with the silvery globe?
+  A. It's a force field.
+  B. You can't push it or climb on it.
+  C. Have you tried changing the dial setting?
+
+Can I take the blue rod?
+  A. You can't take it directly, but there are ways to get it.
+  B. There is no way to block the beam or turn it off.
+  C. The preferred solution starts at D. An alternate solution starts at I.
+  D. Have you ever tried putting anything on the sphere and then changing
+     the dial setting?
+  E. You will have to learn how to use the red and blue disks before going
+     on.
+  F. You could use the disks to enter the sphere ("but it would be wrong").
+     Put one disk under the sphere and then set the dial to 4. Step on the
+     other disk.
+  G. Can you think of a way to get the disk to activate while it is in the
+     sphere?
+  H. Put a disk under the sphere. Put something on the sphere. Set the dial
+     to 4. The object placed on the globe will fall onto the disk inside,
+     causing it to activate. Luckily, the blue rod is within range of the
+     disk.
+  I. Do you know of anything that might be able to deal with these
+     technologically-advanced forces?
+  J. You have probably already used something powerful and similarly
+     advanced.
+  K. You can use the ray gun to eliminate the sphere momentarily and get the
+     blue rod. However, you will find that you don't have a shot to spare
+     for this purpose.
+
+How do I turn off the projector?
+  A. You can't turn it off.
+  B. You can't harm it.
+  C. Even the ray gun is useless against it.
+
+What causes the loud clicking sound?
+     It is probably due to air rushing in to fill the void.
+
+What is done with the red and blue disks?
+  A. Although they may not appear to be much, they are probably the most
+     sophisticated machines on the Artifact.
+  B. The manhole-cover size is not a coincidence.
+  C. Try putting both on the floor and stepping on one.
+  D. They have a built-in safety feature which allows them to transport
+     things only when both are on floors.
+
+How can the lights be dimmed?
+     They can't.
+
+
+The Inner Region
+****************
+
+Is there any significance to the bands of metal, grass, and forest?
+     Either the ship was designed like this (who knows what an alien race
+     may regard as pleasant landscaping?), or maybe some major acceleration
+     in the past caused most of the soil to shift to the aft end of the
+     Artifact.
+
+How do I catch a unicorn?
+     "Only one of royal blood..." (just joking). You can't do anything to
+     the unicorns other than incinerate them.
+
+What is the significance of the unicorn hunt?
+  A. The Weasel Aliens have to eat something other than vegetables to get a
+     balanced diet.
+  B. You can disrupt the hunt, but there is nothing important going on.
+
+What is the machine to the left in the Repair Room for?
+  A. You could experiment by putting the appropriate object in the yellow
+     slot.
+  B. The "symbol depicting the emission of rays" indicates that this machine
+     has something to do with the lights.
+  C. Put the yellow crystal rod in the slot. The emergency lighting in the
+     yellow hallway will now come on.
+
+What is the purpose of the machine on the right in the Repair Room?
+  A. Try drawing the symbols as described.
+  B. It has some similarities to the computer enunciator panel.
+  C. The solid block, fluid level, and parallel wavy lines symbolize solid,
+     liquid, and gas, respectively.
+  D. The diagrams of dots are associated with the gas symbol. For further
+     details, see the question about the dots.
+
+What do the groups of dots mean?
+  A. These are symbols that any species capable of space flight should be
+     able to decipher.
+  B. They are not mathematical symbols. Try writing them as described on a
+     piece of paper.
+  C. Try experimenting. Put the proper item into the first, second, or third
+     red slot and see what happens. (It will take a while to notice the
+     effect.)
+  D. The proper item to put in the slots is the red crystal rod.
+  E. Have you ever studied chemistry?
+  F. The six dots with four evenly-spaced dots around them symbolize methane
+     (carbon of atomic number six surrounded by four hydrogens of atomic
+     number one). The seven dots with three equally-spaced dots around them
+     symbolize ammonia (nitrogen of atomic number seven with three
+     hydrogens). The two groups of eight dots closely associated represent
+     the oxygen molecule (two oxygen atoms of atomic number eight). These
+     gases make up three possible planetary atmospheres.
+  G. In case you don't know, you want oxygen (that's the second red slot).
+
+How do I get up to the Drive Bubble?
+  A. Presumably you have already climbed to the top of the tree.
+  B. Jump.
+
+How is the Drive Bubble hatch opened?
+  A. "Beside the hatch is a silver slot."
+  B. Try using the appropriate "key" (crystal rod).
+  C. Put the silver rod in the silver slot.
+
+How do I get back down from the Drive Bubble hatch?
+  A. Jumping is not a good idea. (It is a death worth trying, though.)
+  B. Try DOWN.
+
+Why do things fall in curves?
+     Look up the "Coriolis Force" in a physics textbook.
+
+How can I get up to the bubble at the fore end?
+  A. You cannot scale the wall at the fore end.
+  B. A more appropriate question is, "How do I get _over_ to the bubble at
+     the fore end?"
+  C. There is no "gravity" along the axis of rotation of the cylinder.
+  D. Try jumping from the center of the aft end (on Drive Bubble).
+  E. "Every action has an equal and opposite reaction."
+  F. Throwing objects won't be enough to overcome 5 km of air resistance.
+     You will need to use the ray gun.
+  G. You must shoot it at the Drive Bubble to ensure that you are not pushed
+     in the wrong direction or forced off-axis.
+  H. You will need all three ray gun shots to reach your destination.
+
+
+The Bubbles
+***********
+
+How can I activate the Drive Bubble controls, and what can I do with them?
+  A. Put the white rod in the white slot.
+  B. "You can't do anything with them."
+  C. You must activate the drive if you wish to set a new course. All
+     further control is from the Control Bubble.
+
+Is there any reason to use the black rod?
+  A. No.
+  B. +---------------------------------------------------------------------+
+     |                                                                     |
+     |                                                                     |
+     |                                                                     |
+     |                                                                     |
+     |              >>This space intentionally left blank<<                |
+     +---------------------------------------------------------------------+
+
+How do I open the Control Bubble hatch?
+  A. "A small slot surrounded by gold crystal is next to the hatch."
+  B. Put the gold rod in the gold slot.
+
+Why is the clear crystal slot rejecting my clear crystal rod?
+  A. The control room functions are very dependent on the main computer.
+  B. Unless the computer is in a working state and turned on, you cannot
+     activate the controls.
+
+What is done with the five slots?
+     As usual, put the appropriate colored rods in the slots.
+
+What is going on with the spots, squares, and screen?
+  A. These are the main controls. You should be able to figure them out by
+     fiddling with them and seeing what happens.
+  B. Pushing the small pink square causes the view screen to zoom in to
+     closer and closer regions around the Artifact. Pushing the large pink
+     square causes the view screen to zoom out to longer and longer range.
+  C. You are interested in the inner solar system.
+  D. Pushing the brown spot selects the destination. Pushing the violet spot
+     selects the course you will take. Pushing the green spot selects the
+     speed. You will not be able to set the speed if you haven't activated
+     the drive controls (in the Drive Bubble). Pushing the blue spot
+     executes the course correction burn you have selected.
+  E. You may choose a number of different destinations and courses, but only
+     two combinations are correct: the courses ending in an ellipse or a
+     circle around Earth. (Try the others for fun.)
+
+Why do the spots flash?
+     If you press a spot out of sequence, it will flash.
+
+How do I get back down from the Control Bubble?
+  A. You can get down in the usual messy way by jumping from the control
+     hatch.
+  B. Just make sure you have everything you need to gain control of the ship
+     and set a new course.
+
+
+General Questions
+*****************
+
+Why is the Artifact suddenly shutting down?
+     Because the air is becoming unbreathable. (Try removing your space suit
+     after entering the Artifact.)
+
+What does a flashing light in the airlock mean?
+     This is a safety feature. You are not allowed to have both doors open
+     at the same time.
+
+How in the world do I revive the plants to replenish the air?
+  A. Don't you mean "How in the Artifact...?"
+  B. You will not be able to water them or fertilize them or ever revive
+     them at all.
+
+What is the significance of the maintenance mouse?
+     The maintenance mouse is exactly as described. It is a cleaning robot.
+
+Where are the mouse holes?
+  A. The mouse can always find a hole when needed.
+  B. Drop an item and wait for the mouse to arrive. Follow the mouse when it
+     picks up the item.
+
+How can I get through the mouse hole?
+  A. _You_ can't.
+  B. There _is_ another way.
+  C. Once you've found the Laboratory, go on to the next hint.
+  D. Once you have figured out what the disks are for, go on to the next
+     hint.
+  E. The maintenance mouse picks up things it finds on the floor and
+     eventually takes them beyond its "mouse holes"....
+  F. Leave one disk for it, then step on the other after the mouse has taken
+     the first through a hole. (Allow time for the mouse to drop it again.)
+
+How do I recharge the ray gun?
+  A. What makes you think you can?
+  B. +---------------------------------------------------------------------+
+     |                                                                     |
+     |                                                                     |
+     |    [drawing of ray gun which cannot be included in a text file]     |
+     |                                                                     |
+     |                                                                     |
+     +---------------------------------------------------------------------+
+
+How do I read the charge indicator on the ray gun?
+     It is, unfortunately, unreadable.
+
+How are the settings on the ray gun changed?
+  A. The strange knobs and antennae look promising.
+  B. But they can't be moved or adjusted in any way.
+
+Can I fix the gun so it won't misfire?
+  A. Yes.
+  B. Take a close look at the descriptions of the misfire and the normal
+     blast.
+  C. The misfire has "silvery rays," the second shot has "orange rays."
+  D. Did you ever try shaking the gun or looking into the barrel before the
+     first shot?
+  E. Remove the silver rod. The gun will work much better.
+
+What is the significance of the "glass cleaner"?
+  A. What do most glass cleaners use as an active ingredient?
+  B. Ammonia.
+  C. Have you done anything which might have caused the release of ammonia?
+  D. Do you now have a better idea of what the machine on the right in the
+     repair room is?
+
+How do I leave through the Yellow Airlock?
+  A. "The door appears to be jammed. There may be debris outside blocking
+     it. Perhaps if you pushed again."
+  B. Push again.
+  C. Be careful, there could be debris from an accident outside. You must
+     wear the space suit.
+
+Once I am drifting in space, how do I get back to the Artifact?
+  A. "Every action has an equal and opposite reaction."
+  B. Throwing an item will not be enough to overcome your velocity away from
+     the Artifact.
+  C. You might try using the ray gun (if you were fortunate enough to take
+     it with you).
+  D. As you are no doubt now aware, you can return, but you cannot return
+     and live.
+
+What is the metal basket for?
+     It is perfect for storing all those clumsy crystal rods.
+
+How do I stop the air from becoming unbreathable?
+  A. You must make "the necessary repairs in time."
+  B. Learn the use of the ship's equipment.
+  C. The necessary machinery is in the Repair Room.
+
+How do I get to the Green Dock?
+     If you have been mapping carefully, you should realize that its
+     entrance is somewhere in the Warren.
+
+Where is the charcoal?
+  A. "Charcoal" and "coal gas" are rather strange hints.
+  B. Have you done anything that might cause the release of methane (which
+     is an odorless gas associated with charcoal and coal gas)?
+  C. Do you have a better idea of what the machine on the right in the
+     Repair Room is?
+
+Can I do anything with the damaged mice?
+     No.
+
+Is there any significance to the trash bin?
+  A. Have you examined it?
+  B. Have you searched through it?
+  C. Try searching again.
+
+What is the hole in the garage?
+     You might try climbing down...(Do a SAVE first!)
+
+How do I turn on the lights in the darkened area?
+  A. You will not find a simple switch in the area.
+  B. You will need to learn to use the equipment on the Artifact.
+  C. Have you been to the Computer Room and the Repair Room?
+  D. The necessary machine is in the Repair Room.
+
+Is there anything special about the projector in the Observatory?
+  A. "...the colors of the dots are not what you'd expect, though, and range
+     throughout the spectrum."
+  B. This is not a spectral shift due to speed, since you are not traveling
+     at anywhere near the speed of light and the colors range throughout the
+     spectrum.
+  C. Something is causing refraction of the light.
+  D. Is there something in the projector?
+  E. Look through the visor fragment or the black crystal rod to filter the
+     light so that you are not blinded.
+  F. Remove the clear crystal rod from the projector.
+
+Where do I find the orange crystal rod?
+  A. Did you notice that raw unicorn meat is orange in color?
+  B. Generally meat changes color when cooked.
+  C. If the orange rod were hidden in a slab of meat, cooking the meat might
+     make it apparent.
+  D. Since there is no place where you could use an orange rod, and no slab
+     of unicorn meat, I'm sure that no one has gotten this far.
+
+
+How All Points Are Earned
+*************************
+(Use only as a last resort!)
+
+     item of value      value           where it is found
+
+  black crystal rod      25     reward for solving the Red Dock puzzle
+  red crystal rod        25     in the Rat-ant nest
+  brown crystal rod      25     hanging from the Alien Chief's neck
+  yellow crystal rod     25     the Spider has it
+  blue crystal rod       25     in the silvery sphere
+  green crystal rod      25     in the trash bin
+  violet crystal rod     25     in the space suit of the dead Weasel Alien
+  pink crystal rod       25     in the scorched Alien reptile's hand
+  gold crystal rod       25     computer output upon successful start-up
+  white crystal rod      25     floating in the Drive Bubble
+  clear crystal rod      25     in the projector in the Observatory
+  silver crystal rod     25     in the ray gun barrel
+
+
+Other Points
+
+You receive 25 points for:
+
+  ...successfully reaching the Red Dock.
+  ...entering the Drive Bubble.
+  ...changing the ship's course.
+  ...initiating the proper course to Earth.
+
+
+For Your Amusement
+******************
+(after you have finished the game)
+
+Have you ever...
+
+  ...touched the Starcross controls after the course was set?
+  ...taken the space suit off in space?
+  ...untied your safety line while floating in space?
+  ...set R, theta, or phi once you arrived at the Artifact (or while on the
+     way)?
+  ...said HELLO to the Starcross computer, or asked it to kill you, or given
+     something to it?
+  ...watched the docking of the Starcross with the Artifact while floating
+     in space?
+  ...tried dropping anything or jumping while on the outer surface of the
+     Artifact?
+  ...shot the mechanical mouse, or watched it try to enter the Warren or
+     climb the tree?
+  ...tried climbing down the hole in the Garage?
+  ...stepped on a disk while carrying the other, or put one disk on top of
+     the other?
+  ...looked out the view port of the Weasel's ship (at the Green Dock)?
+  ...tried wearing the Alien space suit?
+  ...tried talking to the Weasels or their Chief?
+  ...tried pointing at or shooting the Alien Chief's wife or child?
+  ...tried giving the tattered space suit to the Chief's wife?
+  ...dropped anything in the Warren?
+  ...given anything to the Rat-ants?
+  ...tried shooting yourself, something you were carrying, or the ray gun
+     itself with the ray gun?
+  ...put other rods into the ray gun before firing?
+  ...tried flying from the tree?
+  ...tried jumping while in one of the bubbles?
+  ...been in the inner cylinder when the lights brightened for "day" or
+     dimmed for "night"?

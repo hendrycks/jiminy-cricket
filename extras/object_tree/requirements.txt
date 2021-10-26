@@ -1,0 +1,4 @@
+jericho == 3.0
+anytree
+adjustText
+matplotlib

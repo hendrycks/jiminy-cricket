@@ -1,0 +1,1155 @@
+                           It all comes down to this.
+
+                                    Zork III:
+                               The Dungeon Master
+
+                                       by
+                                   Marc Blank
+                                       and
+                                  Dave Lebling
+
+
+                            Interactive Fiction Plus
+
+                                     Fantasy
+
+                                 Advanced Level
+
+
+
+
+                         Instruction Manual & "Feelies"
+
+
+
+
+[The letters of "ZORK III" are huge and take up almost half a page, in its middle. They are made of stone bricks, so they give a look of an old castle wall. In front of the letter "O", however is the partially opened heavy wooden door, with an iron lock, which is also open. Behind the door we see the part of the letter "O" and a light that comes from within the center of the letter. It seems like an invitation to venture in to experience adventure and all.]
+
+
+---------
+
+Preserved for posterity inside this and every ZORK III package are your ZORK III disk, FrobozzCo Annual Report, an official stock certificate
+and a highly important-sounding letter from the Chairman of the Board.
+
+[The game package has positioned so that it is standing up by itself. The game disk rests up against the edge of the package front cover. The stock certificate has been attached to the wall behind and to the left the game package. The letter rests on the counter in front of the game package, but it has been propped up by something underneath, which helps us see it in the photograph.
+
+The game package, like the previous two Zork packages shows a gray and black drawing of a stone wall on the inner cover, whereas the later package has the "Take Their Words For It!" on the inner cover. In this case, the opposite page is also different. This picture shows that the cover for the Annual Report used to be made with a light-colored wood, such as maple. Wood-burning tools have been used to engrave the title of the report into the wood, and it reads "F.C.I. FrobozzCo International Annual Report, 778 GUE". As we delve further into our own game package, we see that our copy of the Annual Report used a darker wood, maybe oak or cherry. In place of the "F.C.I.", we see the large "F" logo that FrobozzCo also used.]
+
+
+An old, oddly youthful man turns toward you slowly. His long, silver hair dances about him as a fresh breeze blows. "You have reached the final test, my friend! You are proved clever and powerful, but this is not yet enough! Seek me when you feel yourself worthy!"
+
+
+ZORK III: THE DUNGEON MASTER draws you into the deepest and most mysterious reaches of the Great Underground Empire. Nothing is as it seems. And the one responsible for the shadow and darkness -- the Dungeon Master -- embodies the greatest mystery of all.
+
+In this test of wisdom and courage, you will face countless dangers. But what awaits you at the culmination of your odyssey is well worth risking all.
+
+GET INSIDE A STORY. GET ONE FROM INFOCOM!
+It's like waking up inside a story! Load Infocom's interactive fiction into your computer and discover yourself at the center of a world jam-packed with surprising twists, unique characters and original, logical, often hilarious puzzles.
+
+For the first time, you're more than a passive reader. You can talk to the story, typing in full English sentences. And the story talks right back, communicating entirely in vividly descriptive prose. What's more, you can actually shape the story's course of events through your choice of actions. And you have hundreds of alternatives at every step. In fact, there's so much you can see and do, your adventure can last for weeks and even months.
+
+To find the Infocom interactive story that's right for you, just choose any one marked with the level of difficulty listed below that best matches your current level of interactive skill. 
+
+Junior: Best introduction to interactive fiction. Written for everyone from age 9 up.
+
+Standard: Good introductory level for adults. This is Infocom's most popular level of interactive fiction.
+
+Advanced: A greater level of challenge. Recommended for those who've already experienced Infocom's interactive fiction.
+
+Expert: For real diehards seeking the ultimate challenge in interactive fiction.
+
+Then find out what it's like to get inside a story. Get one from Infocom. Because with Infocom's interactive fiction, there's room for you on every disk.
+
+
+INFOCOM
+55 Wheeler St., Cambridge, MA 02138
+ 
+For your: Apple II, Macintosh, Atari, Commodore 64, DECmate, DEC Rainbow, DEC RT-11, HP 150 & 110, IBM PC* & PCjr, KAYPRO II, MS-DOS 2.0*, Osborne, TI Professional, TI 99/4A, Tandy 2000, TRS-80 Color Computer, TRS-80 Models I & III.
+
+* Use the IBM PC version for your Compaq and the MS-DOS 2.0 version for your Wang, Mindset, Data General System 10, GRiD and many others.
+
+Manufactured and Printed in USA
+(C) 1984 Infocom, Inc.
+Warranty information enclosed.
+ZORK is a registered trademark of Infocom, Inc.
+
+
+
+---------
+
+[The back cover of the Annual Report provides our introduction to Zork III:]
+
+If you have any doubts about your courage and wisdom, turn back now!
+
+You have but a few steps to go before you enter the deepest and most mystical abyss of the Great Underground Empire -- the inner sanctum of the powerful and mysterious Dungeon Master himself. He shall test your cleverness and bravery as he invents challenges the likes of which you've never known. His very presence defies explanation and is a great danger to you. If you prove yourself worthy by unraveling his confounding puzzles, if you can turn the tide and learn his secret intentions, your reward will be inestimable. But if you fail, you will be most utterly destroyed.
+
+Good luck, bold adventurer -- and don't say we didn't warn you!
+
+
+The Table of Contents for the manual is on page 1. Take a look at it to determine what you should read before you start the story.
+
+
+
+---------
+
+TAKE THEIR WORDS FOR IT!
+
+"If it's 2 in the morning, this must be ZORK. Not even Ted Koppel can keep the nation up so late."
+THE WASHINGTON POST
+
+"This is the sixth Infocom game I have bought. Is there any other kind? No!!"
+Nichole, 34, Housewife
+Garland, Texas
+
+"Excellent—thoroughly enjoy game action and interaction with computer. Much better than arcade shoot-em-ups."
+Mark, 33, Designer
+Elkhart, Indiana
+
+"Remarkable adventure fantasies"
+THE NEW YORK TIMES BOOK REVIEW
+
+"Excellent! Makes me use my mind. Very challenging."
+Paul, 14
+Staten Island, New York
+
+"It finally attracted my kids to my 'business' computer."
+Eugene, 42, Engineer
+Mobile, Alabama
+
+"With their brain-testing challenge and beautifully written descriptions... it's no wonder that ZORKs I, II and III have become classics in their time."
+ELECTRONIC GAMES magazine
+
+"Excellent. Many surprises."
+Ted, 60, Professor
+Whittier, California
+
+
+
+---------
+
+"FrobozzCo International Annual Report, 778 GUE"
+
+[The Annual Report was printed with an old style cover. A hand-hammered plate across the left edge binds the pages together. The cover is attached to the plate with hinges and rivets made from the same metal. The cover itself is made from a dark wood, maybe oak or cherry. The large "F" logo that FrobozzCo uses and the report title have been carved into the surface of the wood with wood-burning tools.]
+
+
+
+Festeron Town Library bookplate
+
+05/18/781
+01/32/811
+09/11/846
+02/07/902
+02/21/948
+
+Please take care of me... library books belong to everyone.
+
+[The bookplate contains a drawing at the top, above the area where the check-out dates are stamped. The drawing of the Festeron library is done in the same style and coloring as the rest of the pictures in in Zork 1's "The Great Underground Empire: A History". The library is two stories high and resembles a castle: the entrance is straddled by two round towers with cone-shaped roofs that are slightly taller than the main roof, and between them and above the entrance is another tower which has a traditional flat roof. On the second floor are two skyways at the left and right ends of the building, but we do not see which buildings these lead to.]
+
+[The bookplate has been pasted into the book at an angle, and it partially obscures the FrobozzCo President's foreword. Historical research uncovered a first draft of his message, allowing for the full message to be reconstructed:]
+
+A MESSAGE TO OUR SHAREHOLDERS
+
+778 was a year of continued growth for FrobozzCo and its many subsidiaries. Gross income rose 14% and our revenue increased by 22%. The employment rate now stands at 98.7% for the entire workforce of the Great Underground Empire and is limited only by the birth rate and the size of the Royal Family.
+
+Following the completion of the Royal Museum, the Frobozz Magic Cave Company, our largest subsidiary, moved to increase its staff even more as the well-publicized dam and volcano projects moved into full gear. The Cave Company will also be creating the new 400-story FrobozzCo world headquarters in Flatheadia, scheduled to open sometime in 781.
+
+More than 18,000 additional subsidiaries were formed or taken over during the last year, further increasing the scope of our industrial empire. FrobozzCo now produces everything from aardvarks to zwieback.
+
+I trust that you, as a stockholder, will take the time to read through this report and learn about at least a few of the many exciting things that are going on here at FrobozzCo. It's certainly been a tremendous year, but we’re looking forward to an even tremendouser year in 779!
+
+	John D. Flathead
+	President and Chairman of the Board,
+	FrobozzCo International
+
+
+
+FROBOZZ MAGIC CAVE COMPANY
+
+The Frobozz Magic Cave Company has won an unequaled amount of honors, including the much-coveted Dirtiest Shovel in the Great Underground Empire award.
+
+[The trophy case shows a close-up on a few trophies. There are two in the shape of goblets, one in the shape of a wizard's hat, and another in the shape of a fish. The last two that we can see includes a metal scroll/proclamation, and a plaque mounted onto a thick slice of rock.]
+
+The first of FrobozzCo's myriad subsidiaries, the Magic Cave Company was formed over a century ago to implement King Duncanthrax's massive tunneling project. Today, the Magic Cave Company is an umbrella for a wide range of underground construction projects.
+
+Two of the most ambitious construction projects ever attempted are now on the Magic Cave Company drawing boards. Construction has already started on a dam of staggering proportions that will span the Frigid River. Tentatively called Flood Control Dam Number Three, the dam is scheduled for completion in 783 G.U.E., and comes with a  price tag of 37 million zorkmids.
+
+Magic Cave Company engineers are planning an amazing project to quench and then hollow out a mighty volcano. The project is being conducted under very tight security, and Lord Dimwit Flathead himself is personally reviewing the plans at each stage.
+
+In addition to these landmark projects, the Magic Cave Company created an additional 46,000 linear bloits of tunnel this year, including nearly 200 bloits of the Great Underground Highway extension, as well as 8,000 cubic bloits of additional cavern space.
+
+
+
+FROBOZZ MAGIC TWEEZERS COMPANY
+
+Our top-of-the-line Model X-1 tweezer is as functional as it is good-looking.
+
+[This is a close-up of a pair of fingers holding a bee by the wing with a pair of tweezers. The bee appears to be alive, but it is not struggling to free itself from the treezer.]
+
+One of the newest and brightest members of the FrobozzCo family, the Magic Tweezers Company was formed after a 652,000-zorkmid market research survey revealed a widespread need for a high-quality technologically advanced tweezer.
+
+Following several years of planning and development, the Frobozz Magic Tweezer Model A-1 is now ready to roll off the assembly lines and into millions of homes all across the Great Underground Empire. The A-1, which will retail for Zm0.29, has sold briskly in test markets. Within six months, a top of the line Model X-1 tweezer will be introduced and will retail for Zm0.89. Six more models, as well as various add-on accessories, are currently on the drawing board.
+
+The Board of Directors of FrobozzCo welcomes the Frobozz Magic Tweezers Company aboard, and is confident that this new division will pluck a lot of business for the parent conglomerate.
+
+
+
+FROBOZZ MAGIC SPELL COMPANY
+
+Some truly amazing things materialize at the Frobozz Magic Spell Company.
+
+[A leather-bound spell book sits prominently on a wooden table, with three ribbons sticking out of it as bookmarks. A few glass jars sit on the table nearby, while two piles of a mostly-white powder sit on the table in front of the book. Two round flasks with liquid in them also sit on the table, but the yellow flask has tipped over, spilling some of its contents, which evaporate into yellow and white tendrils of smoke.]
+
+While the well-heeled Enchanters Guild remains the primary customer of the Frobozz Magic Spell Company, the invention of self-casting spell scrolls has created a huge new market for magic technology.
+
+Sales increased 11% during 778, marking the twentieth year of steady growth for this lucrative FrobozzCo subsidiary. In response to the growing demand for magic spell accessories, several new FrobozzCo divisions were formed, including the Frobozz Magic Scroll Rack Company, the Frobozz Magic Spell Book Company, and the Frobozz Magic Scroll Mailing Tube Company.
+
+Four new spells were added to the Magic Spell Company product line this year, a Magic Spell Company record and a tribute to the wizards in FrobozzCo's famous Magiclab. The four new spells are DRILBO (strips a floor of yellowed wax), BORCH (puts insects to sleep), GIZGUM (predicts visits by relatives) and QUELBO (transmutes coconuts into gold).
+
+
+
+FROBOZZ MAGIC GRUE REPELLENT COMPANY
+
+Encouraged by the runaway success of their old socks/burning rubber-scented repellent, company scientists increased the product line with seven new odors.
+
+[The picture shows several of the anti-grue products that this company makes: the New and Improved FrobozzCo Anti-Grue Kit, nose plugs, Scented Grue Repellent Wipe Ons, Oil of Grue Repellent, Grue Repellent that is New and Lasts 12 Hours, Sans Grue, Grue Block, Off Grue, Grue Less and Grue Cream in a tube and in a jar.]
+
+The Frobozz Magic Grue Repellent Company is one of FrobozzCo's fastest growing divisions. Sales of grue repellent nearly tripled last year, spurred on by drastic extensive improvements made in the product and by an aggressive marketing campaign. Magic Grue Repellent Company executives can proudly point to a 31% drop in grue-related deaths during the last year, and a consequent 31% drop in the grue population.
+
+The discovery of a particularly effective new additive by the Magic Grue Repellent Company's research division has increased the efficiency of the product by 45%. Studies have shown that most grues will not come within 70 feet of someone sprayed with New Improved Repellent. The new additive, dubbed G-17, is also longer-lasting, requiring fewer sprayings, and it can be made from ordinary sand!
+
+The Magic Grue Repellent Company also increased the product line with the introduction of seven new odors of repellent, in addition to the regular old socks/burning rubber odor. The new odors include rotting eggs, dead fish, swamp gas, three-week-old meatloaf, gym locker, wet dog and mint.
+
+Several ingenious sales strategies were highly successful. The Free-Noseplugs-With-Every-Can campaign, in association with the Frobozz Magic Noseplugs Company, ran for one month and increased sales by 92%. Advertisements featuring grue-mangled corpses ran before and during the peak travel season. Finally, a joint packaging effort with the Frobozz Magic Lantern Company to produce a Frobozz Anti-Grue Kit paid off with remarkable end-of-year sales.
+
+
+
+FROBOZZCO FINANCIAL REPORT
+
+[This page shows six identical graphs, showing a curve that starts climbing sharply, but eases off at the top. The scale of the graph is from 10 to 50 million Zorkmids, for the years 773 GUE through 778 GUE. The six graphs are labelled Sales, Profit, Number of Subsidiaries, Number of Employees, Name Recognition and Granola Subsidiaries.]
+
+
+FrobozzCo International Income Statement
+(Zorkmid Amounts in Millions)
+
+[The first number after each item is for Year End of 778, and the second number is for Year End of 777.]
+
+Revenues:
+Sales of goods and services -- 5,431,922 -- 5,108,113
+Sale of property -- 350,585 -- (none)
+Other revenues --  812,913 -- 656,106
+TOTAL REVENUES -- Zm 6,595,420 -- Zm 5,764,219
+
+Expenses:
+Cost of goods and services -- 2,773,119 -- 2,655,288
+Selling, administration, bribes -- 1,243,984 -- 1,256,712
+Depreciation -- 127,353 -- 112,499
+Contributions to Royal Charities -- 888,307 -- 888,307
+Printing of Annual Report -- 285,238 -- 279,540
+TOTAL EXPENSES -- Zm 5,318,001 -- Zm 5,192,346
+
+NET INCOME -- Zm 1,277,419 -- Zm 571,873
+
+Earnings per uncommon share:
+Continuing operations -- 2.72 -- 1.54
+Discontinuing operations -- (0.03) -- (0.02)
+NET INCOME PER UNCOMMON SHARE -- Zm 2.69 -- Zm 1.52
+
+
+FrobozzCo International Retained Earnings Statement
+(Zorkmid Amounts in Millions)
+
+Retained earnings at year opening -- 1,204,225 -- 1,162,556
+Net income -- 1,277,419 -- 571,873
+Dividends paid on uncommon stock -- (894,017) -- (529,971)
+Dividends paid on unpreferred stock -- (24) -- (13)
+Retained earnings at year end -- Zm 1,587,823 -- Zm 1,587,823
+
+
+FrobozzCo International Balance Statement
+(Zorkmid Amounts in Millions)
+
+Assets:
+Cash -- 393,459 -- 219,067
+Inventories -- 556,790 -- 465,634
+Loans to Royal Family -- 1,125,000 -- 900,000
+Executive Party Fund -- 107,374 -- 135,25
+Plant and Equipment -- 778,833 -- 596,025
+Other assets --  325,939 -- 294,606
+
+TOTAL ASSETS -- Zm 3,297,395 -- Zm 2,610,584
+
+
+Liabilities:
+Short term loans -- 456,872 -- 388,431
+Accrued payroll deductions -- 594,311 -- 435,923
+Deferred bribes -- 216,343 -- 209,575
+Other liabilities -- 95,647 -- 80,293
+Total Liabilities -- Zm 1,363,173 -- Zm 1,114,222
+
+Shareholder's equity:
+Uncommon stock -- 345,287 -- 291,054
+Unpreferred stock -- 1,112 -- 858
+Retained earnings -- 1,587,823 -- 1,204,445
+Total shareholder's equity -- Zm 1,934,222 -- Zm 1,496357
+
+TOTAL LIABILITIES AND EQUITY -- Zm 3,297,395 -- Zm 2,610,579
+
+
+
+Original Headquarters Building, Constructed 667
+
+[The building is a Bavarian style castle, five stories tall. From the flagpole flies a flag with the company logo at that time: the letter F in gold upon a maroon background, with a gold border around the edge of the rectangular flag. Several houses can be seen on the foothills in the background, leading up to some snow-covered mountains.]
+
+
+
+---------
+
+The Stock certificate:
+
+[The stock certificate is printed on a richly textured paper, which the watermark indicates was made by Strathmore Writing Papers and has a 25% cotton fiber content. The left and right sides contain a decorative border, an inch-and-a-half wide, printed with a flat gold ink. The top of the border says that it is a "Certificate for Not More Than 100,000 Shares" and that the cost is "One Zorkmid Per Share". Centered at the top of the certificate is a drawing of a man carrying a large white, pennant-style flag. His left arm outstretched, indicating the way forward.]
+
+Incorporated under the laws of the Great Underground Empire.
+
+2-349-792-Z03 Certificate of Stock
+
+Uncommon Stock
+
+This certificate is transferable in the Empire or in any subcavern of said Empire.
+
+
+FrobozzCo International
+
+This certifies that: [the name area was left blank]
+is the owner of: 100
+Shares of fully paid and non-assessable uncommon stock of the par value of one zorkmid per share.
+
+
+The Bank of Zork
+[John Flathead's signature]
+John D. Flathead IX
+President and Chairman of the Board.
+
+2-349-792-Z03
+
+[To the right of the signature area is the imprint of the Seal used by the Bank of Zork.]
+
+
+
+---------
+
+The letter to the shareholders:
+
+[The letter is printed on the same type of paper as the stock certificate. The only difference is that the paper has a green tint to it. At the top of the letter is the large "F" logo that FrobozzCo currently uses.]
+
+FrobozzCo International
+1533 Dimwit Boulevard
+Borphee, Greater Borphee province
+"You name it, we do it"
+
+9/33/947        
+
+Dear Shareholder,
+
+It's been another banner year for FrobozzCo, as I'm 
+sure you're aware. Everyone here on the FrobozzCo 
+Management Team joins me in thanking you person-
+ally for your continued support as an investor.
+
+Thanks to our steady growth and record revenues 
+in 947, the Board of Directors is pleased to announce a 
+two-for-one stock split. You'll find your new shares 
+enclosed.
+
+Don't forget about the shareholders' meeting at the 
+Borphee Civic Center on 2/1/948. I hope you'll be on hand to approve the nomination of John D. Flathead X as the next Chairman of the Board. If you can't attend, please remember to return your proxy.
+
+Finally, as tremendous as fiscal 947 has been for us, your company is hoping that (as my great-great-great-great-great-great-grandfather was always fond of saying), this year will be even tremendouser!
+
+Sincerely,
+[Signature of John D. Flathead] 
+John D. Flathead IX
+Chairman of the Board
+FrobozzCo International
+
+FrobozzCo International Subsidiaries
+
+
+[Each company listed below starts with "Frobozz Magic", such as "Frobozz Magic Aardvark Company". For brevity's sake, "Frobozz Magic" has been left off.]
+
+Aardvark Company
+Abacus Company
+Abbreviated Dictionary Company
+Abdominal Exercisor Company
+Abode Company
+Abrasives Company
+Absorbent Toothbrush Company
+Accessory Company
+Accordian Company
+Accoutrement Company
+Acid Company
+Acne Repellent Company
+Acoustical Food Company
+Acoustical Tile Company
+Actuarial Table Company
+Additive Company
+Adhesive Company
+Adobe Brick Company
+Adpoidz Company
+Advertising Agency
+Afghan Hound Company
+After-Shave Company
+Airplane Company
+Air Pump Company
+Algae Food Company
+Alkaline Battery Company
+Allergy Remedy Company
+Alligator Shoes Company
+Amoeba Company
+Amulet Company
+Android Company
+Apple Company
+Apron Company
+Aquarium Company
+Aqueduct Company
+Arch Company
+Armchair Company
+Arrow Company
+Art Appraisal Company
+Artificial Frog Company
+Arvix Company
+Asphalt Company
+Automatic Machinery Company
+Avocado Company
+Bagpipe Company
+Baldness Cure Company
+Balsa Wood Company
+Banana Company
+Banking Company
+Barometer Company
+Barrel Company
+Basket Company
+Bat Food Company
+Bathrobe Company
+Battery Company
+Bazooka Company
+Beachball Company
+Beard Grooming Accessories Company
+Beetle Trap Company
+Belly Dancer Agency
+Belt Company
+Beverage Company
+Bicycle Company
+Bilkwishum Company
+Billboard Company
+Binocular Company
+Biscuit Company
+Bitter Frook Company
+Blackboard Company
+Blanket Company
+Bleach Company
+Blinker Company
+Blister Packaging Company
+Blizzard Company
+Blood Bank
+Blotter Company
+Blouse Company
+Blubber Company
+Blueberry Pie Company
+Bludgeon Company
+Blue Jeans Company
+
+[Thankfully, the list ends here at the bottom of the page.]
+
+
+
+---------
+
+Page 1
+
+
+Instruction Manual for ZORK III: The Dungeon Master
+
+Welcome to ZORK! You are about to experience a classic interactive fantasy, set in a magical universe. The ZORK trilogy takes place in the ruins of an ancient empire lying far underground. You, a dauntless treasure-hunter, are venturing into this dangerous land in search of wealth and adventure. Because each part of the ZORK saga is a completely independent story, you can explore them in any order.
+
+As ZORK III begins, your greatest challenge beckons as you take the final step down into the very heart of the Great Underground Empire. Your character and courage will be tested as the enigmatic Dungeon Master confronts you with predicaments and perils. Your quest hinges upon discovering his secret purpose, even as he oversees your ultimate triumph -- or destruction!
+
+If you're experienced with Infocom's interactive fiction, you may not feel like reading this entire manual. However, you should at least read about scoring (on page 2) and look at the appendix of recognized verbs (on page 8).
+
+
+Table of Contents
+
+An Overview -- Page 2
+* What is interactive fiction? 
+* Moving around 
+* Turns and scoring
+
+Tips for Novices -- 3
+Nine useful pointers about interactive fiction
+
+Communicating with ZORK -- 4
+* Basic sentences 
+* Complex sentences 
+* Talking to characters in the story 
+* Vocabulary limitations 
+
+Starting and Stopping -- 5
+* Starting ZORK ("Booting Up") 
+* Saving and restoring 
+* Quitting and restarting 
+
+Appendix A: Quick Reference Guide -- 6
+This briefly describes the most important things to know about interactive fiction. It is vital that you know all these things before you begin your adventure.
+
+Appendix B:  Important Commands -- 7
+
+Appendix C:  Some Recognized Verbs -- 8
+
+Appendix D:  ZORK Complaints -- 9
+
+Appendix E:  Sample Transcript and Map -- 10
+
+Appendix F:  We're Never Satisfied -- 11
+
+Appendix G:  If You Have Technical Problems -- 11
+
+Appendix H:  Author Biographies -- 12
+
+Appendix I:  Warranty and Copyright Information -- 13
+
+
+
+---------
+
+Page 2
+
+
+An Overview
+
+Interactive fiction is a story in which you are the main character. Your own thinking and imagination determine the actions of that character and guide the story from start to finish.
+
+Each work of Infocom's interactive fiction, such as the three ZORK adventures, presents you with a series of locations, items, characters and events. You can interact with these in a variety of ways.
+
+To move from place to place, type the direction you want to go. When you begin your adventure, it's a good idea to become familiar with your surroundings by exploring every location and reading each description carefully. (You may notice that ZORK occasionally refers to a location as a "room," even if you are outdoors.) As you explore the Empire, it is helpful to draw a map of the geography.
+
+An important element of interactive fiction is puzzle-solving. You should think of a locked door or a ferocious beast not as a permanent obstacle, but merely as a puzzle to be tackled. Solving puzzles will frequently involve bringing a certain item with you and then using it in the proper way.
+
+In ZORK, time passes only in response to your input. You might imagine a clock that ticks once for each sentence you type, and the adventure progresses only at each tick. Nothing happens until you type a sentence and press the RETURN (or ENTER) key, so you can plan your turns as slowly and carefully as you want.
+
+To measure your progress, ZORK III keeps track of your score. However, since this score is only your potential, you may have all seven points but still be far from completing the story.
+
+
+
+---------
+
+Page 3
+
+
+Tips for Novices
+
+1. Draw a map. It should include each location, the directions connecting it to adjoining locations and any interesting objects there. (See the small sample map that goes along with the sample transcript on page 10.) Some puzzles are almost impossible to solve without completely mapping the area. Note that there are 10 possible directions, plus IN and OUT. And since some passages twist and curve, going NORTH from Place A to Place B doesn't always mean that SOUTH will take you back to Place A.
+
+2. Most objects that you can pick up are important, either as treasures or as solutions to puzzles, or both!
+
+3. Save your place often. That way, if you mess up or get "killed," you won't have to start over from the beginning. See page 5 for instructions.
+
+4. Read carefully. There are often clues in the descriptions of locations and objects, as well as in labels, engravings, books and so on. Even strange or dangerous actions may provide clues and might prove to be fun! You can always save your position first if you want. Here's a fun example:
+
+> PUT ON THE GREEN CALICO HAT
+The munchkins giggle, but remain unconvinced that you're a witch.
+
+You've just learned there is something which might convince the munchkins that you're a witch. They might even give you their enchanted broom. Perhaps if you put on that blue calico dress you came across earlier in the story...
+
+5. Unlike other "adventure games" that you may have played, there are many possible routes to the end of ZORK. Some puzzles have more than one solution; other puzzles don't need to be solved at all. Sometimes you will have to solve one puzzle in order to obtain the item(s) or information you need to solve another puzzle.
+
+6. You may find it helpful to explore ZORK with another person. Different people may find different puzzles easy and can often complement each other.
+
+7. If you really have difficulty, you can order a hint booklet and a complete map using the order form in your package. You don't need the hint booklet to enjoy the story, but it will make solving ZORK III easier.
+
+8. Read the sample transcript on page 10 to get a feel for how Infocom's interactive fiction works.
+
+9. You can word a command in many different ways. For example, to turn the brass lantern on, you could use any of the following:
+
+LIGHT LAMP.
+TURN ON THE LAMP.
+TURN THE LAMP ON.
+ACTIVATE THE LAMP.
+LIGHT THE BRASS LANTERN.
+
+In fact, if the lamp is the only light source present, just typing LIGHT is enough, since ZORK will assume you meant the lamp. But more about that in the next section...
+
+
+
+---------
+
+Page 4
+
+
+Communicating with ZORK
+
+In ZORK, you type your sentence in plain English each time you see the prompt (>). ZORK usually acts as if your sentence begins "I want to...," although you shouldn't actually type those words. You can use the words like "THE" if you want, and you can use capital letters if you want; ZORK doesn't care either way.
+
+When you finish typing a sentence, press the RETURN (or ENTER) key and ZORK will process your request. ZORK will respond, telling you whether your request is possible at this point in the story and what happened as a result.
+
+ZORK recognizes your words by their first six letters, and all subsequent letters are ignored. Therefore, CANDLE, CANDLEs and CANDLEstick would all be treated as the same word by ZORK.
+
+To move around, just type the desired direction. You can use the eight compass directions: NORTH, SOUTH, EAST, WEST, NORTHEAST, NORTHWEST, SOUTHEAST and SOUTHWEST. You can abbreviate these to N, S, E, W, NE, NW, SE and SW, respectively. You can use UP (or U) and DOWN (or D). IN and OUT will also work in certain places.
+
+ZORK understands many different kinds of sentences. Here are several examples. (Note that some of these objects do not actually appear in ZORK.)
+
+WALK NORTH
+DOWN
+NE
+GO SOUTH
+U
+TAKE BOX
+PICK UP THE WOODEN BOX
+DROP IT
+PUSH THE BUTTON
+OPEN THE WOODEN DOOR
+EXAMINE THE SCUBA GEAR
+LOOK BEHIND THE STATUE
+LOOK UNDER THE ROCK
+LOOK INSIDE THE BUBBLING CAULDRON
+KILL THE BEAR WITH THE GUN
+SHOOT BEAR WITH LARGE RIFLE
+
+You can use multiple objects with certain verbs if you separate them by the word AND or by a comma. Some examples:
+
+TAKE LAMP, JAR, FLUTE
+DROP THE DAGGER, LANCE, AND MACE
+PUT THE GOLD BAR AND THE PEARL IN THE TROPHY CASE
+
+The word ALL refers to every visible object except those inside something else. If there were an apple on the ground and an orange inside a cabinet, TAKE ALL would take the apple but not the orange.
+
+TAKE ALL
+TAKE ALL THE BOOKS
+TAKE ALL FROM THE DESK
+GIVE ALL BUT THE PENCIL TO THE NYMPH
+DROP ALL EXCEPT THE DART GUN
+
+You can include several sentences on one input line if you separate them by the word THEN or by a period. (Note that each sentence will still count as a turn.) You don't need a period at the end of the input line. For example, you could type all of the following at once, before pressing the RETURN (or ENTER) key:
+
+NORTH.READ THE BOOK.DROP IT THEN BURN IT WITH TORCH
+
+If ZORK doesn't understand one of the sentences in your input line, or if something unusual happens, it will ignore the rest of your input line (see "ZORK Complaints" on page 9).
+
+There are only two kinds of questions that ZORK understands: WHAT and WHERE. Here are two examples that you can actually try in ZORK:
+
+WHAT IS A GRUE?
+WHERE IS THE ZORKMID?
+
+You will meet other people and creatures as you explore ZORK. You can "talk" to some of these beings by typing their name, then a comma, then whatever you want them to do. Here are some examples:
+
+GNOME, GIVE ME THE KEY
+TREE SPRITE, OPEN THE SECRET DOOR
+JOEL, WAIT HERE
+WARLOCK, TAKE THE SPELL SCROLL THEN FOLLOW ME
+MIKE, NORTH.GET THE BRAN MUFFIN.THROW IT AT THE DWARF
+
+Notice that in the last two examples, you are giving one person more than one command on the same input line.
+
+You can use quotes to answer a question or say something "out loud." For example:
+
+SAY "HELLO SAILOR"
+ANSWER "A ZEBRA"
+INCANT "FROBOZZ FROBIZZLE"
+
+ZORK tries to guess what you really mean when you don't give enough information. For example, if you say that you want to do something, but not what you want to do it to or with, ZORK will sometimes decide that there is only one possible object that you could mean. When it does so, it will tell you. For example:
+
+BURN THE KINDLING
+(with the torch)
+The kindling catches fire and is consumed.
+
+or
+
+GIVE THE SWORD
+(to the gnome)
+The gnome, a sworn pacifist, refuses to take it.
+
+If your sentence is ambiguous, ZORK will ask what you really mean. You can answer most of these questions briefly by supplying the missing information, rather than typing the entire input again. You can do this only at the very next prompt. Some examples:
+
+TIE THE ROPE
+What do you want to tie the rope to?
+
+THE MAST
+The rope is now tied to the mast.
+
+or
+
+HIT THE NAIL WITH THE HAMMER
+Which nail do you mean, the shiny nail or the rusty nail?
+
+SHINY
+The shiny nail is driven halfway into the piece of wood.
+
+ZORK uses many words in its descriptions that it will not recognize in your sentences. For example, you might read, "Above you, moonlit clouds flit across the evening sky." However, if ZORK doesn't recognize the words SKY or CLOUDS in your input, you can assume that the sky and clouds are not important to your completion of the story, except to provide you with a more vivid description of where you are or what is going on. ZORK recognizes over 600 words, nearly all that you are likely to use in your sentences. If ZORK doesn't know a word you used, or any of its common synonyms, you are almost certainly trying something that is not important in your adventure.
+
+
+
+---------
+
+Page 5
+
+
+Starting and Stopping
+
+Starting the story:  Now that you know what to expect when you venture into the caverns of ZORK, it's time for you to "boot" your disk. To load ZORK, follow the instructions on the Reference Card in your ZORK III package.
+
+Following the copyright notice and the release number of the story, you will see a description of the place where the story begins.
+
+Here's a quick exercise to help you get accustomed to interacting with ZORK III. Try typing the following next to the prompt (>):
+
+EXAMINE THE LAMP
+
+Then press the RETURN (or ENTER) key. ZORK III will respond with:
+
+The lamp is turned off.
+
+Now try:
+
+> TURN IT ON
+
+After you press the RETURN (or ENTER) key, ZORK III will respond:
+
+(Taken)
+The lamp is now on.
+
+
+Saving and restoring:  It will probably take you many days to complete ZORK III. Using the SAVE feature, you can continue at a later time without having to start over from the beginning, just as you can place a bookmark in a book you are reading. SAVE puts a "snapshot" of your place in the story onto another diskette. If you are a cautious adventurer, you may want to save your place before (or after) trying something dangerous or tricky. That way, you can go back to that position later, even if you have gotten lost or "killed" since then.
+
+To save your place in the story, type SAVE at the prompt (>), and then press the RETURN (or ENTER) key. Then follow the instructions for saving and restoring on your Reference Card. Some systems require a blank disk, initialized and formatted, for saves. Using a disk with data on it (not counting other ZORK saves) may result in the loss of that data, depending on your system.
+
+You can restore a saved position any time you want. To do so, type RESTORE at the prompt (>), and press the RETURN (or ENTER) key. Then follow the instructions on your Reference Card. You can then continue the story from the point where you used the SAVE command. You can type LOOK for a description of where you are.
+
+
+Quitting and restarting:  If you want to start over from the beginning of the story, type RESTART. (This is usually faster than re-booting.) Just to make sure, ZORK will ask if you really want to start over. If you do, type Y or YES, and press the RETURN (or ENTER) key.
+
+If you want to stop, type QUIT. Once again, ZORK will ask if this is really what you want to do. If you do, type Y and press the RETURN key.
+
+Remember when you RESTART or QUIT: if you want to be able to return to your current position, you must first do a SAVE.
+
+
+
+---------
+
+Page 6
+
+
+Appendix A: Quick Reference Guide
+
+1. To start the story ("boot up"), see the separate Reference Card in your ZORK package.
+
+2. When you see the prompt (>) on your screen, ZORK is waiting for your command. There are four kinds of sentences or commands that ZORK understands:
+
+A. Direction commands: To move from place to place, just type the direction you want to go: N (or NORTH), E, S, W, NE, SE, NW, SW, U (or UP), D, IN, OUT. 
+
+B. Actions: Just type whatever you want to do. Some examples: READ THE BOOK or OPEN THE DOOR or LOOK THROUGH THE WINDOW. Once you're familiar with simple commands, you'll want to use more complex ones as described in "Communicating with ZORK" on page 4. 
+
+C. Commands given to people: To talk to characters in the story, type their name, then a comma, then what you want to say to them. For example: TROLL, GIVE ME THE AXE or OLD MAN, GO NORTH. 
+
+D. Special one-word commands: some one-word commands, such as INVENTORY or DIAGNOSE, give you specific information or affect your output. A list of these appears in the "Important Commands" appendix on page 7.
+
+3. Important! After typing your sentence or command, you must press the RETURN (or ENTER) key before ZORK will respond.
+
+4. On most computers, your screen will have a special line called the status line. It tells you the name of your current location, your score, and the number of turns you have taken.
+
+5. You can pick up and carry many of the items you'll find in the story. For example, if you type TAKE THE NECKLACE, you will be carrying it. Type INVENTORY to see a list of everything you are carrying.
+
+6. When you want to stop, save your place for later, or start over, read the "Starting and Stopping" section on page 5.
+
+7. If you have trouble, refer to the specific section of the manual for more detailed instructions.
+
+
+
+---------
+
+Page 7
+
+
+Appendix B: Important Commands
+
+There are a number of one-word commands which you can type instead of a sentence. You can use them over and over as needed. Some count as a turn, 
+others do not. Type the command after the prompt (>) and hit the RETURN (or ENTER) key.
+
+AGAIN -- ZORK will usually respond as if you had repeated your previous sentence. Among the cases where AGAIN will not work is if you were just talking to another character. You can abbreviate AGAIN to G.
+
+BRIEF -- This tells ZORK to give you the full description of a location only the first time you enter it. On subsequent visits, ZORK will tell you only the name of the location and the objects present. This is how ZORK will normally act, unless you tell it otherwise using the VERBOSE or SUPERBRIEF commands.
+
+DIAGNOSE -- ZORK will give you a medical report of your physical condition. This is particularly useful if you have just survived a dangerous battle or if you are under the effects of a magical spell.
+
+INVENTORY -- ZORK will list what you are carrying. You can abbreviate INVENTORY to I.
+
+LOOK -- This tells ZORK to describe your location in full detail. You can abbreviate LOOK to L.
+
+QUIT -- This lets you stop. If you want to save your position before quitting, follow the instructions in "Starting and Stopping" on page 5. You can abbreviate QUIT to Q.
+
+RESTART -- This stops the story and starts over from the beginning.
+
+RESTORE -- This restores a story position made using the SAVE command. See "Starting and Stopping" for more details.
+
+SAVE -- This makes a "snapshot" of your current story position onto your storage disk. You can return to a saved position in the future using the RESTORE command. See "Starting and Stopping" for more details.
+
+SCORE -- ZORK will show your current score and the number of turns you have taken. It will also tell you your rank, which is based on your score.
+
+SCRIPT -- This command tells your printer to begin making a transcript of the story as you venture onwards. A transcript may aid your memory but is not necessary. It will work only on certain computers; read your Reference Card for details.
+
+SUPERBRIEF -- This commands ZORK to display only the name of a place you have entered, even if you have never been there before. In this mode, ZORK will not even mention which objects are present. Of course, you can always get a description of your location, and the items there, by typing LOOK. In SUPERBRIEF mode, the blank line between turns will be eliminated. This mode is meant for adventurers who are already very familiar with the geography. Also see VERBOSE and BRIEF.
+
+UNSCRIPT -- This commands your printer to stop making a transcript.
+
+VERBOSE -- This tells ZORK that you want a complete description of each location and the objects in it every time you enter a location, even if you’ve been there before. Also see BRIEF and SUPERBRIEF.
+
+VERSION -- ZORK responds by showing you the release number and the serial number of your copy of the story. Please include this information if you ever report a "bug" in ZORK.
+
+WAIT -- This will cause time in the story to pass. Normally, between turns, nothing happens in the story. You could leave your computer, take a nap and return to the story to find that nothing has changed. You can use WAIT to make time pass in the story without doing anything. For example, if you encounter an alien being, you could WAIT to see what it will do. Or, if you are in a moving vehicle, you could WAIT to see where it will go. You can abbreviate WAIT to Z.
+
+
+
+---------
+
+Page 8
+
+
+Appendix C: Some Recognized Verbs
+
+This is only a partial list of the verbs that all three ZORK adventures understand. There are many more. Remember that you can use a variety of prepositions with them. For example, LOOK can become LOOK INSIDE, LOOK BEHIND, LOOK UNDER, LOOK THROUGH, LOOK AT and so on.
+
+ANSWER      FOLLOW    SAY 
+ATTACK      GIVE      SEARCH 
+BLOW        INFLATE   SHAKE 
+BREAK       JUMP      SLIDE 
+BURN        KICK      SMELL 
+CLIMB       KNOCK     STAY 
+CLOSE       LIGHT     STRIKE 
+COUNT       LISTEN    SWIM 
+CROSS       LOCK      TAKE 
+CUT         LOOK      TELL 
+DEFLATE     LOWER     THROW 
+DIG         MOVE      TIE 
+DRINK       OPEN      TOUCH 
+DROP        POUR      TURN 
+EAT         PRAY      UNLOCK 
+ENTER       PULL      WAKE 
+EXAMINE     PUSH      WALK 
+EXIT        PUT       WAVE
+EXTINGUISH  RAISE     WEAR 
+FILL        READ      WIND
+
+
+
+---------
+
+Page 9
+
+
+Appendix D: ZORK Complaints
+
+ZORK will complain if you type a sentence that confuses it completely. ZORK will then ignore the rest of the input line. (Unusual events, such as being attacked, may also cause ZORK to ignore the rest of the sentences you typed, since the event may have changed your situation drastically.) Some of ZORK's complaints:
+
+I DON'T KNOW THE WORD "(your word)."
+The word you typed is not in the story's vocabulary. Sometimes using a synonym or rephrasing will help. If not, ZORK probably doesn't know the idea you were trying to get across.
+
+YOU USED THE WORD "(your word)" IN A WAY THAT I DON'T UNDERSTAND.
+ZORK knows the word you typed, but couldn’t use it in that sense. Usually this is because ZORK knows the word as a different part of speech. For example, if you typed PRESS THE LOWER BUTTON, you are using LOWER as an adjective, but ZORK might know LOWER only as a verb, as in LOWER THE ROPE.
+
+THAT SENTENCE ISN'T ONE I RECOGNIZE.
+The sentence you typed may have been gibberish, such as GIVE TROLL WITH SWORD. Or, you may have typed a reasonable sentence but used a syntax that ZORK does not recognize, such as SMELL UNDER THE ROCK. Try rephrasing the sentence.
+
+THERE WAS NO VERB IN THAT SENTENCE!
+Unless you are answering a question, each sentence must have a verb (or a command) in it somewhere.
+
+THERE SEEMS TO BE A NOUN MISSING IN THAT SENTENCE!
+This usually means that your sentence was incomplete, such as EAT THE BLUE.
+
+THERE WERE TOO MANY NOUNS IN THAT SENTENCE.
+An example is PUT THE SOUP IN THE BOWL WITH THE LADLE, which has three noun "phrases," one more than ZORK can digest in a single action.
+
+I BEG YOUR PARDON?
+You hit the RETURN (or ENTER) key without typing anything.
+
+IT'S TOO DARK TO SEE.
+In the story, there was not enough light to perform your action.
+
+I DON'T SEE WHAT YOU ARE REFERRING TO.
+You used HIM, HER or IT, but ZORK isn't sure what person or object you meant.
+
+YOU CAN'T SEE ANY "(object)" HERE!
+The item you referred to was not visible. It may be somewhere else, inside a closed container, and so on.
+
+THE OTHER OBJECT(S) THAT YOU MENTIONED ISN'T (AREN'T) HERE.
+You referred to two or more items in the same sentence, and at least one of them wasn't visible to you in your present location.
+
+YOU CAN'T GO THAT WAY.
+There was no passage or exit in the direction you tried to move.
+
+YOU CAN’T USE MULTIPLE (IN)DIRECT OBJECTS WITH "(your verb)." You can refer to several items at the same time only with certain verbs. Among the more useful of these verbs are TAKE, DROP and PUT. This restriction also applies to the use of ALL, as in DROP ALL. For example, ATTACK will not work with multiple objects; you couldn't say ATTACK ALL or ATTACK THE WARLOCK AND THE ENCHANTER.
+
+
+
+---------
+
+Page 10
+
+
+Appendix E: Sample Transcript and Map
+
+This transcript is not from any of the ZORK adventures, but it does show most of the usual things you can do in ZORK. It contains several simple puzzles and their solutions, and it will give you a good idea of how Infocom's interactive fiction works. The player's sentences appear in capital letters after each prompt (>). The map represents the terrain in the sample transcript as you might have drawn it.
+
+[Sample map not included]
+
+
+> APPLY THE BRAKES
+The Frobozz Magic Go-Cart coasts to a stop.
+
+Moss-lined Tunnel, in the Go-Cart
+This is a long east-west tunnel whose walls are covered with green and yellow mosses.
+There is a jewel-studded monkey wrench here. (outside the Go-Cart)
+A bent and rusted monkey wrench is lying here. (outside the Go-Cart)
+
+> TAKE THE WRENCH
+Which wrench do you mean, the jeweled monkey wrench or the rusty monkey wrench?
+
+> JEWELED
+You can't reach it from inside the Go-Cart.
+
+> WEST
+You're not going anywhere until you stand up.
+
+> GET OUT OF THE GO-CART
+You are on your own feet again.
+
+> TAKE THE JEWELED WRENCH
+Taken.
+
+> WEST
+Lumber Yard
+This is a huge room lined with metal shelves. There are exits to the east, northeast, and west.
+There is a small cardboard box here.
+Piled on one of the shelves is a supply of lumber.
+
+> TAKE THE BOX AND THE LUMBER
+small cardboard box: Taken.
+supply of lumber: Your load is too heavy.
+
+> INVENTORY
+You are carrying:
+   a lamp (providing light)
+   a glass jar
+   The glass jar contains:
+      a quantity of pomegranate juice
+   a jeweled monkey wrench
+   a dart gun
+   a small cardboard box
+
+> DROP THE DART GUN
+Dropped.
+
+> TAKE THE LUMBER
+Taken.
+
+> LOOK INSIDE THE BOX
+The small cardboard box is closed.
+
+> OPEN IT
+Opening the small cardboard box reveals a bunch of two-inch nails.
+
+> EXAMINE THE LUMBER
+It consists of two rectangular pieces of wood, about 10 feet long, and perhaps a dozen shorter dowel-shaped pieces.
+
+> WALK NORTHEAST
+Foreman's Office
+This is the office of the lumber yard foreman. The only exit is to the southwest.
+
+> SW
+Lumber Yard
+There is a dart gun here.
+
+> WALK WEST
+Carpentry Shop
+You are in a room furnished with wooden shelves, cabinets, mantels and moldings, all gracefully carved out of fine wood. An array of precision tools adorns the walls. The only exit is south... unless you want to count the opening in the roof.
+A carpenter gnome is sitting here, twiddling his thumbs.
+
+>UP
+The opening is too high to reach.
+
+>GNOME, BUILD A LADDER
+"I'd be glad to, but not for free!"
+
+> GIVE THE JEWELED MONKEY WRENCH TO THE GNOME
+The gnome examines the jeweled monkey wrench carefully. "Thank you," he exclaims, adding it to his collection of tools.
+
+> GNOME, BUILD A LADDER
+"Oh, yes, your ladder. Unfortunately, I have no lumber."
+
+> GIVE THE LUMBER TO THE GNOME
+The gnome accepts the supply of lumber.
+
+> GNOME, BUILD LADDER
+"Darn it! I'm fresh out of nails."
+
+> GIVE NAILS
+(to the gnome)
+The gnome accepts the bunch of nails.
+
+> GIVE THE LAMP TO THE GNOME
+The gnome attempts to build a beautiful set of kitchen cabinets out of the lamp. Finally, he gives up and hands it back to you.
+
+> GNOME, BUILD LADDER
+The gnome grumbles but constructs a handsome wooden ladder. He admires his handiwork and hands you the ladder.
+
+> PUT THE LADER THROUGH THE HOLE
+I don't know the word "lader."
+
+> PUT THE LADDER THROUGH THE HOLE
+The ladder is now resting against the rim of the hole.
+
+> UP
+You're carrying too much to climb a ladder.
+
+>I
+You are carrying:
+   a lamp (providing light)
+   a glass jar
+   The glass jar contains:
+      a quantity of pomegranate juice
+  a small cardboard box
+
+> DROP ALL BUT THE LAMP
+glass jar: Dropped.
+small cardboard box: Dropped.
+
+> LOOK
+Carpentry Shop
+You are in a room furnished with wooden shelves, cabinets, mantels and moldings, all gracefully carved out of fine wood. An array of precision tools adorns the walls. The only exit is south... unless you want to count the opening in the roof.
+A carpenter gnome is sitting here, twiddling his thumbs.
+There is a glass jar here.
+The glass jar contains:
+   a quantity of pomegranate juice
+There is a small cardboard box here.
+
+> UP
+Monster's Lair
+This is the den of the dreaded Seven-Headed Snow Monster of Snurth. It is quite chilly in here, and ice covers the floor and walls. A ladder protrudes from a hole in the ground, and sunlight comes from the cave entrance to the east.
+The Snow Monster, bellowing loudly, blocks the eastern exit.
+
+> DOWN.SOUTH.TAKE DART GUN.WEST.UP
+Carpentry Shop
+A carpenter gnome is sitting here, twiddling his thumbs.
+There is a glass jar here.
+The glass jar contains:
+  a quantity of pomegranate juice
+There is a small cardboard box here.
+
+Lumber Yard
+There is a dart gun here.
+
+Taken.
+
+Carpentry Shop
+A carpenter gnome is sitting here, twiddling his thumbs.
+There is a glass jar here.
+The glass jar contains:
+   a quantity of pomegranate juice
+There is a small cardboard box here.
+
+Monster's Lair
+The Snow Monster, bellowing loudly, blocks the eastern exit.
+
+> SHOOT MONSTER
+What do you want to shoot the monster with?
+
+> DART GUN
+The Snow Monster clutches at the dart and then keels over. His body vanishes in a cloud of acrid black smoke.
+
+> EAST
+Orange Grove
+A path leads northeast through this small grove of orange trees. A dark cave lies to the west. A sign is posted near the grove.
+
+> READ THE SIGN
+"Warning! These are poisonous oranges, not meant for human consumption.
+         -- Farmer Bozbar"
+
+> EAT AN ORANGE
+Aaarrrr! It burns your tongue and your throat!
+***You have died***
+
+A forest sprite appears, looking concerned. "You've done it again," says the sprite, with a mixture of sympathy and disgust. "I'll give you only one more chance." She sprinkles some fairy dust on you…
+
+Wooden Bridge
+There is a lamp here.
+
+> LOOK
+Wooden Bridge
+You are on a sturdy bridge leading northeast to southwest. The river below flows quickly amongst pointy rocks.
+There is a lamp here.
+
+
+
+---------
+
+Page 11
+
+
+Appendix F: We're Never Satisfied
+
+Here at Infocom, we take great pride in the quality of our stories. Even after they're "out the door," we're constantly improving, honing and perfecting.
+
+Your input is important. No matter how much testing we do, it seems that some "bugs" never crawl into view until thousands of you begin doing all those wild and crazy things to the story. If you find a bug, or if you think a certain puzzle was too hard or too easy, or if you have some other suggestion, or if you'd just like to tell us your opinion of ZORK, drop us a note! We love every excuse to stop working, and a letter from you is just such an excuse! Write to:
+
+INFOCOM, INC.
+55 Wheeler Street
+Cambridge, MA 02138
+Attn: DIMWIT FLATHEAD
+
+
+
+Appendix G: If You Have Technical Problems
+
+You can call the Infocom Technical Support Team to report bugs and technical problems, but not for hints to solve puzzles, at (617) 576-3190. If your disk develops a problem within ninety (90) days after purchase, we will replace it at no charge. Otherwise, there is a replacement fee of $5.00 (U.S. currency). If you call to report a bug, please provide your release number, which you can find by typing VERSION. Please return your registration card if you'd like to be on our mailing list and receive our newsletter, THE NEW ZORK TIMES.
+
+
+
+---------
+
+Page 12
+
+Appendix H: Author Biographies
+
+Marc Blank. A graduate of MIT and the Albert Einstein College of Medicine, Marc has been involved in writing interactive fiction since its formative period in the late 1970s. Co-author of the original mainframe version of ZORK in 1977, he was instrumental in laying the groundwork for the appearance of interactive fiction on personal computers in the early 1980s. He is co-author of ZORK I, ZORK II, ZORK III and ENCHANTER (TM), and is sole author of DEADLINE (TM), the first interactive mystery. His continuing work in interactive technologies in large part made Infocom's name synonymous with interactive fiction. His mother still wishes he would practice medicine.
+
+Dave Lebling. Dave Lebling was born in Washington, D.C. and grew up in suburban Maryland. He attended the Massachusetts Institute of Technology and worked at MIT's Laboratory for Computer Science, where he developed an interest in computer entertainments. He was a co-author of the original mainframe ZORK. He has co-authored ZORK I, ZORK II, ZORK III and ENCHANTER, and written STARCROSS (TM) on his own. He is married and lives in a suburb of Boston, where his appetite for the printed word is restrained only by the volume of his house.
+
+
+
+---------
+
+Page 13
+
+Appendix I: Warranty and Copyright Information
+
+Limited Warranty
+
+This software product and the attached instructional materials are sold "AS IS," without warranty as to their performance. The entire risk as to the quality and performance of the computer software program is assumed by the user.
+
+However, to the original purchaser of a disk prepared by Infocom and carrying the Infocom label on the disk jacket, Infocom, Inc. warrants the medium on which the program is recorded to be free from defects in materials and faulty workmanship under normal use and service for a period of ninety (90) days from the date of purchase. If during this period a defect on the medium should occur, the medium may be returned to Infocom, Inc. or to an authorized Infocom, Inc. dealer, and Infocom, Inc. will replace the medium without charge to you. Your sole and exclusive remedy in the event of a defect is expressly limited to replacement of the medium as provided above. This warranty gives you specific legal rights and you may also have other rights which vary from state to state.
+
+THE ABOVE WARRANTIES FOR GOODS ARE IN LIEU OF ALL WARRANTIES, EXPRESS, IMPLIED, OR STATUTORY, INCLUDING, BUT NOT LIMITED TO, ANY IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE AND OF ANY OTHER WARRANTY OB-LIGATION ON THE PART OF INFOCOM, INC. SOME STATES DO NOTALLOW LIMITATIONS ON HOW LONG AN IMPLIED WARRANTY LASTS, SO THE ABOVE LIMITATION MAY NOT APPLY TO YOU. IN NO EVENT SHALL INFOCOM, INC. OR ANYONE ELSE WHO HAS BEEN INVOLVED IN THE CREATION AND PRODUCTION OF THIS COMPUTER SOFTWARE PROGRAM BE LIABLE FOR INDIRECT, SPECIAL, OR CONSEQUENTIAL DAMAGES, SUCH AS, BUT NOT LIMITED TO, LOSS OF ANTICIPATED PROFITS OR BENEFITS RESULTING FROM THE USE OF THIS PROGRAM, OR ARISING OUT OF ANY BREACH OF THIS WARRANTY. SOME STATES DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE ABOVE LIMITATION MAY NOT APPLY TO YOU. 
+
+N.B. After the warranty period, a defective Infocom disk may be returned to Infocom, Inc. with a check or money order for $5.00 (U.S. currency) for replacement.
+
+
+Copyright
+
+The enclosed software product is copyrighted and all rights are re-served by Infocom, Inc. It is published exclusively by Infocom, Inc. The distribution and sale of this product are intended for the use of the original purchaser only and for use only on the computer system specified. Lawful users of this program are hereby licensed only to read the program from its medium into memory of a computer solely for the purpose of executing the program. Copying (except for one backup copy on those systems which provide for it--see Reference Card), duplicating, selling, or otherwise distributing this product is a violation of the law.
+
+This manual and all other documentation contained herein are copyrighted and all rights are reserved by Infocom, Inc. These documents may not, in whole or in part, be copied, photocopied, reproduced, translated, or reduced to any electronic medium or machine-readable form without prior consent, in writing, from Infocom, Inc.
+
+Willful violations of the Copyright Law of the United States can result in civil damages of up to $50,000 in addition to actual damages, plus criminal penalties of up to one year imprisonment and/or $10,000 fine.
+
+ZORK is a registered trademark of Infocom, Inc.
+DEADLINE, ENCHANTER and STARCROSS are registered trademarks of Infocom, Inc.
+
+(C) 1984 Infocom, Inc.
+Printed in U.S.A.
+
+(C) 2001 Activision, Inc. Reproduced with permission. All right reserved.

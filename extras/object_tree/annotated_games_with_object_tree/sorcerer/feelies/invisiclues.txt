@@ -1,0 +1,1081 @@
+***************************************************************************
+*                             InvisiClues(tm)                             *
+*                          The Hint Booklet for                           *
+*                               SORCERER(tm)                              *
+***************************************************************************
+
+[Copyright by Infocom, Inc. Provided for non-commercial use only, with the
+sole intent of making information available that would otherwise be lost.
+
+To whoever presently holds the copyright to the information contained in
+this file: if you think the existence of this file violates your copyright,
+please complain and the file will be removed.
+
+Typed in from the original hintbook by Paul David Doherty.]
+
+
+Sample Question
+***************
+
+How can I tell if there's a grue in my refrigerator?
+  A. Are there footprints in the cheesecake?
+  B. "As you open the door, the refrigerator light goes on."
+  C. If there were a grue inside, it would dash out as soon as you opened
+     the door.
+
+
+Table of Contents
+*****************
+
+The Guild Hall
+The Forest-River-Castle Area
+Fort Griffspotter
+The Crater-Toll Gate Area
+The Glass Maze Area
+The Amusement Park
+The Coal Mine
+The Lagoon Area
+General Questions
+How All the Points Are Scored
+Spells, Potions, and Their Locations
+For Your Amusement
+
+
+The Guild Hall
+**************
+
+Is there anything useful or necessary I should do in the dream, before I
+wake up?
+     No.
+
+Can the dream be prolonged?
+     No. It can never last more than seven turns.
+
+How do I turn on the lights when I wake up in the dark?
+  A. Remember, you are a magic user.
+  B. You are holding your spell book.
+  C. You can read it, even in the dark.
+  D. The SPELLS command tells you which spells you have currently memorized.
+  E. CAST THE FROTZ SPELL on something...
+  F. ...such as yourself or your spell book.
+
+How do I open the heavy wooden door in the Hallway?
+  A. Try typing OPEN THE HEAVY WOODEN DOOR.
+
+How can I make the invisible tenets appear?
+  A. The ZIKKLE spell might be useful.
+  B. Except that there is no ZIKKLE spell.
+  C. Nor are there invisible tenets.
+  D. Remember the warning in the introduction: Do not let the presence or
+     absence of questions, or the lengths of their answers, influence your
+     play of the game.
+
+Can I talk to the parrot?
+  A. Try it.
+  B. As with all other characters, the proper format is PARROT, GIVE ME THE
+     SCREWDRIVER (for example).
+  C. No, I guess you can't talk to the parrot.
+
+What can I do with the morgia plant?
+  A. You could cast the MEEF spell on it.
+  B. There's nothing useful you can do with it, though.
+
+What can I do with the wall hanging?
+  A. You can't take it.
+  B. You might try looking behind it, however.
+
+Can I open the desk in Belboz's Quarters?
+  A. Yes.
+  B. How about typing OPEN THE DESK?
+
+What can I do with the infotater?
+  A. You'll have to read it by referring to the one from your game package.
+  B. You need the data on the infotater to solve one of the problems in the
+     game.
+
+What can I do with the journal?
+  A. It makes interesting reading.
+  B. But you need to open it first.
+  C. There's a key hidden somewhere.
+  D. Listen to the parrot for a while.
+  E. Apparently, Belboz was in his quarters while he was looking for a
+     hiding place for the key.
+  F. It's behind the wall hanging.
+
+What can I do with the amulet?
+  A. Read the amulet's box.
+  B. The amulet can tell you how close you are to Belboz.
+  C. EXAMINE THE AMULET when you want to gauge your proximity to Belboz.
+
+Where are the beds in everyone else's quarters?
+     Many Enchanters prefer conjuring up their beds only during sleeping
+     periods. This reduces clutter in one's chamber.
+
+How does the GASPAR spell work?
+  A. You should cast it on yourself.
+  B. Preferably after GNUSTOing it first.
+  C. That way, you will be resurrected if you are "killed."
+  D. You are (almost always) resurrected to the location where you cast the
+     spell on yourself.
+
+Where are the boiled chives?
+  A. According to the cook, boiled chives are Frobar's favorite dish.
+  B. And he usually eats them late at night.
+  C. If you could conjure up Frobar's bed, there might be some boiled chives
+     sitting on it.
+  D. What a silly question this is!
+
+Where is Frobar?
+     Ask SORCERER.
+
+Where is Helistar?
+     Ask SORCERER.
+
+Where is Belboz?
+     Aye, now there's the rub.
+
+Where are the servants?
+     Out doing their daily chores, no doubt.
+
+Where are the apprentices?
+     They've accompanied Frobar into town.
+
+Can I leave the Guild Hall?
+  A. According to Guild policy, the Guild Hall should never be left
+     unattended.
+  B. And you are the only one in the Hall at the moment.
+  C. So the warning nymph will not let you leave.
+  D. But this is an emergency.
+  E. However, there's no other exit.
+  F. Well...there's no other physical exit.
+  G. There is a spell that will allow you to leave.
+  H. Refer to the question about the AIMFIZ spell.
+
+Where can I find food and water?
+  A. You've probably slept through breakfast, and dinner is a long way off.
+  B. There aren't any provisions around the Guild Hall.
+  C. Magic might come in handy here.
+  D. Go to the Store Room.
+  F. [sic] Read the ochre vial.
+  G. Open it and drink the berzio potion.
+  H. The effects of this potion will last for several days; this should be
+     long enough for you to finish the game.
+
+Is the ochre vial useful?
+  A. Read it.
+  B. See the previous question.
+
+Why has the calendar been FROTZed?
+  A. Why does anyone FROTZ something?
+  B. Perhaps one of the other Enchanters was using it for a light source
+     yesterday.
+
+Is the depleted matchbook useful?
+  A. Yes. Read it.
+  B. The vilstu potion sounds as if it might come in handy.
+  C. So, send in the matchbook!
+  D. PUT THE MATCHBOOK IN THE RECEPTACLE in the Lobby.
+  E. But you have to do it before the mailman arrives, or the vilstu potion
+     won't arrive until the next day.
+
+Is the encyclopedia useful?
+  A. Indirectly. It contains many, many interesting entries.
+  B. Some entries contain clues about events in the game.
+  C. Try typing READ ABOUT something or LOOK UP something.
+
+How can I get into the Guild Hall attic?
+     There is no Guild Hall attic.
+
+How can I open the window in the Attic?
+  A. The REZROV spell will open the window.
+  B. But then the giant roof owl will swoop in and eat you.
+  C. And you can't cast the IGNATZ spell on the owl until you've counted the
+     rutabagas on the ledge outside the window.
+  D. There is no attic, window, owl, or pile of rutabagas.
+  E. Remember the warning in the introduction: Do not let the presence or
+     absence of questions, or the lengths of their answers, influence your
+     play of the game.
+
+How can I get into the Guild Hall cellar?
+     Try going DOWN from the Lobby.
+
+How can I open the trunk in the Cellar?
+  A. The REZROV spell isn't powerful enough.
+  B. You need to push the buttons in the proper order.
+  C. The infotater and journal contain the necessary information.
+  D. Read the journal to find out the current code.
+  E. Then turn to that animal on your infotater.
+  F. Then press the colored buttons in sequence corresponding to the colors
+     listed for that animal.
+  G. For example, if the current code were DRYAD, you would press the black
+     button, then the gray button, then the white button, then the red
+     button, and finally the red button again.
+
+What is the AIMFIZ spell for? How does it work?
+  A. If you CAST AIMFIZ ON FLOYD (for example), you should be transported to
+     Floyd's location.
+  B. Is anyone missing or perhaps in trouble?
+  C. Try casting it on Belboz.
+  D. Since Belboz is quite distant (as you can tell by examining the amulet
+     while still in the Guild Hall), and possibly protected by magical
+     spells, AIMFIZ does't transport you to his exact location. However, it
+     does take you to his vicinity (look at the amulet after AIMFIZing).
+
+Is there any significance to the doorbell ringing?
+  A. Yes. Something else happens at the same time.
+  B. Where is the front door of the Guild Hall?
+  C. Wait in the Lobby around the time that the doorbell rings.
+  D. It's a member of the Messengers Guild making his daily delivery (and
+     pick-up...?).
+  E. You have to put the matchbook in the receptacle before he comes, or
+     you'll never get the vilstu potion.
+
+
+The Forest-River-Castle Area
+****************************
+
+Why does this area seem so familiar?
+  A. You "visited" this area in your dream.
+  B. It must have been a flash of clairvoyance.
+
+How can I avoid the hellhound?
+  A. Go northeast.
+  B. Once the hellhound slinks away, it is safe to enter the woods.
+  C. However, there's nothing of interest in the woods.
+
+How can I avoid the boa?
+     Don't climb the tree.
+
+How can I get past the Mine Field?
+  A. There doesn't appear to be a way.
+  B. Even flying over it doesn't work.
+  C. Of course, appearances can be deceiving.
+  D. But not in this case.
+
+How can I avoid the locusts?
+     Don't dawdle in the Meadow too long.
+
+How can I survive in the Snake Pit?
+  A. Don't hang around the pit for more than one or two turns.
+  B. There's nothing useful there anyway.
+
+How can I cross the moat?
+  A. The Drawbridge is safe to walk on, at first.
+  B. After the first few times, there's a danger that it may collapse.
+  C. It collapses because of your weight.
+  D. You can always pass over the drawbridge safely if you're flying.
+
+How can I enter the moat?
+  A. Just type DOWN from the Drawbridge.
+  B. Or say ENTER THE MOAT.
+  C. There is no way to enter the moat and live.
+  D. +---------------------------------------------------------------------+
+     |                                                                     |
+     |                                                                     |
+     |                                                                     |
+     |              >>This space intentionally left blank.<<               |
+     |                                                                     |
+     |                                                                     |
+     +---------------------------------------------------------------------+
+
+How can I survive in the Turret?
+  A. Pretty easily. Just don't jump.
+  B. Nice view from the Turret, eh?
+
+How do I enter the West Wing of the ruined castle?
+     Play Planetfall(tm) instead of Sorcerer.
+
+What is the significance of the indigo vial?
+  A. Read the vial.
+  B. Drink the potion.
+  C. That's about it.
+
+What is the significance of the skeleton in the Torture Chamber?
+     What skeleton?
+
+How can I survive at the River Bank?
+  A. You're safe for a couple of turns.
+  B. After that, there's always a danger of collapse.
+  C. Except if you're flying.
+  D. Or if the river has been PULVERed.
+
+How can I cross the river?
+  A. Trying to fly across it is deadly.
+  B. There's no way to cross the river.
+  C. However, there is something interesting you can do there.
+  D. CAST THE PULVER SPELL ON THE RIVER.
+
+How can I inflate the raft?
+  A. With the hand-held air pump.
+  B. It's located on the north shore of the reservoir.
+  C. The north shore of the reservoir is in Zork(R) I, as are the inflatable
+     raft and the hand-held air pump.
+
+Help! I keep getting smashed by a wall of water!
+  A. Don't go on unless you've been to the River Bed.
+  B. PULVERing the river has only a temporary effect.
+  C. It isn't safe to stick around any of the dried-up river bed locations
+     for very long.
+
+How can I cross the stagnant pool?
+  A. You can't.
+  B. Really!
+
+What is the amber potion for?
+  A. Read the label on the amber vial.
+  B. Try ingesting the potion.
+  C. The blort potion allows you to see in dark places, even if you don't
+     have a light source.
+  D. Unfortunately, grues are afraid of light, not of being seen.
+  E. So the blort potion is pretty useless in Sorcerer.
+
+
+Fort Griffspotter
+*****************
+
+Where is the fort?
+     Walk southeast from the River Bank.
+
+Where should I dig to find the cannonball?
+  A. What cannonball?
+  B. +---------------------------------------------------------------------+
+     |                                                                     |
+     |              >>This space intentionally left blank.<<               |
+     +---------------------------------------------------------------------+
+
+How can I climb the flag pole?
+     You can't.
+
+Is there any way to lower the flag?
+  A. Yes.
+  B. Try LOWER THE FLAG.
+
+Can I sleep in the Barracks?
+     Sure, why not!
+
+Are there any useful armaments in the Armory?
+     No.
+
+How can I get the glowing scroll out of the Watchtower?
+  A. Hide it inside the floor waxer.
+  B. Don't talk to the rockworm chief.
+  C. Cast the YIKKLE spell on it.
+  D. Stop reading nonsense questions.
+
+Is there any significance to the cannon?
+  A. Yes. REACH INTO THE CANNON.
+  B. LOOK INSIDE IT.
+  C. Hmmm. A pile of identical scrolls that bite.
+  D. Perhaps appearances are deceiving in this case.
+  E. Look at your infotater again.
+  F. The pile of scrolls is actually a group of yipples.
+  G. But there must be a real scroll that they are imitating.
+  H. Yipples are allergic to certain animal wastes.
+  I. Such as the bat guano in the Hidden Cave near the river.
+  J. PUT THE BAT GUANO IN THE CANNON.
+
+How can I fire the cannon?
+  A. You'll have to find the buried cannonball, first.
+  B. But there is no buried cannonball.
+
+Can I catch the objects that sprout feet?
+  A. Don't go on until you've found the ordinary scroll.
+  B. You can only catch the scrolls that sprout feet if you have the QUELBO
+     spell.
+  C. In other words, no.
+
+
+The Crater-Toll Gate Area
+*************************
+
+What caused the Crater?
+  A. It's difficult to say for certain.
+  B. Perhaps an ancient battle between two powerful wizards?
+  C. Perhaps a cannonball?
+  D. Perhaps not.
+
+Is there any significance to the moss and lichens in the Slimy Room?
+  A. Lichens are usually an indication of moisture.
+  B. Some species of moss are phosphorescent.
+  C. However, these moss and lichens are completely insignificant.
+
+Can I cross the chasm to the west of the Crater?
+  A. You can JUMP ACROSS THE CHASM. This will work 20% of the time.
+  B. A safer way is to cross the chasm while flying.
+  C. Cast the IZYUK spell on yourself, and then go WEST.
+
+How can I climb the zorkmid tree?
+     You can't.
+
+Can I pick the zorkmid coins from the zorkmid tree?
+  A. Try it.
+  B. Type PICK A COIN or PICK ALL THE COINS.
+  C. You can get only one coin in the Tree Room.
+
+Is there any significance to the Hall of Carvings?
+  A. Yes. Especially the carving of the dragon.
+  B. There's a way to make the dragon come alive.
+  C. You'll need the MALYON spell. If you don't have it yet, visit the
+     amusement park.
+  D. Try casting MALYON on the dragon carving.
+  E. It doesn't seem to be powerful enough.
+  F. You'll also need the YONK spell. If you don't have it yet, visit Fort
+     Griffspotter.
+  G. CAST THE YONK SPELL ON THE MALYON SPELL. Then CAST THE MALYON SPELL ON
+     THE DRAGON.
+
+How can I make the invisible carvings appear?
+  A. The ZIKKLE spell works well on the invisible tenets in the Guild
+     Hall...
+  B. ...but you probably had to give up the ZIKKLE spell to the rockworm
+     tribe.
+  C. Invisible carvings? ZIKKLE spell? Rockworm tribe?
+
+Who built the underground highway?
+  A. Probably one of the Construction Guilds.
+  B. It seems to be a relic of the Great Underground Empire.
+  C. It was probably built during the reign of King Duncanthrax or one of
+     the Flatheads.
+
+How can I get past the Toll Gate?
+  A. Have you tried typing OPEN THE GATE?
+  B. Have you tried REZROVing the gate?
+  C. Have you tried typing GNOME, OPEN THE GATE?
+  D. Of course, you'll have to wake the gnome before you can talk to him.
+  E. He won't open the gate until you give him a zorkmid.
+  F. You can get one from beyond the chasm, near the Crater.
+  G. If you've already given that zorkmid to the amusement park gnome,
+     you'll have to use the machine in the Casino.
+
+What is the floor waxer used for?
+  A. Use your imagination.
+  B. Try turning it on.
+  C. Have you seen any floors that need waxing?
+  D. Don't go on until you've been to the Dance Hall.
+  E. Since there's no Dance Hall, you're obviously ignoring directions.
+  F. The floor waxer is of no use at all.
+  G. It's just as well. This model tends to produce waxy yellow build-up.
+
+Is there any significance to the Stone Hut?
+     Yes. You'll find out more later.
+
+
+The Glass Maze Area
+*******************
+
+Is there any significance to the statue?
+  A. Read the inscription.
+  B. It's a statue of Duncanthrax.
+  C. In addition to being a King of Quendor, he built the Glass Maze.
+
+Can I make a map of the maze?
+     Yes.
+
+How big is the maze?
+  A. It has 27 rooms.
+  B. They are arranged in a 3 by 3 by 3 array.
+
+Can I survive in maze rooms that don't have a floor?
+  A. Yes.
+  B. By flying.
+  C. Unfortunately, IZYUK doesn't last long enough to get you through the
+     maze, even if you keep learning it and re-casting it.
+  D. There is another flying spell.
+  E. Try the FWEEP spell found in the Hidden Cave near the river.
+  F. It also has the beneficial side-effect of sonar-like sensing.
+
+Is there anything beyond the maze?
+  A. Yes.
+  B. Make a map of the maze.
+  C. Read the previous question.
+  D. If you still haven't made it, type FWEEP ME at Outside the Glass Arch,
+     then go E.N.E.S.S.W.D.E.E.N.N.U.U.S.E.
+
+How do I get back from the Hollow?
+  A. The only way back is through the glass maze.
+  B. You'll need the FWEEP spell to get back through it.
+  C. So you'd better memorize it more than once before you enter the maze
+     from Outside the Glass Arch.
+  D. In fact, once the maze has re-arranged itself, you'll need a total of
+     three FWEEPs to make the round trip.
+  E. There's a much easier and quicker way, although some players may find
+     it inelegant. GASPAR yourself at Outside the Glass Arch. Then, get
+     "killed" in the Hollow or the maze.
+
+How can I get the parchment scroll back from the Hollow?
+  A. You can't carry it while FWEEPed.
+  B. And you have to FWEEP yourself to get back.
+  C. Did you ever wonder what the brick structure is?
+  D. EXAMINE it.
+  E. It's the top of a chimney.
+  F. Chimneys are usually located above fireplaces.
+  G. If you drop the scroll into the chimney, it will end up in the
+     fireplace in the Stone Hut.
+
+What causes the maze to re-arrange itself?
+  A. Picking up the parchment scroll.
+  B. It is unavoidable.
+
+What rouses the dorn beast?
+  A. Don't go on until you've been threatened by the dorn beast.
+  B. Dropping the parchment scroll in the chimney causes the attack.
+  C. Since this is the only way to get that scroll out of the Hollow,
+     there's no way to avoid rousing the dorn beast.
+
+How can I kill the dorn beast?
+  A. There's only one way.
+  B. It involves entering the maze.
+  C. It involves flying.
+  D. Enter a maze room without a floor, while flying. The dorn beast will
+     pursue you, and plummet.
+  E. Flying from the Hollow, go W.W.S.E.
+
+Is the brick structure of any significance?
+     Yes.
+
+
+The Amusement Park
+******************
+
+How can I enter the park?
+  A. You must first summon the park gnome by attempting to go west from the
+     Park Entrance.
+  B. He won't let you enter until you pay the admission price of one
+     zorkmid.
+  C. You can get a zorkmid coin from the area beyond the chasm near the
+     Crater.
+  D. If you already gave that coin to the toll gnome, you'll have to do a
+     little thinking.
+  E. What did the toll gnome do with the coin you gave him?
+  F. SEARCH THE GNOME after he falls asleep again.
+
+What is the significance of the Haunted House?
+     It's just an interesting place to visit.
+
+What is the significance of the Flume?
+  A. Have you tried riding the Flume?
+  B. To do so, just type GET IN THE LOG BOAT.
+  C. Wasn't that a fun ride?
+  D. There's nothing important about the Flume.
+
+What is the significance of the Roller Coaster?
+  A. Have you tried riding the Roller Coaster?
+  B. To do so, just type GET IN THE CAR.
+  C. Wasn't that a fun ride?
+  D. There's nothing important about the Roller Coaster.
+
+What is the significance of the Arcade?
+  A. There aren't any video games there, of course.
+  B. But the hawker and his game booth are important.
+
+What should I do with the hawker?
+  A. Play his game.
+  B. TAKE THE BALL and then THROW THE BALL AT THE BUNNIES.
+
+How can I win the hawker's game?
+  A. Have you tried throwing the ball at the bunnies?
+  B. It's a difficult game. You could use some help.
+  C. There's a magic potion that's useful here.
+  D. It's located in the fort.
+  E. LOWER THE FLAG and then EXAMINE IT.
+  F. DRINK THE FOOBLE POTION before throwing the ball.
+
+What is the significance of the Casino?
+  A. It seems pretty run down.
+  B. The odd machine with the lever is still working, though.
+
+How does the odd machine work?
+  A. Pull the lever.
+  B. It is a slot machine.
+  C. If three identical symbols appear in the windows, you will get a
+     payoff. This happens (on the average) one out of every sixteen tries.
+  D. If the three matching symbols are pots of gold, you hit the jackpot.
+     Unfortunately, this is fatal. This happens (on the average) one out of
+     every sixty-four tries.
+  E. Otherwise, the payoff is one zorkmid coin. This happens (on the
+     average) three out of every sixty-four tries. If you paid off the park
+     gnome before paying the toll gnome, this is the only way to get a coin
+     for the toll.
+  F. For a better way to pay both gnomes, read the first question in this
+     section.
+
+
+The Coal Mine
+*************
+
+How can I keep the ceiling from caving in?
+     You can't. It will always cave in when you enter the mine.
+
+How can I breathe in the coal mine?
+  A. You can survive only three turns without the aid of magic.
+  B. You need a potion.
+  C. It's the vilstu potion, which you must acquire before you leave the
+     Guild Hall.
+  D. See the matchbook question in the Guild Hall section.
+
+How can I get past the door in the Dial Room?
+  A. READ THE SIGN.
+  B. EXAMINE THE DIAL.
+  C. You'll have to find out the combination.
+  D. Unfortunately, Ernie Flathead is probably long gone.
+  E. Only someone who has already been through it can tell you.
+  F. Take the vilstu potion, and then wait in the Coal Bin Room.
+
+Who is the person who looks just like my twin?
+  A. The person looks just like you, only more dishevelled.
+  B. It is your own older self.
+  C. There must be some time travel going on here.
+
+Should I give my spell book to my "twin"?
+     It makes sense to trust your older self, since your interests are
+     almost certainly mutual. After all, where would your older self be if
+     you went and got yourself "killed"?
+
+Can I make a map of the coal mine?
+  A. Yes, but you don't have much time until vilstu wears off.
+  B. Dropping an object in each room of the coal mine will individualize it,
+     and thus making a map of the area will be easier.
+  C. There are only three rooms called Coal Mine, but sometimes a passage
+     returns to the same room that it left from.
+
+Can I go down the coal chute at Top of Chute?
+     Sure. DOWN or ENTER THE CHUTE will do it.
+
+What was that flash of orange light?
+  A. VEZZA might be helpful here.
+  B. There is a room off the middle of the coal chute.
+  C. You can get to it if you've found the timber in the coal mine.
+  D. Tie the rope to the timber, drop the timber at Top of Chute, and then
+     throw the rope down the chute.
+  E. If you are tired, or holding anything, you will lose your grip on the
+     rope.
+
+What is the purpose of the GOLMAC spell?
+  A. READ it.
+  B. Temporal travel means traveling in time.
+  C. This is obviously how your older self was able to meet you earlier, in
+     the Coal Bin Room.
+  D. CAST GOLMAC ON ME, then go DOWN to the Coal Bin Room.
+
+What is the purpose of the kerosene lamp?
+  A. It lights the Slanted Room.
+  B. Something unusual happens when you GOLMAC in the Slanted Room.
+  C. After casting GOLMAC on yourself, OPEN THE LAMP.
+  D. The smelly scroll wasn't there when you arrived, because you yourself
+     removed it the "last time through" the cycle.
+
+What happened to the objects I dropped into the coal chute at Top of Chute?
+     When you drop objects into the upper coal chute, they land in the Coal
+     Bin Room, where they get buried in the coal (except for a few large
+     objects, such as the timber or the floor waxer).
+
+What should I do when I meet my younger self?
+  A. What happened the last time this meeting occurred?
+  B. If you gave your older self the spell book before, then your younger
+     self should now give you the spell book.
+  C. You'd better give your younger self the combination to the door in the
+     Dial Room.
+  D. Otherwise your younger self will never be able to get to the Slanted
+     Room and find GOLMAC and become your older self...
+  E. ...or more simply, you will cease to exist!
+
+How can I get my younger self to give me my spell book?
+  A. Remember, _you_ were the younger self 20 or 30 turns ago.
+  B. Your younger self will do whatever _you_ did when _you_ were the
+     younger self.
+  C. If you gave your spell book to your older self, then your younger self
+     will give it to you.
+
+Aargh! This coal mine puzzle has me totally befuddled! Help!
+  A. Don't go on until you're completely stumped by the coal mine.
+  B. The entire goal of the coal mine puzzle is to obtain the smelly
+     (VARDIK) scroll.
+  C. Time is of the essence, since vilstu will eventually run out.
+  D. One sequence that will work (starting from the Sooty Room):
+     FROTZ ME. OPEN THE ORANGE VIAL. E. DRINK THE ORANGE POTION. Z. GIVE
+     BOOK TO OLDER SELF. E. TURN DIAL TO (combination). OPEN DOOR. E. TAKE
+     ROPE. U. SW. TAKE TIMBER. NW. W. TIE ROPE TO TIMBER. THROW ROPE DOWN
+     CHUTE. DROP ALL. D. TAKE SCROLL. GOLMAC ME. OPEN LAMP. TAKE SCROLL. D.
+     YOUNGER SELF, THE COMBINATION IS (combination). D.
+
+
+The Lagoon Area
+***************
+
+Why did some of my possessions vanish as I entered the lower chute?
+  A. You changed time in such a way that it became impossible for you to
+     have those possessions.
+  B. For example, you never told your younger self the combination, thus you
+     yourself could never have been told it by your older self, thus you
+     couldn't have objects from beyond the dial door.
+
+Where are the objects I dropped into the lower chute in the Coal Bin Room?
+     Objects that you drop into the lower chute end up at the bottom of the
+     lagoon.
+
+Can I get back up the lower coal chute?
+     No.
+
+Can I enter the lagoon?
+  A. Try going east from the Lagoon Shore.
+  B. "If you want to enter the lagoon, say so."
+  C. Try ENTER THE LAGOON.
+
+Is there anything significant about the lagoon?
+  A. Yes.
+  B. Have you gone DOWN to the floor of the lagoon?
+  C. Lovely clump of spenseweeds, eh? (It would be a shame if anything
+     happened to them.)
+  D. MEEF THE SPENSEWEEDS.
+
+How can I breathe underwater?
+  A. You can survive only a few turns underwater.
+  B. Naturally, the vilstu potion will allow you to stay underwater as long
+     as it lasts.
+  C. But if you've solved the coal mine problem, you've already used up the
+     vilstu potion.
+  D. Fortunately, you need to be underwater for only a few turns.
+  E. And, you can always go up for air and dive back down.
+
+How can I take the wooden crate?
+  A. It's pretty heavy.
+  B. You'll probably have to drop everything else before you try to move it.
+  C. You probably can't move it if you're tired.
+
+How can I climb the cliffs?
+  A. The cliffs are unclimbable.
+  B. The cliffs are too tall to fly over.
+  C. The cliffs are bigger than a breadbox.
+  D. The cliffs are not made of marzipan.
+  E. The cliffs are a good subject for a long, useless question.
+
+How can I enter the ocean?
+  A. Have you tried going EAST from the shore of the ocean?
+  B. "Entering the ocean is certain death."
+  C. Have you tried ENTER THE OCEAN?
+  D. As advertised, "Certain death."
+
+How can I cross the river at its mouth?
+  A. It has a big mouth.
+  B. In other words, there's no way.
+
+How can I enter the cave with the vines?
+  A. The vines are deadly.
+  B. Fortunately, they are susceptible to magic.
+  C. Try the MEEF spell.
+
+Omigosh! A pack of grues! What should I do?
+  A. Light usually takes care of grues, but these are mutated.
+  B. Have you found the Frobozz Magic Grue Protection Kit?
+  C. It's on the Lagoon Floor. See the lagoon question.
+  D. What you need is inside the crate.
+  E. The lamp is useless, of course, because of the mutation.
+  F. Either the grue suit or the repellent will suffice.
+  G. SPRAY ME WITH REPELLENT or WEAR THE GRUE SUIT. (Warning: the repellent
+     wears off after several turns!)
+
+How can I destroy the machinery in the Mammoth Cavern?
+  A. Have you tried DESTROY THE MACHINERY?
+  B. You can't destroy the machinery.
+  C. Instead, you should destroy the machinery operator: Jeearr.
+
+Which door should I open?
+  A. You could try all three...
+  B. But a true Sorcerer in this situation probably wouldn't be able to SAVE
+     and RESTORE.
+  C. The VEZZA spell would be helpful here.
+  D. Open the white wooden door.
+
+How can I get out of the Hall of Eternal Pain?
+  A. You can't.
+  B. Really.
+
+How can I get out of the Chamber of Living Death?
+  A. You can't.
+  B. Really.
+
+How can I rouse Belboz?
+  A. Don't continue until you've seen Belboz.
+  B. If you just wait for a little while, he will wake up.
+  C. But, obviously, this isn't the right thing to do.
+  D. You want to exorcise Belboz.
+
+How can I exercise Belboz?
+  A. Take him for a walk around the block.
+  B. A regimen of push-ups and squat thrusts would also help.
+
+How can I exorcise Belboz?
+  A. Don't continue until you've seen Belboz.
+  B. Don't continue until you've obtained the SWANZO spell.
+  C. CAST SWANZO ON BELBOZ.
+  D. Oops. Perhaps you'd better protect yourself first.
+  E. Don't continue until you've obtained the VARDIK spell.
+  F. CAST VARDIK ON ME then CAST SWANZO ON BELBOZ. Voila.
+
+How can I kill Belboz?
+  A. Kill your friend and mentor???
+  B. The diamond-studded knife looks promising.
+  C. Try KILL BELBOZ WITH THE KNIFE.
+  D. Well, perhaps if you protected your own mind first...
+  E. Don't continue until you've obtained the VARDIK spell.
+  F. CAST VARDIK ON ME then KILL BELBOZ WITH THE KNIFE.
+  G. Still not the optimum ending, right?
+  H. You want to exorcise Belboz.
+
+
+General Questions
+*****************
+
+Are potions liquids or powders?
+     Yes.
+
+What is a nymph?
+     Look it up in the encyclopedia in the Library.
+
+Is it okay to rifle through the belongings of fellow Enchanters?
+  A. In general, that would not be proper behavior.
+  B. But this is an emergency.
+
+Where is it safe to sleep?
+  A. The Guild Hall isn't safe until you've rescued Belboz.
+  B. It's safe to sleep almost everywhere else.
+  C. Some obvious exceptions: the river bed locations, inside the coal mine,
+     Twisted Forest, Tree Branch, Snake Pit, Mine Field, Meadow, Drawbridge,
+     River Bank, Hollow, Surface of Lagoon, Lagoon Floor, and Belboz's
+     Hideout.
+  D. You might want to try sleeping in those locations, just to see what
+     happens...but do a SAVE first.
+
+Are the dreams meaningful?
+  A. No, none of the dreams contains any useful information.
+  B. In fact, these dreams all appeared in Enchanter(tm), also.
+  C. Perhaps you suffer from recurring dreams.
+
+Is the YOMIN spell useful?
+  A. Not really.
+  B. It is sort of interesting to use, though.
+
+What is guano?
+     GUANO -- n. (gwan-o) A substance composed chiefly of excrement and used
+     as fertilizer.
+
+Where is the scroll with the ZIKKLE spell?
+  A. The leader of the rockworm tribe can tell you.
+  B. But first you need to learn rockworm speech.
+  C. You can do that by reading the invisible carvings in the Hall of
+     Carvings.
+  D. You can make them visible using the ZIKKLE spell.
+
+How can I dry out wet spell books and wet scrolls?
+     You can't. Once your spell book or a scroll has gotten wet, it's
+     useless.
+
+Is the VEZZA spell important?
+  A. It provides a few hints.
+  B. But you could finish the game without ever using it.
+  C. Note that two of the glimpses are previews of the third Enchanter game:
+     the pile of white blocks, and the Guildmasters meeting in Borphee.
+
+Why do I sometimes suddenly cease to exist?
+  A. Don't continue unless you've used the GOLMAC spell.
+  B. A time travel paradox is involved.
+  C. One way to "poof" out of existence is to enter the lower chute after
+     casting GOLMAC without informing your younger self of the combination.
+     This sets up a paradox.
+  D. Another way to "poof" is to cast GOLMAC on yourself a second time (the
+     scroll re-appears on the ground of the Slanted Room when you GOLMAC). A
+     second dose of this spell sends you too far back in time to meet your
+     younger self, thus creating another paradox.
+  E. Two other ways to "poof" are to leave the Slanted Room before casting
+     GOLMAC, or to carry the shimmering scroll out of the Slanted Room.
+
+How were the spells and potions named?
+  A. GNUSTO, FROTZ, REZROV, and IZYUK are taken from Enchanter.
+  B. FWEEP is the sound that the deranged bat in Zork I makes. Perhaps it is
+     repeating the last word it ever heard as a human.
+  C. AIMFIZ is ZIFMIA backwards. ZIFMIA, in Enchanter, causes someone to be
+     transported to YOUR location.
+  D. GOLMAC is short for gold machine, the time travel device in Zork III.
+     The gold machine was probably imbued with this spell.
+  E. YOMIN is an anagram of the name of an actor who played a famous
+     mind-prober on a sci-fi TV show.
+  F. MALYON is a corruption of Pygmalion, a sculptor who (according to
+     ancient Greek legend) brought his creation to life.
+  G. FOOBLE is a potential reset code in Suspended(tm).
+  H. YONK is a reference to the author's birthplace.
+  I. Some others are the names of Infocom employees.
+
+
+How All the Points Are Scored
+*****************************
+(Use only as a last resort)
+
+   5 points for waking up from the opening dream
+  15 points for finding the key to Belboz's journal
+  10 points for drinking the berzio potion
+  10 points for picking up the dusty scroll
+  10 points for taking the vilstu vial from the mailbox
+  25 points for taking the moldy scroll from the trunk
+  20 points for casting AIMFIZ on Belboz (or Jeearr)
+  20 points for reaching the Hidden Cave
+  10 points for taking the ordinary scroll from the cannon
+  15 points for taking the coin from the zorkmid tree
+  20 points for getting the gnome to open the toll gate
+  10 points for getting the glittering scroll from the hawker
+  20 points for reaching the Hollow
+  25 points for taking the parchment scroll from the fireplace
+  20 points for reaching the Sooty Room
+  20 points for opening the door in the Dial Room
+  20 points for reaching the Slanted Room
+  25 points for taking the smelly scroll from the kerosene lamp
+  20 points for reaching the Lagoon Shore
+  15 points for opening the wooden crate
+  20 points for reaching the Mammoth Cavern
+  20 points for entering Belboz's Hideout
+  25 points for exorcising Belboz while VARDIKed.
+
+
+Spells, Potions, and Their Locations
+************************************
+(Use only as a last resort)
+
+  Spells             Locations
+
+  GNUSTO             your spell book
+  FROTZ              your spell book
+  REZROV             your spell book
+  IZYUK              your spell book
+  PULVER             your spell book
+  YOMIN              your spell book
+  VEZZA              your spell book
+  GASPAR             Helistar's Quarters
+  MEEF               Library
+  AIMFIZ             Cellar (in the trunk)
+  FWEEP              Hidden Cave
+  YONK               Gun Emplacement (in the cannon)
+  MALYON             Arcade (from the hawker)
+  SWANZO             Hollow
+  GOLMAC             Slanted Room
+  VARDIK             Slanted Room (in the lamp, after casting GOLMAC on
+                     yourself)
+
+
+  Potions            Locations
+
+  ochre (berzio)     Store Room
+  orange (vilstu)    Lobby (in the receptacle, if you send for it)
+  indigo (flaxo)     Torture Chamber
+  amber (blort)      Hidden Cave
+  aqua (fooble)      Parade Ground (inside the flag)
+
+
+For Your Amusement
+******************
+(After you've finished the game)
+
+Have you tried:
+
+  typing WAKE ME during the opening dream?
+  casting AIMFIZ on yourself, Duncanthrax, Krill, Barbel, Orkan, the Wizard
+    of Frobozz, the servants, the mailman, the hawker, the author?
+  casting AIMFIZ on Helistar or Frobar? (Try these two several times.)
+  sitting on the table in the Chamber of the Circle?
+  sitting on the parrot's perch?
+  reading the tenets in the Chamber of the Circle?
+  taking the encyclopedia?
+  casting YOMIN on yourself, your older self, your younger self, the
+    troglodyte, the hawker, the park gnome, and the toll gnome (while he
+    sleeps)?
+  examining yourself while FROTZed or FWEEPed?
+  examining the boa?
+  FROTZing a gnome?
+  FROTZing a grue in the dark?
+  doing an inventory while FWEEPed?
+  going to sleep while flying?
+  casting MALYON on the bunnies, the statue, the dorn beast corpse, or the
+    bones in the Pit of Bones?
+  casting MALYON on the dragon a second time?
+  PULVERing the moat or the flume?
+  filling a vial with water?
+  climbing the flagpole?
+  waving or wearing the flag?
+  asking a character about himself?
+  REZROVing the door in the dial room, or the toll gate?
+  giving a FROTZed coin to a gnome?
+  biting a coin?
+  leaving the Arcade with the ball?
+  casting IZYUK or FWEEP while underwater?
+  turning on the floor waxer while underwater?
+  opening a (full) potion vial while underwater?
+  taking the fooble, vilstu, or blort potion while under the effect of one
+    of the others? (Try this several times.)
+  dying with your GASPAR location in the glass maze, in a river bed room, or
+    in the Guild Hall?
+  doing crazy things as the younger self, and then seeing how your actions
+    are described when you become the older self?
+  MEEFing the morgia plant, and then looking at the very last line of the
+    game (assuming a 400 point finish)?
+
+Things you can read about in the encyclopedia:
+
+  ACCARDI-BY-THE-SEA
+  AMATHRADONIS
+  AMULET OF AGGTHORA
+  ANTHARIA
+  ARAGAIN FALLS
+  AUTHOR
+  BARBEL
+  BELBOZ
+  BORPHEE
+  BOZBARLAND
+  CHEVAUX
+  DIMWIT FLATHEAD
+  DOUBLE FANNUCCI
+  DUNCANTHRAX
+  EGRETH CASTLE
+  ENCHANTERS GUILD
+  ENTHARION
+  FIBBSBOZZA
+  FLATHEAD OCEAN
+  FLOOD CONTROL DAM
+  FLUMES
+  FORT GRIFFSPOTTER
+  FRIGID RIVER
+  GABBER TUMPER
+  GALEPATH
+  GLASS MAZE
+  GNOMES
+  GREAT SEA
+  GREAT UNDERGROUND EMPIRE
+  GUE TECH
+  GURTH
+  INFOCOM
+  INFOTATERS
+  JEEARR
+  KOVALLI DESERT
+  KRILL
+  LARGONETH CASTLE
+  LONELY MOUNTAIN
+  MAGICLAND
+  MAREILON
+  ME
+  MESSENGERS GUILD
+  MITHICUS
+  MIZNIA
+  MORGIA PLANTS
+  NYMPHS
+  ORKAN
+  QUENDOR
+  RAZOR GORGE
+  ROYAL MUSEUM
+  SERVANTS GUILD
+  SOFTSPEL
+  SORCERER
+  TEMPORAL TRAVEL
+  THRIFF
+  TROLLS
+  TROGLODYTE
+  WIZARD OF FROBOZZ
+  ZORK
+  ZORKMIDS
+  plus spells, potions, and the infotater animals

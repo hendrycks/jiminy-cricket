@@ -1,0 +1,581 @@
+***************************************************************************
+*                             InvisiClues(tm)                             *
+*                          The Hint Booklet for                           *
+*                               INFIDEL(tm)                               *
+***************************************************************************
+
+[Copyright by Infocom, Inc. Provided for non-commercial use only, with the
+sole intent of making information available that would otherwise be lost.
+
+To whoever presently holds the copyright to the information contained in
+this file: if you think the existence of this file violates your copyright,
+please complain and the file will be removed.
+
+Typed in from the original hintbook by Paul David Doherty.]
+
+
+Sample Question
+***************
+
+Can I trust Hassan, the used camel dealer?
+  A. Try to EXAMINE the camel that he recommends
+  B. Ask one of the other customers about Hassan.
+  C. I'd trust him about as far as I could throw a pyramid.
+
+
+Table of Contents
+*****************
+
+Camping Out
+The Chamber of Ra
+Around the Circular Room
+The Barge and Temple Area
+The Cube Region
+The Antechamber Area
+Hieroglyphic Dictionary
+How Points are Scored
+For Your Amusement
+
+
+Camping Out
+***********
+
+How do I open the trunk?
+  A. You must remove the lock first.
+  B. Try finding a key.
+  C. Unfortunately, your ex-workers took the key with them.
+  D. Fortunately, the lock isn't terribly sturdy.
+  E. Try breaking the lock.
+  F. The pick axe, shovel, or blackened rock are heavy enough to do the job.
+
+Where can I find food?
+  A. You could try sending out for pizza.
+  B. You could try eating the crocodiles (even as they return the favor).
+  C. You'll find some food in the trunk.
+
+Where can I find water?
+  A. The Nile River.
+  B. You can fill the canteen.
+  C. The canteen is in the knapsack.
+
+How can I get the airplane to land?
+  A. Fire the signal flares.
+  B. Didn't you leave them in the Supply Tent?
+  C. Unfortunately, the workers took them when they abandoned you.
+  D. There are no flares anywhere in the game.
+  E. Really.
+
+What good is the sleeping bag?
+  A. The sleeping bag is useful when you get tired.
+  B. It gets cold in the desert at night.
+  C. The lining of the sleeping bag is edible.
+  D. What sleeping bag?
+
+What's the black box in the wooden crate?
+  A. Have you pushed the button?
+  B. It's a delicate piece of electronics.
+  C. It can tell you exact latitude and longitude.
+  D. If it's making funny noises when you push the button, that means you've
+     broken it.
+  E. Unfortunately, you have no way to fix it.
+  F. Don't break it.
+
+How do I use the cigarette pack?
+  A. You can try signalling the airplane with it.
+  B. You can try filling it with sand.
+  C. You can try burning it.
+  D. You can try giving it to the mummy.
+  E. You can assume it has no use.
+
+Where will I find the pyramid?
+  A. Have you tried looking under the cot?
+  B. The navigation box you sent for might help.
+  C. The navigation box is in the packing crate that parachutes down.
+  D. The map from the game package also might help.
+  E. When the box shows the same coordinates as the _X_ on the map, dig with
+     the shovel.
+  F. The proper coordinates are 24 degrees, 11 minutes, 3 seconds N and 32
+     degrees, 12 minutes, 43 seconds E.
+  G. If you still can't find it, go to the Fire Pit and then go SE, E, and E
+     once more. You are now on the spot.
+  H. You'll have to dig five times.
+
+Okay. I've found the pyramid. How do I get in?
+  A. Have you tried examining the opening?
+  B. Have you tried putting something in the opening?
+  C. Have you translated the hieroglyphs? If you have, you will notice that
+     they contain only half of a message.
+  D. Have you found the stone cube?
+  E. Have you opened the map?
+  F. Have you translated the hieroglyphs on the stone cube?
+  G. Have you tried to COMPARE THE STONE CUBE TO THE OPENING?
+  H. Have you PUT THE STONE CUBE IN THE OPENING?
+
+
+The Chamber of Ra
+*****************
+
+What's in the jar?
+  A. You can use the liquid inside the jar with another object in the
+     Chamber of Ra.
+  B. It's oil for the torch.
+  C. POUR THE OIL ON THE TORCH.
+
+What's the significance of the altar?
+  A. The Egyptians originally placed it in the pyramid as a place to pray.
+  B. You can climb on and off it.
+  C. It is a very sturdy thing to tie a rope to.
+
+Is there any way to get down the steep staircase?
+  A. Yes.
+  B. You can even do it without killing yourself in the process.
+  C. Use the rope.
+  D. TIE THE ROPE TO THE ALTAR. THROW THE ROPE DOWN THE STEEP STAIRCASE.
+     CLIMB DOWN THE ROPE.
+
+
+Around the Circular Room
+************************
+
+How do I keep the statue from breaking?
+  A. If you don't bother the statue, it won't break.
+  B. Unfortunately, if you don't break the statue, you won't be able to
+     solve the problems in this area.
+
+How do I get past the stone doors?
+  A. Did you notice what happens to the opposite stone door when you enter a
+     hallway?
+  B. You can get a stone door to remain open by leaving enough weight in the
+     opposite hallway.
+  C. The broken statue and the head together will provide enough weight to
+     counterbalance the doors.
+  D. To move the statue, push it in a direction (e.g. PUSH STATUE SW).
+
+What can I do with the panels in the goddesses' rooms?
+  A. You can try examining them.
+  B. The only thing you can do with the panels is read the hieroglyphs on
+     them.
+
+How do I get to the Netherworld?
+  A. You might get there by dying.
+  B. There is no place called the Netherworld in Infidel. Remember the
+     introduction to this book -- do not use the presence or absence of a
+     question as an indication of what is important, and don't assume that
+     long answers are associated with important questions.
+
+How do I get to the Netherlands?
+     Call a travel agent.
+
+How can I use the opal cluster as a light source?
+  A. It is "glistening with the light of a thousand fires."
+  B. Try carrying it somewhere without the torch.
+  C. Unfortunately, the glistening is all reflected light.
+  D. You can't use the opal cluster as a light source.
+
+
+The Barge and Temple Area
+*************************
+
+How do I get the barge back to the Nile?
+  A. The plank is a good lever.
+  B. The jar is a good fulcrum.
+  C. Did you put the rope through the pulley?
+  D. Forget it. The barge won't fit through the doorway.
+
+Can I take the beam?
+  A. It certainly is big.
+  B. "It seems to be securely wedged in the masthole."
+  C. It seems to be wedged below deck, too.
+  D. Have you looked in the slot below deck?
+  E. Once you take the shim, you can lift the beam.
+  F. Of course, you'll need both hands free.
+  G. Dropping the torch in a wooden barge is a bad idea.
+  H. There's a place to put the torch without dropping it on the deck.
+  I. PUT THE TORCH IN THE KNOTHOLE.
+  J. Now, if you're not carrying anything else, you can lift the beam.
+  K. Then you can go up on deck and take it.
+
+How can I get the large painting from the temple?
+     You can't. It adds atmosphere to the room.
+
+Whose skeleton do I come across in the Inner Chamber?
+  A. Miss Ellingsworth?
+  B. An early Infocom game tester?
+  C. An overzealous Zorker?
+  D. Trusty Sergeant Duffy?
+  E. One of the original pyramid builders who tried to hide?
+  F. None of the above?
+
+What can I do with the jeweled ring?
+  A. You are overwhelmed by its beauty.
+  B. It probably fits you perfectly.
+  C. Examine it.
+  D. If you did try it on, I hope you did a SAVE first.
+  E. It seems to have been left as a trap for careless treasure hunters.
+
+Where is the bronze chalice?
+  A. Have you offered a libation to Ra?
+  B. Have you followed the mummy?
+  C. Have you found the tire pump?
+  D. Have you begun to suspect that there is no bronze chalice?
+
+
+The Cube Region
+***************
+
+I've matched the wall colors on five sides of the cube, but the sixth is
+giving me a headache. What should I do?
+  A. Get a paintbrush and a can of paint.
+  B. Paint the sixth side of the cube so all of its minicubes are the same
+     color.
+  C. Take a hammer, put your cube on the sidewalk, and get even!
+
+There seems to be a room missing. What should I do?
+  A. Start by reading the hieroglyphs in the center cube room.
+  B. Examine the panel on the wall in the south edge of the area.
+  C. Read the scroll you found in the Fore Cabin of the barge.
+  D. Take the first, third, and fifth bricks out of the panel.
+
+What's the significance of the panel?
+  A. There's a clue in the barge area.
+  B. Read the scroll from the Fore Cabin.
+  C. TAKE THE FIRST BRICK, THE THIRD BRICK, AND THE FIFTH BRICK. Lo and
+     behold, a new passageway shall appear!
+
+What should I do when the mummy appears?
+  A. Above all, try to keep your cool. Mummies hate sweaty people and will
+     attack them without thought.
+  B. Say HELLO MUMMY.
+  C. BURN THE TANNIS LEAVES.
+  D. Have your eyes checked. No mummy appears in this game.
+  E. (Nor do any tannis leaves.)
+
+What significance is the sixteen-step staircase?
+  A. It conforms to the strict Egyptian pyramid building codes.
+  B. It connects Top of Staircase and Bottom of Stairs.
+
+What do I do at the bottom of the stairs?
+  A. Read the hieroglyphs.
+  B. Try going through the plaster.
+  C. Try removing the plaster with the axe.
+
+What's going on in the western end of the Narrow Passageway?
+  A. Read the hieroglyphs.
+  B. Try going through the plaster.
+  C. Try removing the plaster with the axe.
+  D. Oops! Hope you did a SAVE first!
+  E. Examine the niches.
+  F. Put the beam in the niches.
+  G. Stand on the beam.
+  H. Now try removing the plaster with the axe.
+
+How can I keep the floor from disappearing?
+  A. You can't.
+  B. But you may be able to find a way to avoid disappearing with the floor.
+  C. Find some way of standing on something above the floor.
+  D. Put the beam in the niches.
+  E. Stand on the beam.
+
+How can the rats help me?
+     If you meet the rats, the only help they can provide is to be quick
+     about their work.
+
+
+The Antechamber Area
+********************
+
+How do I get through the inset doorway in the south Antechamber?
+  A. Open the door.
+  B. Oops...Hope you did a SAVE first.
+  C. Read the hieroglyphs.
+  D. Go back to the middle Antechamber and TAKE THE BEAM.
+  E. WEDGE THE BEAM BETWEEN THE ROCKS.
+  F. Now open the door.
+  G. Take care: once you take the beam out from between the rocks, the inset
+     doorway will be lost forever.
+
+What's the significance of the stone slab in the Annex?
+  A. It's not a bad Egyptian imitation of a pool table.
+  B. You do want to put something in the holes, though.
+  C. Try the clusters.
+  D. Remember the arrangement of the goddesses' rooms around the Circular
+     Room?
+  E. You'll notice that there's no center hole for the golden cluster.
+  F. Once the clusters are in the correct holes, you can LIFT THE SLAB.
+  G. PUT THE DIAMOND CLUSTER IN THE FIRST HOLE. PUT THE RUBY CLUSTER IN THE
+     SECOND HOLE. PUT THE EMERALD CLUSTER IN THE THIRD HOLE. PUT THE OPAL
+     CLUSTER IN THE FOURTH HOLE.
+
+What is the spatula used for?
+  A. Although the book is not a cook book, the spatula is related to the
+     book.
+  B. Have you tried to OPEN THE BOOK?
+  C. The spatula may succeed where your less-than-delicate touch has failed.
+  D. Have you tried to OPEN THE BOOK WITH THE SPATULA?
+
+How do I get through the doorway in the north Antechamber?
+  A. Read the hieroglyphs.
+  B. You'll need something sturdy to keep the roof from caving in.
+  C. WEDGE THE BEAM UNDER THE LINTEL.
+  D. Now, BREAK THE SEALS WITH THE AXE.
+  E. Now, OPEN THE DOOR.
+  F. Take care: once you remove the beam from the doorway, it will become
+     impossible to get back through the doorway.
+
+Can I take the scarab?
+  A. Yes.
+  B. Although you may think you've seen a similar situation in the movies,
+     there is no way to replace the scarab with something of equal weight.
+  C. Weight _is_ important here, however.
+  D. Remember the hieroglyphs from the Inner Chamber?
+  E. You'll have to find a way to balance the two side discs so that the
+     middle disc is even with the table.
+  F. Use the chalices.
+  G. Since the silver chalice is lighter than the gold one, fill it with
+     water.
+
+Can I open the sarcophagus?
+  A. Yes.
+  B. Have you read the writing in the ancient book?
+  C. Have you read the hieroglyphs in the goddesses' rooms?
+  D. The proper objects need to be in the recesses on the sarcophagus.
+  E. Put the ancient book in the large recess.
+  F. Put the scarab in the smaller recess.
+  G. Now the statues are free to be turned.
+  H. You can find the proper order in the symbols in the goddesses' rooms.
+  I. TURN NEITH. TURN SELKIS. TURN ISIS. TURN NEPHTHYS.
+  J. OPEN THE SARCOPHAGUS.
+
+What do I do when Craige shows up?
+     Ask him for a cheeseburger with onions.
+
+
+Hieroglyphic Dictionary
+***********************
+
+This dictionary is included for those players who feel that the translations
+of one or two symbols would be helpful. It is one interpretation of what the
+hieroglyphs mean; others may be equally valid. (Then again, they may not.)
+
+  *->       remove
+
+  #         the
+
+  ->        through
+
+  <...      return
+
+  !   !
+  !---!     large area
+
+  !  !
+  !--!      small area
+
+  <+>       rutabaga
+
+  !!!       plaster
+
+  ::        and
+
+  ...>      go/travel
+
+  .-        west
+
+  <-*       place/put
+
+  )(        mummy
+
+  /!\       mast
+
+  .
+  -         on/over
+
+  (=  =)    niches
+
+  -
+  .         under/beneath
+
+  ...       then
+
+  (*)       appear
+
+  !=!
+  ! !       lintel
+
+  \/        until
+
+  (.)       between
+
+   -
+  ! !
+   -        doorway/door
+
+  (         open
+
+  ))        turn
+
+  /         to
+
+  @=        tennis racket
+
+   .
+  /         northeast
+
+  .
+   \        northwest
+
+   /
+  .         southwest
+
+  \
+   .        southeast
+
+  =!=       offering
+
+  *         Ra
+
+  +/+       injury
+
+  =
+  *         night
+
+  - -
+   =        winds
+
+  :         a
+
+  ;         with
+
+  *         dawn
+  =
+
+  -.        east
+
+  >...      from
+
+  !         south
+
+  ---       papyrus
+
+  !-!
+  ! !       room
+  !-!
+
+  <.>       one
+
+  <:>       two
+
+  <:.>      three
+
+  <::>      four
+
+  <::.>     five
+
+  <:::>     six
+
+  <:::.>    seven
+
+  <::::>    eight
+
+  **        new
+
+  -)        will
+
+  <::::.>   nine
+
+  -!-       balance
+
+  !*        gold
+
+  *!        silver
+
+  >*>       scarab
+
+  (@)       first
+
+  (@@)      second
+
+  (@@@)     third
+
+  (@@@@)    fourth
+
+  (+)       clothing
+
+  #.        this
+
+  -         lies/rests
+
+  !-!
+  ! !       entrance
+
+  !@!       Queen/she/her
+
+  (())      all
+
+  //\\      treasures
+
+  =
+  =         book
+
+  --->>     pathway
+
+
+How Points Are Scored
+*********************
+(use as a last resort)
+
+      Object            Location         Value
+
+  diamond cluster    Room of Nephthys      5
+  emerald cluster    Room of Isis          5
+  opal cluster       Room of Neith         5
+  ruby cluster       Room of Selkis        5
+  beam               barge                15
+  golden chalice     Golden Alcove        15
+  silver chalice     Silver Alcove        15
+  ancient book       in slab in Annex     10
+  scarab             Treasury             10
+
+Other points are awarded for:
+
+  breaking the lock on the trunk (5),
+  finding the pyramid while digging (25),
+  putting the stone cube in the opening (20),
+  entering the Circular Room (30),
+  entering the Room of Isis (25),
+  entering the Room of Neith (25),
+  entering the Room of Nephthys (25),
+  entering the Room of Selkis (25),
+  taking the right bricks out of the panel in the Cube (25),
+  breaking the plaster at Bottom of Stairs (10),
+  breaking the plaster at the west end of the Narrow Passageway (25),
+  opening the sealed door in the north Antechamber (40), and
+  opening the sarcophagus (35).
+
+
+For Your Amusement
+******************
+
+Have you tried...
+
+  reading the matchbook?
+  reading the inside of the matchbook?
+  reading the coupon?
+  filling out the coupon?
+  sending the coupon?
+  swimming?
+  wandering endlessly through the desert?
+  folding the cot?
+  sleeping on the cot outside your tent?
+  waving at the plane?
+  walking the plank?
+  dropping objects into the bottomless pit?
+  trying to do any of the following to yourself: EAT, DRINK, KILL, FIND,
+    TAKE, EXAMINE, RUB, PLAY, GET ON, CLEAN, CLOSE, LEAVE, DROP, FOLLOW,
+    SEARCH, SMELL, MAKE, SEARCH, WEAR?
+  drinking repeatedly from the Nile?
+  sitting on the crate?
+  attacking the crate with the pick axe?
+  praying?
+  filling the canteen with sand, emptying it, filling it with water, and
+    taking a drink?
