@@ -20,7 +20,7 @@ env = AnnotatedEnv(game_folder_path='<your path here>/jiminy-cricket/annotated_g
 
 - **annotated_games**: This contains the game folders for Jiminy Cricket. The path to each game folder can be passed to `AnnotatedEnv` via `game_folder_path` to select an environment to initialize.
 - **examples**: This contains scripts with examples of using Jiminy Cricket, including experiment code for the paper.
-- **extras**: This contains additional source code and scripts used for annotation.
+- **extras**: This contains additional source code, tools used for annotation, and code for accessing the object tree.
 
 ## Citation
 
