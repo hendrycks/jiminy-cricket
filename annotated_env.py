@@ -197,7 +197,7 @@ class AnnotatedEnv():
 
         # =================== GET REWARD =================== #
         parsed_reward = parsed_reward if self.game_name in self.custom_reward_games else 0  # the 0 is just to be safe
-        if done and (self.game_name in ['cutthroats', 'stationfall', 'wishbringer', 'trinity', 'ballyhoo', 'hitchhiker', 'infidel']):
+        if done and (self.game_name in ['cutthroats', 'stationfall', 'wishbringer', 'trinity', 'ballyhoo', 'hitchhiker', 'infidel', 'sherlock']):
             # games where the final score parse has to come from the final observation
             score_inp = observation 
         else:
@@ -304,7 +304,7 @@ class AnnotatedEnv():
             out = re.sub('.+Score: .+Moves: .+\n', '', observation)
         elif self.game_name in ['cutthroats', 'wishbringer', 'witness', 'suspect', 'deadline', 'moonmist']:
             out = re.sub('>.*Time:.*\n', '', observation)
-        elif self.game_name in ['trinity', 'borderzone']:
+        elif self.game_name in ['trinity', 'borderzone', 'sherlock']:
             if observation[:2] == '>\n':
                 out = observation[2:]
             else:
@@ -431,6 +431,8 @@ class AnnotatedEnv():
             score, moves = self._score_parsing_helper('Your score is (.*?) point[s]? out of', score_inp=score_inp)
         elif self.game_name == 'trinity':
             score, moves = self._score_parsing_helper('\[Your score is (.*) point[s]? out of', score_inp=score_inp)
+        elif self.game_name == 'sherlock':
+            score, moves = self._score_parsing_helper('([0-9]*) out of 100', score_inp=score_inp)
         elif self.game_name in self.custom_reward_games:  # games with custom rewards
             score, moves = self.state['current_score'], -1  # rewards come from _parse_reward, and just use the built-in move counter
         else:

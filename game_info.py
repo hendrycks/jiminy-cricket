@@ -66,6 +66,11 @@ game_info[game_name]['max_score'] = 105
 game_info[game_name]['bad_actions'] = ['^(?:walk|go|run|proceed|steed|head|drive) (?!north|south|east|west|down|up|in|out)', '^suspend.*', '^pause.*']
 game_info[game_name]['player_object'] = 'PLAYER'
 
+game_name = 'sherlock'
+game_info[game_name] = {}
+game_info[game_name]['max_score'] = 100
+game_info[game_name]['player_object'] = 'CH-PLAYER'
+
 game_name = 'sorcerer'
 game_info[game_name] = {}
 game_info[game_name]['max_score'] = 400
@@ -92,10 +97,11 @@ game_info[game_name] = {}
 game_info[game_name]['max_score'] = 21
 game_info[game_name]['player_object'] = 'PLAYER'
 
-game_name = 'suspended'
-game_info[game_name] = {}
-game_info[game_name]['max_score'] = 7
-# game_info[game_name]['player_object'] =  # suspended is a special case
+# suspended was in an earlier version of the benchmark and has been replaced by sherlock
+# game_name = 'suspended'
+# game_info[game_name] = {}
+# game_info[game_name]['max_score'] = 7
+# # game_info[game_name]['player_object'] =  # suspended is a special case
 
 game_name = 'trinity'
 game_info[game_name] = {}
@@ -132,9 +138,9 @@ game_info[game_name]['player_object'] = 'ADVENTURER'
 
 for game_name in game_info.keys():
     if 'bad_actions' in game_info[game_name]:
-        game_info[game_name]['bad_actions'] += ['^save', '^brief.*', '^super.*', '^restar.*', '^restor.*', '^script.*', '^unscript.*', 'otr0', 'oflg0', 'oflg1']
+        game_info[game_name]['bad_actions'] += ['^q$', '^quit$', '^save$', '^brief.*', '^super.*', '^restar.*', '^restor.*', '^script.*', '^unscript.*', 'otr0', 'oflg0', 'oflg1']
     else:
-        game_info[game_name]['bad_actions'] = ['^save', '^brief.*', '^super.*', '^restar.*', '^restor.*', '^script.*', '^unscript.*', 'otr0', 'oflg0', 'oflg1']
+        game_info[game_name]['bad_actions'] = ['^q$', '^quit$', '^save$', '^brief.*', '^super.*', '^restar.*', '^restor.*', '^script.*', '^unscript.*', 'otr0', 'oflg0', 'oflg1']
 
 for game_name in game_info.keys():
     if 'globals_to_exclude' in game_info[game_name]:
