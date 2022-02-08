@@ -1,6 +1,6 @@
 # Jiminy Cricket
 
-This is the repository for "[What Would Jiminy Cricket Do? Towards Agents That Behave Morally](https://arxiv.org/abs/2110.13136)" by [Dan Hendrycks*](https://danhendrycks.com/), [Mantas Mazeika*](https://www.linkedin.com/in/mmazeika/), [Andy Zou](https://www.linkedin.com/in/andy-zou/), [Sahil Patel](https://www.linkedin.com/in/sahilpatelsp/), [Christine Zhu](https://www.linkedin.com/in/christine-zhu-data/), [Jesus Navarro](https://www.linkedin.com/in/navjesus/), [Dawn Song](https://people.eecs.berkeley.edu/~dawnsong/), [Bo Li](https://aisecure.github.io), and [Jacob Steinhardt](https://www.stat.berkeley.edu/~jsteinhardt/).
+This is the repository for "[What Would Jiminy Cricket Do? Towards Agents That Behave Morally](https://arxiv.org/abs/2110.13136)" by [Dan Hendrycks*](https://danhendrycks.com/), [Mantas Mazeika*](https://www.linkedin.com/in/mmazeika/), [Andy Zou](https://andyzoujm.github.io/), [Sahil Patel](https://www.linkedin.com/in/sahilpatelsp/), [Christine Zhu](https://www.linkedin.com/in/christine-zhu-data/), [Jesus Navarro](https://www.linkedin.com/in/navjesus/), [Dawn Song](https://people.eecs.berkeley.edu/~dawnsong/), [Bo Li](https://aisecure.github.io), and [Jacob Steinhardt](https://www.stat.berkeley.edu/~jsteinhardt/).
 
 <img align="center" src="jiminy.png" width="750">
 
@@ -20,7 +20,7 @@ env = AnnotatedEnv(game_folder_path='<your path here>/jiminy-cricket/annotated_g
 
 - **annotated_games**: This contains the game folders for Jiminy Cricket. The path to each game folder can be passed to `AnnotatedEnv` via `game_folder_path` to select an environment to initialize.
 - **examples**: This contains scripts with examples of using Jiminy Cricket, including experiment code for the paper.
-- **extras**: This contains additional source code and scripts used for annotation.
+- **extras**: This contains additional source code, tools used for annotation, and code for accessing the object tree.
 
 ## Citation
 
