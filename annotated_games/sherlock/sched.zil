@@ -403,7 +403,7 @@
 						    .DAY> -1>>
 			 <COND (<EQUAL? .PARM 1>
 				<TELL "[Press any key to continue.]" CR>
-				<INPUT 1>)
+				<RETURN>) ; "Used to be <INPUT 1>. Changed for Jiminy Cricket to patch a mysterious bug."
 			       (<EQUAL? .PARM 2>
 				<REPEAT ()
 				  <TELL CR

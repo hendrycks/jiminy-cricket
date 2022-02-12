@@ -540,8 +540,7 @@
 	EQUAL? PARM,1 \?L23
 	PRINTI "[Press any key to continue.]"
 	CRLF
-	INPUT 1 >STACK
-	JUMP ?L27
+	JUMP ?L6
 ?L23:	EQUAL? PARM,2 \?L27
 	CRLF
 	PRINTI "Do you want to continue waiting?"
@@ -575,6 +574,7 @@
 	SET 'RTN,R-PTR
 ?L39:	INC 'R-PTR
 	JUMP ?L5
+?L6:	ZERO? RUN-SMELL-ETHERIUM? /FALSE
 ?L50:	ICALL1 RT-SMELL-ETHERIUM?
 	RETURN R-CNT
 
